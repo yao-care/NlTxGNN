@@ -58,7 +58,7 @@ Zolmitriptan is een 5-HT1B/1D-agonist (triptan) die oorspronkelijk wordt gebruik
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar in de samengestelde data. Op basis van de gepubliceerde literatuur is zolmitriptan een selectieve serotonine 5-HT1B/1D-receptoragonist met zowel centrale als perifere werking. Het is werkzaam gebleken bij de acute behandeling van migraine met en zonder aura. Preklinisch remt het de trigeminovasculaire activatie, zowel centraal als perifeer.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Zolmitriptan (niet-officiële vertaling): ‘Zolmitriptan bindt met hoge affiniteit aan humane recombinante 5-HT 1D- en 5-HT 1B-receptoren, en met matige affiniteit aan 5-HT 1A-receptoren. De N-desmethylmetaboliet heeft eveneens een hoge affiniteit voor 5-HT 1B/1D- en een matige affiniteit voor 5-HT 1A-receptoren.’ Oorspronkelijke Engelse tekst: "Zolmitriptan binds with high affinity to human recombinant 5-HT 1D and 5-HT 1B receptors, and moderate affinity for 5-HT 1A receptors. The N-desmethyl metabolite also has high affinity for 5-HT 1B/1D and moderate affinity for 5-HT 1A receptors." ([DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4), versie van 2026-01-29; geraadpleegd op 2026-11-19). Op basis van de gepubliceerde literatuur is zolmitriptan een selectieve serotonine 5-HT1B/1D-receptoragonist met zowel centrale als perifere werking. Het is werkzaam gebleken bij de acute behandeling van migraine met en zonder aura. Preklinisch remt het de trigeminovasculaire activatie, zowel centraal als perifeer.
 
 Migraine met hersenstamaura is een subtype van migraine met aura. De onderliggende pathofysiologie (trigeminovasculaire activatie, vrijkomen van CGRP en corticale spreidingsdepressie) wordt gedeeld met de oorspronkelijke indicatie. Daarom is een mechanistisch verband plausibel.
 
@@ -144,12 +144,13 @@ Voor volledige veiligheidsinformatie en waarschuwingen: raadpleeg de SmPC (Samen
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
 
 <!-- review:end log -->
 

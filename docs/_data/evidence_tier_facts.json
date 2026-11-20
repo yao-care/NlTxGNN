@@ -9,7 +9,7 @@
   "with_current": 22,
   "none_current": 1,
   "without_data": 0,
-  "with_reviews": 16,
+  "with_reviews": 23,
   "rows": [
    {
     "t": "Bendamustine",
@@ -18,7 +18,7 @@
     "i": "mantle cell lymphoma",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald”",
     "x": 0
    },
@@ -29,8 +29,8 @@
     "i": "aandachtstekortstoornis met hyperactiviteit",
     "lt": 27,
     "lv": 26,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -40,7 +40,7 @@
     "i": "chronic hepatitis B virus infection",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 110605: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -51,8 +51,8 @@
     "i": "trombotische aandoening",
     "lt": 52,
     "lv": 52,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -62,8 +62,8 @@
     "i": "HIV-infectie",
     "lt": 213,
     "lv": 212,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -73,8 +73,8 @@
     "i": "Obsessieve-compulsieve stoornis",
     "lt": 40,
     "lv": 39,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -84,7 +84,7 @@
     "i": "Restless legs syndroom",
     "lt": 9,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De status is \"In de handel\": de gegevens van het CBG-MEB vermelden één geldige vergunning”",
     "x": 0
    },
@@ -95,8 +95,8 @@
     "i": "Manische bipolaire stoornis",
     "lt": 47,
     "lv": 46,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -106,8 +106,8 @@
     "i": "Slapeloosheid",
     "lt": 28,
     "lv": 28,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -117,8 +117,8 @@
     "i": "Ewing-sarcoom",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -128,7 +128,7 @@
     "i": "Liposarcoom",
     "lt": 60,
     "lv": 59,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame…",
     "x": 0
    },
@@ -139,7 +139,7 @@
     "i": "plasma cell myeloma",
     "lt": 5,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “aangezien de enige vergunning in de gegevens is doorgehaald”",
     "x": 0
    },
@@ -150,7 +150,7 @@
     "i": "alopecia areata",
     "lt": 65,
     "lv": 63,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -161,7 +161,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 44,
     "lv": 43,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Bevestiging van de actuele registratiestatus in Nederland, aangezien de enige gevonden…",
     "x": 0
    },
@@ -172,7 +172,7 @@
     "i": "Acne",
     "lt": 47,
     "lv": 46,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 119957//16681: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -183,7 +183,7 @@
     "i": "bronchitis",
     "lt": 34,
     "lv": 33,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 119166//23164: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -205,7 +205,7 @@
     "i": "Maligne pleuraal mesothelioom",
     "lt": 6,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 110045: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -216,7 +216,7 @@
     "i": "seborrheic dermatitis",
     "lt": 2,
     "lv": 1,
-    "r": 3,
+    "r": 4,
     "rs": "“Deze vergunning is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
     "x": 0
    },
@@ -227,7 +227,7 @@
     "i": "alopecia areata",
     "lt": 21,
     "lv": 21,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “1 van de 1 vergunningen is geldig”",
     "x": 0
    },
@@ -260,7 +260,7 @@
     "i": "Migraine",
     "lt": 17,
     "lv": 16,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 117382//12983: “geldig” → “niet geregistreerd”",
     "x": 0
    }
@@ -289,7 +289,7 @@
   "with_current": 39,
   "none_current": 1,
   "without_data": 0,
-  "with_reviews": 31,
+  "with_reviews": 36,
   "rows": [
    {
     "t": "Acitretin",
@@ -298,7 +298,7 @@
     "i": "acne (disease)",
     "lt": 8,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 119746//13103: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -309,7 +309,7 @@
     "i": "Slapeloosheid",
     "lt": 24,
     "lv": 23,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Volgens de gegevens van het CBG-MEB is er 1 geldige vergunning voor een product met alprazolam…",
     "x": 0
    },
@@ -342,8 +342,8 @@
     "i": "Kleincellig longcarcinoom",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -364,8 +364,8 @@
     "i": "schizotypal personality disorder",
     "lt": 10,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -375,7 +375,7 @@
     "i": "Slapeloosheid",
     "lt": 37,
     "lv": 36,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 112883: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -386,7 +386,7 @@
     "i": "pulmonary hypertension",
     "lt": 18,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 119350//15864: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -397,7 +397,7 @@
     "i": "Slapeloosheid",
     "lt": 10,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “e enige Nederlandse vergunning (RVG 55969) is doorgehaald en d”",
     "x": 0
    },
@@ -408,7 +408,7 @@
     "i": "Trichotillomanie",
     "lt": 7,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 119412//06150: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -419,8 +419,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 45,
     "lv": 45,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -430,7 +430,7 @@
     "i": "Obsessief-compulsieve stoornis",
     "lt": 11,
     "lv": 10,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 113007//09145: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -485,8 +485,8 @@
     "i": "hypertrichose",
     "lt": 14,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -496,7 +496,7 @@
     "i": "HIV infectious disease",
     "lt": 15,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “aangezien er 1 geldige vergunning (van 1) voor dit product is”",
     "x": 0
    },
@@ -507,7 +507,7 @@
     "i": "Acne",
     "lt": 9,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 119912//10470: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -518,7 +518,7 @@
     "i": "Simian immunodeficiëntievirus-infectie",
     "lt": 31,
     "lv": 31,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De enige Nederlandse registratie is doorgehaald”",
     "x": 0
    },
@@ -529,7 +529,7 @@
     "i": "Simian immunodeficiency virus-infectie",
     "lt": 4,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "“RVG 115086 (ingetrokken)” → “RVG 115086 (niet geregistreerd)”",
     "x": 0
    },
@@ -540,7 +540,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 67,
     "lv": 64,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 111604: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -562,7 +562,7 @@
     "i": "Tourette syndrome",
     "lt": 29,
     "lv": 29,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de…",
     "x": 0
    },
@@ -584,7 +584,7 @@
     "i": "Hypotrichosis simplex van de hoofdhuid",
     "lt": 14,
     "lv": 13,
-    "r": 3,
+    "r": 4,
     "rs": "“RVG 119952//08426 (doorgehaald)” → “RVG 119952//08426 (niet geregistreerd)”",
     "x": 0
    },
@@ -595,7 +595,7 @@
     "i": "restless legs syndrome",
     "lt": 25,
     "lv": 24,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 118970//24751: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -606,7 +606,7 @@
     "i": "Aandoening van de neusholte",
     "lt": 10,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 120414//25847: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -617,7 +617,7 @@
     "i": "Migraineaandoening",
     "lt": 5,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning…",
     "x": 0
    },
@@ -628,7 +628,7 @@
     "i": "Aandoening van de neusholte",
     "lt": 15,
     "lv": 15,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “en beide Nederlandse registraties zijn doorgehaald”",
     "x": 0
    },
@@ -639,7 +639,7 @@
     "i": "bronchitis",
     "lt": 8,
     "lv": 6,
-    "r": 4,
+    "r": 5,
     "rs": "Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -650,8 +650,8 @@
     "i": "HIV infectious disease",
     "lt": 34,
     "lv": 34,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -661,7 +661,7 @@
     "i": "Fibrocystische borstziekte",
     "lt": 18,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 119743//114730: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -672,7 +672,7 @@
     "i": "peptic ulcer perforation",
     "lt": 1,
     "lv": 0,
-    "r": 4,
+    "r": 5,
     "rs": "“Besluit over de relevantie van de ingetrokken vergunning,” → “Besluit over de relevantie van de niet meer…",
     "x": 0
    },
@@ -755,7 +755,7 @@
   "with_current": 252,
   "none_current": 7,
   "without_data": 0,
-  "with_reviews": 148,
+  "with_reviews": 234,
   "rows": [
    {
     "t": "Valsartan",
@@ -764,8 +764,8 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 234,
     "lv": 234,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -775,8 +775,8 @@
     "i": "Cholesterylester-transfereiwitdeficiëntie",
     "lt": 237,
     "lv": 232,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -786,8 +786,8 @@
     "i": "Hersenstaminfarct",
     "lt": 217,
     "lv": 217,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -797,7 +797,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 177,
     "lv": 177,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De enige Nederlandse registratie is vervallen, en g”",
     "x": 0
    },
@@ -863,7 +863,7 @@
     "i": "tendinitis",
     "lt": 110,
     "lv": 110,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status \"doorgehaald\"”",
     "x": 0
    },
@@ -874,8 +874,8 @@
     "i": "Retinale dystrofie met of zonder extraoculaire afwijkingen",
     "lt": 112,
     "lv": 110,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -907,8 +907,8 @@
     "i": "Hyperamylasemie",
     "lt": 98,
     "lv": 97,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -929,7 +929,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 91,
     "lv": 90,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 118514: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -940,7 +940,7 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 90,
     "lv": 84,
-    "r": 3,
+    "r": 4,
     "rs": "Verwijderd: “Daarbij zijn in Nederland 10 van de 10 registraties geldig, en ontbreken de gegevens uit de…",
     "x": 0
    },
@@ -962,7 +962,7 @@
     "i": "congenital hypotrichosis with juvenile macular dystrophy",
     "lt": 78,
     "lv": 77,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de…",
     "x": 0
    },
@@ -973,7 +973,7 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 75,
     "lv": 75,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 118335: “(ingetrokken)” verwijderd (geldig ingeschreven)",
     "x": 0
    },
@@ -995,7 +995,7 @@
     "i": "Prinzmetal-angina",
     "lt": 73,
     "lv": 72,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 117646: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1006,8 +1006,8 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 73,
     "lv": 71,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1017,7 +1017,7 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 71,
     "lv": 70,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 113084: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1028,8 +1028,8 @@
     "i": "Duodenale obstructie",
     "lt": 69,
     "lv": 69,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1050,7 +1050,7 @@
     "i": "Benigne paroxismale torticollis van de kindertijd",
     "lt": 69,
     "lv": 68,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 112855: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1061,8 +1061,8 @@
     "i": "Eczeem",
     "lt": 68,
     "lv": 67,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1072,8 +1072,8 @@
     "i": "Hypotrichosis simplex van de hoofdhuid",
     "lt": 69,
     "lv": 66,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1083,8 +1083,8 @@
     "i": "Acute intermitterende porfyrie",
     "lt": 62,
     "lv": 62,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1094,8 +1094,8 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 63,
     "lv": 58,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1127,7 +1127,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 58,
     "lv": 56,
-    "r": 3,
+    "r": 4,
     "rs": "Verwijderd: “, gezien de ingetrokken vergunningsstatus”",
     "x": 0
    },
@@ -1149,8 +1149,8 @@
     "i": "Familiale horizontale blikparese met progressieve scoliose",
     "lt": 56,
     "lv": 55,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1193,8 +1193,8 @@
     "i": "Obstructieve longziekte",
     "lt": 52,
     "lv": 51,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1204,7 +1204,7 @@
     "i": "duodenal obstruction",
     "lt": 50,
     "lv": 49,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 120126//18300: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1215,7 +1215,7 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 48,
     "lv": 48,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het…",
     "x": 0
    },
@@ -1226,7 +1226,7 @@
     "i": "Brachydactylie-syndactylie-syndroom",
     "lt": 48,
     "lv": 48,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit…",
     "x": 0
    },
@@ -1237,7 +1237,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 50,
     "lv": 47,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Alle vijf vergunningen zijn geldig en h”",
     "x": 0
    },
@@ -1248,8 +1248,8 @@
     "i": "Migraine",
     "lt": 47,
     "lv": 46,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1270,8 +1270,8 @@
     "i": "Punctate epitheliale keratoconjunctivitis",
     "lt": 46,
     "lv": 44,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1281,7 +1281,7 @@
     "i": "Specifieke ontwikkelingsstoornis",
     "lt": 43,
     "lv": 42,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 116879//100389: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1292,8 +1292,8 @@
     "i": "malformation syndrome with odontal and/or periodontal component",
     "lt": 42,
     "lv": 41,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1303,7 +1303,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 42,
     "lv": 41,
-    "r": 2,
+    "r": 3,
     "rs": "“RVG 117316 (ingetrokken)” → “RVG 117316 (niet geregistreerd)”",
     "x": 0
    },
@@ -1314,8 +1314,8 @@
     "i": "Congenitale protrombinedeficiëntie",
     "lt": 41,
     "lv": 40,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1336,7 +1336,7 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 40,
     "lv": 39,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Topamax is in Nederland wel op de markt met 1 geldige vergunning van 1”",
     "x": 0
    },
@@ -1347,8 +1347,8 @@
     "i": "PLA2G6-geassocieerde neurodegeneratie",
     "lt": 38,
     "lv": 38,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1358,7 +1358,7 @@
     "i": "Trigeminuszenuwneoplasma",
     "lt": 38,
     "lv": 38,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Lorazepam is in Nederland wel op de markt, met 1 geldige vergunning van 1”",
     "x": 0
    },
@@ -1369,7 +1369,7 @@
     "i": "glaucoma",
     "lt": 38,
     "lv": 38,
-    "r": 3,
+    "r": 4,
     "rs": "Verwijderd: “Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning…",
     "x": 0
    },
@@ -1380,8 +1380,8 @@
     "i": "Folliculaire mucinose",
     "lt": 40,
     "lv": 37,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1391,8 +1391,8 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 34,
     "lv": 34,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1402,7 +1402,7 @@
     "i": "visceral calciphylaxis",
     "lt": 34,
     "lv": 34,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “aangezien de enige vermelde vergunning is doorgehaald”",
     "x": 0
    },
@@ -1413,7 +1413,7 @@
     "i": "Papillaire conjunctivitis",
     "lt": 34,
     "lv": 33,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Alle drie de vergunningen zijn geldig”",
     "x": 0
    },
@@ -1435,8 +1435,8 @@
     "i": "Beroerte",
     "lt": 33,
     "lv": 32,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1490,7 +1490,7 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 30,
     "lv": 30,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over…",
     "x": 0
    },
@@ -1501,7 +1501,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 28,
     "lv": 28,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de…",
     "x": 0
    },
@@ -1512,7 +1512,7 @@
     "i": "Vulvaire inverted follicular keratosis",
     "lt": 27,
     "lv": 27,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een…",
     "x": 0
    },
@@ -1523,8 +1523,8 @@
     "i": "Neusholteaandoening",
     "lt": 26,
     "lv": 26,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1534,8 +1534,8 @@
     "i": "Migraine met hersenstamaura",
     "lt": 26,
     "lv": 26,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1545,7 +1545,7 @@
     "i": "focal stiff limb syndrome",
     "lt": 26,
     "lv": 26,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De Nederlandse registratie is bovendien ingetrokken”",
     "x": 0
    },
@@ -1556,7 +1556,7 @@
     "i": "Migraine",
     "lt": 26,
     "lv": 26,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De enige Nederlandse registratie is doorgehaald”",
     "x": 0
    },
@@ -1567,8 +1567,8 @@
     "i": "acne",
     "lt": 25,
     "lv": 24,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1578,8 +1578,8 @@
     "i": "Hepatische porfyrie",
     "lt": 24,
     "lv": 23,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1589,8 +1589,8 @@
     "i": "pericoronitis",
     "lt": 24,
     "lv": 23,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1600,8 +1600,8 @@
     "i": "pulmonale hypertensie door longziekte en/of hypoxie",
     "lt": 24,
     "lv": 23,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1622,7 +1622,7 @@
     "i": "amenorrhea (disease)",
     "lt": 22,
     "lv": 22,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “In Nederland is het middel op de markt, met 1 geldige vergunning van 1; d”",
     "x": 0
    },
@@ -1633,7 +1633,7 @@
     "i": "rectum mucinous adenocarcinoma",
     "lt": 22,
     "lv": 22,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “omdat het enige gevonden product is doorgehaald”",
     "x": 0
    },
@@ -1655,7 +1655,7 @@
     "i": "Hypertrichose",
     "lt": 23,
     "lv": 22,
-    "r": 2,
+    "r": 3,
     "rs": "“Deze vergunning is ingetrokken.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
     "x": 0
    },
@@ -1666,8 +1666,8 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 21,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1688,8 +1688,8 @@
     "i": "Puntvormige epitheliale keratoconjunctivitis",
     "lt": 21,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1699,7 +1699,7 @@
     "i": "visceral calciphylaxis",
     "lt": 21,
     "lv": 21,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks…",
     "x": 0
    },
@@ -1710,8 +1710,8 @@
     "i": "Hyperamylasemie",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1721,8 +1721,8 @@
     "i": "acromesomele dysplasie type Hunter-Thompson",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1732,8 +1732,8 @@
     "i": "amenorrhea (disease)",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1743,7 +1743,7 @@
     "i": "craniofaciale conodysplasie",
     "lt": 20,
     "lv": 19,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Er is één geldige vergunning voor een monopreparaat (CBG-MEB); d”",
     "x": 0
    },
@@ -1754,8 +1754,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1765,8 +1765,8 @@
     "i": "Polyklonaal hyperviscositeitssyndroom",
     "lt": 20,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1776,8 +1776,8 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 20,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1787,7 +1787,7 @@
     "i": "Tepelcarcinoom",
     "lt": 20,
     "lv": 19,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 114435: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1809,7 +1809,7 @@
     "i": "ADHD",
     "lt": 18,
     "lv": 18,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Er is 1 geldige vergunning (van 1 vergunning in totaal); h”",
     "x": 0
    },
@@ -1820,8 +1820,8 @@
     "i": "gastric adenocarcinoma and proximal polyposis of the stomach",
     "lt": 19,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1831,8 +1831,8 @@
     "i": "Hypotrichosis simplex van de hoofdhuid",
     "lt": 23,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1853,7 +1853,7 @@
     "i": "Diffuse sclerodermie",
     "lt": 19,
     "lv": 18,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 116655: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1864,7 +1864,7 @@
     "i": "Plasmodium falciparum malaria",
     "lt": 17,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1”",
     "x": 0
    },
@@ -1875,8 +1875,8 @@
     "i": "Wervelafwijkingen met variabele endocriene en T-celdysfunctie",
     "lt": 18,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1897,7 +1897,7 @@
     "i": "Rustelozebenensyndroom",
     "lt": 17,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Het middel is in Nederland wel op de markt, met 1 geldige vergunning”",
     "x": 0
    },
@@ -1908,8 +1908,8 @@
     "i": "Simian immunodeficiency virus-infectie",
     "lt": 17,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1919,8 +1919,8 @@
     "i": "autosomaal recessief",
     "lt": 17,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1930,7 +1930,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 17,
     "lv": 16,
-    "r": 3,
+    "r": 4,
     "rs": "Verwijderd: “Toedieningsroute en beschikbaarheid in Nederland nagaan, gezien de ingetrokken vergunning”",
     "x": 0
    },
@@ -1941,7 +1941,7 @@
     "i": "Pneumocystose",
     "lt": 17,
     "lv": 16,
-    "r": 2,
+    "r": 3,
     "rs": "“RVG 119834//14416 (doorgehaald)” → “RVG 119834//14416 (niet geregistreerd)”",
     "x": 0
    },
@@ -1952,7 +1952,7 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 17,
     "lv": 16,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 55973: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1963,8 +1963,8 @@
     "i": "Primair erfelijk glaucoom",
     "lt": 18,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -1974,7 +1974,7 @@
     "i": "psychogenic movement disorders",
     "lt": 16,
     "lv": 15,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 109150: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -1996,7 +1996,7 @@
     "i": "Brachydactylie-syndactylie-syndroom",
     "lt": 15,
     "lv": 15,
-    "r": 3,
+    "r": 4,
     "rs": "Verwijderd: “Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en h”",
     "x": 0
    },
@@ -2007,7 +2007,7 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 16,
     "lv": 15,
-    "r": 4,
+    "r": 5,
     "rs": "Tabelregel RVG 115765: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2018,8 +2018,8 @@
     "i": "agorafobie",
     "lt": 15,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2029,7 +2029,7 @@
     "i": "Ambras-type hypertrichosis universalis congenita",
     "lt": 15,
     "lv": 14,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 119270//27397: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2040,7 +2040,7 @@
     "i": "Amenorroe",
     "lt": 15,
     "lv": 14,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 113032: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2051,7 +2051,7 @@
     "i": "type Tateyama",
     "lt": 15,
     "lv": 14,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 57202: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2073,7 +2073,7 @@
     "i": "Acute pulmonale hartziekte",
     "lt": 14,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 115707//12412: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2084,7 +2084,7 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 14,
     "lv": 13,
-    "r": 4,
+    "r": 5,
     "rs": "Tabelregel RVG 120289//21898: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2095,7 +2095,7 @@
     "i": "Simian immunodeficiëntievirus-infectie",
     "lt": 14,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “De lijst kan niet worden aangevuld met andere vergunningen.”",
     "x": 0
    },
@@ -2106,7 +2106,7 @@
     "i": "Reumatoïde artritis",
     "lt": 14,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
     "x": 0
    },
@@ -2117,7 +2117,7 @@
     "i": "Acne",
     "lt": 13,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald”",
     "x": 0
    },
@@ -2128,7 +2128,7 @@
     "i": "Migraine",
     "lt": 14,
     "lv": 13,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 113094: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2139,8 +2139,8 @@
     "i": "neuroblastoom",
     "lt": 13,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2161,7 +2161,7 @@
     "i": "amenorrhea (disease)",
     "lt": 13,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 106801: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2172,7 +2172,7 @@
     "i": "manic bipolar affective disorder",
     "lt": 12,
     "lv": 12,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “(1 geldige vergunning van 1)”",
     "x": 0
    },
@@ -2183,8 +2183,8 @@
     "i": "Congenitale glycosylatiestoornis met defecte fucosylering",
     "lt": 13,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2194,8 +2194,8 @@
     "i": "Punctate epitheliale keratoconjunctivitis",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2205,7 +2205,7 @@
     "i": "atopic eczema",
     "lt": 12,
     "lv": 11,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 119131//31633: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2227,7 +2227,7 @@
     "i": "Folliculaire mucinose",
     "lt": 12,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Het CBG-MEB registreert één geldige vergunning voor dit enkelvoudige product”",
     "x": 0
    },
@@ -2238,8 +2238,8 @@
     "i": "parameningeal embryonal rhabdomyosarcoma",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2249,7 +2249,7 @@
     "i": "Benigne paroxismale torticollis van de kindertijd",
     "lt": 12,
     "lv": 11,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “De enige Nederlandse registratie is bovendien doorgehaald”",
     "x": 0
    },
@@ -2260,8 +2260,8 @@
     "i": "amenorrhea (disease)",
     "lt": 11,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2271,7 +2271,7 @@
     "i": "Febrile infection-related epilepsy syndroom",
     "lt": 11,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De lokale gegevens bevatten één registratie, die als ingetrokken staat vermeld”",
     "x": 0
    },
@@ -2282,7 +2282,7 @@
     "i": "type Hunter-Thompson",
     "lt": 11,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Het CBG-MEB registreert voor dit middel één geldige vergunning”",
     "x": 0
    },
@@ -2293,7 +2293,7 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 10,
     "lv": 10,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald”",
     "x": 0
    },
@@ -2304,7 +2304,7 @@
     "i": "Opsismodysplasie",
     "lt": 11,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 108791: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2315,7 +2315,7 @@
     "i": "papillary conjunctivitis",
     "lt": 11,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 115964//11015: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2348,8 +2348,8 @@
     "i": "Atrofoderma vermiculata",
     "lt": 10,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2359,8 +2359,8 @@
     "i": "Goed gedifferentieerd foetaal adenocarcinoom van de long",
     "lt": 10,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2370,8 +2370,8 @@
     "i": "Hiv-infectie",
     "lt": 10,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2381,7 +2381,7 @@
     "i": "hemoglobinopathy",
     "lt": 9,
     "lv": 9,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is”",
     "x": 0
    },
@@ -2392,7 +2392,7 @@
     "i": "sick sinus syndrome 2, autosomal dominant",
     "lt": 9,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De enige Nederlandse registratie is doorgehaald”",
     "x": 0
    },
@@ -2403,7 +2403,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 9,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 110187//23923: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2414,8 +2414,8 @@
     "i": "Coronaire hartziekte",
     "lt": 9,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2425,7 +2425,7 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 8,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Een beoordeling van de regelgevende en commerciële haalbaarheid, gezien de doorgehaalde…",
     "x": 0
    },
@@ -2436,7 +2436,7 @@
     "i": "insomnia (disease)",
     "lt": 9,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 117156: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2458,7 +2458,7 @@
     "i": "Variabel proteasegevoelige prionopathie",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Het CBG-MEB registreert voor midodrine in totaal 1 vergunning, die geldig is”",
     "x": 0
    },
@@ -2469,7 +2469,7 @@
     "i": "Solide pseudopapillair pancreascarcinoom",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “De vergunninghouder (CBG-MEB) registreert één geldige vergunning voor dit enkelvoudige product”",
     "x": 0
    },
@@ -2480,8 +2480,8 @@
     "i": "Bilaterale parasagittale pariëto-occipitale polymicrogyrie",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2491,8 +2491,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2513,8 +2513,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 11,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2524,7 +2524,7 @@
     "i": "Tourette-syndroom",
     "lt": 9,
     "lv": 8,
-    "r": 2,
+    "r": 3,
     "rs": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
     "x": 0
    },
@@ -2535,8 +2535,8 @@
     "i": "Aortamisvorming",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2546,8 +2546,8 @@
     "i": "Heparinecofactor-2-deficiëntie",
     "lt": 8,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2557,8 +2557,8 @@
     "i": "Catecholaminerge polymorfe ventrikeltachycardie",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2568,8 +2568,8 @@
     "i": "Primair erfelijk glaucoom",
     "lt": 8,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2590,8 +2590,8 @@
     "i": "Nefrogeen syndroom van inadequate antidiurese",
     "lt": 9,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2612,8 +2612,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 8,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2623,7 +2623,7 @@
     "i": "Hypotrichosis simplex van de hoofdhuid",
     "lt": 8,
     "lv": 7,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald”",
     "x": 0
    },
@@ -2634,8 +2634,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2645,7 +2645,7 @@
     "i": "acute urate nephropathy",
     "lt": 7,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning)”",
     "x": 0
    },
@@ -2656,8 +2656,8 @@
     "i": "Slapeloosheid",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2678,7 +2678,7 @@
     "i": "Mammacarcinoom",
     "lt": 8,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "“Deze vergunning is doorgehaald. Bij een eventuele vervolgsta” → “Dit registratienummer komt niet voor in de…",
     "x": 0
    },
@@ -2689,8 +2689,8 @@
     "i": "Verouderde vitamine D-deficiëntie",
     "lt": 7,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2700,7 +2700,7 @@
     "i": "infectious otitis media",
     "lt": 7,
     "lv": 6,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 57366: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2722,7 +2722,7 @@
     "i": "Trigeminuszenuwneoplasma",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 119849//16889: “(doorgehaald)” verwijderd (geldig ingeschreven)",
     "x": 0
    },
@@ -2733,8 +2733,8 @@
     "i": "Ontstekingsziekte van de baarmoeder",
     "lt": 7,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2744,7 +2744,7 @@
     "i": "Prikkelbare darmsyndroom",
     "lt": 7,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 120327//02011: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2755,7 +2755,7 @@
     "i": "Pneumocystose",
     "lt": 6,
     "lv": 6,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “aangezien de enige vergunning is doorgehaald”",
     "x": 0
    },
@@ -2777,8 +2777,8 @@
     "i": "Cholesterylester-transfereiwitdeficiëntie",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2810,8 +2810,8 @@
     "i": "Rasmussen-encefalitis",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2821,8 +2821,8 @@
     "i": "Progeria-kleine gestalte-gepigmenteerde naevi-syndroom",
     "lt": 6,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2832,8 +2832,8 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 6,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2843,8 +2843,8 @@
     "i": "Psychogene bewegingsstoornissen",
     "lt": 6,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2854,7 +2854,7 @@
     "i": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
     "lt": 6,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 118637//06292: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2876,7 +2876,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning”",
     "x": 0
    },
@@ -2887,7 +2887,7 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 6,
     "lv": 5,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 57631: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2898,7 +2898,7 @@
     "i": "Renale hypodysplasie/aplasie",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Bovendien is het enige Nederlandse product doorgehaald”",
     "x": 0
    },
@@ -2909,7 +2909,7 @@
     "i": "atrophoderma vermiculata",
     "lt": 6,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 106987: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -2920,8 +2920,8 @@
     "i": "Verouderde bundeltakblok",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2931,8 +2931,8 @@
     "i": "Coenurose",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2964,8 +2964,8 @@
     "i": "Faciodigitogenitaal syndroom",
     "lt": 5,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3008,7 +3008,7 @@
     "i": "post-infectious neuralgia",
     "lt": 5,
     "lv": 4,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 110214: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -3019,7 +3019,7 @@
     "i": "migraine disorder",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “e Nederlandse vergunning is doorgehaald en d”",
     "x": 0
    },
@@ -3030,7 +3030,7 @@
     "i": "duodenal obstruction",
     "lt": 5,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 114236: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -3052,7 +3052,7 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d”",
     "x": 0
    },
@@ -3063,7 +3063,7 @@
     "i": "Aandoening van de orbitale regio",
     "lt": 5,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd”",
     "x": 0
    },
@@ -3074,7 +3074,7 @@
     "i": "chronic rhinosinusitis",
     "lt": 6,
     "lv": 4,
-    "r": 5,
+    "r": 6,
     "rs": "“Beide registraties zijn doorgehaald.” → “Beide registratienummers komen niet voor in de actuele Genee”",
     "x": 0
    },
@@ -3085,7 +3085,7 @@
     "i": "oral candidiasis",
     "lt": 5,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 117454//110659: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -3096,7 +3096,7 @@
     "i": "Brachydactylie-syndactylie-syndroom",
     "lt": 5,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Een afweging van de marktstatus, omdat de enige Nederlandse registratie is ingetrokken”",
     "x": 0
    },
@@ -3107,7 +3107,7 @@
     "i": "Retinale dystrofie met of zonder extraoculaire afwijkingen",
     "lt": 5,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "“RVG 120540//06279 (ingetrokken)” → “RVG 120540//06279 (niet geregistreerd)”",
     "x": 0
    },
@@ -3118,7 +3118,7 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 4,
     "lv": 4,
-    "r": 2,
+    "r": 3,
     "rs": "Verwijderd: “(1 van de 1 vergunningen is geldig)”",
     "x": 0
    },
@@ -3151,8 +3151,8 @@
     "i": "Caudaequinaneoplasma",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3173,8 +3173,8 @@
     "i": "biotinemetabole ziekte",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3195,7 +3195,7 @@
     "i": "alopecia",
     "lt": 4,
     "lv": 3,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 107115: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -3206,8 +3206,8 @@
     "i": "Primair pulmonaal lymfoom",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3217,8 +3217,8 @@
     "i": "Punctate epitheliale keratoconjunctivitis",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3239,7 +3239,7 @@
     "i": "conjunctivitis",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Bovendien is de enige Nederlandse registratie ingetrokken”",
     "x": 0
    },
@@ -3261,7 +3261,7 @@
     "i": "Hypervitaminose",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning”",
     "x": 0
    },
@@ -3283,7 +3283,7 @@
     "i": "autoimmune disease of peripheral nervous system",
     "lt": 4,
     "lv": 3,
-    "r": 3,
+    "r": 4,
     "rs": "Tabelregel RVG 116602//03821: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -3360,8 +3360,8 @@
     "i": "Auto-immuunziekte van het perifere zenuwstelsel",
     "lt": 3,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3393,8 +3393,8 @@
     "i": "Respiratoire malformatie",
     "lt": 3,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3415,8 +3415,8 @@
     "i": "Benigne prostaathyperplasie",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3426,8 +3426,8 @@
     "i": "ALK-positive large B-cell lymphoma",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3448,8 +3448,8 @@
     "i": "Cholesterylester-transfereiwitdeficiëntie",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3459,8 +3459,8 @@
     "i": "attention deficit hyperactivity disorder, inattentive type",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3470,8 +3470,8 @@
     "i": "Postinfectieuze vasculitis",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3481,7 +3481,7 @@
     "i": "esotropia",
     "lt": 2,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Tabelregel RVG 114351//15180: “geldig” → “niet geregistreerd”",
     "x": 0
    },
@@ -3492,7 +3492,7 @@
     "i": "exercise-induced malignant hyperthermia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële…",
     "x": 0
    },
@@ -3525,7 +3525,7 @@
     "i": "insomnia (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald”",
     "x": 0
    },
@@ -3536,8 +3536,8 @@
     "i": "Focaal stiff-limb-syndroom",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3558,8 +3558,8 @@
     "i": "Slapeloosheid",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3580,8 +3580,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3591,7 +3591,7 @@
     "i": "alopecia",
     "lt": 1,
     "lv": 0,
-    "r": 4,
+    "r": 5,
     "rs": "“aangezien de vergunning is doorgehaald.” → “aangezien de registratie niet voorkomt in de actuele Geneesm”",
     "x": 0
    },
@@ -3602,7 +3602,7 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 1,
     "lv": 0,
-    "r": 1,
+    "r": 2,
     "rs": "Tabelregel RVG 57449: “geldig” → “niet geregistreerd”",
     "x": 0
    }

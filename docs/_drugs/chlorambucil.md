@@ -54,7 +54,7 @@ Chlorambucil is een alkylerend cytostaticum (stikstofmosterdderivaat) dat wordt 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar. Chlorambucil is echter een alkylerend middel dat DNA-schade veroorzaakt en daardoor delende lymfoïde cellen remt. Dit principe is breed bekend bij B-cel-neoplasmata.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Chlorambucil (niet-officiële vertaling): ‘Chloorambucil, een aromatisch stikstofmosterdderivaat, is een alkylerend middel. Chloorambucil verstoort de DNA-replicatie en induceert cellulaire apoptose via de accumulatie van cytosolair p53 en de daaropvolgende activering van Bax, een apoptosebevorderaar.’ Oorspronkelijke Engelse tekst: "Chlorambucil, an aromatic nitrogen mustard derivative, is an alkylating agent. Chlorambucil interferes with DNA replication and induces cellular apoptosis via the accumulation of cytosolic p53 and subsequent activation of Bax, an apoptosis promoter." ([DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213), versie van 2025-01-08; geraadpleegd op 2026-11-19). Chlorambucil is echter een alkylerend middel dat DNA-schade veroorzaakt en daardoor delende lymfoïde cellen remt. Dit principe is breed bekend bij B-cel-neoplasmata.
 
 De voorspelde aandoening is een moleculair subtype van chronische lymfatische leukemie (CLL) met onder meer niet-gemuteerde immunoglobuline-genen. Het ligt binnen dezelfde ziektefamilie als B-cel-aandoeningen waarvoor chlorambucil al wordt gebruikt. Het mechanistische verband is daarom aannemelijk via de overkoepelende ziekte. Er zijn echter geen subtypespecifieke gegevens. Het model lijkt vooral de nauwe ontologische verwantschap met CLL te weerspiegelen en niet onafhankelijk bewijs. Dit is dus eerder een subtype van een bestaand gebruik dan een echte herpositionering.
 
@@ -112,6 +112,19 @@ Voor overige veiligheidsinformatie (waarschuwingen en contra-indicaties) wordt v
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties (momenteel niet in de gegevens opgenomen)
 - Duidelijkheid over de huidige registratiestatus van Leukeran bij het CBG-MEB
 - Vergelijking met huidige standaardbehandelingen voor CLL/SLL
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

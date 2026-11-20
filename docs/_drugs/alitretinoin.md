@@ -54,7 +54,7 @@ Alitretinoïne (9-cis-retinoïnezuur) is een retinoïde dat via retinoïdezuurre
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde data. Bekend is dat alitretinoïne de receptoren RAR-α, -β, -γ en RXR-α, -β, -γ activeert. Deze receptoren spelen een rol bij de differentiatie van weefsels, ook in de voortplantingsorganen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Alitretinoin (niet-officiële vertaling): ‘Alitretinoïne (9-cis-retinoïnezuur) is een natuurlijk voorkomend endogeen retinoïde dat bindt aan en activeert alle bekende intracellulaire subtypen van retinoïdereceptoren (RARα, RARβ, RARγ, RXRα, RXRβ en RXRγ). Eenmaal geactiveerd functioneren deze receptoren als transcriptiefactoren die de expressie reguleren van genen die het proces van cellulaire differentiatie en proliferatie in zowel normale als neoplastische cellen controleren.’ Oorspronkelijke Engelse tekst: "Alitretinoin (9-cis-retinoic acid) is a naturally occurring endogenous retinoid that binds to and activates all known intracellular retinoid receptor subtypes (RARα, RARβ, RARγ, RXRα, RXRβ and RXRγ). Once activated these receptors function as transcription factors that regulate the expression of genes that control the process of cellular differentiation and proliferation in both normal and neoplastic cells." ([DailyMed: Panretin (alitretinoin) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49c16717-7d86-4257-80c9-baa1417e5555), versie van 2025-11-25; geraadpleegd op 2026-11-19). Bekend is dat alitretinoïne de receptoren RAR-α, -β, -γ en RXR-α, -β, -γ activeert. Deze receptoren spelen een rol bij de differentiatie van weefsels, ook in de voortplantingsorganen.
 
 Een onderbouwd mechanistisch verband met amenorroe ontbreekt echter. De voorspelling is slechts een modeluitkomst. Retinoïden zijn bovendien teratogeen en kunnen de menstruatie en de hormonale regulatie verstoren. Een therapeutische rol bij amenorroe is daarom op dit moment weinig aannemelijk zonder aanvullend bewijs.
 
@@ -91,6 +91,19 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 - Preklinisch of klinisch onderzoek dat alitretinoïne direct bij amenorroe bestudeert
 - Een volledige beoordeling van de waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB
 - Een risico-batenanalyse voor de voorgestelde patiëntengroep, gezien de teratogeniciteit
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Panretin (alitretinoin) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49c16717-7d86-4257-80c9-baa1417e5555) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -58,7 +58,7 @@ Terbutaline is een bèta-2-agonist die luchtwegverwijding bewerkt. Het TxGNN-mod
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Terbutaline is een bèta-2-adrenerge agonist; via bèta-2-receptoren ontspant het de gladde spiercellen van de luchtwegen en kan het functionele luchtwegobstructie of hyperreactiviteit verminderen.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Terbutaline (niet-officiële vertaling): ‘In-vitro- en in-vivo-farmacologische studies hebben aangetoond dat terbutaline een voorkeurseffect uitoefent op bèta 2-adrenerge receptoren. Hoewel erkend wordt dat bèta2-adrenerge receptoren de overheersende receptoren zijn in het gladde spierweefsel van de bronchiën, wijzen gegevens erop dat er een populatie bèta2-receptoren in het menselijk hart aanwezig is, in een concentratie tussen 10% en 50%.’ Oorspronkelijke Engelse tekst: "In vitro and in vivo pharmacologic studies have demonstrated that terbutaline exerts a preferential effect on beta 2 -adrenergic receptors. While it is recognized that beta2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart, existing in a concentration between 10% to 50%." ([DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726), versie van 2025-12-10; geraadpleegd op 2026-11-19). Terbutaline is een bèta-2-adrenerge agonist; via bèta-2-receptoren ontspant het de gladde spiercellen van de luchtwegen en kan het functionele luchtwegobstructie of hyperreactiviteit verminderen.
 
 Bij structurele afwijkingen van de luchtwegen kan zo'n functionele component de klachten verergeren. Bronchodilatatie zou die component mogelijk verlichten, maar corrigeert de malformatie zelf niet.
 
@@ -126,6 +126,18 @@ Corticosteroïden (hydrocortison, triamcinolon, dexamethason, beclometasondiprop
 - Een ziektespecifieke mechanistische hypothese, met preklinische onderbouwing
 - Gegevens over het werkingsmechanisme en de officiële veiligheidsinformatie uit de SmPC van het CBG-MEB
 - Klinische gegevens bij patiënten met structurele luchtwegafwijkingen, met aandacht voor de veiligheid bij kinderen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -58,7 +58,7 @@ Atorvastatine is een statine dat het cholesterolgehalte verlaagt. Het TxGNN-mode
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Atorvastatine remt HMG-CoA-reductase en verlaagt zo de lipidenspiegels. Daarnaast hebben statines pleiotrope ontstekingsremmende en immuunmodulerende effecten, zoals verminderde activatie van monocyten en macrofagen en lagere ontstekingsmarkers.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Atorvastatin (niet-officiële vertaling): ‘LIPITOR is een selectieve, competitieve remmer van HMG-CoA-reductase, het snelheidsbeperkende enzym dat 3-hydroxy-3-methylglutaryl-co-enzym A omzet in mevalonaat, een precursor van sterolen, waaronder cholesterol. In diermodellen verlaagt LIPITOR de plasmaspiegels van cholesterol en lipoproteïnen door remming van HMG-CoA-reductase en van de cholesterolsynthese in de lever en door verhoging van het aantal hepatische LDL-receptoren op het celoppervlak, waardoor de opname en het katabolisme van LDL worden versterkt; LIPITOR vermindert tevens de LDL-productie en het aantal LDL-deeltjes.’ Oorspronkelijke Engelse tekst: "LIPITOR is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol. In animal models, LIPITOR lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; LIPITOR also reduces LDL production and the number of LDL particles." ([DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65), versie van 2024-04-15; geraadpleegd op 2026-11-19). Atorvastatine remt HMG-CoA-reductase en verlaagt zo de lipidenspiegels. Daarnaast hebben statines pleiotrope ontstekingsremmende en immuunmodulerende effecten, zoals verminderde activatie van monocyten en macrofagen en lagere ontstekingsmarkers.
 
 Bij mensen met HIV spelen twee zaken een rol. Ten eerste veroorzaken proteaseremmers vaak verhoogde LDL-cholesterol- en triglyceridewaarden, waarvoor een statine nuttig kan zijn. Ten tweede is er chronische ontsteking en immuunactivatie, die samenhangen met cardiovasculair risico en HIV-geassocieerde neurocognitieve stoornissen (HAND).
 
@@ -123,6 +123,19 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Gegevens over het werkingsmechanisme en de waarschuwingen en contra-indicaties uit de SmPC (CBG-MEB).
 - Een interactie- en doseringsplan voor gelijktijdig gebruik met proteaseremmers en andere antiretrovirale middelen.
 - Een duidelijke vaststelling van het klinische doel (lipidenbeheer, cardiovasculair risico of immuunmodulatie) en de bijbehorende eindpunten.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

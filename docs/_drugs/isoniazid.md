@@ -58,7 +58,7 @@ Isoniazide is een antibioticum dat oorspronkelijk wordt gebruikt voor de behande
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Isoniazide is een antimycobacterieel middel dat algemeen wordt begrepen als remmer van de mycolzuursynthese in mycobacteriën. De werkzaamheid bij pulmonale tuberculose is bewezen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Isoniazid (niet-officiële vertaling): ‘Isoniazide remt de synthese van mycolzuren, een essentieel bestanddeel van de bacteriële celwand. Bij therapeutische concentraties is isoniazide bactericide tegen actief groeiende intracellulaire en extracellulaire Mycobacterium tuberculosis-organismen.’ Oorspronkelijke Engelse tekst: "Isoniazid inhibits the synthesis of mycoloic acids, an essential component of the bacterial cell wall. At therapeutic levels isoniazid is bactericidal against actively growing intracellular and extracellular Mycobacterium tuberculosis organisms." ([DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b), versie van 2026-09-04; geraadpleegd op 2026-11-19). Isoniazide is een antimycobacterieel middel dat algemeen wordt begrepen als remmer van de mycolzuursynthese in mycobacteriën. De werkzaamheid bij pulmonale tuberculose is bewezen.
 
 De link met conjunctivitis is indirect. Isoniazide kan alleen relevant zijn voor oog- of bindvliesaandoeningen met een tuberculeuze oorsprong, zoals primaire conjunctivale tuberculose of flyctenulaire keratoconjunctivitis (een overgevoeligheidsreactie op mycobacteriële antigenen). In die gevallen werkt het middel op de onderliggende mycobacteriële infectie of op profylaxe daarvan, niet op conjunctivitis in het algemeen.
 
@@ -134,11 +134,12 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse registratie ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b) |
 
 <!-- review:end log -->
 

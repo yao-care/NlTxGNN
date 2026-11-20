@@ -54,7 +54,7 @@ Dutasteride werd oorspronkelijk ontwikkeld voor de behandeling van benigne prost
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Voor de data die voor dit rapport zijn samengesteld, is geen gedetailleerde informatie over het werkingsmechanisme beschikbaar. Op basis van algemene kennis is dutasteride een remmer van het enzym 5-alfareductase, dat testosteron omzet in dihydrotestosteron (DHT). Dit is hier niet vanuit de data bevestigd en moet worden geverifieerd aan de hand van de SmPC of DrugBank.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Dutasteride (niet-officiële vertaling): ‘Dutasteride remt de omzetting van testosteron in DHT. DHT is het androgeen dat voornamelijk verantwoordelijk is voor de initiële ontwikkeling en de daaropvolgende vergroting van de prostaatklier. Testosteron wordt in DHT omgezet door het enzym 5-alfa-reductase, dat in 2 isovormen voorkomt: type 1 en type 2.’ Oorspronkelijke Engelse tekst: "Dutasteride inhibits the conversion of testosterone to DHT. DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland. Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2." ([DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3), versie van 2026-08-27; geraadpleegd op 2026-11-19). Op basis van algemene kennis is dutasteride een remmer van het enzym 5-alfareductase, dat testosteron omzet in dihydrotestosteron (DHT). Dit is hier niet vanuit de data bevestigd en moet worden geverifieerd aan de hand van de SmPC of DrugBank.
 
 De voorspelde indicaties betreffen overwegend aandoeningen van haargroei en haarschacht (hypertrichosis, hypotrichosis, afwijkingen van de haarschacht, alopecia). Een link met androgeengevoelige haarfollikels is biologisch denkbaar, aangezien DHT een rol speelt bij de regulatie van haarfollikels. Voor de voorspelde zeldzame, genetisch bepaalde aandoening Ambras-type hypertrichosis is deze mechanistische relatie echter niet onderbouwd, en er zijn geen gegevens die haar ondersteunen. De mechanistische analyse blijft daarom in afwachting.
 
@@ -124,13 +124,14 @@ De voorspelling berust uitsluitend op het model (evidentieniveau L5), zonder kli
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “er is momenteel 1 geldige vergunning (van 1) in de samengestelde data” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning ingetrokken en ontbreken zowel mechanistische gegevens als officiële veiligheidsinformatie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Toedieningsroute en beschikbaarheid in Nederland nagaan, gezien de ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **felien verworven immun
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Bekend is dat ritonavir een hiv-proteaseremmer is (die ook CYP3A4 remt), waarvan de werkzaamheid bij hiv/aids is aangetoond.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ritonavir (niet-officiële vertaling): ‘Ritonavir is een antiretroviraal geneesmiddel. […] Ritonavir is een peptidomimetische remmer van het HIV-1-protease. Remming van het HIV-protease maakt het enzym niet meer in staat de Gag-Pol-polyproteïneprecursor te verwerken, wat leidt tot de productie van niet-infectieuze, onrijpe HIV-deeltjes.’ Oorspronkelijke Engelse tekst: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), versie van 2026-07-23; geraadpleegd op 2026-11-19). Bekend is dat ritonavir een hiv-proteaseremmer is (die ook CYP3A4 remt), waarvan de werkzaamheid bij hiv/aids is aangetoond.
 
 Het feline immunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan hiv. De protease ervan is structureel vergelijkbaar, dus een proteaseremmer als ritonavir is bij analogie denkbaar. De FIV-protease verschilt echter van de hiv-1-protease in substraatspecificiteit en gevoeligheid voor remmers, zodat werkzaamheid niet vanzelfsprekend is.
 
@@ -118,6 +118,19 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 ---
 
 *Aanvullende opmerking over de andere voorspellingen:* de voorspelling voor **SIV-infectie** (bewijsniveau L4, "onderzoeksvraag") is vooral relevant als translationeel diermodel voor hiv, een reeds bestaande indicatie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

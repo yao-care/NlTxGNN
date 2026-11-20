@@ -56,7 +56,7 @@ Hiervoor zijn **geen klinische studies** en **14 publicaties** beschikbaar, vrij
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Efavirenz is bekend als NNRTI die het reverse transcriptase van HIV-1 remt.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Efavirenz (niet-officiële vertaling): ‘Efavirenz is een antiviraal geneesmiddel. […] Efavirenz is een NNRTI van HIV-1. De werking van efavirenz wordt voornamelijk gemedieerd door niet-competitieve remming van HIV-1-reverse-transcriptase. HIV-2-reverse-transcriptase en humane cellulaire DNA-polymerasen α, β, γ en δ worden niet geremd door efavirenz.’ Oorspronkelijke Engelse tekst: "Efavirenz is an antiviral drug. […] Efavirenz is an NNRTI of HIV-1. Efavirenz activity is mediated predominantly by noncompetitive inhibition of HIV-1 reverse transcriptase. HIV-2 reverse transcriptase and human cellular DNA polymerases α,β, γ, and δ are not inhibited by efavirenz." ([DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358), versie van 2024-06-28; geraadpleegd op 2026-11-19). Efavirenz is bekend als NNRTI die het reverse transcriptase van HIV-1 remt.
 
 Het reverse transcriptase van het simian immunodeficiëntievirus (SIV) is van nature resistent tegen NNRTI's, dus werkzaamheid van efavirenz tegen wild-type SIV is niet te verwachten. De beschikbare studies gebruiken RT-SHIV, een chimeer virus met HIV-1-reverse-transcriptase, in resusapen. Daarin onderdrukken efavirenz-bevattende regimes de virale load. Dat ondersteunt activiteit tegen HIV-1-RT, maar niet tegen SIV zelf.
 
@@ -119,12 +119,13 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige veilighe
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-15 | “De voor dit rapport samengestelde data bevatten één vergunni” → “Volgens de actuele registratiegegevens van het CBG zijn er v” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | Verwijderd: “De lijst kan niet worden aangevuld met andere vergunningen.” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358) |
 
 <!-- review:end log -->
 

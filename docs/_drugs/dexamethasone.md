@@ -58,7 +58,7 @@ Dexamethason is een synthetisch glucocorticoïd met een ontstekingsremmende en i
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van dexamethason zijn in de voor dit rapport samengestelde gegevens niet beschikbaar. Dexamethason behoort tot de glucocorticoïden, die ontstekingsprocessen en immuunreacties onderdrukken.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Dexamethasone (niet-officiële vertaling): ‘Dexamethason is een corticosteroïd met ontstekingsremmende effecten en een geringe mineralocorticoïde activiteit. Het precieze werkingsmechanisme bij multipel myeloom is onbekend. Dexamethason induceert apoptose van multipel-myeloomcellen.’ Oorspronkelijke Engelse tekst: "Dexamethasone is a corticosteroid with anti-inflammatory effects and low mineralocorticoid activity. The precise mechanism of action in multiple myeloma is unknown. Dexamethasone induces apoptosis of multiple myeloma cells." ([DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129), versie van 2026-01-09; geraadpleegd op 2026-11-19). Dexamethason behoort tot de glucocorticoïden, die ontstekingsprocessen en immuunreacties onderdrukken.
 
 Folliculaire mucinose gaat gepaard met ontstekingsinfiltraten rond de haarfollikels en met mucineafzetting. Een ontstekingsremmend corticosteroïd is daarom theoretisch aannemelijk. Er is echter geen direct bewijs voor dexamethason bij deze aandoening. De hoge modelscore weerspiegelt waarschijnlijk vooral de nabijheid van deze aandoening tot andere haarverliesaandoeningen in het model. Ze is geen bewijs van klinische werkzaamheid.
 
@@ -116,6 +116,18 @@ Drie van de vier producten zijn oogpreparaten. Zij zeggen niets over de systemis
 - Een beoordeling van de toedieningsroute (lokaal, intralesionaal of systemisch) en van de beschikbare Nederlandse producten.
 - Een volledige veiligheidsbeoordeling op basis van de SmPC van de relevante producten.
 - Indien de beoordeling gunstig is: een klein verkennend klinisch onderzoek, afgestemd met het CBG-MEB.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -54,7 +54,7 @@ Atenolol is een bèta-1-selectieve bètablokker die de bloeddruk en de reninevri
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn niet beschikbaar in de voor dit rapport verzamelde gegevens. Op basis van de bekende farmacologie blokkeert atenolol selectief bèta-1-adrenoceptoren, waardoor de bloeddruk daalt en de reninevrijgifte afneemt. Dat maakt een rol bij een door hoge bloeddruk veroorzaakte nieraandoening theoretisch aannemelijk.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Atenolol (niet-officiële vertaling): ‘TENORMIN is een bèta 1 -selectieve (cardioselectieve) bèta-adrenerge-receptorblokker zonder membraanstabiliserende of intrinsieke sympathicomimetische (partieel agonistische) activiteit. Dit preferentiële effect is echter niet absoluut, en bij hogere doses remt TENORMIN bèta 2 -adrenoreceptoren, die zich voornamelijk in de bronchiale en vasculaire musculatuur bevinden.’ Oorspronkelijke Engelse tekst: "TENORMIN is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a), versie van 2025-09-18; geraadpleegd op 2026-11-19). Op basis van de bekende farmacologie blokkeert atenolol selectief bèta-1-adrenoceptoren, waardoor de bloeddruk daalt en de reninevrijgifte afneemt. Dat maakt een rol bij een door hoge bloeddruk veroorzaakte nieraandoening theoretisch aannemelijk.
 
 De hoge score weerspiegelt waarschijnlijk vooral de nabijheid tot de bestaande bloeddrukgerelateerde toepassingen in het model. Er is geen aanwijzing voor een zelfstandig herpositioneringssignaal. Maligne hypertensie wordt bovendien meestal behandeld met getitreerde, parenteraal toegediende middelen, zodat een orale selectieve bètablokker daarvoor geen vanzelfsprekende keuze is.
 
@@ -92,6 +92,19 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn in de ver
 - Een vergelijking met de huidige standaardbehandeling van maligne hypertensie
 - Verwerking van de waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB
 - Gegevens over het werkingsmechanisme uit DrugBank
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

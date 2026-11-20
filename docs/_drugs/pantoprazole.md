@@ -58,7 +58,7 @@ Pantoprazol is een protonpompremmer die oorspronkelijk wordt gebruikt bij zuurge
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar als apart veld. Uit de literatuur is wel bekend dat pantoprazol de maagzuurpomp (H+/K+-ATPase) in de pariëtale cellen van de maag onomkeerbaar remt. Daardoor daalt de zuurproductie en kan een zweer genezen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pantoprazole (niet-officiële vertaling): ‘Pantoprazol is een PPI dat de laatste stap in de maagzuurproductie onderdrukt door covalent te binden aan het (H +, K + )-ATPase-enzymsysteem aan het secretoire oppervlak van de pariëtale cel van de maag. Dit effect leidt tot remming van zowel de basale als de gestimuleerde maagzuursecretie, ongeacht de prikkel.’ Oorspronkelijke Engelse tekst: "Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. This effect leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus." ([DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b), versie van 2026-11-06; geraadpleegd op 2026-11-19). Uit de literatuur is wel bekend dat pantoprazol de maagzuurpomp (H+/K+-ATPase) in de pariëtale cellen van de maag onomkeerbaar remt. Daardoor daalt de zuurproductie en kan een zweer genezen.
 
 De voorspelde indicatie, actieve peptische ulcusziekte, valt direct binnen de reeds bekende indicatie peptische ulcusziekte. Het gaat dus niet om een nieuwe toepassing maar om een bevestiging van bestaand gebruik.
 
@@ -149,13 +149,14 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn in de sam
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Beide registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 120126//18300: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
 
 <!-- review:end log -->
 

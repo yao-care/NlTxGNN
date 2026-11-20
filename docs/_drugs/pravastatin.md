@@ -60,10 +60,9 @@ Pravastatine is een statine (HMG-CoA-reductaseremmer) dat oorspronkelijk wordt g
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Op dit moment zijn er geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de data die voor dit rapport zijn samengesteld. Op basis van algemene kennis remt pravastatine HMG-CoA-reductase, het snelheidsbepalende enzym in de cholesterolsynthese in de lever. Dit verlaagt de intracellulaire cholesterolconcentratie en verhoogt de expressie van LDL-receptoren, waardoor LDL-cholesterol uit het bloed wordt opgenomen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pravastatin (niet-officiële vertaling): ‘Pravastatine is een reversibele remmer van HMG-CoA-reductase, het snelheidsbepalende enzym dat HMG-CoA omzet in mevalonaat, een voorloper van cholesterol.’ Oorspronkelijke Engelse tekst: "Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d), versie van 2026-10-23; geraadpleegd op 2026-11-19). Op basis van algemene kennis remt pravastatine HMG-CoA-reductase, het snelheidsbepalende enzym in de cholesterolsynthese in de lever. Dit verlaagt de intracellulaire cholesterolconcentratie en verhoogt de expressie van LDL-receptoren, waardoor LDL-cholesterol uit het bloed wordt opgenomen.
 
 Biologisch is dit relevant voor hypercholesterolemie. Bij **homozygote** familiaire hypercholesterolemie is de functie van de LDL-receptor echter ernstig verminderd of afwezig. Het werkingsmechanisme van statines berust juist grotendeels op die receptor, dus de effectiviteit is naar verwachting beperkt. Eén van de gevonden publicaties (Prescrire, 2004) vermeldt eveneens dat statines weinig effectief zijn bij de homozygote vorm.
-
 
 ---
 
@@ -97,7 +96,6 @@ De overige gevonden publicaties betreffen andere statines of zijn preklinisch of
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 110016 | Pravastatinenatrium Aurobindo 40 mg, tabletten (geldig) | Niet vermeld | Niet beschikbaar |
-
 
 ---
 
@@ -142,6 +140,19 @@ De officiële waarschuwingen en contra-indicaties uit de productinformatie zijn 
 Uit de data blijkt dat twee andere voorspellingen een sterkere onderbouwing hebben dan de hierboven beschreven hoofdvoorspelling:
 - **Hiv-gerelateerde dyslipidemie en cardiovasculair risico** (bewijsniveau L2): meerdere kleine fase 2/4-studies, een fase 3-studie en systematische reviews. Het bewijs ondersteunt gebruik bij dyslipidemie bij hiv, niet de behandeling van de hiv-infectie zelf.
 - **Heterozygote familiaire hypercholesterolemie** (bewijsniveau L3): pravastatinespecifieke pediatrische gegevens bestaan, maar dit is grotendeels een bestaand gebruik en geen nieuwe herpositionering.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

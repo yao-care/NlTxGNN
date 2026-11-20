@@ -58,7 +58,7 @@ Fluoxetine is een SSRI-antidepressivum. Het TxGNN-model voorspelt dat het ook we
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van bekende informatie is fluoxetine een selectieve serotonineheropnameremmer (SSRI). De werkzaamheid bij depressie en angststoornissen is breed beschreven, en mechanistisch zou het ook bij schizotypische persoonlijkheidsstoornis van toepassing kunnen zijn.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Fluoxetine (niet-officiële vertaling): ‘Hoewel het exacte mechanisme van PROZAC onbekend is, wordt aangenomen dat het verband houdt met de remming van de neuronale opname van serotonine in het CZS.’ Oorspronkelijke Engelse tekst: "Although the exact mechanism of PROZAC is unknown, it is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin." ([DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299), versie van 2026-01-08; geraadpleegd op 2026-11-19). Op basis van bekende informatie is fluoxetine een selectieve serotonineheropnameremmer (SSRI). De werkzaamheid bij depressie en angststoornissen is breed beschreven, en mechanistisch zou het ook bij schizotypische persoonlijkheidsstoornis van toepassing kunnen zijn.
 
 Serotonerge modulatie kan affectieve instabiliteit, obsessieve kenmerken en impulsiviteit verminderen. Die kenmerken komen voor bij schizotypische en borderline-persoonlijkheidsstoornissen. De enige directe aanwijzing is een kleine, niet-geblindeerde studie bij patiënten met een borderline- of schizotypische persoonlijkheidsstoornis. Daarin namen zelfbeschadiging en klachtenscores af. De auteurs pleitten zelf voor gecontroleerde studies.
 
@@ -141,6 +141,19 @@ Er zijn geen geregistreerde klinische studies, en het directe bewijs bestaat uit
 - Beoordeling van de SmPC-waarschuwingen en -contra-indicaties door het CBG-MEB, met speciale aandacht voor psychotische symptomen en de ernstige geneesmiddelinteracties.
 - Een veiligheidsplan voor deze populatie, mede gezien de casus van psychose.
 - Controle van de goedgekeurde indicatietekst van RVG 118221.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

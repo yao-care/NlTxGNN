@@ -58,7 +58,7 @@ Etoposide is een celdodend (cytotoxisch) middel dat al lang bij kanker wordt geb
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Etoposide is bekend als remmer van topoisomerase II: het veroorzaakt DNA-breuken in snel delende cellen. Dat maakt het in principe bruikbaar bij snel groeiende tumoren, ook van de long.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Etoposide (niet-officiële vertaling): ‘Etoposide veroorzaakt de inductie van DNA-strengbreuken door een interactie met DNA-topo-isomerase II of door de vorming van vrije radicalen, wat leidt tot stilstand van de celcyclus, voornamelijk in de G2-fase van de celcyclus, en tot celdood.’ Oorspronkelijke Engelse tekst: "Etoposide causes the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals, leading to cell cycle arrest, primarily at the G2 stage of the cell cycle, and cell death." ([DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059), versie van 2026-10-07; geraadpleegd op 2026-11-19). Etoposide is bekend als remmer van topoisomerase II: het veroorzaakt DNA-breuken in snel delende cellen. Dat maakt het in principe bruikbaar bij snel groeiende tumoren, ook van de long.
 
 Goed gedifferentieerd foetaal adenocarcinoom is een zeldzame longtumor en een onderdeel van het spectrum van pulmonair blastoom. Het mechanistische verband is plausibel maar indirect. De enige gevonden publicatie is een casusbeschrijving van klassiek bifasisch pulmonair blastoom, waarbij de patiënt nedaplatine met paclitaxel kreeg, dus niet etoposide. Die publicatie onderzoekt de voorspelde ziekte dus niet direct met dit middel.
 
@@ -121,6 +121,19 @@ Raadpleeg voor de volledige veiligheidsinformatie de SmPC (Samenvatting van de P
 - Gerichte literatuur- en registerstudies naar etoposide bij pulmonair blastoom en foetaal adenocarcinoom van de long
 - Gegevens over het werkingsmechanisme en de officiële SmPC-waarschuwingen en -contra-indicaties
 - Een beoordeling door een oncologisch expertisecentrum van de plaats van etoposide in een multimodaal behandelplan
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -60,7 +60,7 @@ Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden: de vo
 
 ## Waarom is deze voorspelling redelijk?
 
-Voor deze stof zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Duloxetine remt de heropname van serotonine en noradrenaline, en de werkzaamheid bij depressie en pijnklachten is vastgesteld. Een mogelijk verband met de voorspelde aandoening is daarom hooguit indirect.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Duloxetine (niet-officiële vertaling): ‘Hoewel de precieze mechanismen van de antidepressieve, centraal pijnremmende en anxiolytische werkingen van duloxetine bij de mens onbekend zijn, wordt aangenomen dat deze werkingen verband houden met de versterking van de serotonerge en noradrenerge activiteit in het CZS.’ Oorspronkelijke Engelse tekst: "Although the exact mechanisms of the antidepressant, central pain inhibitory and anxiolytic actions of duloxetine in humans are unknown, these actions are believed to be related to its potentiation of serotonergic and noradrenergic activity in the CNS." ([DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b), versie van 2026-08-20; geraadpleegd op 2026-11-19). Duloxetine remt de heropname van serotonine en noradrenaline, en de werkzaamheid bij depressie en pijnklachten is vastgesteld. Een mogelijk verband met de voorspelde aandoening is daarom hooguit indirect.
 
 Benigne paroxismale torticollis van de kindertijd wordt gerelateerd aan migrainevarianten. Serotonerge en noradrenerge modulatie speelt een rol bij migraine- en pijnroutes. Dit is echter speculatief en door geen enkele studie onderbouwd.
 
@@ -125,11 +125,12 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b) |
 
 <!-- review:end log -->
 

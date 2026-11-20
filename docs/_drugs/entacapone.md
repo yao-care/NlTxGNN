@@ -54,7 +54,7 @@ Entacapone is een COMT-remmer die wordt gebruikt als aanvullende behandeling bij
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Entacapone is in het algemeen een COMT-remmer die de werking van levodopa verlengt door de afbraak ervan te vertragen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Entacapone (niet-officiële vertaling): ‘Entacapon is een selectieve en reversibele remmer van COMT. Bij zoogdieren is COMT verspreid over verschillende organen, met de hoogste activiteit in de lever en de nieren. COMT komt ook voor in het hart, de longen, glad en skeletspierweefsel, het darmkanaal, de voortplantingsorganen, verschillende klieren, vetweefsel, de huid, bloedcellen en zenuwweefsel, met name in gliacellen.’ Oorspronkelijke Engelse tekst: "Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells." ([DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd), versie van 2026-02-16; geraadpleegd op 2026-11-19). Entacapone is in het algemeen een COMT-remmer die de werking van levodopa verlengt door de afbraak ervan te vertragen.
 
 PLA2G6-geassocieerde neurodegeneratie omvat onder meer infantiele neuro-axonale dystrofie en PLA2G6-gerelateerde dystonie-parkinsonisme. Het parkinsonistische beeld overlapt met het klinische gebied waarin entacapone wordt gebruikt, waardoor een symptomatisch effect denkbaar is.
 
@@ -101,6 +101,19 @@ Voor onder meer pantoprazol, doxycycline, metformine, omeprazol, lansoprazol, at
 - Gegevens over het werkingsmechanisme en een uitwerking van de mechanistische relatie met de ziekte
 - Veiligheidsinformatie uit de SmPC, inclusief beoordeling van contra-indicaties en interacties
 - Bij gebleken plausibiliteit: een klinische pilotstudie, gericht op symptomatische effecten bij het dystonie-parkinsonismefenotype
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

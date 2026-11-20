@@ -59,7 +59,7 @@ Alprazolam is een benzodiazepine met een kalmerend en angstremmend effect. Het T
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Op basis van algemene farmacologie werkt alprazolam als positieve allosterische modulator van GABA-A-receptoren, wat een kalmerend en slaapbevorderend effect geeft. Dat biedt een aannemelijke basis voor toepassing bij slapeloosheid, met name wanneer deze samengaat met angstklachten.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Alprazolam (niet-officiële vertaling): ‘Alprazolam is een 1,4-benzodiazepine. Alprazolam oefent zijn effect bij de behandeling van paniekstoornis uit door binding aan de benzodiazepinebindingsplaats van gamma-aminoboterzuur-A (GABA A )-receptoren in de hersenen en versterkt de GABA-gemedieerde synaptische remming.’ Oorspronkelijke Engelse tekst: "Alprazolam is a 1,4 benzodiazepine. Alprazolam exerts its effect for the treatment of panic disorder through binding to the benzodiazepine site of gamma‑aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3), versie van 2025-02-11; geraadpleegd op 2026-11-19). Op basis van algemene farmacologie werkt alprazolam als positieve allosterische modulator van GABA-A-receptoren, wat een kalmerend en slaapbevorderend effect geeft. Dat biedt een aannemelijke basis voor toepassing bij slapeloosheid, met name wanneer deze samengaat met angstklachten.
 
 Deze redenering is echter afgeleid uit algemene kennis en niet uit de aangeleverde gegevens. De hoge TxGNN-score is een computationele voorspelling en geen klinisch bewijs. Bekende risico's van benzodiazepinen, zoals afhankelijkheid, vallen en cognitieve stoornissen, wegen mee in de afweging.
 
@@ -128,11 +128,12 @@ Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de productinf
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Volgens de gegevens van het CBG-MEB is er 1 geldige vergunning voor een product met alprazolam als enige werkzame stof” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3) |
 
 <!-- review:end log -->
 

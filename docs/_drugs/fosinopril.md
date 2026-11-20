@@ -58,7 +58,7 @@ Fosinopril is een ACE-remmer die oorspronkelijk wordt gebruikt voor de behandeli
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van fosinopril ontbreken in de voor dit rapport verzamelde gegevens. Fosinopril is echter bekend als ACE-remmer (angiotensine-converterend enzym) en de werkzaamheid bij hypertensie is vastgesteld. Mechanistisch kan het werkzaam zijn bij maligne hypertensieve nierziekte, omdat deze aandoening in belangrijke mate wordt gedreven door activatie van het renine-angiotensine-aldosteronsysteem (RAAS).
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Fosinopril (niet-officiële vertaling): ‘Bij dieren en mensen wordt fosinoprilnatrium door esterasen gehydrolyseerd tot de farmacologisch actieve vorm, fosinoprilaat, een specifieke competitieve remmer van het angiotensineconverterend enzym (ACE). ACE is een peptidyldipeptidase dat de omzetting van angiotensine I in de vasoconstrictieve stof angiotensine II katalyseert.’ Oorspronkelijke Engelse tekst: "In animals and humans, fosinopril sodium is hydrolyzed by esterases to the pharmacologically active form, fosinoprilat, a specific competitive inhibitor of angiotensin-converting enzyme (ACE). ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35), versie van 2023-11-27; geraadpleegd op 2026-11-19). Fosinopril is echter bekend als ACE-remmer (angiotensine-converterend enzym) en de werkzaamheid bij hypertensie is vastgesteld. Mechanistisch kan het werkzaam zijn bij maligne hypertensieve nierziekte, omdat deze aandoening in belangrijke mate wordt gedreven door activatie van het renine-angiotensine-aldosteronsysteem (RAAS).
 
 Maligne hypertensieve nierziekte (hypertensieve nefrosclerose met versnelde hypertensie) ligt dicht bij de al erkende indicatie hypertensie. Het gaat daarom eerder om een uitbreiding van de bestaande indicatie dan om echte herpositionering. Ook de overige voorspellingen met een hoge score zijn RAAS-gerelateerd:
 
@@ -154,12 +154,13 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn geen gege
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “en beide Nederlandse vergunningen zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Een beoordeling van de regelgevende en commerciële haalbaarheid, gezien de doorgehaalde vergunningen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Carvedilol is een bloeddrukverlagend geneesmiddel met een gecombineerde bèta- e
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Carvedilol is bekend als niet-selectieve bètablokker met aanvullende alfa-1-blokkade, waardoor bloeddrukverlaging mechanistisch plausibel is. Bij hypertensieve nierziekte is bloeddrukcontrole een kernelement van de behandeling.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Carvedilol (niet-officiële vertaling): ‘COREG is een racemisch mengsel waarin niet-selectieve β-adrenoreceptorblokkerende activiteit aanwezig is in de S(-)-enantiomeer en α1-adrenerge blokkerende activiteit aanwezig is in zowel de R(+)- als de S(-)-enantiomeer met gelijke potentie. COREG heeft geen intrinsieke sympathicomimetische activiteit.’ Oorspronkelijke Engelse tekst: "COREG is a racemic mixture in which nonselective β-adrenoreceptor blocking activity is present in the S(-) enantiomer and α1-adrenergic blocking activity is present in both R(+) and S(-) enantiomers at equal potency. COREG has no intrinsic sympathomimetic activity." ([DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39), versie van 2026-07-31; geraadpleegd op 2026-11-19). Carvedilol is bekend als niet-selectieve bètablokker met aanvullende alfa-1-blokkade, waardoor bloeddrukverlaging mechanistisch plausibel is. Bij hypertensieve nierziekte is bloeddrukcontrole een kernelement van de behandeling.
 
 Een kanttekening is nodig: de hoge score (0,9955) is een modelvoorspelling en weerspiegelt waarschijnlijk vooral de nabijheid tot de bestaande bloeddrukgerelateerde toepassing. Het gaat daarmee eerder om een uitbreiding van het bestaande gebruik dan om echte herpositionering. Bij maligne hypertensie zijn doorgaans snel en nauwkeurig titreerbare intraveneuze middelen nodig; orale carvedilol is daarvoor geen standaardkeuze.
 
@@ -93,6 +93,19 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Gegevens over het werkingsmechanisme en de SmPC-waarschuwingen en contra-indicaties (CBG-MEB).
 - Een beoordeling van de klinische plaats van een oraal middel naast de bestaande intraveneuze standaardbehandeling.
 - Waar mogelijk een klinisch onderzoeksplan voordat verdere stappen worden overwogen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

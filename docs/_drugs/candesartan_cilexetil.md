@@ -54,7 +54,7 @@ Candesartan cilexetil is een angiotensine-II-receptorblokker (ARB). Het TxGNN-mo
 
 ## Waarom is deze voorspelling aannemelijk?
 
-In de voor dit rapport verzamelde gegevens ontbreken details over het werkingsmechanisme van het middel. Als ARB blokkeert candesartan de angiotensine-II-receptor en remt het zo de effecten van het renine-angiotensinesysteem op de bloedvaten en de nier.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Candesartan Cilexetil (niet-officiële vertaling): ‘Angiotensine II wordt gevormd uit angiotensine I in een reactie die wordt gekatalyseerd door angiotensineconverterend enzym (ACE, kininase II). Angiotensine II is de voornaamste pressorstof van het renine-angiotensinesysteem, met effecten zoals vasoconstrictie, stimulatie van de synthese en afgifte van aldosteron, cardiale stimulatie en renale reabsorptie van natrium. […] Candesartan blokkeert de vasoconstrictieve en aldosteronsecreterende effecten van angiotensine II door selectief de binding van angiotensine II aan de AT 1-receptor te blokkeren in veel weefsels, zoals vasculair glad spierweefsel en de bijnier.’ Oorspronkelijke Engelse tekst: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10), versie van 2025-12-22; geraadpleegd op 2026-11-19). Als ARB blokkeert candesartan de angiotensine-II-receptor en remt het zo de effecten van het renine-angiotensinesysteem op de bloedvaten en de nier.
 
 Remming van dit systeem is mechanistisch relevant voor nierschade door hoge bloeddruk, en ARB's worden in andere situaties ingezet voor nierbescherming. Maligne hypertensie met nierbetrokkenheid is echter een acute, hoogrisicovolle aandoening. Daarbij vragen snelle veranderingen in bloeddruk en nierfunctie om nauwlettende controle.
 
@@ -91,6 +91,19 @@ Bij een acuut en hoogrisicobeeld als maligne hypertensie met nierbetrokkenheid i
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, voor een veiligheidsbeoordeling.
 - Een veiligheids- en monitoringsplan voor acute toepassing, met aandacht voor bloeddruk, nierfunctie en kalium.
 - Bij voldoende onderbouwing: een gericht klinisch onderzoeksvoorstel, zoals een fase 2-studie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

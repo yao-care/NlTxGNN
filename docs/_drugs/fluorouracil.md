@@ -60,7 +60,7 @@ Andere voorspellingen met dezelfde conclusie (Hold) zijn onder meer rhabdomyosar
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van algemene kennis remt fluorouracil het enzym thymidylaatsynthase en wordt het ingebouwd in RNA en DNA. Hierdoor wordt de aanmaak van DNA in snel delende cellen verstoord. Dit is biologisch aannemelijk voor een snel prolifererend sarcoom.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Fluorouracil (niet-officiële vertaling): ‘Fluorouracil is een remmer van het nucleosidemetabolisme die de synthese van desoxyribonucleïnezuur (DNA) verstoort en in mindere mate de vorming van ribonucleïnezuur (RNA) remt; deze effecten treffen snelgroeiende cellen en kunnen leiden tot celdood. Fluorouracil wordt omgezet in drie belangrijke actieve metabolieten: 5-fluoro-2′-desoxyuridine-5′-monofosfaat (FdUMP), 5-fluorouridine-5′-trifosfaat (FUTP) en 5-fluoro-2′-desoxyuridine-5′-trifosfaat (FdUTP).’ Oorspronkelijke Engelse tekst: "Fluorouracil is a nucleoside metabolic inhibitor that interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA); these affect rapidly growing cells and may lead to cell death. Fluorouracil is converted to three main active metabolites: 5-fluoro-2′-deoxyuridine-5′-monophosphate (FdUMP), 5-fluorouridine-5′triphosphate (FUTP) and 5-fluoro-2′-deoxyuridine-5′-triphosphate (FdUTP)." ([DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b), versie van 2026-10-23; geraadpleegd op 2026-11-19). Op basis van algemene kennis remt fluorouracil het enzym thymidylaatsynthase en wordt het ingebouwd in RNA en DNA. Hierdoor wordt de aanmaak van DNA in snel delende cellen verstoord. Dit is biologisch aannemelijk voor een snel prolifererend sarcoom.
 
 De oorspronkelijke indicaties (huidtumoren en tumoren van het maagdarmkanaal) zijn carcinomen, terwijl rhabdomyosarcoom een weke-delentumor is. De overeenkomst blijft daarom beperkt tot het algemene antiproliferatieve effect. Fluorouracil is bovendien geen standaardmiddel bij rhabdomyosarcoom; de gebruikelijke schema's bevatten vincristine, actinomycine D en cyclofosfamide.
 
@@ -162,13 +162,14 @@ Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er is in Nederland momenteel 1 geldige vergunning (van de 1 vergunning in de gegevens van het CBG-MEB) voor een enkelvoudig of gecombineerd ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “De Nederlandse vergunning is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 118637//06292: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
 
 <!-- review:end log -->
 

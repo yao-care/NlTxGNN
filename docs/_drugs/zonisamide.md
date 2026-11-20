@@ -54,7 +54,7 @@ Zonisamide is een geneesmiddel uit de groep van de anti-epileptica. De oorspronk
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde gegevens. Op basis van bekende informatie blokkeert zonisamide natriumkanalen en T-type calciumkanalen en beïnvloedt het mogelijk de dopamine- en serotonineoverdracht. Mechanistisch zou dat de neurale circuits achter tics kunnen beïnvloeden, en daarop berust de modelvoorspelling.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Zonisamide (niet-officiële vertaling): ‘Het precieze mechanisme (de precieze mechanismen) waardoor zonisamide zijn anti-epileptische werking uitoefent, is onbekend. Zonisamide vertoonde anticonvulsieve activiteit in verschillende experimentele modellen. Bij dieren was zonisamide werkzaam tegen tonische extensieaanvallen die werden opgewekt door maximale elektroshock, maar niet werkzaam tegen clonische aanvallen die werden opgewekt door subcutaan pentyleentetrazol.’ Oorspronkelijke Engelse tekst: "The precise mechanism(s) by which zonisamide exerts its antiseizure effect is unknown. Zonisamide demonstrated anticonvulsant activity in several experimental models. In animals, zonisamide was effective against tonic extension seizures induced by maximal electroshock but ineffective against clonic seizures induced by subcutaneous pentylenetetrazol." ([DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb), versie van 2026-09-23; geraadpleegd op 2026-11-19). Op basis van bekende informatie blokkeert zonisamide natriumkanalen en T-type calciumkanalen en beïnvloedt het mogelijk de dopamine- en serotonineoverdracht. Mechanistisch zou dat de neurale circuits achter tics kunnen beïnvloeden, en daarop berust de modelvoorspelling.
 
 Dit verband is theoretisch. Er is geen directe studie bij Tourette-syndroom gevonden. Een overzichtsartikel over door anti-epileptica veroorzaakte dwangstoornissen en tics ([36005856](https://pubmed.ncbi.nlm.nih.gov/36005856/), 2022) wijst bovendien op een tegengesteld signaal: sommige anti-epileptica kunnen tics juist uitlokken of verergeren. Zo'n tic-verergerend effect van zonisamide kan dus niet worden uitgesloten.
 
@@ -115,12 +115,13 @@ De voorspelling voor Tourette-syndroom is alleen modelmatig (L5), zonder klinisc
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
 
 <!-- review:end log -->
 

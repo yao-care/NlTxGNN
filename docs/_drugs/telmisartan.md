@@ -58,7 +58,7 @@ Telmisartan is een angiotensine-II-receptorblokker (ARB) die oorspronkelijk word
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Op basis van bekende informatie behoort telmisartan tot de ARB's. De werkzaamheid bij hypertensie is aangetoond, en mechanistisch zou het toepasbaar kunnen zijn bij Prinzmetal-angina.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Telmisartan (niet-officiële vertaling): ‘Angiotensine II wordt gevormd uit angiotensine I in een reactie die wordt gekatalyseerd door het angiotensineconverterend enzym (ACE, kininase II). Angiotensine II is de belangrijkste pressorstof van het renine-angiotensinesysteem, met effecten die vasoconstrictie, stimulatie van de synthese en afgifte van aldosteron, cardiale stimulatie en renale reabsorptie van natrium omvatten. […] Telmisartan blokkeert de vasoconstrictieve en aldosteronsecretie-bevorderende effecten van angiotensine II door selectief de binding van angiotensine II aan de AT 1-receptor te blokkeren in veel weefsels, zoals vasculair glad spierweefsel en de bijnier.’ Oorspronkelijke Engelse tekst: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the reninangiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10), versie van 2026-11-02; geraadpleegd op 2026-11-19). Op basis van bekende informatie behoort telmisartan tot de ARB's. De werkzaamheid bij hypertensie is aangetoond, en mechanistisch zou het toepasbaar kunnen zijn bij Prinzmetal-angina.
 
 Een mogelijk verband is dat telmisartan de AT1-receptor blokkeert en daarnaast PPAR-gamma activeert. Dit zou de functie van het vaatendotheel kunnen verbeteren en vaatkramp kunnen verminderen. Dit is echter een **hypothese**. De samengestelde gegevens bevatten geen onderzoek dat dit voor deze aandoening bevestigt.
 
@@ -150,13 +150,14 @@ Gegevens uit de SmPC (waarschuwingen en contra-indicaties) ontbreken in de samen
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “In de samengestelde gegevens is slechts één vergunning gevonden, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “De enige gevonden vergunning in Nederland is doorgehaald, en officiële veiligheidsgegevens ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 117646: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
 
 <!-- review:end log -->
 

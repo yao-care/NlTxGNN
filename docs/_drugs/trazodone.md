@@ -54,7 +54,7 @@ Trazodon is een antidepressivum dat oorspronkelijk wordt gebruikt bij depressiev
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Uit de literatuur is bekend dat trazodon 5-HT2A/2C-receptoren antagoneert en de heropname van serotonine zwak remt. Daardoor kan het de serotonerge circuits beïnvloeden die bij OCD een rol spelen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Trazodone (niet-officiële vertaling): ‘Het mechanisme van de antidepressieve werking van trazodon is niet volledig opgehelderd, maar men denkt dat het verband houdt met de versterking van de serotonerge activiteit in het CZS. Trazodon is zowel een selectieve serotonineheropnameremmer (SSRI) als een 5HT2-receptorantagonist, en het netto resultaat van deze werking op de serotonerge transmissie en de rol ervan in het antidepressieve effect van trazodon is onbekend.’ Oorspronkelijke Engelse tekst: "The mechanism of trazodone’s antidepressant action is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS. Trazodone is both a selective serotonin reuptake inhibitor (SSRI) and a 5HT2 receptor antagonist and the net result of this action on serotonergic transmission and its role in trazodone’s antidepressant effect is unknown." ([DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768), versie van 2026-11-13; geraadpleegd op 2026-11-19). Uit de literatuur is bekend dat trazodon 5-HT2A/2C-receptoren antagoneert en de heropname van serotonine zwak remt. Daardoor kan het de serotonerge circuits beïnvloeden die bij OCD een rol spelen.
 
 Depressie, angststoornissen en OCD hebben een gemeenschappelijke serotonerge component, en OCD reageert voornamelijk op serotonineheropnameremmers (clomipramine, SSRI's). Dat maakt een effect van trazodon biologisch denkbaar. De resultaten in de literatuur zijn echter wisselend. Trazodon wordt hooguit gezien als aanvullende behandeling naast SSRI's of clomipramine, niet als eerstelijnsmiddel. Deze beoordeling is gebaseerd op titels en beperkte samenvattingen; numerieke uitkomsten van de studies waren niet beschikbaar.
 
@@ -132,12 +132,13 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113007//09145: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768) |
 
 <!-- review:end log -->
 

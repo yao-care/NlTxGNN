@@ -54,7 +54,7 @@ Iloprost is een prostacycline-analoog en wordt van oorsprong gebruikt bij **pulm
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van iloprost waren niet beschikbaar in de voor dit rapport verzamelde gegevens. Iloprost is bekend als prostacycline-analoog met vaatverwijdende, plaatjesremmende en celgroeiremmende effecten. Daarmee is het werkzaam bij PAH.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Iloprost (niet-officiële vertaling): ‘Iloprost is een synthetisch analoog van prostacycline PGI 2. Iloprost is een vasodilatator en remt de trombocytenaggregatie.’ Oorspronkelijke Engelse tekst: "Iloprost is a synthetic analog of prostacyclin PGI 2. Iloprost is a vasodilator and inhibits platelet aggregation." ([DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4), versie van 2026-08-13; geraadpleegd op 2026-11-19). Iloprost is bekend als prostacycline-analoog met vaatverwijdende, plaatjesremmende en celgroeiremmende effecten. Daarmee is het werkzaam bij PAH.
 
 De link met haargroei is hooguit speculatief. Prostaglandine-routes spelen mogelijk een rol in de haarfollikelcyclus, en prostacycline-analogen werken op die routes. **Geen enkel verstrekt gegeven ondersteunt dit.** Pulmonale hypertensie en een erfelijke haarziekte hebben bovendien weinig pathofysiologisch gemeen. De hoge score (0,9945) is daarom een model-signaal en geen bewijs van werkzaamheid.
 
@@ -112,12 +112,13 @@ Raadpleeg voor waarschuwingen en overige veiligheidsinformatie de SmPC (Samenvat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
 
 <!-- review:end log -->
 

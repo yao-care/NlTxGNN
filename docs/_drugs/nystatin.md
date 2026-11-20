@@ -54,7 +54,7 @@ Nystatine is een polyeen-antimycoticum dat lokaal in Nederland op de markt is. H
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-In de voor dit rapport verzamelde gegevens ontbreken details over het werkingsmechanisme. Het is bekend dat nystatine een polyeen-antimycoticum is, dat bindt aan ergosterol in de celmembraan van schimmels.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Nystatin (niet-officiële vertaling): ‘Nystatine werkt door te binden aan sterolen in het celmembraan van gevoelige Candida-soorten, met als gevolg een verandering in de membraanpermeabiliteit waardoor intracellulaire bestanddelen weglekken. Nystatine vertoont geen noemenswaardige activiteit tegen bacteriën, protozoa of virussen.’ Oorspronkelijke Engelse tekst: "Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses." ([DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6), versie van 2026-02-06; geraadpleegd op 2026-11-19). Het is bekend dat nystatine een polyeen-antimycoticum is, dat bindt aan ergosterol in de celmembraan van schimmels.
 
 Er is geen aannemelijk mechanistisch verband gevonden tussen deze antischimmelwerking en aandoeningen van de orbitale regio. De hoge modelscore lijkt een artefact van de voorspelling en berust niet op een herkenbare biologische of klinische redenering. Zonder aanvullend bewijs is de voorspelling daarom vooral een hypothese van het model.
 
@@ -106,11 +106,12 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6) |
 
 <!-- review:end log -->
 

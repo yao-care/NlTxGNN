@@ -58,7 +58,7 @@ Rocuronium is een niet-depolariserend spierverslappend middel dat in de anesthes
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar in de samengestelde data. Rocuronium is bekend als niet-depolariserende neuromusculaire blokker: het werkt als competitieve antagonist van de nicotine-acetylcholinereceptor ter hoogte van de neuromusculaire eindplaat. Dit leidt tot tijdelijke verslapping van skeletspieren.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Rocuronium (niet-officiële vertaling): ‘Rocuroniumbromide injectie is een niet-depolariserend neuromusculair blokkerend middel met een snel tot middellang intredende werking, afhankelijk van de dosis, en een middellange werkingsduur. Het werkt door competitie om cholinerge receptoren ter hoogte van de motorische eindplaat.’ Oorspronkelijke Engelse tekst: "Rocuronium bromide injection is a nondepolarizing neuromuscular blocking agent with a rapid to intermediate onset depending on dose and intermediate duration. It acts by competing for cholinergic receptors at the motor end-plate." ([DailyMed: rocuronium bromide prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a18fce42-0f3d-4354-845e-57c37ac3a147), versie van 2026-10-01; geraadpleegd op 2026-11-19). Rocuronium is bekend als niet-depolariserende neuromusculaire blokker: het werkt als competitieve antagonist van de nicotine-acetylcholinereceptor ter hoogte van de neuromusculaire eindplaat. Dit leidt tot tijdelijke verslapping van skeletspieren.
 
 Er is geen bekende mechanistische relatie met de pathofysiologie van migraine (CGRP, activatie van het trigeminovasculaire systeem, corticale spreidingsdepressie). Perifere spierverslapping is geen erkende therapeutische strategie bij migraine. De zeer hoge TxGNN-score (0,9990) komt van het TxGNN-model (deep learning) en wordt niet gestaafd door klinisch of mechanistisch bewijs. De score kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet een biologische of farmacologische grondslag.
 
@@ -137,12 +137,13 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “(1 geldige registratie van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113094: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: rocuronium bromide prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a18fce42-0f3d-4354-845e-57c37ac3a147) |
 
 <!-- review:end log -->
 

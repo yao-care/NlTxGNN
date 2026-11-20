@@ -58,7 +58,7 @@ Prednisolon is een glucocorticoïd dat oorspronkelijk wordt gebruikt bij auto-im
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het precieze werkingsmechanisme van prednisolon zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van bekende informatie is prednisolon een glucocorticoïd met een brede ontstekingsremmende en afweeronderdrukkende werking.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Prednisolone (niet-officiële vertaling): ‘Prednisolon is een synthetisch bijnierschorssteroïd met overwegend glucocorticoïde eigenschappen. Sommige van deze eigenschappen bootsen de fysiologische werkingen van endogene glucocorticosteroïden na, maar andere weerspiegelen niet noodzakelijkerwijs een van de normale functies van de bijnierhormonen; ze worden pas waargenomen na toediening van hoge therapeutische doses van het geneesmiddel.’ Oorspronkelijke Engelse tekst: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), versie van 2025-06-03; geraadpleegd op 2026-11-19). Op basis van bekende informatie is prednisolon een glucocorticoïd met een brede ontstekingsremmende en afweeronderdrukkende werking.
 
 Alopecia areata is een door T-cellen gemedieerde auto-immuunziekte waarbij het immuunprivilege van de haarfollikel verloren gaat. Prednisolon remt de activiteit van cytotoxische T-cellen en pro-inflammatoire cytokinen rond de follikel. Dit sluit aan bij het bestaande gebruik bij auto-immuunziekten. Een studie naar orale pulsbehandeling met steroïden suggereert bovendien een daling van TNF-α in serum en weefsel als mogelijk werkingsmechanisme.
 
@@ -159,12 +159,13 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties uit de
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “omdat de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
 
 <!-- review:end log -->
 

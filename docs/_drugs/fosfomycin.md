@@ -58,7 +58,7 @@ Fosfomycine is een antibioticum. Het TxGNN-model (deep learning) voorspelt dat h
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Fosfomycine remt het bacteriële enzym MurA en blokkeert zo de vorming van de celwand van bacteriën. Daardoor werkt het bactericide tegen veel veelvoorkomende verwekkers van urineweginfecties. Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de samengestelde gegevens.
+Fosfomycine remt het bacteriële enzym MurA en blokkeert zo de vorming van de celwand van bacteriën. Daardoor werkt het bactericide tegen veel veelvoorkomende verwekkers van urineweginfecties. Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Fosfomycin (niet-officiële vertaling): ‘CONTEPO is een antibacterieel geneesmiddel. […] Fosfomycine is een antibacterieel geneesmiddel van het epoxidetype dat de synthese van de bacteriële celwand verstoort door covalente binding aan en remming van fosfo-enolpyruvaattransferase (MurA), waardoor de synthese van peptidoglycaan wordt geblokkeerd. Fosfomycine is bactericide tegen Enterobacterales.’ Oorspronkelijke Engelse tekst: "CONTEPO is an antibacterial drug. […] Fosfomycin is an epoxide antibacterial drug that disrupts bacterial cell wall synthesis by covalently binding and inhibiting phosphoenolpyruvate transferase (MurA), thereby blocking the synthesis of peptidoglycan. Fosfomycin is bactericidal against Enterobacterales." ([DailyMed: Contepo (fosfomycin disodium) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=855574f2-39f8-43bc-a3d2-79dbb578cb94), versie van 2025-11-04; geraadpleegd op 2026-11-19).
 
 Een ontsteking van de baarmoeder of het bekken kan door bacteriën worden veroorzaakt. Op papier is een antibacterieel middel dus denkbaar. De score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, zoals infecties van het urogenitale stelsel. Het is geen biologisch bewijs.
 
@@ -129,6 +129,19 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC.
 - Een beoordeling van de toedieningsroute (oraal granulaat) in verhouding tot de te behandelen infectie.
 
 **Opmerking:** voor een andere voorspelde indicatie, pyelitis (infectie van het nierbekken), is aanzienlijk meer bewijs beschikbaar, waaronder de gerandomiseerde fase 2/3-studie ZEUS (PMID 30861061) met intraveneus fosfomycine bij gecompliceerde urineweginfecties. Dit sluit nauw aan bij de bestaande urineweginfectie-relatie. Het valt buiten de beoordeling in dit rapport en vraagt om een afzonderlijke evaluatie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Contepo (fosfomycin disodium) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=855574f2-39f8-43bc-a3d2-79dbb578cb94) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -58,7 +58,7 @@ Haloperidol is een antipsychoticum dat de dopamine-D2-receptor blokkeert. Het Tx
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Haloperidol staat bekend als dopamine-D2-antagonist, maar er is geen bekend verband tussen D2-blokkade en fucosylatieroutes. Er is geen mechanistische schakel gevonden tussen het geneesmiddel en deze aandoening.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Haloperidol (niet-officiële vertaling): ‘Het werkingsmechanisme van haloperidoldecanoaat bij de behandeling van schizofrenie bij volwassenen is onduidelijk. Het effect ervan bij schizofrenie zou echter kunnen worden gemedieerd door de werking ervan als antagonist van centrale dopamine type 2-receptoren.’ Oorspronkelijke Engelse tekst: "The mechanism of action of haloperidol decanoate for the treatment of schizophrenia in adults is unclear. However, its effect in schizophrenia could be mediated through its activity as an antagonist at central dopamine type 2 receptors." ([DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c), versie van 2026-11-03; geraadpleegd op 2026-11-19). Haloperidol staat bekend als dopamine-D2-antagonist, maar er is geen bekend verband tussen D2-blokkade en fucosylatieroutes. Er is geen mechanistische schakel gevonden tussen het geneesmiddel en deze aandoening.
 
 De hoge score is een voorspelling op basis van een model en geen aanwijzing voor werkzaamheid. Zonder onderliggend preklinisch of klinisch bewijs kan de voorspelling niet als onderbouwd worden beschouwd.
 
@@ -106,6 +106,18 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Preklinisch bewijs (bijvoorbeeld in cel- of diermodellen) voor deze aandoening
 - Gegevens over het werkingsmechanisme en de waarschuwingen en contra-indicaties uit de SmPC
 - Een beoordeling van de veiligheid en haalbaarheid in de beoogde patiëntengroep, waaronder een mogelijk zeldzame, pediatrische populatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

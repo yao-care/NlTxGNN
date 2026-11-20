@@ -54,7 +54,7 @@ Pioglitazon is een insulinesensitizer die oorspronkelijk wordt gebruikt voor de 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de data die voor dit rapport zijn samengesteld. Op basis van algemene kennis is pioglitazon een agonist van PPAR-gamma (thiazolidinedion) die de insulinegevoeligheid verhoogt. De werkzaamheid bij diabetes type 2 is aangetoond.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pioglitazone (niet-officiële vertaling): ‘ACTOS is een thiazolidinedion dat voor zijn werkingsmechanisme afhankelijk is van de aanwezigheid van insuline. ACTOS vermindert de insulineresistentie in de periferie en in de lever, wat resulteert in een toegenomen insulineafhankelijke glucoseverwerking en een verminderde glucoseafgifte door de lever. […] Pioglitazon is geen insulinesecretagoog.’ Oorspronkelijke Engelse tekst: "ACTOS is a thiazolidinedione that depends on the presence of insulin for its mechanism of action. ACTOS decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output. […] Pioglitazone is not an insulin secretagogue." ([DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c), versie van 2025-03-28; geraadpleegd op 2026-11-19). Op basis van algemene kennis is pioglitazon een agonist van PPAR-gamma (thiazolidinedion) die de insulinegevoeligheid verhoogt. De werkzaamheid bij diabetes type 2 is aangetoond.
 
 Opsismodysplasie wordt veroorzaakt door mutaties in het INPPL1-gen (SHIP2), een negatieve regulator van de PI3K/insuline-signaleringsroute. Een theoretisch verband met de insulinesignalering waarop pioglitazon via PPAR-gamma ingrijpt is denkbaar, maar speculatief en niet ondersteund door de beschikbare data. De hoge score (0,9959) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, geen biologisch bewijs.
 
@@ -106,11 +106,12 @@ Voor aanvullende waarschuwingen en contra-indicaties volgens de productinformati
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 108791: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c) |
 
 <!-- review:end log -->
 

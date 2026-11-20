@@ -60,7 +60,7 @@ Het sterkste klinische signaal betreft echter **acne inversa (hidradenitis suppu
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Acitretine is een orale retinoïde van de tweede generatie die de differentiatie en proliferatie van keratinocyten moduleert en ontstekingsremmende effecten heeft. Retinoïden verminderen de activiteit van de talgklieren en de verhoorning van de haarfollikels. Beide processen spelen een centrale rol bij het ontstaan van acne.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Acitretin (niet-officiële vertaling): ‘Het werkingsmechanisme van acitretine is onbekend.’ Oorspronkelijke Engelse tekst: "The mechanism of action of acitretin is unknown." ([DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910), versie van 2026-10-20; geraadpleegd op 2026-11-19). Acitretine is een orale retinoïde van de tweede generatie die de differentiatie en proliferatie van keratinocyten moduleert en ontstekingsremmende effecten heeft. Retinoïden verminderen de activiteit van de talgklieren en de verhoorning van de haarfollikels. Beide processen spelen een centrale rol bij het ontstaan van acne.
 
 De sterkste klinische aanwijzingen gelden voor acne inversa (hidradenitis suppurativa), een aandoening waarbij haarfollikels verstopt raken. Voor gewone acne is isotretinoïne de standaard-retinoïde en acitretine is daarvoor geen gevestigd alternatief. Het TxGNN-label "acne" lijkt in het ondersteunende bewijs acne vulgaris en acne inversa door elkaar te halen. De voorspelling moet daarom met voorzichtigheid worden gelezen.
 
@@ -145,12 +145,13 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119746//13103: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Chloortalidon is een thiazide-achtig diureticum dat de natrium-chloridecotranspo
 
 ## Waarom is deze voorspelling plausibel?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar. Algemeen bekend is dat chloortalidon de Na⁺/Cl⁻-cotransporter in de distale tubulus remt en daardoor het vochtvolume vermindert.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Chlorthalidone (niet-officiële vertaling): ‘Chloortalidon is een langwerkend oraal diureticum met antihypertensieve werking. De diuretische effecten van chloortalidon en de benzothiadiazine-(thiazide-)diuretica lijken voort te komen uit vergelijkbare mechanismen en het maximale effect van chloortalidon en de thiaziden lijkt vergelijkbaar te zijn.’ Oorspronkelijke Engelse tekst: "Chlorthalidone is a long-acting oral diuretic with antihypertensive activity. The diuretic effects of chlorthalidone and the benzothiadiazine (thiazide) diuretics appear to arise from similar mechanisms and the maximal effect of chlorthalidone and the thiazides appear to be similar." ([DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15), versie van 2026-06-25; geraadpleegd op 2026-11-19). Algemeen bekend is dat chloortalidon de Na⁺/Cl⁻-cotransporter in de distale tubulus remt en daardoor het vochtvolume vermindert.
 
 Een direct mechanistisch verband met glaucoom is niet aangetoond. Een effect op de oogdruk zou speculatief zijn, bijvoorbeeld via een geringe remming van koolzuuranhydrase, een mogelijk bijkomende werking van sommige thiazide-achtige middelen. De hoge score is een computationele voorspelling zonder ondersteunende studies of literatuur.
 
@@ -97,6 +97,19 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Preklinisch of klinisch onderzoek naar het effect op de intraoculaire druk
 - Veiligheidsinformatie uit de SmPC van het CBG-MEB (waarschuwingen en contra-indicaties)
 - Beoordeling van de relevantie bij een eventuele oogheelkundige toepassing, inclusief toedieningsroute
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

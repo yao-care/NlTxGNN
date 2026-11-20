@@ -58,7 +58,7 @@ Diazepam is een benzodiazepine dat de werking van de remmende neurotransmitter G
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Uit de literatuur blijkt dat diazepam, net als andere benzodiazepinen, de GABA-A-receptor positief allosterisch moduleert. Dat verklaart het kalmerende en slaapbevorderende effect (PMID 39581171). Dit effect maakt een werking bij slapeloosheid biologisch plausibel.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Diazepam (niet-officiële vertaling): ‘Men denkt dat het werkingsmechanisme van diazepam voor de vermelde indicaties berust op potentiëring van gamma-aminoboterzuur (GABA), een remmende neurotransmitter, als gevolg van binding aan de benzodiazepinebindingsplaats van de GABA A -receptor.’ Oorspronkelijke Engelse tekst: "The mechanism of action of diazepam for the listed indications is thought to involve potentiation of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter, resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6), versie van 2026-10-06; geraadpleegd op 2026-11-19). Uit de literatuur blijkt dat diazepam, net als andere benzodiazepinen, de GABA-A-receptor positief allosterisch moduleert. Dat verklaart het kalmerende en slaapbevorderende effect (PMID 39581171). Dit effect maakt een werking bij slapeloosheid biologisch plausibel.
 
 Benzodiazepinen worden bovendien klinisch gebruikt voor kortdurende behandeling van slapeloosheid. Diazepam is dus een nauwe klasse-analoog van middelen die voor dit doel worden ingezet. Directe studies met diazepam zelf zijn echter schaars. De gevonden literatuur bestaat vooral uit algemene overzichten, onderzoek naar kruiden en acupunctuur, dierstudies waarin diazepam als positieve controle dient, en rapporten over de risico's van langdurig gebruik. Dat maakt de voorspelling plausibel, maar de onderbouwing voor diazepam specifiek is beperkt.
 
@@ -122,6 +122,18 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Actuele studies naar dosering, behandelduur en veiligheid bij slapeloosheid, met aandacht voor ouderen.
 - Analyse van de SmPC van het in Nederland vergunde product (CBG-MEB) voor waarschuwingen en contra-indicaties.
 - Gegevens over het werkingsmechanisme en een plan voor veiligheidsmonitoring van afhankelijkheid en interacties, zoals met opioïden.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

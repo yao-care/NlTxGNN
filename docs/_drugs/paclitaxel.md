@@ -60,7 +60,7 @@ Paclitaxel is een cytostaticum uit de taxanen. In de voor dit rapport samengeste
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde werkingsmechanismegegevens (DrugBank) ontbreken in de samengestelde gegevens. Uit de bekende farmacologie volgt wel dat paclitaxel microtubuli stabiliseert en de afbraak van de mitotische spoel blokkeert. Dat leidt tot G2/M-arrest en apoptose in snel delende tumorcellen. Dit werkingsmechanisme hangt niet af van hormoonreceptoren.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Paclitaxel (niet-officiële vertaling): ‘Paclitaxel eiwitgebonden deeltjes voor injecteerbare suspensie (albuminegebonden) is een microtubulusremmer die de assemblage van microtubuli uit tubulinedimeren bevordert en microtubuli stabiliseert door depolymerisatie te voorkomen. Deze stabiliteit leidt tot remming van de normale dynamische reorganisatie van het microtubulinetwerk, die essentieel is voor vitale cellulaire functies in de interfase en de mitose.’ Oorspronkelijke Engelse tekst: "Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions." ([DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c), versie van 2025-09-17; geraadpleegd op 2026-11-19). Uit de bekende farmacologie volgt wel dat paclitaxel microtubuli stabiliseert en de afbraak van de mitotische spoel blokkeert. Dat leidt tot G2/M-arrest en apoptose in snel delende tumorcellen. Dit werkingsmechanisme hangt niet af van hormoonreceptoren.
 
 Ovariumkanker en borstkanker zijn beide solide tumoren die gevoelig zijn voor taxanen. Het celdodende effect van paclitaxel is dus op beide van toepassing. Paclitaxel en nab-paclitaxel zijn bij borstkanker al gevestigde behandelingen, onder meer bij gemetastaseerde ziekte en in neoadjuvante en adjuvante regimes. De voorspelling van het model komt daarmee overeen met de klinische praktijk.
 
@@ -151,6 +151,19 @@ De officiële waarschuwingen en contra-indicaties uit de bijsluiter ontbreken in
 - Controle of er in Nederland een geldig paclitaxelproduct is (nationaal of via EMA) met de indicatie borstkanker.
 - Beoordeling van de fase 3-studies op de vraag of paclitaxel zelf of een combinatiepartner de onderzochte variabele was.
 - Een bewakingsplan voor beenmergsuppressie, neuropathie en overgevoeligheid, plus een controle op relevante geneesmiddelinteracties (onder meer CYP-remmers).
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

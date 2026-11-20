@@ -54,7 +54,7 @@ Tapentadol is een sterk werkende pijnstiller (mu-opioïdereceptoragonist en nora
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data die voor dit rapport is samengesteld. Op basis van algemene farmacologische kennis is tapentadol een mu-opioïdereceptoragonist en noradrenalineheropnameremmer. Via centrale, dalende pijnmodulatiebanen is een theoretisch verband met migrainepijn denkbaar. Dit is echter een algemene redenering en niet gebaseerd op de aangeleverde gegevens.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Tapentadol (niet-officiële vertaling): ‘Tapentadol is een centraal werkend synthetisch analgeticum. Het exacte werkingsmechanisme is onbekend. Hoewel de klinische relevantie onduidelijk is, hebben preklinische studies aangetoond dat tapentadol een mu-opioïdreceptor (MOR)-agonist en een noradrenalineheropnameremmer (NRI) is.’ Oorspronkelijke Engelse tekst: "Tapentadol is a centrally-acting synthetic analgesic. The exact mechanism of action is unknown. Although the clinical relevance is unclear, preclinical studies have shown that tapentadol is a mu-opioid receptor (MOR) agonist and a norepinephrine reuptake inhibitor (NRI)." ([DailyMed: Nucynta (tapentadol hydrochloride) prescribing information, Collegium Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80938c30-9fe3-4c7d-9d9c-5476638cfb2d), versie van 2025-12-30; geraadpleegd op 2026-11-19). Op basis van algemene farmacologische kennis is tapentadol een mu-opioïdereceptoragonist en noradrenalineheropnameremmer. Via centrale, dalende pijnmodulatiebanen is een theoretisch verband met migrainepijn denkbaar. Dit is echter een algemene redenering en niet gebaseerd op de aangeleverde gegevens.
 
 Er zijn belangrijke kanttekeningen. Opioïden worden bij migraine in het algemeen niet aanbevolen, vanwege het risico op medicatieovergebruikshoofdpijn, chronificatie van de hoofdpijn en afhankelijkheid. De hoge modelscore weerspiegelt waarschijnlijk een associatie op netwerkniveau, niet een bewezen klinisch voordeel.
 
@@ -110,11 +110,12 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nucynta (tapentadol hydrochloride) prescribing information, Collegium Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80938c30-9fe3-4c7d-9d9c-5476638cfb2d) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Pimecrolimus is een topische calcineurineremmer die oorspronkelijk wordt gebruik
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de data voor dit rapport niet beschikbaar. Op basis van bekende farmacologie is pimecrolimus een calcineurineremmer. Het blokkeert de calcineurine-afhankelijke activatie van T-cellen en daarmee de afgifte van ontstekingsstoffen zoals IL-2, interferon-gamma en TNF-alfa. Ook remt het de degranulatie van mestcellen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pimecrolimus (niet-officiële vertaling): ‘Het werkingsmechanisme van pimecrolimus bij atopische dermatitis is niet bekend. Hoewel het volgende is waargenomen, is de klinische betekenis van deze waarnemingen bij atopische dermatitis niet bekend. Er is aangetoond dat pimecrolimus met hoge affiniteit bindt aan macrofiline-12 (FKBP-12) en de calciumafhankelijke fosfatase calcineurine remt.’ Oorspronkelijke Engelse tekst: "The mechanism of action of pimecrolimus in atopic dermatitis is not known. While the following have been observed, the clinical significance of these observations in atopic dermatitis is not known. It has been demonstrated that pimecrolimus binds with high affinity to macrophilin-12 (FKBP-12) and inhibits the calcium-dependent phosphatase, calcineurin." ([DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06), versie van 2026-04-30; geraadpleegd op 2026-11-19). Op basis van bekende farmacologie is pimecrolimus een calcineurineremmer. Het blokkeert de calcineurine-afhankelijke activatie van T-cellen en daarmee de afgifte van ontstekingsstoffen zoals IL-2, interferon-gamma en TNF-alfa. Ook remt het de degranulatie van mestcellen.
 
 Constitutioneel eczeem en seborroïsche dermatitis zijn beide ontstekingsziekten van de huid. Seborroïsche dermatitis wordt gekenmerkt door een ontstekingsreactie op de gist *Malassezia* op talgrijke huid. Het is daarom mechanistisch plausibel dat een niet-steroïde ontstekingsremmer als pimecrolimus helpt. Dit voordeel geldt vooral bij gelaatslokalisatie, waar langdurig gebruik van corticosteroïden bijwerkingen geeft.
 
@@ -157,13 +157,14 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB ontbrek
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “Deze vergunning is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06) |
 
 <!-- review:end log -->
 

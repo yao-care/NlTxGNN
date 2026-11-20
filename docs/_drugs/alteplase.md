@@ -54,7 +54,7 @@ Alteplase is een trombolytisch middel dat fibrinestolsels oplost. Het TxGNN-mode
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van alteplase zijn in de voor dit rapport samengestelde gegevens niet beschikbaar. Algemeen bekend is dat alteplase plasminogeen omzet in plasmine, waardoor fibrinestolsels worden opgelost.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Alteplase (niet-officiële vertaling): ‘Alteplase is een enzym (serineprotease) met de eigenschap van door fibrine versterkte omzetting van plasminogeen in plasmine. In afwezigheid van fibrine veroorzaakt het slechts een beperkte omzetting van plasminogeen. Alteplase bindt aan fibrine in een trombus en zet het ingesloten plasminogeen om in plasmine, waardoor lokale fibrinolyse op gang wordt gebracht.’ Oorspronkelijke Engelse tekst: "Alteplase is an enzyme (serine protease) that has the property of fibrin-enhanced conversion of plasminogen to plasmin. It produces limited conversion of plasminogen in the absence of fibrin. Alteplase binds to fibrin in a thrombus and converts the entrapped plasminogen to plasmin, thereby initiating local fibrinolysis." ([DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9), versie van 2026-01-20; geraadpleegd op 2026-11-19). Algemeen bekend is dat alteplase plasminogeen omzet in plasmine, waardoor fibrinestolsels worden opgelost.
 
 Heparinecofactor-2-deficiëntie is een erfelijke trombofilie die de kans op trombose verhoogt. Alteplase zou acute trombotische complicaties van deze aandoening kunnen behandelen, maar dat is behandeling van het stolsel en niet van de onderliggende deficiëntie. De voorspelling is dus mechanistisch slechts beperkt aannemelijk en berust alleen op het model.
 
@@ -90,6 +90,19 @@ Voor overige veiligheidsinformatie (waarschuwingen en contra-indicaties) wordt v
 - Gegevens over het werkingsmechanisme en een analyse van het mechanistische verband
 - Beoordeling van het bloedingsrisico en de SmPC-waarschuwingen en contra-indicaties van het CBG-MEB
 - Duidelijkheid over de klinische vraag: behandeling van acute trombose bij deze patiënten versus behandeling van de aandoening zelf
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

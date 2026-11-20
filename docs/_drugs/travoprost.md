@@ -54,7 +54,7 @@ Travoprost is een prostaglandine-F2-alfa-analoog dat oorspronkelijk wordt gebrui
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Travoprost is een agonist van de FP-receptor en een analoog van prostaglandine F2-alfa. Bij glaucoom verlaagt het de oogdruk door de uveosclerale afvloeiing te vergroten. Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; bovenstaande beschrijving berust op algemeen bekende farmacologie.
+Travoprost is een agonist van de FP-receptor en een analoog van prostaglandine F2-alfa. Bij glaucoom verlaagt het de oogdruk door de uveosclerale afvloeiing te vergroten. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Travoprost (niet-officiële vertaling): ‘Travoprost vrij zuur, een prostaglandine-analoog, is een selectieve FP-prostanoïdreceptoragonist waarvan wordt aangenomen dat het de IOD verlaagt door verhoging van de uveosclerale afvloed. Het exacte werkingsmechanisme is op dit moment onbekend.’ Oorspronkelijke Engelse tekst: "Travoprost free acid, a prostaglandin analog is a selective FP prostanoid receptor agonist, which is believed to reduce IOP by increasing uveoscleral outflow. The exact mechanism of action is unknown at this time." ([DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5), versie van 2026-09-28; geraadpleegd op 2026-11-19).
 
 Viscerale calciphylaxie (calcificerende uremische arteriolopathie) is een ernstige vaatverkalking van kleine bloedvaten, vooral bij nierfalen. Een duidelijk mechanistisch verband met FP-receptoragonisme wordt door de beschikbare gegevens niet ondersteund. Bovendien wordt travoprost lokaal in het oog toegediend, met minimale systemische blootstelling.
 
@@ -108,11 +108,12 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
 
 <!-- review:end log -->
 

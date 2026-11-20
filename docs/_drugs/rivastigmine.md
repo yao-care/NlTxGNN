@@ -59,7 +59,7 @@ Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **glaucoom**, maar er zi
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Rivastigmine remt zowel acetylcholinesterase als butyrylcholinesterase. Daardoor wordt acetylcholine minder snel afgebroken en neemt de cholinerge signalering toe. Gegevens over het werkingsmechanisme in de data die voor dit rapport zijn samengesteld ontbreken; het mechanisme hier is afgeleid uit de geneesmiddelklasse.
+Rivastigmine remt zowel acetylcholinesterase als butyrylcholinesterase. Daardoor wordt acetylcholine minder snel afgebroken en neemt de cholinerge signalering toe. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Rivastigmine (niet-officiële vertaling): ‘Hoewel het precieze werkingsmechanisme van rivastigmine onbekend is, wordt aangenomen dat het zijn therapeutische effect uitoefent door versterking van de cholinerge functie. Dit wordt bereikt door verhoging van de concentratie acetylcholine via reversibele remming van de hydrolyse ervan door cholinesterase.’ Oorspronkelijke Engelse tekst: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), versie van 2025-11-11; geraadpleegd op 2026-11-19).
 
 Bij glaucoom kan versterkte cholinerge signalering in de ciliaire spier en het trabeculair netwerk de afvoer van kamerwater vergroten en zo de oogdruk verlagen. Dit is dezelfde basis als bij klassieke parasympathicomimetica zoals pilocarpine en fysostigmine. Een preklinische studie (PMID 10673128, 2000) toonde aan dat topisch rivastigmine de oogdruk verlaagde bij konijnen. Een analyse uit 2024 (PMID 39130374) geeft aanvullende computationele en mechanistische ondersteuning.
 
@@ -139,13 +139,14 @@ Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De enige bekende vergunning is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
 
 <!-- review:end log -->
 

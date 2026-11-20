@@ -59,7 +59,7 @@ Glucagon is een peptidehormoon dat in Nederland als geregistreerd geneesmiddel b
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van glucagon zijn in de voor dit rapport samengestelde data niet beschikbaar. De onderbouwing is daarom indirect.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Glucagon (niet-officiële vertaling): ‘Glucagon verhoogt de bloedglucoseconcentratie door activering van hepatische glucagonreceptoren, waardoor de afbraak van glycogeen en de afgifte van glucose uit de lever worden gestimuleerd. Hepatische glycogeenvoorraden zijn noodzakelijk opdat glucagon een antihypoglykemisch effect kan teweegbrengen.’ Oorspronkelijke Engelse tekst: "Glucagon increases blood glucose concentration by activating hepatic glucagon receptors, thereby stimulating glycogen breakdown and release of glucose from the liver. Hepatic stores of glycogen are necessary for glucagon to produce an antihypoglycemic effect." ([DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84), versie van 2020-09-16; geraadpleegd op 2026-11-19). De onderbouwing is daarom indirect.
 
 Glucagon en GLP-1 komen beide voort uit proglucagon en werken via verwante klasse-B-G-eiwitgekoppelde receptoren. GLP-1 remt de beweeglijkheid van maag, twaalfvingerige darm en jejunum. Dat zou in theorie de hypermotiliteit of pijn bij prikkelbare darmsyndroom kunnen verminderen. Ook de literatuur over de hersen-darm-as ondersteunt het idee van perifeer op de darm gerichte mechanismen.
 
@@ -134,11 +134,12 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 120327//02011: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84) |
 
 <!-- review:end log -->
 

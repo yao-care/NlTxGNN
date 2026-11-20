@@ -55,7 +55,7 @@ Clonazepam is een benzodiazepine dat werkt als positieve allosterische modulator
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Clonazepam versterkt de remmende werking van GABA via de GABA-A-receptor. Daardoor dempt het de centrale arousal en verbetert het de slaapcontinuïteit. Het kan zo mogelijk sensorisch ongemak en periodieke beenbewegingen verminderen. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar; de beschrijving is gebaseerd op de algemene farmacologie van de klasse.
+Clonazepam versterkt de remmende werking van GABA via de GABA-A-receptor. Daardoor dempt het de centrale arousal en verbetert het de slaapcontinuïteit. Het kan zo mogelijk sensorisch ongemak en periodieke beenbewegingen verminderen. Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Clonazepam (niet-officiële vertaling): ‘Het precieze mechanisme waardoor clonazepam zijn anti-epileptische en antipaniekeffecten uitoefent, is onbekend, hoewel wordt aangenomen dat het verband houdt met het vermogen ervan de activiteit van gamma-aminoboterzuur (GABA), de belangrijkste remmende neurotransmitter in het centrale zenuwstelsel, te versterken.’ Oorspronkelijke Engelse tekst: "The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system." ([DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1), versie van 2025-12-01; geraadpleegd op 2026-11-19).
 
 Clonazepam werkt niet op de dopaminerge of ijzergerelateerde routes die aan RLS ten grondslag liggen. Het effect is dus symptomatisch en niet ziektemodificerend. Dopamineagonisten blijven in de literatuur de eerstekeuzebehandeling; benzodiazepinen worden vooral gebruikt als alternatief of aanvulling, met name bij slaapklachten. In een recent overzicht kreeg ongeveer 25% van de RLS-patiënten een benzodiazepine, alleen of in combinatie.
 
@@ -118,11 +118,12 @@ Bij langdurig gebruik zijn afhankelijkheid, tolerantie en sedatie relevante risi
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De status is "In de handel": de gegevens van het CBG-MEB vermelden één geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1) |
 
 <!-- review:end log -->
 

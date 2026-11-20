@@ -60,7 +60,7 @@ Voor dezelfde voorspelling zijn nog drie andere indicaties beoordeeld; zie het o
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Op basis van de bekende informatie is irbesartan een angiotensine II-type 1-receptorblokker. Het is werkzaam bij hypertensie en diabetische nefropathie en blokkeert het renine-angiotensinesysteem (RAS).
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Irbesartan (niet-officiële vertaling): ‘Angiotensine II is een krachtige vasoconstrictor die wordt gevormd uit angiotensine I in een reactie die wordt gekatalyseerd door angiotensineconverterend enzym (ACE, kininase II). Angiotensine II is het belangrijkste vasoactieve hormoon van het renine-angiotensinesysteem en een belangrijke component in de pathofysiologie van hypertensie. […] Irbesartan blokkeert de vasoconstrictieve en aldosteronsecretie-bevorderende effecten van angiotensine II door selectief te binden aan de AT 1-angiotensine II-receptor, die in veel weefsels voorkomt (bijv. vasculair glad spierweefsel, bijnier).’ Oorspronkelijke Engelse tekst: "Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. […] Irbesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively binding to the AT 1 angiotensin II receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland)." ([DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98), versie van 2026-08-24; geraadpleegd op 2026-11-19). Op basis van de bekende informatie is irbesartan een angiotensine II-type 1-receptorblokker. Het is werkzaam bij hypertensie en diabetische nefropathie en blokkeert het renine-angiotensinesysteem (RAS).
 
 Bij maligne hypertensie met nierbetrokkenheid speelt RAS-activatie een rol bij vaatschade. Blokkade van dit systeem is daarom biologisch plausibel. Deze indicatie overlapt grotendeels met de bestaande indicaties hypertensie en nefropathie. Het is dus eerder een uitbreiding van het bestaande gebruik dan een echte herpositionering.
 
@@ -182,13 +182,14 @@ Waarschuwingen uit de bijsluiter zijn niet beschikbaar. Raadpleeg de SmPC voor v
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De huidige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerend voor de veiligheidsscreen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Verduidelijking van de vergunningsstatus in Nederland, aangezien de enige vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113084: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98) |
 
 <!-- review:end log -->
 

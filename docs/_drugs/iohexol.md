@@ -56,7 +56,7 @@ Iohexol is een jodiumhoudend, niet-ionisch röntgencontrastmiddel dat wordt gebr
 
 Er is geen plausibele farmacologische verklaring gevonden. Iohexol is een in water oplosbaar, niet-ionisch jodiumhoudend contrastmiddel dat farmacologisch inert is en onveranderd via de nieren wordt uitgescheiden. Het heeft geen bekende werking op slaapregulerende systemen (GABA-erg, orexinerg, melatonerg of histaminerg).
 
-De zeer hoge score (0,9987) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. Gegevens over het oorspronkelijke werkingsmechanisme ontbreken in de voor dit rapport verzamelde gegevens.
+De zeer hoge score (0,9987) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Iohexol (niet-officiële vertaling): ‘De jodiumatomen in iohexol zorgen voor verzwakking van röntgenstralen, recht evenredig met de concentratie van iohexol. Aangezien de concentratie in de loop van de tijd verandert, geeft iohexol een tijdsafhankelijk beeldcontrast dat kan helpen bij het zichtbaar maken van lichaamsstructuren.’ Oorspronkelijke Engelse tekst: "The iodine atoms in iohexol provide attenuation of X-rays in direct proportion to the concentration of iohexol. Since concentration changes over time, iohexol provides time-dependent image contrast which may assist in visualizing body structures." ([DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f), versie van 2026-04-28; geraadpleegd op 2026-11-19).
 
 Hetzelfde geldt voor de tweede voorspelling, angst (score 0,9925): iohexol heeft geen anxiolytische farmacologie. Angst komt in de gevonden literatuur alleen voor als procedurele context of als bijwerking van het onderzoek, niet als behandeldoel.
 
@@ -130,12 +130,13 @@ Mannitol is geclassificeerd als "Moderate". Dit is een selectie uit de beschikba
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald, en ontbreken de veiligheidsgegevens uit de bijsluiter” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 117156: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f) |
 
 <!-- review:end log -->
 

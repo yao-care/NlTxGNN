@@ -54,7 +54,7 @@ Bimatoprost is een prostamide-analoog (verwant aan prostaglandine F2-alfa) dat o
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Bimatoprost is een prostaglandine F2-alfa-analoog (prostamide) met werking via de FP-receptor.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Bimatoprost (niet-officiële vertaling): ‘Bimatoprost, een prostaglandine-analoog, is een synthetisch structureel analogon van prostaglandine met oculair hypotensieve werking. Aangenomen wordt dat bimatoprost de IOD bij de mens verlaagt door de afvloed van kamerwater te verhogen via zowel het trabeculum (conventionele route) als de uveosclerale route (niet-conventionele route).’ Oorspronkelijke Engelse tekst: "Bimatoprost, a prostaglandin analog, is a synthetic structural analog of prostaglandin with ocular hypotensive activity. Bimatoprost is believed to lower IOP in humans by increasing outflow of aqueous humor through both the trabecular meshwork (conventional) and uveoscleral routes (unconventional)." ([DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341), versie van 2024-10-16; geraadpleegd op 2026-11-19). Bimatoprost is een prostaglandine F2-alfa-analoog (prostamide) met werking via de FP-receptor.
 
 Er is geen herkenbaar mechanistisch verband tussen deze werking en een ontwikkelingsmalformatiesyndroom met een tand- of parodontale component. De hoge modelscore is een voorspelling op basis van patroonherkenning, zonder ondersteunende studies of literatuur. De voorspelling moet daarom met grote terughoudendheid worden beoordeeld.
 
@@ -92,6 +92,19 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Gegevens over het werkingsmechanisme van bimatoprost en een onderbouwd biologisch verband met deze aandoening
 - Preklinisch of klinisch onderzoek dat deze aandoening rechtstreeks betreft
 - Beoordeling van de SmPC-veiligheidsinformatie van het product bij het CBG-MEB
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

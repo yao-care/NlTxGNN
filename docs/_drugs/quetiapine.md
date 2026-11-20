@@ -54,7 +54,7 @@ Quetiapine is een antipsychoticum dat oorspronkelijk wordt gebruikt bij **bipola
 
 ## Waarom zou deze voorspelling redelijk kunnen zijn?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Quetiapine is een atypisch antipsychoticum met bewezen werkzaamheid bij schizofrenie en bipolaire stoornis. De gegevens ondersteunen echter geen mechanistische toepassing bij een erfelijke netvliesaandoening.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Quetiapine (niet-officiële vertaling): ‘Het werkingsmechanisme van quetiapine bij de vermelde indicaties is onduidelijk. De werkzaamheid van quetiapine bij deze indicaties zou echter tot stand kunnen komen via een combinatie van antagonisme van dopamine type 2 (D 2 ) en serotonine type 2A (5HT 2A ).’ Oorspronkelijke Engelse tekst: "The mechanism of action of quetiapine in the listed indications is unclear. However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2A (5HT 2A ) antagonism." ([DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933), versie van 2026-10-08; geraadpleegd op 2026-11-19). Quetiapine is een atypisch antipsychoticum met bewezen werkzaamheid bij schizofrenie en bipolaire stoornis. De gegevens ondersteunen echter geen mechanistische toepassing bij een erfelijke netvliesaandoening.
 
 Retinale dystrofie is een groep erfelijke aandoeningen waarbij het netvlies degenereert. Dat verschilt fundamenteel van de psychiatrische indicaties waarvoor quetiapine wordt gebruikt. Er is geen aanwijsbaar biologisch pad dat quetiapine met deze aandoening verbindt.
 
@@ -101,6 +101,19 @@ Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC en de bi
 - Een actueel overzicht van de beschikbare registraties en toedieningsvormen.
 
 **Aanvullende opmerking:** van de tien hoogst scorende voorspellingen is alleen **trichotillomanie** (score 0,9938) ondersteund door literatuur. Dat zijn zes publicaties, waarschijnlijk casuïstiek en overzichtsartikelen, waarvan de opzet en uitkomsten niet zijn geverifieerd. Er zijn geen geregistreerde klinische studies. Dit kan een interessantere onderzoeksvraag zijn dan retinale dystrofie, maar voor elke aanbeveling is eerst een gecontroleerde studie nodig.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

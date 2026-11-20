@@ -56,7 +56,7 @@ Galantamine is een cholinesteraseremmer die oorspronkelijk wordt gebruikt bij de
 
 ## Waarom is deze voorspelling redelijk?
 
-Detailgegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde data. Bekend is dat galantamine een acetylcholinesteraseremmer is en een allosterische modulator van nicotinerge receptoren. Het werkt in de ziekte van Alzheimer door de cholinerge signalering in de hersenen te versterken.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Galantamine (niet-officiële vertaling): ‘Hoewel de etiologie van cognitieve stoornissen bij de ziekte van Alzheimer (AD) niet volledig bekend is, is gemeld dat acetylcholineproducerende neuronen degenereren in de hersenen van patiënten met de ziekte van Alzheimer. De mate van dit cholinerge verlies is gecorreleerd met de mate van cognitieve stoornis en de dichtheid van amyloïdplaques (een neuropathologisch kenmerk van de ziekte van Alzheimer). […] Galantamine, een tertiair alkaloïde, is een competitieve en reversibele remmer van acetylcholinesterase.’ Oorspronkelijke Engelse tekst: "Although the etiology of cognitive impairment in Alzheimer’s disease (AD) is not fully understood, it has been reported that acetylcholine-producing neurons degenerate in the brains of patients with Alzheimer’s disease. The degree of this cholinergic loss has been correlated with degree of cognitive impairment and density of amyloid plaques (a neuropathological hallmark of Alzheimer’s disease). […] Galantamine, a tertiary alkaloid, is a competitive and reversible inhibitor of acetylcholinesterase." ([DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1), versie van 2026-07-02; geraadpleegd op 2026-11-19). Bekend is dat galantamine een acetylcholinesteraseremmer is en een allosterische modulator van nicotinerge receptoren. Het werkt in de ziekte van Alzheimer door de cholinerge signalering in de hersenen te versterken.
 
 Voor **psychogene bewegingsstoornissen** (rang 1) is er geen aantoonbare mechanistische relatie: deze aandoeningen zijn functioneel van aard en hebben geen vastgesteld cholinerg substraat. De hoge score is uitsluitend een grafiekgebaseerde voorspelling.
 
@@ -132,12 +132,13 @@ Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De registratie in Nederland is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 109150: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1) |
 
 <!-- review:end log -->
 

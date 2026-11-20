@@ -58,7 +58,7 @@ Desmopressine is een synthetisch analoog van het hormoon vasopressine dat wordt 
 
 ## Waarom is deze voorspelling aannemelijk (of juist niet)?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Uit de bekende farmacologie blijkt dat desmopressine via de V2-receptor de afgifte van von Willebrand-factor (VWF) en factor VIII uit endotheelcellen stimuleert.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Desmopressin (niet-officiële vertaling): ‘Desmopressineacetaat verhoogt de plasmaspiegels van factor VIII-activiteit bij patiënten met hemofilie en de ziekte van von Willebrand type I. De antidiuretische effecten van desmopressineacetaat worden gemedieerd door stimulatie van vasopressine 2 (V2)-receptoren, waardoor de waterreabsorptie in de nier toeneemt en daarmee de urineproductie afneemt. Desmopressineacetaat is een vervangingshormoon voor antidiuretisch hormoon bij de behandeling van centrale diabetes insipidus.’ Oorspronkelijke Engelse tekst: "Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus." ([DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244), versie van 2022-09-28; geraadpleegd op 2026-11-19). Uit de bekende farmacologie blijkt dat desmopressine via de V2-receptor de afgifte van von Willebrand-factor (VWF) en factor VIII uit endotheelcellen stimuleert.
 
 Protrombine (factor II) wordt niet via deze route vrijgemaakt. Er is daarom geen duidelijke mechanistische onderbouwing voor werkzaamheid bij protrombinedeficiëntie. De hoge TxGNN-score weerspiegelt waarschijnlijk de nabijheid van deze aandoening tot andere bloedingsstoornissen in het model, en niet een aangetoonde farmacologische relatie. De voorspelling moet dan ook met grote terughoudendheid worden beoordeeld.
 
@@ -121,6 +121,19 @@ Voorbeelden van **matige** interacties: epinefrine, loperamide, morfine, opium e
 - Preklinische of klinische gegevens die deze aandoening rechtstreeks onderzoeken
 - Aanvullende veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties, waaronder risico op hyponatriëmie)
 - Verificatie van de actuele vergunningsstatus bij CBG-MEB
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

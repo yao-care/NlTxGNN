@@ -58,7 +58,7 @@ Flavoxate is een spasmolyticum voor de urinewegen met een gladde-spierontspannen
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme van flavoxate zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Uit algemene farmacologische kennis is flavoxate een gladde-spierrelaxans met fosfodiësterase-remmende, zwak anticholinerge en calciumantagonistische eigenschappen.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Flavoxate (niet-officiële vertaling): ‘Flavoxaathydrochloride gaat spasmen van de gladde spieren van de urinewegen tegen en oefent zijn effect rechtstreeks op de spier uit. In één onderzoek bij 11 gezonde mannelijke proefpersonen bedroeg de tijd tot het intreden van de werking 55 minuten.’ Oorspronkelijke Engelse tekst: "Flavoxate hydrochloride counteracts smooth muscle spasm of the urinary tract and exerts its effect directly on the muscle. In a single study of 11 normal male subjects, the time to onset of action was 55 minutes." ([DailyMed: flavoxate hydrochloride prescribing information, PuraCap Laboratories LLC dba Blu Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6a06eda-2480-4c0d-8d1e-9e3e89d3ee88), versie van 2025-12-11; geraadpleegd op 2026-11-19). Uit algemene farmacologische kennis is flavoxate een gladde-spierrelaxans met fosfodiësterase-remmende, zwak anticholinerge en calciumantagonistische eigenschappen.
 
 Een verband met ADHD (inattentief type) is op basis hiervan niet onderbouwd. Een mogelijke rol via fosfodiësteraseremming of anticholinerge activiteit in het centrale zenuwstelsel is speculatief en niet getest. De hoge score weerspiegelt een op associaties gebaseerde modelvoorspelling zonder klinische of literatuurondersteuning. De voorspelling moet daarom als hypothese worden beschouwd.
 
@@ -108,6 +108,19 @@ Voor waarschuwingen en contra-indicaties zijn geen gegevens uit de productinform
 - Een systematische literatuursearch en preklinisch onderzoek naar de relevantie voor ADHD.
 - Waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB, om de veiligheid te beoordelen.
 - Een beoordeling van de haalbaarheid en veiligheid in de doelgroep (waaronder kinderen), vóór enig klinisch onderzoek.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: flavoxate hydrochloride prescribing information, PuraCap Laboratories LLC dba Blu Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6a06eda-2480-4c0d-8d1e-9e3e89d3ee88) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

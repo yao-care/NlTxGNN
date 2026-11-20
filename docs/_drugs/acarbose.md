@@ -54,7 +54,7 @@ Acarbose is een alfa-glucosidaseremmer die de opname van koolhydraten in de darm
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Acarbose remt alfa-glucosidasen in de dunne darm en vermindert zo de stijging van de bloedglucose na een maaltijd. Gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport verzamelde gegevens, maar dit klassenmechanisme is algemeen bekend.
+Acarbose remt alfa-glucosidasen in de dunne darm en vermindert zo de stijging van de bloedglucose na een maaltijd. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Acarbose (niet-officiële vertaling): ‘In tegenstelling tot sulfonylureumderivaten versterken Acarbose Tabletten de insulinesecretie niet. De antihyperglykemische werking van acarbose is het gevolg van een competitieve, reversibele remming van pancreatisch alfa-amylase en membraangebonden intestinale alfa-glucosidehydrolase-enzymen.’ Oorspronkelijke Engelse tekst: "In contrast to sulfonylureas, Acarbose Tablets do not enhance insulin secretion. The antihyperglycemic action of acarbose results from a competitive, reversible inhibition of pancreatic alpha-amylase and membrane-bound intestinal alpha-glucoside hydrolase enzymes." ([DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a), versie van 2026-08-11; geraadpleegd op 2026-11-19).
 
 Focaal stiff-limb-syndroom hoort bij het spectrum van het stiff-person-syndroom. Dit is een autoimmuun-neurologische aandoening met verminderde GABAerge remming. Er is geen aanwijsbare mechanistische relatie met de werking van acarbose. De hoge score van 0,9965 is vermoedelijk een gevolg van netwerkverbanden in het model, bijvoorbeeld de associatie van stiff-person-spectrumstoornissen met auto-immuundiabetes. Dat is geen therapeutische onderbouwing: het reguleren van de bloedglucose behandelt de neurologische aandoening niet.
 
@@ -90,6 +90,19 @@ Raadpleeg voor de overige veiligheidsinformatie de SmPC (Samenvatting van de Pro
 - Preklinisch of klinisch onderzoek dat acarbose bij deze aandoening direct bestudeert
 - Aanvullende gegevens over het werkingsmechanisme en de waarschuwingen en contra-indicaties uit de SmPC
 - Een controle van de beschikbare toedieningsvormen en de indicatietekst in de lokale registratiegegevens
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

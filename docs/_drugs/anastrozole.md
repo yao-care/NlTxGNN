@@ -54,7 +54,7 @@ Anastrozol is een niet-steroïdale aromataseremmer die de oestrogeenproductie ve
 
 ## Waarom is deze voorspelling (on)waarschijnlijk redelijk?
 
-Anastrozol remKt het enzym aromatase en verlaagt daarmee de oestrogeensynthese. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar.
+Anastrozol remKt het enzym aromatase en verlaagt daarmee de oestrogeensynthese. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Anastrozole (niet-officiële vertaling): ‘De groei van veel vormen van borstkanker wordt gestimuleerd of in stand gehouden door oestrogenen. Bij postmenopauzale vrouwen zijn oestrogenen voornamelijk afkomstig van de werking van het enzym aromatase, dat bijnierandrogenen (voornamelijk androsteendion en testosteron) omzet in oestron en oestradiol. […] Anastrozol is een selectieve niet-steroïdale aromataseremmer.’ Oorspronkelijke Engelse tekst: "The growth of many cancers of the breast is stimulated or maintained by estrogens. In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. […] Anastrozole is a selective non-steroidal aromatase inhibitor." ([DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de), versie van 2026-03-02; geraadpleegd op 2026-11-19).
 
 Neuroblastoom wordt vooral aangedreven door MYCN-amplificatie, ALK-mutaties en ontwikkelingsroutes van de neurale lijst. Er is geen bekend mechanistisch verband met aromataseremming. Een eventuele relevantie van oestrogeensignalering is speculatief. De hoge score is uitsluitend een voorspelling van het model op basis van netwerkrelaties en geen aanwijzing voor therapeutische werkzaamheid.
 
@@ -100,6 +100,19 @@ De voorspelling berust uitsluitend op het model (bewijsniveau L5). Er zijn geen 
 - Preklinisch of klinisch onderzoek dat neuroblastoom direct onderzoekt
 - Veiligheidsinformatie uit de SmPC van het Nederlandse product (waarschuwingen en contra-indicaties)
 - Beoordeling van de relevantie van de geneesmiddelinteracties
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

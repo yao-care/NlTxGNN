@@ -58,7 +58,7 @@ Captopril is een ACE-remmer die het renine-angiotensinesysteem (RAS) remt. Het T
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Captopril behoort tot de ACE-remmers, die de vorming van angiotensine II remmen en daardoor de bloeddruk en de druk in de nierglomeruli verlagen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Captopril (niet-officiële vertaling): ‘Het werkingsmechanisme van captopril tabletten is nog niet volledig opgehelderd. De gunstige effecten bij hypertensie en hartfalen lijken voornamelijk het gevolg te zijn van onderdrukking van het renine-angiotensine-aldosteronsysteem.’ Oorspronkelijke Engelse tekst: "The mechanism of action of captopril tablets have not yet been fully elucidated. Its beneficial effects in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system." ([DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017), versie van 2026-11-11; geraadpleegd op 2026-11-19). Captopril behoort tot de ACE-remmers, die de vorming van angiotensine II remmen en daardoor de bloeddruk en de druk in de nierglomeruli verlagen.
 
 Bij maligne hypertensieve nierziekte (maligne nefrosclerose) wordt een sterk geactiveerd RAS als bijdragende factor beschouwd. Een ACE-remmer past daarom mechanistisch bij deze aandoening. Ook de nierbeschermende werking van captopril bij andere nierziekten maakt de voorspelling plausibel.
 
@@ -108,6 +108,19 @@ Voor waarschuwingen en contra-indicaties zijn geen bijsluitergegevens beschikbaa
 - Analyse van de SmPC (waarschuwingen en contra-indicaties), met name bij nierfunctiestoornissen, hyperkaliëmie en nierarteriestenose
 - Een veiligheidsplan voor de combinatie met diuretica en andere bloeddrukverlagers, gezien het risico op hypotensie en verslechtering van de nierfunctie
 - Zo mogelijk een gecontroleerde klinische studie of expertadvies voordat een besluit over verdere stappen wordt genomen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -54,7 +54,7 @@ Pitavastatine is een statine. Het TxGNN-model (deep learning) voorspelt dat het 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Voor dit rapport is geen gedetailleerde informatie over het werkingsmechanisme beschikbaar. Pitavastatine behoort tot de statines, die het cholesterolmetabolisme beïnvloeden door remming van HMG-CoA-reductase. De werkzaamheid bij hyperlipidemie is de basis van het gebruik, en mechanistisch zou een link met andere lipoproteïnestoornissen kunnen bestaan.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pitavastatin (niet-officiële vertaling): ‘Pitavastatine is een remmer van 3-hydroxy-3-methylglutaryl-co-enzym A (HMG-CoA)-reductase, het enzym dat de omzetting van HMG-CoA in mevalonaat katalyseert, een snelheidsbepalende stap in de biosyntheseroute van cholesterol. Als gevolg hiervan wordt de expressie van LDL-receptoren, gevolgd door de opname van LDL uit het bloed in de lever, versneld en daalt vervolgens het plasma-TC.’ Oorspronkelijke Engelse tekst: "Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases." ([DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2), versie van 2026-03-31; geraadpleegd op 2026-11-19). Pitavastatine behoort tot de statines, die het cholesterolmetabolisme beïnvloeden door remming van HMG-CoA-reductase. De werkzaamheid bij hyperlipidemie is de basis van het gebruik, en mechanistisch zou een link met andere lipoproteïnestoornissen kunnen bestaan.
 
 CETP-deficiëntie is een stoornis van het lipoproteïnemetabolisme met verhoogd HDL-cholesterol. Het verband met pitavastatine loopt alleen via gedeelde lipidenroutes, en dat is een plausibele maar onbewezen redenering. Bovendien is een duidelijke behandelbehoefte voor LDL-verlaging bij deze aandoening onwaarschijnlijk. De aandoening is vaak goedaardig en wordt soms zelfs met een lange levensduur in verband gebracht.
 
@@ -101,6 +101,19 @@ De modelscore is zeer hoog, maar er is geen enkele klinische studie of publicati
 - Gegevens over het werkingsmechanisme en de officiële veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de SmPC van CBG-MEB.
 
 **Opmerking over andere voorspellingen:** De voorspelling met rang 2, hiv-infectie, heeft wel sterk bewijs. De Fase 3-RCT REPRIEVE (PMID 37486775, 2023) toonde aan dat pitavastatine ernstige cardiovasculaire voorvallen vermindert bij mensen met hiv. Dat gaat over preventie van hart- en vaatziekten, niet over behandeling van de hiv-infectie zelf. Die voorspelling verdient een aparte beoordeling, met aandacht voor interacties met antiretrovirale middelen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -21,11 +21,12 @@
   "items_current": 8583
  },
  "reviews": {
-  "records": 382,
-  "pages": 197,
-  "public_pages_with_records": 197,
+  "records": 614,
+  "pages": 295,
+  "public_pages_with_records": 295,
   "by_action": {
-   "correct": 382
+   "correct": 382,
+   "mechanism": 232
   }
  },
  "fhir": {
@@ -48,7 +49,7 @@
    "l": "L5",
    "lt": 234,
    "lv": 234,
-   "r": 0,
+   "r": 1,
    "i": "Maligne hypertensieve nierziekte"
   },
   {
@@ -57,7 +58,7 @@
    "l": "L5",
    "lt": 237,
    "lv": 232,
-   "r": 0,
+   "r": 1,
    "i": "Cholesterylester-transfereiwitdeficiëntie"
   },
   {
@@ -66,7 +67,7 @@
    "l": "L5",
    "lt": 217,
    "lv": 217,
-   "r": 0,
+   "r": 1,
    "i": "Hersenstaminfarct"
   },
   {
@@ -75,7 +76,7 @@
    "l": "L2",
    "lt": 213,
    "lv": 212,
-   "r": 0,
+   "r": 1,
    "i": "HIV-infectie"
   },
   {
@@ -84,7 +85,7 @@
    "l": "L5",
    "lt": 177,
    "lv": 177,
-   "r": 1,
+   "r": 2,
    "i": "acromesomelic dysplasia, Hunter-Thompson type"
   },
   {
@@ -113,7 +114,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "Focaal stiff-limb-syndroom"
   },
   {
@@ -131,7 +132,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "Slapeloosheid"
   },
   {
@@ -149,7 +150,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "feline acquired immunodeficiency syndrome"
   },
   {
@@ -158,7 +159,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 4,
+   "r": 5,
    "i": "alopecia"
   },
   {
@@ -167,7 +168,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
   },
   {
@@ -176,7 +177,7 @@
    "l": "L4",
    "lt": 1,
    "lv": 0,
-   "r": 4,
+   "r": 5,
    "i": "peptic ulcer perforation"
   },
   {
@@ -197,26 +198,8 @@
    "l": "L5",
    "lt": 6,
    "lv": 4,
-   "r": 5,
+   "r": 6,
    "i": "chronic rhinosinusitis"
-  },
-  {
-   "t": "Tobramycin",
-   "u": "/drugs/tobramycin/",
-   "l": "L4",
-   "lt": 20,
-   "lv": 16,
-   "r": 5,
-   "i": "Blootstellingskeratitis"
-  },
-  {
-   "t": "Arginine",
-   "u": "/drugs/arginine/",
-   "l": "L4",
-   "lt": 54,
-   "lv": 53,
-   "r": 4,
-   "i": "gastroparesis (disease)"
   },
   {
    "t": "Dalteparin",
@@ -224,17 +207,8 @@
    "l": "L5",
    "lt": 14,
    "lv": 13,
-   "r": 4,
+   "r": 5,
    "i": "thrombophilia due to protein C deficiency, autosomal recessive"
-  },
-  {
-   "t": "Fexofenadine",
-   "u": "/drugs/fexofenadine/",
-   "l": "L5",
-   "lt": 19,
-   "lv": 18,
-   "r": 4,
-   "i": "rosacea conjunctivitis"
   },
   {
    "t": "Lubiprostone",
@@ -242,8 +216,35 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 4,
+   "r": 5,
    "i": "alopecia"
+  },
+  {
+   "t": "Ofloxacin",
+   "u": "/drugs/ofloxacin/",
+   "l": "L5",
+   "lt": 16,
+   "lv": 15,
+   "r": 5,
+   "i": "polyclonal hyperviscosity syndrome"
+  },
+  {
+   "t": "Polymyxin B",
+   "u": "/drugs/polymyxin-b/",
+   "l": "L4",
+   "lt": 8,
+   "lv": 6,
+   "r": 5,
+   "i": "bronchitis"
+  },
+  {
+   "t": "Ranitidine",
+   "u": "/drugs/ranitidine/",
+   "l": "L4",
+   "lt": 1,
+   "lv": 0,
+   "r": 5,
+   "i": "peptic ulcer perforation"
   }
  ],
  "example": {
@@ -252,7 +253,7 @@
   "l": "L1",
   "lt": 27,
   "lv": 26,
-  "r": 0,
+  "r": 1,
   "i": "aandachtstekortstoornis met hyperactiviteit"
  },
  "recent_reviews": [

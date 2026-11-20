@@ -58,7 +58,7 @@ Riluzol is een geneesmiddel met een glutamaatmodulerende werking dat in Nederlan
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van riluzol zijn voor dit rapport niet beschikbaar. Wel wordt riluzol in het algemeen beschreven als een middel dat de glutamaatsignalering beïnvloedt. Een mogelijke, maar speculatieve link is dat een overmatige prikkelbaarheid van de hersenschors een rol speelt bij corticale malformaties zoals polymicrogyrie. Een glutamaatmodulerend middel zou daar theoretisch invloed op kunnen hebben.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Riluzole (niet-officiële vertaling): ‘Het mechanisme waarmee riluzol zijn therapeutische effecten uitoefent bij patiënten met ALS is onbekend.’ Oorspronkelijke Engelse tekst: "The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown." ([DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857), versie van 2026-07-27; geraadpleegd op 2026-11-19). Wel wordt riluzol in het algemeen beschreven als een middel dat de glutamaatsignalering beïnvloedt. Een mogelijke, maar speculatieve link is dat een overmatige prikkelbaarheid van de hersenschors een rol speelt bij corticale malformaties zoals polymicrogyrie. Een glutamaatmodulerend middel zou daar theoretisch invloed op kunnen hebben.
 
 Deze redenering wordt niet ondersteund door klinische studies, literatuur of mechanistische gegevens in de aangeleverde informatie. De hoge TxGNN-score (0,9999) is een door het model berekende waarde op basis van netwerkrelaties. Ze zegt niets over werkzaamheid of veiligheid bij patiënten met deze aandoening. De voorspelling moet daarom als een hypothese worden beschouwd.
 
@@ -122,6 +122,18 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie moet de SmPC w
 - Volledige gegevens over het werkingsmechanisme en de waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB.
 - Beoordeling van de geschiktheid van de beschikbare toedieningsvorm (filmomhulde tabletten) voor de betrokken patiëntengroep, die vaak jong is.
 - Een veiligheidsbeoordeling van de relevante geneesmiddelinteracties, met name met de middelen die als "matig" zijn ingedeeld.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

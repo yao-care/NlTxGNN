@@ -60,7 +60,7 @@ Lactulose is een niet-opneembare osmotische laxeermiddel dat oorspronkelijk word
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van lactulose zijn voor dit rapport niet beschikbaar. Op basis van algemene kennis is lactulose een niet-opneembaar disacharide dat in de dikke darm wordt gefermenteerd, het colonmilieu verzuurt en de ammoniakopname verlaagt. Dit werkt bij hepatische encefalopathie en obstipatie.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Lactulose (niet-officiële vertaling): ‘Lactulose veroorzaakt een daling van de ammoniakconcentratie in het bloed en vermindert de mate van portosystemische encefalopathie. Deze werkingen worden beschouwd als het gevolg van het volgende: Bacteriële afbraak van lactulose in het colon verzuurt de inhoud van het colon.’ Oorspronkelijke Engelse tekst: "Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portalsystemic encephalopathy. These actions are considered to be results of the following: Bacterial degradation of lactulose in the colon acidifies the colonic contents." ([DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5), versie van 2024-12-18; geraadpleegd op 2026-11-19). Op basis van algemene kennis is lactulose een niet-opneembaar disacharide dat in de dikke darm wordt gefermenteerd, het colonmilieu verzuurt en de ammoniakopname verlaagt. Dit werkt bij hepatische encefalopathie en obstipatie.
 
 Bij obstructieve icterus ontbreken galzouten in de darm. Daardoor nemen endotoxineabsorptie, bacteriële translocatie en een verstoorde darmbarrière toe, wat bijdraagt aan postoperatieve nierinsufficiëntie. De hypothese is dat orale lactulose endotoxine in de darm vermindert, de flora verandert en de barrièrefunctie helpt herstellen. In vitro remt lactulose de door endotoxine geïnduceerde TNF-productie door monocyten (PMID 2311978).
 
@@ -148,11 +148,12 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
 
 <!-- review:end log -->
 

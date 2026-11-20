@@ -60,7 +60,7 @@ Ribavirine is een antiviraal middel dat oorspronkelijk wordt gebruikt bij chroni
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de data voor dit rapport niet beschikbaar. Op basis van algemene kennis is ribavirine een guanosine-nucleosideanaloog met breed antiviraal effect (remming van IMPDH, uitputting van de GTP-pool en immuunmodulatie). Het wordt bij hepatitis C samen met peginterferon gebruikt.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ribavirin (niet-officiële vertaling): ‘Ribavirine is een antiviraal geneesmiddel. […] Het mechanisme waarmee ribavirine bijdraagt aan de antivirale werkzaamheid in de kliniek is niet volledig opgehelderd. Ribavirine heeft in weefselkweek directe antivirale activiteit tegen veel RNA-virussen. Ribavirine verhoogt de mutatiefrequentie in de genomen van verscheidene RNA-virussen en ribavirinetrifosfaat remt in een biochemische reactie HCV-polymerase.’ Oorspronkelijke Engelse tekst: "Ribavirin is an antiviral drug. […] The mechanism by which ribavirin contributes to its antiviral efficacy in the clinic is not fully understood. Ribavirin has direct antiviral activity in tissue culture against many RNA viruses. Ribavirin increases the mutation frequency in the genomes of several RNA viruses and ribavirin triphosphate inhibits HCV polymerase in a biochemical reaction." ([DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c), versie van 2024-02-06; geraadpleegd op 2026-11-19). Op basis van algemene kennis is ribavirine een guanosine-nucleosideanaloog met breed antiviraal effect (remming van IMPDH, uitputting van de GTP-pool en immuunmodulatie). Het wordt bij hepatitis C samen met peginterferon gebruikt.
 
 Hepatitis B en C zijn beide hepatotrope virale infecties die tot chronische ontsteking, cirrose en leverkanker kunnen leiden. De hoge TxGNN-score weerspiegelt waarschijnlijk deze gedeelde biologie en de overlap in behandelregimes. De directe antivirale werking van ribavirine tegen hepatitis B is echter zwak. Een eventueel voordeel is het meest aannemelijk een immuunmodulerende aanvulling op peginterferon, en geen direct antiviraal effect.
 
@@ -175,12 +175,13 @@ Naast hepatitis B voorspelt het model nog acht andere aandoeningen met scores tu
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “(1 van 1 vergunningen is geldig)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 110605: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c) |
 
 <!-- review:end log -->
 

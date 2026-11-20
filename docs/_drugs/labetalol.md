@@ -60,7 +60,7 @@ maar er zijn **geen geregistreerde klinische studies** en slechts **1 publicatie
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van de bekende informatie combineert labetalol alfa-1-blokkade (vaatverwijding) met niet-selectieve bètablokkade. Het middel verlaagt de bloeddruk en wordt al gebruikt bij hypertensieve noodsituaties.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Labetalol (niet-officiële vertaling): ‘Labetalol heeft zowel competitieve alfa1-adrenerg blokkerende als competitieve bèta-adrenerg blokkerende activiteit. Bij de mens wordt de verhouding van alfa- tot bètablokkade na intraveneuze toediening geschat op ongeveer 1:7.’ Oorspronkelijke Engelse tekst: "Labetalol has both competitive alpha1-adrenergic blocking and competitive beta-adrenergic blocking activity. In man, the ratio of alpha- to beta-blockade has been estimated to be approximately 1:7 following intravenous administration." ([DailyMed: Labetalol Hcl In Dextrose (labetalol hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=99a715a0-4579-410c-b102-7ef6fab8db55), versie van 2025-12-19; geraadpleegd op 2026-11-19). Op basis van de bekende informatie combineert labetalol alfa-1-blokkade (vaatverwijding) met niet-selectieve bètablokkade. Het middel verlaagt de bloeddruk en wordt al gebruikt bij hypertensieve noodsituaties.
 
 Bij renovasculaire hypertensie speelt activering van het renine-angiotensinesysteem een hoofdrol. Bètablokkade verlaagt de reninevrijgave, wat enige biologische plausibiliteit geeft. De voorspelling is echter grotendeels een uitbreiding van de bestaande hypertensie-indicatie en geen echte herpositionering. Directe klinische gegevens voor dit specifieke subtype ontbreken.
 
@@ -116,6 +116,19 @@ Voor de veiligheidsinformatie uit de bijsluiter (SmPC) van het CBG-MEB zijn in d
 - Beoordeling of de voorspelling meerwaarde heeft boven de bestaande hypertensie-indicatie
 - Voor pulmonale hypertensie: een zorgvuldige veiligheidsbeoordeling vanwege het risico van niet-selectieve bètablokkade
 - Verduidelijking van de huidige registratiestatus en beschikbare toedieningsvormen in Nederland
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Labetalol Hcl In Dextrose (labetalol hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=99a715a0-4579-410c-b102-7ef6fab8db55) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

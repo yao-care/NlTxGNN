@@ -60,7 +60,7 @@ Bij de overige voorspellingen in de top 9 is de bewijslast per indicatie verschi
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Uit de aanvullende analyse blijkt dat topiramaat bekend staat om natriumkanaalblokkade, versterking van GABA-A-activiteit, antagonisme van AMPA/kaïnaatreceptoren en remming van koolzuuranhydrase.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Topiramate (niet-officiële vertaling): ‘De precieze mechanismen waarmee topiramaat zijn anticonvulsieve en migrainepreventieve effecten uitoefent, zijn onbekend; preklinische studies hebben echter vier eigenschappen aan het licht gebracht die kunnen bijdragen aan de werkzaamheid van topiramaat bij epilepsie en bij de preventieve behandeling van migraine.’ Oorspronkelijke Engelse tekst: "The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine." ([DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e), versie van 2026-10-05; geraadpleegd op 2026-11-19). Uit de aanvullende analyse blijkt dat topiramaat bekend staat om natriumkanaalblokkade, versterking van GABA-A-activiteit, antagonisme van AMPA/kaïnaatreceptoren en remming van koolzuuranhydrase.
 
 Voor trigeminuszenuwneoplasma is geen plausibele mechanistische koppeling met tumorbiologie aangetoond. De hoge score (0,997) is een puur grafgebaseerde voorspelling en weerspiegelt mogelijk de nabijheid van knooppunten als trigeminusneuralgie of neuropathische pijn, niet een antitumorwerking.
 
@@ -135,12 +135,13 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn geen gege
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er is in Nederland 1 geldige vergunning van 1 (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Topamax is in Nederland wel op de markt met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
 
 <!-- review:end log -->
 

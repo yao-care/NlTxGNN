@@ -58,7 +58,7 @@ Vecuronium is een niet-depolariserend spierverslappend middel dat bij anesthesie
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de samengestelde gegevens niet beschikbaar. Op basis van algemene farmacologische kennis is vecuronium een niet-depolariserende neuromusculaire blokker. Het remt competitief de nicotinerge acetylcholinereceptoren ter hoogte van de neuromusculaire overgang en veroorzaakt zo verlamming van skeletspieren.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Vecuronium (niet-officiële vertaling): ‘Vecuronium is een niet-depolariserend neuromusculair blokkerend middel dat alle kenmerkende farmacologische werkingen van deze klasse geneesmiddelen (curare-achtig) bezit. Het werkt door competitie om cholinerge receptoren in de motorische eindplaat.’ Oorspronkelijke Engelse tekst: "Vecuronium is a nondepolarizing neuromuscular blocking agent possessing all of the characteristic pharmacological actions of this class of drugs (curariform). It acts by competing for cholinergic receptors at the motor end-plate." ([DailyMed: vecuronium bromide prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b012b1b1-9e59-4525-8f4d-dae98344d15f), versie van 2026-10-23; geraadpleegd op 2026-11-19). Op basis van algemene farmacologische kennis is vecuronium een niet-depolariserende neuromusculaire blokker. Het remt competitief de nicotinerge acetylcholinereceptoren ter hoogte van de neuromusculaire overgang en veroorzaakt zo verlamming van skeletspieren.
 
 Het middel heeft geen bekende centraal sedatieve of hypnotische werking en passeert de bloed-hersenbarrière niet in betekenisvolle mate. Een aannemelijke mechanistische route naar de behandeling van slapeloosheid ontbreekt dan ook. De hoge score (0,9934) lijkt een artefact van de netwerkgebaseerde voorspelling zonder farmacologische ondersteuning. Verlamming zonder sedatie zou bovendien schadelijk en beangstigend zijn voor de patiënt, en niet therapeutisch.
 
@@ -123,11 +123,12 @@ Voor waarschuwingen en contra-indicaties zijn geen gegevens beschikbaar. Raadple
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: vecuronium bromide prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b012b1b1-9e59-4525-8f4d-dae98344d15f) |
 
 <!-- review:end log -->
 

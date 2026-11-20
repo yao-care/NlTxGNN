@@ -58,7 +58,7 @@ Spironolacton is een mineralocorticoïdreceptorantagonist die oorspronkelijk wor
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van algemene farmacologische kennis is spironolacton een mineralocorticoïdreceptorantagonist met een duidelijke anti-androgene werking (blokkade van de androgeenreceptor en verminderde androgeensynthese). Dit mechanisme wordt klinisch off-label gebruikt bij vrouwelijke haaruitval (androgenetische alopecia).
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Spironolactone (niet-officiële vertaling): ‘Spironolacton en zijn actieve metabolieten zijn specifieke farmacologische antagonisten van aldosteron, die voornamelijk werken via competitieve binding aan receptoren op de aldosteronafhankelijke natrium-kaliumuitwisselingsplaats in de distale tubulus contortus van de nier. Spironolacton zorgt ervoor dat grotere hoeveelheden natrium en water worden uitgescheiden, terwijl kalium wordt vastgehouden.’ Oorspronkelijke Engelse tekst: "Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained." ([DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc), versie van 2025-11-28; geraadpleegd op 2026-11-19). Op basis van algemene farmacologische kennis is spironolacton een mineralocorticoïdreceptorantagonist met een duidelijke anti-androgene werking (blokkade van de androgeenreceptor en verminderde androgeensynthese). Dit mechanisme wordt klinisch off-label gebruikt bij vrouwelijke haaruitval (androgenetische alopecia).
 
 Hypotrichosis simplex van de hoofdhuid is echter een zeldzame erfelijke haarziekte (gekoppeld aan genen zoals CDSN, APCDD1 en RPL21) en wordt niet primair door androgenen aangedreven. De mechanistische link met de oorspronkelijke cardiovasculaire en renale indicaties is daardoor indirect en speculatief. De zeer hoge score (0,9926) is waarschijnlijk het gevolg van nabijheid in het kennisnetwerk tot andere haaruitvalaandoeningen en wordt niet door studies of literatuur onderbouwd.
 
@@ -128,12 +128,13 @@ Voor volledige waarschuwingen en contra-indicaties raadpleeg de SmPC (Samenvatti
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Bovendien is het enige Nederlandse product doorgehaald en ontbreekt de veiligheidsinformatie uit de officiële productinformatie, wat een blo” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 55973: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->
 

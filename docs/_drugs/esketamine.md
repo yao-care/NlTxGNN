@@ -54,7 +54,7 @@ Esketamine is een NMDA-receptorantagonist die al wordt gebruikt bij therapieresi
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Bekend is dat esketamine een NMDA-receptorantagonist is die de glutamaterge signalering versterkt en al wordt toegepast bij therapieresistente depressie.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Esketamine (niet-officiële vertaling): ‘Esketamine, het S-enantiomeer van racemisch ketamine, is een niet-selectieve, niet-competitieve antagonist van de N-methyl-D-aspartaat (NMDA)-receptor, een ionotrope glutamaatreceptor. Het mechanisme waarmee esketamine zijn antidepressieve effect uitoefent, is onbekend.’ Oorspronkelijke Engelse tekst: "Esketamine, the S-enantiomer of racemic ketamine, is a non-selective, non-competitive antagonist of the N -methyl- D -aspartate (NMDA) receptor, an ionotropic glutamate receptor. The mechanism by which esketamine exerts its antidepressant effect is unknown." ([DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed), versie van 2026-09-22; geraadpleegd op 2026-11-19). Bekend is dat esketamine een NMDA-receptorantagonist is die de glutamaterge signalering versterkt en al wordt toegepast bij therapieresistente depressie.
 
 Agorafobie behoort tot het spectrum van angststoornissen. Een snelle modulatie van angst- en vreescircuits zou mechanistisch een aanknopingspunt kunnen bieden. Dit is echter uitsluitend een hypothese: er zijn geen klinische gegevens die deze koppeling ondersteunen, en het ontbreken van mechanismegegevens verzwakt de onderbouwing verder.
 
@@ -99,6 +99,19 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB
 - Gerichte preklinische en klinische studies bij agorafobie
 - Een beoordeling van de veiligheid (o.a. dissociatieve en cardiovasculaire effecten) in de beoogde populatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Spravato (esketamine hydrochloride) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

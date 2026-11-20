@@ -54,7 +54,7 @@ Clozapine is een atypisch antipsychoticum met een breed receptorprofiel. Het TxG
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van de bekende farmacologie werkt clozapine op meerdere receptoren: D2- en 5-HT2A-antagonisme, plus muscarine-, adrenerge en histaminerge activiteit. Dit brede profiel is mechanistisch plausibel voor antimanische en stemmingsstabiliserende effecten, vooral bij therapieresistente ziekte.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Clozapine (niet-officiële vertaling): ‘Het werkingsmechanisme van clozapine is onbekend. Er is echter verondersteld dat de therapeutische werkzaamheid van clozapine bij schizofrenie wordt gemedieerd door antagonisme van de dopamine type 2 (D 2 )- en de serotonine type 2A (5-HT 2A )-receptoren.’ Oorspronkelijke Engelse tekst: "The mechanism of action of clozapine is unknown. However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D 2 ) and the serotonin type 2A (5-HT 2A ) receptors." ([DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355), versie van 2026-09-06; geraadpleegd op 2026-11-19). Op basis van de bekende farmacologie werkt clozapine op meerdere receptoren: D2- en 5-HT2A-antagonisme, plus muscarine-, adrenerge en histaminerge activiteit. Dit brede profiel is mechanistisch plausibel voor antimanische en stemmingsstabiliserende effecten, vooral bij therapieresistente ziekte.
 
 Het bewijs ondersteunt dit vooral bij behandelresistente bipolaire stoornis. Een voltooide dubbelblinde fase 2-studie onderzocht clozapine bij behandelresistente manie. Een systematische review met meta-analyse van kleine vergelijkende studies vond clozapine vergelijkbaar met andere antipsychotica bij manische episoden en beter bij behandelresistente bipolaire stoornis. Er zijn geen fase 3-studies voor deze specifieke voorspelling.
 
@@ -108,6 +108,18 @@ Uit de voor dit rapport samengestelde gegevens komen de volgende punten naar vor
 - Een veiligheidsmonitoringplan voor neutropenie en agranulocytose, myocarditis, aanvallen en metabole effecten.
 - Een plan voor het beheer van geneesmiddelinteracties.
 - Gegevens over het werkingsmechanisme in relatie tot manie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

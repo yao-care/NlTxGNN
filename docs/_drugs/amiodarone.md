@@ -54,7 +54,7 @@ Amiodaron is een antiaritmicum met werking op meerdere ionkanalen en bètablokke
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de samengestelde gegevens niet beschikbaar. Op basis van algemene farmacologische kennis blokkeert amiodaron kalium-, natrium- en calciumkanalen en remt het bètaadrenerge receptoren. Dit zou in theorie ventriculaire ritmestoornissen kunnen onderdrukken die door catecholaminen worden uitgelokt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Amiodarone (niet-officiële vertaling): ‘Amiodaron wordt beschouwd als een klasse III-antiaritmicum, maar het bezit elektrofysiologische kenmerken van alle vier de Vaughan Williams-klassen. Net als klasse I-middelen blokkeert amiodaron natriumkanalen bij hoge stimulatiefrequenties, en net als klasse II-middelen oefent amiodaron een niet-competitieve antisympathische werking uit.’ Oorspronkelijke Engelse tekst: "Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action." ([DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3), versie van 2025-11-05; geraadpleegd op 2026-11-19). Op basis van algemene farmacologische kennis blokkeert amiodaron kalium-, natrium- en calciumkanalen en remt het bètaadrenerge receptoren. Dit zou in theorie ventriculaire ritmestoornissen kunnen onderdrukken die door catecholaminen worden uitgelokt.
 
 De voorspelling is echter mechanistisch zwak onderbouwd. Catecholaminerge polymorfe ventrikeltachycardie (CPVT) wordt veroorzaakt door een diastolisch calciumlek via RYR2- of CASQ2-mutaties. De eerstelijnsbehandeling bestaat uit bètablokkers, aangevuld met flecaïnide. Amiodaron is dus geen mechanistisch gerichte keuze.
 
@@ -113,6 +113,18 @@ Voorbeelden van matige interacties (Moderate) zijn famotidine, aprepitant, bisac
 - Preklinisch of klinisch onderzoek dat amiodaron direct bij CPVT onderzoekt
 - Analyse van de SmPC-waarschuwingen en contra-indicaties van het CBG-MEB
 - Een vergelijking met de bestaande eerstelijnsbehandeling
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

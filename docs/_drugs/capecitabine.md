@@ -60,7 +60,7 @@ Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de vo
 
 ## Waarom is deze voorspelling plausibel?
 
-Capecitabine is een prodrug van 5-fluorouracil, dat via thymidinefosforylase in het lichaam wordt omgezet. Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport samengestelde data.
+Capecitabine is een prodrug van 5-fluorouracil, dat via thymidinefosforylase in het lichaam wordt omgezet. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Capecitabine (niet-officiële vertaling): ‘Capecitabine wordt in vivo gemetaboliseerd tot fluorouracil. Zowel normale cellen als tumorcellen metaboliseren fluorouracil tot 5-fluoro-2'-deoxyuridinemonofosfaat (FdUMP) en 5-fluorouridinetrifosfaat (FUTP). Deze metabolieten veroorzaken celbeschadiging via twee verschillende mechanismen.’ Oorspronkelijke Engelse tekst: "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms." ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), versie van 2026-02-05; geraadpleegd op 2026-11-19).
 
 Gastrisch adenocarcinoom en proximale poliepose van de maag (GAPPS) is een zeldzaam erfelijk syndroom met mutaties in de APC-promotor 1B. Het geeft aanleg voor poliepen van de fundusklieren en voor intestinaal type maagadenocarcinoom. De hoge score weerspiegelt waarschijnlijk vooral de nabijheid tot maagadenocarcinoom als bredere ziektecategorie, en niet een nieuw mechanistisch inzicht. Specifiek bewijs voor GAPPS is niet aangeleverd, dus mechanistische validatie was met de beschikbare gegevens niet mogelijk.
 
@@ -121,6 +121,19 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie: raadpleeg de 
 - Gegevens over het werkingsmechanisme
 - De waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB (o.a. DPD-deficiëntie en nier- en leverfunctie)
 - Een veiligheidsplan voor de te onderzoeken patiëntengroep
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

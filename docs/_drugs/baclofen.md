@@ -58,7 +58,7 @@ Baclofen is een GABA-B-receptoragonist die wordt gebruikt bij spasticiteit. In d
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Voor dit rapport is geen gedetailleerde informatie over het werkingsmechanisme beschikbaar uit de officiële bronnen. Baclofen is een agonist van de GABA-B-receptor. Een mogelijke, nog niet geverifieerde verklaring is dat GABA-B-agonisme de remmende tonus in cortico-striatale circuits beïnvloedt en daarmee mogelijk impulsiviteit vermindert.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Baclofen (niet-officiële vertaling): ‘Het precieze werkingsmechanisme van baclofen is niet volledig bekend. Baclofen remt zowel monosynaptische als polysynaptische reflexen op spinaal niveau, mogelijk door de afgifte van exciterende neurotransmitters uit afferente zenuwuiteinden te verminderen, hoewel ook werkingen op supraspinale plaatsen kunnen optreden en kunnen bijdragen aan het klinische effect.’ Oorspronkelijke Engelse tekst: "The precise mechanism of action of baclofen is not fully understood. Baclofen inhibits both monosynaptic and polysynaptic reflexes at the spinal level, possibly by decreasing excitatory neurotransmitter release from afferent terminals, although actions at supraspinal sites may also occur and contribute to its clinical effect." ([DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2), versie van 2026-09-22; geraadpleegd op 2026-11-19). Baclofen is een agonist van de GABA-B-receptor. Een mogelijke, nog niet geverifieerde verklaring is dat GABA-B-agonisme de remmende tonus in cortico-striatale circuits beïnvloedt en daarmee mogelijk impulsiviteit vermindert.
 
 De relatie tussen de oorspronkelijke indicatie (spasticiteit, een aandoening met verhoogde spiertonus) en ADHD is mechanistisch indirect. Beide hebben te maken met remming in het zenuwstelsel, maar er is geen directe klinische onderbouwing.
 
@@ -159,12 +159,13 @@ Voor dezelfde stof is een tweede voorspelling gedaan met aanzienlijk meer bewijs
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1 vergunning in totaal); h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
 
 <!-- review:end log -->
 

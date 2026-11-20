@@ -58,7 +58,7 @@ Propranolol is een niet-selectieve bètablokker, oorspronkelijk gebruikt voor on
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de voor dit rapport samengestelde data. Propranolol is bekend als niet-selectieve bètablokker. De werkzaamheid bij cardiovasculaire aandoeningen en hemangioom is vastgesteld, maar een mechanistisch verband met distale myopathie (type Tateyama) kan op basis van de beschikbare gegevens **niet** worden aangetoond.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Propranolol (niet-officiële vertaling): ‘Het mechanisme van het antihypertensieve effect van propranolol is niet vastgesteld. Tot de factoren die bijdragen aan de antihypertensieve werking behoren: verminderd hartminuutvolume, remming van de afgifte van renine door de nieren en vermindering van de tonische sympathische zenuwactiviteit vanuit de vasomotorische centra in de hersenen.’ Oorspronkelijke Engelse tekst: "The mechanism of the antihypertensive effect of propranolol has not been established. Among factors that contribute to the antihypertensive action are: decreased cardiac output, inhibition of renin release by the kidneys, and diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain." ([DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade), versie van 2026-08-27; geraadpleegd op 2026-11-19). Propranolol is bekend als niet-selectieve bètablokker. De werkzaamheid bij cardiovasculaire aandoeningen en hemangioom is vastgesteld, maar een mechanistisch verband met distale myopathie (type Tateyama) kan op basis van de beschikbare gegevens **niet** worden aangetoond.
 
 De score is zeer hoog (0,994), maar het is een voorspelling zonder ondersteunend klinisch of literatuurbewijs. Een aannemelijke bètaadrenerge route voor deze zeldzame spierziekte wordt niet onderbouwd. Bovendien vermeldt de kennisgraaf myopathie en spierziekten als aandoeningen waarbij propranolol juist **gecontra-indiceerd** is (zie Veiligheid). Dit maakt de voorspelling extra voorzichtig te beoordelen.
 
@@ -156,13 +156,14 @@ Voor de volledigheid: bij de voorspelde indicatie met de hoogste literatuuronder
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Ook de Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Bevestiging van de marktstatus in Nederland: het middel is in de handel, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 57202: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade) |
 
 <!-- review:end log -->
 

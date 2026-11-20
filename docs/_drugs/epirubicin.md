@@ -54,7 +54,7 @@ Epirubicine is een cytostatisch middel uit de antracyclinegroep. Het model TxGNN
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Epirubicine is een antracycline: een DNA-intercalerende topoisomerase II-remmer. Antracyclines zoals doxorubicine vormen de ruggengraat van CHOP-achtige schema's voor agressieve B-cellymfomen. Het mechanisme is dus plausibel voor een lymfoom dat in de long ontstaat.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Epirubicin (niet-officiële vertaling): ‘Epirubicine is een cytotoxisch middel uit de klasse van de antracyclines. Hoewel bekend is dat antracyclines een aantal biochemische en biologische functies in eukaryote cellen kunnen verstoren, zijn de precieze mechanismen van de cytotoxische en/of antiproliferatieve eigenschappen van epirubicine niet volledig opgehelderd.’ Oorspronkelijke Engelse tekst: "Epirubicin is an anthracycline cytotoxic agent. Although it is known that anthracyclines can interfere with a number of biochemical and biological functions within eukaryotic cells, the precise mechanisms of epirubicin's cytotoxic and/or antiproliferative properties have not been completely elucidated." ([DailyMed: Ellence (epirubicin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a03c798-a652-4895-b29c-3b521a89ba42), versie van 2026-07-24; geraadpleegd op 2026-11-19). Epirubicine is een antracycline: een DNA-intercalerende topoisomerase II-remmer. Antracyclines zoals doxorubicine vormen de ruggengraat van CHOP-achtige schema's voor agressieve B-cellymfomen. Het mechanisme is dus plausibel voor een lymfoom dat in de long ontstaat.
 
 Direct bewijs ontbreekt echter. De gevonden literatuur bestaat uit een algemeen overzicht van epirubicine, casuïstiek over lymfomen van long of pleura en studies naar andere schema's (R-CHP, VEBEP). Er is geen enkele studie die epirubicine specifiek bij primair pulmonaal lymfoom onderzoekt. De voorspelling berust daarom vooral op farmacologische analogie en op de hoge modelscore.
 
@@ -116,6 +116,19 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Een preklinische of retrospectieve studie, gevolgd door een prospectieve klinische studie als dat gerechtvaardigd blijkt.
 - Beoordeling van het cardiale veiligheidsprofiel en een monitoringplan, op basis van de SmPC.
 - Aanvullende gegevens over het werkingsmechanisme.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Ellence (epirubicin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a03c798-a652-4895-b29c-3b521a89ba42) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

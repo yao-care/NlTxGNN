@@ -58,7 +58,7 @@ Albendazol is een wormmiddel uit de benzimidazoolgroep dat in Nederland in de ha
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn geen gedetailleerde gegevens over het werkingsmechanisme in de data voor dit rapport. Albendazol behoort tot de benzimidazolen. Deze stoffen binden aan bèta-tubuline van parasieten, waardoor de celstructuur en het energiemetabolisme van larven van lintwormen worden verstoord.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Albendazole (niet-officiële vertaling): ‘ALBENZA (albendazol) is een synthetisch anthelminthicum uit de klasse van de benzimidazolen. […] ALBENZA bindt aan de colchicinegevoelige plaats van β-tubuline, waardoor de polymerisatie ervan tot microtubuli wordt geremd. De afname van microtubuli in de darmcellen van de parasieten vermindert hun absorptiefunctie, met name de opname van glucose door de volwassen vormen en de larvale vormen van de parasieten, en put tevens de glycogeenvoorraad uit.’ Oorspronkelijke Engelse tekst: "ALBENZA (albendazole) is a synthetic, antihelminthic drug of the class benzimidazole. […] ALBENZA binds to the colchicine-sensitive site of β-tubulin inhibiting their polymerization into microtubules. The decrease in microtubules in the intestinal cells of the parasites decreases their absorptive function, especially the uptake of glucose by the adult and larval forms of the parasites, and also depletes glycogen storage." ([DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5), versie van 2019-09-23; geraadpleegd op 2026-11-19). Albendazol behoort tot de benzimidazolen. Deze stoffen binden aan bèta-tubuline van parasieten, waardoor de celstructuur en het energiemetabolisme van larven van lintwormen worden verstoord.
 
 Coenurose wordt veroorzaakt door het larvestadium van *Taenia multiceps* en verwante taeniiden. Dit zijn lintwormen die nauw verwant zijn aan *Taenia solium*. Het mechanistische argument is dus een extrapolatie van een verwante larvale lintwormziekte naar coenurose.
 
@@ -140,6 +140,18 @@ Waarschuwingen en contra-indicaties uit de productinformatie zijn niet beschikba
 - Gegevens over het werkingsmechanisme en de gevoeligheid van *Taenia multiceps*-larven voor albendazol.
 - Veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties), inclusief een monitoringsplan voor langdurig gebruik.
 - Een beoordeling door het CBG-MEB van de benodigde dosering en behandelduur voor deze nieuwe indicatie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

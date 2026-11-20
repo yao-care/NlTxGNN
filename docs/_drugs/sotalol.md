@@ -58,7 +58,7 @@ Sotalol is een bètablokker met klasse III-antiaritmische werking, oorspronkelij
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van sotalol zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van algemene kennis is sotalol een bètablokker die ook de repolarisatie verlengt (klasse III) en zo het hartritme stabiliseert.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Sotalol (niet-officiële vertaling): ‘Sotalol heeft zowel bèta-adrenoreceptorblokkerende (Vaughan Williams klasse II) als de duur van de cardiale actiepotentiaal verlengende (Vaughan Williams klasse III) antiaritmische eigenschappen. De twee isomeren van sotalol hebben vergelijkbare antiaritmische klasse III-effecten, terwijl het l-isomeer verantwoordelijk is voor vrijwel de gehele bètablokkerende activiteit.’ Oorspronkelijke Engelse tekst: "Sotalol has both beta-adrenoreceptor blocking (Vaughan Williams Class II) and cardiac action potential duration prolongation (Vaughan Williams Class III) antiarrhythmic properties. The two isomers of sotalol have similar Class III antiarrhythmic effects, while the l-isomer is responsible for virtually all of the beta-blocking activity." ([DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee), versie van 2024-12-16; geraadpleegd op 2026-11-19). Op basis van algemene kennis is sotalol een bètablokker die ook de repolarisatie verlengt (klasse III) en zo het hartritme stabiliseert.
 
 De relatie met beroerte is **indirect**. Atriumfibrilleren is een belangrijke oorzaak van cardio-embolische beroerte. Ritmecontrole met sotalol zou de belasting door atriumfibrilleren kunnen verminderen en daarmee mogelijk het beroerterisico. De fase 3-studie (NCT00007605) onderzocht echter het behoud van sinusritme bij atriumfibrilleren, dus de oorspronkelijke indicatie, en toont geen preventie van beroerte aan. Bewijs dat ritmecontrolemedicatie beroerte vermindert is beperkt; antistolling blijft de standaard voor beroerte-preventie. Daarom is het niveau verlaagd naar L4.
 
@@ -141,11 +141,12 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de officiële tekst d
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee) |
 
 <!-- review:end log -->
 

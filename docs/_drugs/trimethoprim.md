@@ -54,7 +54,7 @@ Trimethoprim is een antibioticum (foliumzuurantagonist) dat oorspronkelijk wordt
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene kennis is trimethoprim een antibacteriële remmer van dihydrofolaatreductase. De werkzaamheid bij bacteriële oogontstekingen (conjunctivitis, blefaroconjunctivitis) is al bekend, en mechanistisch zou het kunnen aansluiten bij een verwante oogaandoening.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Trimethoprim (niet-officiële vertaling): ‘Trimethoprim blokkeert de productie van tetrahydrofoliumzuur uit dihydrofoliumzuur door te binden aan het benodigde enzym, dihydrofolaatreductase, en dit reversibel te remmen. Deze binding is veel sterker voor het bacteriële enzym dan voor het overeenkomstige enzym bij zoogdieren.’ Oorspronkelijke Engelse tekst: "Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase. This binding is very much stronger for the bacterial enzyme than for the corresponding mammalian enzyme." ([DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597), versie van 2026-11-15; geraadpleegd op 2026-11-19). Op basis van algemene kennis is trimethoprim een antibacteriële remmer van dihydrofolaatreductase. De werkzaamheid bij bacteriële oogontstekingen (conjunctivitis, blefaroconjunctivitis) is al bekend, en mechanistisch zou het kunnen aansluiten bij een verwante oogaandoening.
 
 De aannemelijkheid is echter beperkt. Punctate epitheliale keratoconjunctivitis is vaak van virale of immuungemedieerde oorsprong (bijvoorbeeld adenovirus). Van een antibacterieel middel is dan weinig effect te verwachten. De hoge score is een zuiver computationele voorspelling, vermoedelijk gedreven door de nabijheid van de bestaande oogindicaties in het kennisnetwerk.
 
@@ -73,7 +73,6 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 | RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
 |---------|------|------|-----------|
 | RVG 55723 | Trimethoprim CF 300 mg, tabletten (geldig) | Tablet | Geen indicatietekst beschikbaar |
-
 
 ## Veiligheidsoverwegingen
 
@@ -94,6 +93,19 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank).
 - Gerichte literatuurstudie naar trimethoprim bij punctate epitheliale keratoconjunctivitis en bepaling van de etiologie (bacterieel versus viraal).
 - Beoordeling van de toedieningsroute (topicaal oogpreparaat) en beschikbaarheid van een geschikt product in Nederland.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

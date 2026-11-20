@@ -54,7 +54,7 @@ Dienogest is een selectief progestageen met een sterk effect op het baarmoedersl
 
 ## Waarom is deze voorspelling plausibel?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van de bekende eigenschappen is dienogest een selectief progestageen dat de ovulatie gedeeltelijk onderdrukt en atrofie van het baarmoederslijmvlies veroorzaakt.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Dienogest (niet-officiële vertaling): ‘Onbekend’ Oorspronkelijke Engelse tekst: "Unknown" ([ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Op basis van de bekende eigenschappen is dienogest een selectief progestageen dat de ovulatie gedeeltelijk onderdrukt en atrofie van het baarmoederslijmvlies veroorzaakt.
 
 Hier zit ook de kern van de twijfel: amenorroe is een veelgenoemd, verwacht effect van behandeling met dienogest, en niet een aandoening die het behandelt. Gebruik bij amenorroe (bijvoorbeeld voor een onttrekkingsbloeding of bescherming van het baarmoederslijmvlies bij een laag oestrogeenniveau) is mechanistisch denkbaar, maar niet direct onderbouwd. De hoge modelscore weerspiegelt waarschijnlijk de samenhang tussen dienogest en veranderingen in de menstruatie, en niet een therapeutisch voordeel.
 
@@ -99,6 +99,19 @@ Voor dit geneesmiddel zijn in de data geen waarschuwingen of contra-indicaties u
 - Gegevens over het werkingsmechanisme en de productinformatie (waarschuwingen en contra-indicaties) van het CBG-MEB
 - Een klinische of literatuurgebaseerde onderbouwing die dienogest direct koppelt aan de behandeling van amenorroe
 - Een duidelijke definitie van het beoogde gebruik (bijvoorbeeld bescherming van het baarmoederslijmvlies bij een laag oestrogeenniveau) en een beoordeling van de balans tussen voordelen en risico's
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

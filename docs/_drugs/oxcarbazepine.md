@@ -60,7 +60,7 @@ Er zijn momenteel **geen geregistreerde klinische studies** en **16 publicaties*
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Oxcarbazepine werkt via de actieve metaboliet MHD (10-monohydroxy-derivaat), die spanningsafhankelijke natriumkanalen blokkeert. Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport samengestelde data. Deze beschrijving is gebaseerd op algemene farmacologische kennis en op de analyse van de voorspelling.
+Oxcarbazepine werkt via de actieve metaboliet MHD (10-monohydroxy-derivaat), die spanningsafhankelijke natriumkanalen blokkeert. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Oxcarbazepine (niet-officiële vertaling): ‘De farmacologische activiteit van TRILEPTAL wordt voornamelijk uitgeoefend via de 10-monohydroxymetaboliet (MHD) van oxcarbazepine. Het precieze mechanisme waarmee oxcarbazepine en MHD hun anti-epileptische effect uitoefenen, is onbekend; in-vitro elektrofysiologische onderzoeken wijzen er echter op dat zij blokkade van spanningsgevoelige natriumkanalen veroorzaken, wat resulteert in stabilisatie van overprikkelde neurale membranen, remming van repetitieve neuronale ontladingen en vermindering van de voortgeleiding van synaptische impulsen.’ Oorspronkelijke Engelse tekst: "The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses." ([DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b), versie van 2026-10-28; geraadpleegd op 2026-11-19). Deze beschrijving is gebaseerd op algemene farmacologische kennis en op de analyse van de voorspelling.
 
 Visuele epilepsie is meestal focaal (met een occipitale of posterieure oorsprong). Daardoor bestaat een aannemelijke mechanistische overlap met de goedgekeurde indicatie voor focale epilepsie. De zeer hoge TxGNN-score weerspiegelt waarschijnlijk vooral de nabijheid van deze voorspelling tot de reeds goedgekeurde indicatie, en niet nieuw, specifiek bewijs.
 
@@ -148,11 +148,12 @@ Het model voorspelde ook andere indicaties. Hieronder staat een korte samenvatti
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 118970//24751: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b) |
 
 <!-- review:end log -->
 

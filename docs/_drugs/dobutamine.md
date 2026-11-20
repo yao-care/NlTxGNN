@@ -58,7 +58,7 @@ Dobutamine is een bèta-1-adrenerge agonist en inotroop middel dat intraveneus w
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Dobutamine is een bèta-1-adrenerge agonist die de hartcontractiliteit verhoogt. Het wordt intraveneus toegediend bij acuut hartfalen en voor stressechocardiografie.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Dobutamine (niet-officiële vertaling): ‘Dobutaminehydrochloride is een direct werkend inotroop middel waarvan de primaire werking voortkomt uit stimulatie van de bètareceptoren van het hart, terwijl het relatief milde chronotrope, hypertensieve, aritmogene en vaatverwijdende effecten heeft. Het veroorzaakt geen afgifte van endogeen noradrenaline, zoals dopamine wel doet.’ Oorspronkelijke Engelse tekst: "Dobutamine hydrochloride is a direct-acting inotropic agent whose primary activity results from stimulation of the beta-receptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects. It does not cause the release of endogenous norepinephrine, as does dopamine." ([DailyMed: Dobutamine Hydrochloride In Dextrose (dobutamine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b17b98b-e06d-42ed-925f-69aa2699dead), versie van 2023-09-08; geraadpleegd op 2026-11-19). Dobutamine is een bèta-1-adrenerge agonist die de hartcontractiliteit verhoogt. Het wordt intraveneus toegediend bij acuut hartfalen en voor stressechocardiografie.
 
 Er is **geen plausibele mechanistische link** met haarfollikelbiologie. De hoge score van 0,9985 is waarschijnlijk een grafartefact: in het kennisnetwerk ligt dobutamine dicht bij cardiovasculaire geneesmiddelen zoals minoxidil, een vaatverwijder die wél met haargroei wordt geassocieerd (ook als bijwerking, hypertrichose). Die nabijheid in het netwerk is geen bewijs dat dobutamine werkt.
 
@@ -126,12 +126,13 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de officiële tekst d
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 107115: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Dobutamine Hydrochloride In Dextrose (dobutamine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b17b98b-e06d-42ed-925f-69aa2699dead) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Pregabaline wordt gebruikt bij angststoornissen, fibromyalgie, myofasciaal pijns
 
 ## Waarom is deze voorspelling redelijk?
 
-Pregabaline bindt aan de alfa-2-delta-subeenheid van spanningsafhankelijke calciumkanalen. Daardoor komt er minder van de prikkelende neurotransmitters vrij. Dit verklaart de werking bij neuropathische pijn en bij pijn met centrale sensitisatie, zoals fibromyalgie. Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens. De beschrijving hierboven is de algemeen bekende farmacologie.
+Pregabaline bindt aan de alfa-2-delta-subeenheid van spanningsafhankelijke calciumkanalen. Daardoor komt er minder van de prikkelende neurotransmitters vrij. Dit verklaart de werking bij neuropathische pijn en bij pijn met centrale sensitisatie, zoals fibromyalgie. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pregabalin (niet-officiële vertaling): ‘Pregabaline bindt met hoge affiniteit aan de alfa 2 ‑deltaplaats (een hulpsubeenheid van spanningsafhankelijke calciumkanalen) in weefsels van het centrale zenuwstelsel. Hoewel het werkingsmechanisme van pregabaline niet volledig is opgehelderd, wijzen resultaten met genetisch gemodificeerde muizen en met verbindingen die structureel verwant zijn aan pregabaline (zoals gabapentine) erop dat binding aan de alfa 2 ‑delta-subeenheid betrokken kan zijn bij de antinociceptieve en anti-epileptische effecten van pregabaline bij dieren.’ Oorspronkelijke Engelse tekst: "Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals." ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), versie van 2026-03-12; geraadpleegd op 2026-11-19). De beschrijving hierboven is de algemeen bekende farmacologie.
 
 Het verband met tendinitis is indirect. Tendinitis is vooral een mechanische en ontstekingsaandoening van de pees. Pregabaline zou hooguit de pijncomponent kunnen verlichten, vooral als er neuropathische of centraal gesensitiseerde pijn bij komt kijken. Een effect op het ontstekings- of herstelproces van de pees is niet aannemelijk. De hoge modelscore (0,9971) wordt niet gestaafd door direct klinisch bewijs.
 
@@ -140,11 +140,12 @@ Voor de volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indi
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald"” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 
 <!-- review:end log -->
 

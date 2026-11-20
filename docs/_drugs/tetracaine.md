@@ -58,7 +58,7 @@ Tetracaïne is een lokaal anestheticum van het estertype. Het TxGNN-model (deep 
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens geen gedetailleerde gegevens beschikbaar. Uit algemene kennis is tetracaïne een lokaal anestheticum dat spanningsafhankelijke natriumkanalen blokkeert.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Tetracaine (niet-officiële vertaling): ‘Tetracaïne blokkeert natriumionkanalen die nodig zijn voor het ontstaan en de geleiding van neuronale impulsen, waardoor lokale anesthesie tot stand komt.’ Oorspronkelijke Engelse tekst: "Tetracaine blocks sodium ion channels required for the initiation and conduction of neuronal impulses thereby affecting local anesthesia." ([DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a), versie van 2026-08-28; geraadpleegd op 2026-11-19). Uit algemene kennis is tetracaïne een lokaal anestheticum dat spanningsafhankelijke natriumkanalen blokkeert.
 
 Acrodermatitis chronica atrophicans is een laat-stadium huidmanifestatie van een Borrelia-infectie en wordt met antibiotica behandeld. Een verband met natriumkanaalblokkade is niet te leggen. De hoge modelscore is een computationele voorspelling zonder ondersteunend klinisch bewijs of literatuur.
 
@@ -163,12 +163,13 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “(1 van de 1 vergunningen is geldig)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a) |
 
 <!-- review:end log -->
 

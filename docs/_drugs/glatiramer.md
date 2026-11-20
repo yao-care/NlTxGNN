@@ -58,7 +58,7 @@ Glatiramer is een immunomodulerend middel dat bekend is van de behandeling van m
 
 ## Waarom is deze voorspelling aannemelijk?
 
-De TxGNN-score is zeer hoog (0,9903), maar gegevens over het werkingsmechanisme van glatiramer ontbreken in de data die voor dit rapport zijn samengesteld. Ook zijn er geen oorspronkelijke indicaties vastgelegd, waardoor geen onderbouwde mechanistische redenering kan worden opgesteld.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Glatiramer (niet-officiële vertaling): ‘Het mechanisme of de mechanismen waarmee glatirameeracetaat zijn effecten uitoefent bij patiënten met MS, zijn niet volledig bekend. Men denkt echter dat glatirameeracetaat werkt door immuunprocessen te modificeren die verantwoordelijk worden geacht voor de pathogenese van MS.’ Oorspronkelijke Engelse tekst: "The mechanism(s) by which glatiramer acetate exerts its effects in patients with MS are not fully understood. However, glatiramer acetate is thought to act by modifying immune processes that are believed to be responsible for the pathogenesis of MS." ([DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716), versie van 2026-10-26; geraadpleegd op 2026-11-19). Ook zijn er geen oorspronkelijke indicaties vastgelegd, waardoor geen onderbouwde mechanistische redenering kan worden opgesteld.
 
 Algemeen bekend is dat glatiramer een immunomodulator is: een willekeurig polymeer van aminozuren dat de T-celrespons verschuift richting een Th2-fenotype en regulerende cellen induceert. Het wordt gebruikt bij multiple sclerose. Hemoglobinopathieën, zoals sikkelcelziekte en thalassemie, zijn primair stoornissen in de structuur of synthese van hemoglobine, met secundaire ontstekings- en immuuncomponenten.
 
@@ -126,12 +126,13 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Ropinirol is een dopamine-agonist (D2/D3) die oorspronkelijk wordt gebruikt bij 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn voor dit rapport geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Ropinirol is echter bekend als agonist van de dopamine D2- en D3-receptoren. ADHD gaat gepaard met een ontregeling van het dopaminesysteem.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ropinirole (niet-officiële vertaling): ‘Ropinirol is een non-ergoline dopamine-agonist. Het precieze werkingsmechanisme van ropinirol als behandeling van de ziekte van Parkinson is onbekend, hoewel wordt aangenomen dat het verband houdt met het vermogen ervan om dopamine-D 2 -receptoren in het caudatum-putamen in de hersenen te stimuleren.’ Oorspronkelijke Engelse tekst: "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain." ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), versie van 2026-11-06; geraadpleegd op 2026-11-19). Ropinirol is echter bekend als agonist van de dopamine D2- en D3-receptoren. ADHD gaat gepaard met een ontregeling van het dopaminesysteem.
 
 ADHD en restlesslegssyndroom (een oorspronkelijke indicatie van ropinirol) komen vaak samen voor. Dit wijst op een gedeelde dopaminerge route en een mogelijke rol van de ijzerstofwisseling. Een casusbeschrijving uit 2005 meldt een 6-jarige jongen bij wie ropinirol zowel de ADHD-symptomen als de slaapproblemen aanzienlijk verbeterde. Een publicatie uit 2026 onderzocht ropinirol als aanvulling op methylfenidaat versus placebo bij kinderen met ADHD. De details van de resultaten konden op basis van de beschikbare gegevens niet worden geverifieerd.
 
@@ -119,6 +119,19 @@ De gegevens uit de bijsluiter van het CBG-MEB zijn niet beschikbaar. Raadpleeg d
 - Beoordeling van de veiligheid bij kinderen (impulsbeheersing, slaperigheid, augmentatie).
 
 **Overige voorspelde indicaties (kort):** schizofrenie (L4, Hold): indirect en voornamelijk preklinisch bewijs, met een theoretisch risico op verergering van psychotische symptomen. De overige voorspellingen (o.a. faciodigitogenitaal syndroom, perisylvische polymicrogyrie, retinadystrofie, X-gebonden myopie, congenitale glycosylatiestoornis, atypische glycine-encefalopathie en Charcot-Marie-Tooth type 1G) berusten alleen op de modelscore (L5, Hold) zonder aanwijsbaar mechanisme of onderzoek.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

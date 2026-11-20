@@ -54,7 +54,7 @@ Adenosine is een geneesmiddel dat via adenosinereceptoren op de hartgeleiding we
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport samengestelde gegevens. Adenosine werkt over het algemeen via A1-receptoren in de AV-knoop en wordt gebruikt bij supraventriculaire ritmestoornissen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Adenosine (niet-officiële vertaling): ‘Adenosine Injectie vertraagt de geleidingstijd door de AV-knoop, kan de re-entrybanen door de AV-knoop onderbreken en kan het normale sinusritme herstellen bij patiënten met paroxismale supraventriculaire tachycardie (PSVT), waaronder PSVT geassocieerd met het wolff-parkinson-whitesyndroom. Adenosine Injectie wordt competitief geantagoneerd door methylxanthinen zoals cafeïne en theofylline, en versterkt door remmers van het nucleosidetransport zoals dipyridamol.’ Oorspronkelijke Engelse tekst: "Adenosine Injection slows conduction time through the A-V node, can interrupt the reentry pathways through the A-V node, and can restore normal sinus rhythm in patients with paroxysmal supraventricular tachycardia (PSVT), including PSVT associated with Wolff-Parkinson-White Syndrome. Adenosine Injection is antagonized competitively by methylxanthines such as caffeine and theophylline, and potentiated by blockers of nucleoside transport such as dipyridamole." ([DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30), versie van 2026-08-31; geraadpleegd op 2026-11-19). Adenosine werkt over het algemeen via A1-receptoren in de AV-knoop en wordt gebruikt bij supraventriculaire ritmestoornissen.
 
 Een bundeltakblok is een geleidingsstoornis binnen de ventrikels, niet in de AV-knoop. Een gevestigd mechanistisch verband tussen adenosine en deze aandoening is in de beschikbare gegevens niet aanwezig. Daarbij is de ziekteterm gemarkeerd als verouderd (obsolete): het is een achterhaalde ontologie-ingang die slecht aansluit bij een huidige klinische entiteit. De hoge score is daarom waarschijnlijk een computationeel artefact, mogelijk door de nabijheid van andere termen voor hartgeleiding, en geen aanwijzing voor werkzaamheid.
 
@@ -91,6 +91,19 @@ Voor de overige veiligheidsinformatie (waarschuwingen en contra-indicaties) word
 - Preklinisch of klinisch onderzoek dat bundeltakblok direct onderzoekt
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties voor een veiligheidsscreening
 - Controle van de actuele vergunningsstatus bij het CBG-MEB
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

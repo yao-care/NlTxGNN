@@ -59,7 +59,7 @@ Hiervoor zijn **geen geregistreerde klinische studies** en **10 publicaties** ge
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de verzamelde gegevens niet beschikbaar. Op basis van bekende farmacologie is flunitrazepam een benzodiazepine dat werkt als positieve allosterische modulator van de GABA-A-receptor. Het versterkt de remmende neurotransmissie en bevordert zo sedatie en slaap. De farmacologische gegevens bevestigen binding aan de GABA-A-receptor α1-, α2-, α3- en α5-subeenheden.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Flunitrazepam (niet-officiële vertaling): ‘GABA-A-receptor; positieve allostere modulator van anionkanalen’ Oorspronkelijke Engelse tekst: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Op basis van bekende farmacologie is flunitrazepam een benzodiazepine dat werkt als positieve allosterische modulator van de GABA-A-receptor. Het versterkt de remmende neurotransmissie en bevordert zo sedatie en slaap. De farmacologische gegevens bevestigen binding aan de GABA-A-receptor α1-, α2-, α3- en α5-subeenheden.
 
 Dit mechanisme sluit direct aan bij de behandeling van insomnia. Flunitrazepam wordt in veel landen al als slaapmiddel voorgeschreven, dus de voorspelling bevestigt vooral een bestaand gebruik. De ontbrekende oorspronkelijke indicatie in de gegevens wijst waarschijnlijk op ontbrekende metadata, niet op een werkelijk nieuwe toepassing.
 
@@ -135,11 +135,12 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “e Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280) |
 
 <!-- review:end log -->
 

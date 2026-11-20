@@ -58,7 +58,7 @@ Cyclofosfamide is een alkylerend cytostaticum met een immunosuppressieve werking
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme van cyclofosfamide zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Cyclofosfamide is een alkylerend middel dat DNA-schade veroorzaakt en daarmee zowel delende tumorcellen als immuuncellen remt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Cyclophosphamide (niet-officiële vertaling): ‘Het werkingsmechanisme is niet volledig opgehelderd. Crosslinking van het DNA van tumorcellen kan echter een rol spelen. De actieve alkylerende metabolieten van cyclofosfamide verstoren de groei van gevoelige, snel prolifererende maligne cellen.’ Oorspronkelijke Engelse tekst: "The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells." ([DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e), versie van 2026-08-26; geraadpleegd op 2026-11-19). Cyclofosfamide is een alkylerend middel dat DNA-schade veroorzaakt en daarmee zowel delende tumorcellen als immuuncellen remt.
 
 Voor deze voorspelling is **geen overtuigende mechanistische onderbouwing** te geven. De score is hoog (0,9938), maar het blijft een computationele voorspelling. De aandoening is een zeldzaam syndroom met T-celdysfunctie. Een immunosuppressief cytotoxisch middel kan een bestaande immuundeficiëntie eerder verergeren dan verbeteren. De overeenkomst met de oorspronkelijke toepassing is niet nader onderzocht.
 
@@ -124,6 +124,18 @@ Voor waarschuwingen en contra-indicaties zijn in de verzamelde gegevens geen tek
 - Een gerichte literatuurstudie naar deze zeldzame aandoening
 - De veiligheidsgegevens uit de SmPC (waarschuwingen en contra-indicaties), met een beoordeling van het risico bij immuundeficiëntie
 - Beoordeling door klinische experts in immunologie en endocrinologie voordat verder onderzoek wordt overwogen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

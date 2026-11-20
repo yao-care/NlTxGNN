@@ -54,7 +54,7 @@ Dorzolamide is een koolzuuranhydraseremmer die als oogdruppel wordt gebruikt. He
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Uit farmacologische gegevens blijkt wel dat dorzolamide aangrijpt op menselijke koolzuuranhydrasen (CA1, CA7, CA12 en CA14).
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Dorzolamide (niet-officiële vertaling): ‘Koolzuuranhydrase (CA) is een enzym dat in veel weefsels van het lichaam voorkomt, waaronder het oog. Het katalyseert de reversibele reactie van de hydratatie van kooldioxide en de dehydratatie van koolzuur. […] Dorzolamidehydrochloride oogdruppels, oplossing bevat dorzolamidehydrochloride, een remmer van humaan koolzuuranhydrase II.’ Oorspronkelijke Engelse tekst: "Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. […] Dorzolamide hydrochloride ophthalmic solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II." ([DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea), versie van 2026-11-14; geraadpleegd op 2026-11-19). Uit farmacologische gegevens blijkt wel dat dorzolamide aangrijpt op menselijke koolzuuranhydrasen (CA1, CA7, CA12 en CA14).
 
 Er is geen duidelijk mechanistisch verband tussen koolzuuranhydraseremming en de ontwikkeling van haarfollikels bij erfelijke hypotrichosis. De hoge score weerspiegelt waarschijnlijk associaties op netwerkniveau en wordt niet ondersteund door klinisch bewijs. Ook is niet beoordeeld of de toedieningsvorm (oogdruppels) geschikt zou zijn voor een aandoening van de hoofdhuid.
 
@@ -85,6 +85,19 @@ Voor de voorspelde indicatie is geen veiligheidsonderzoek beschikbaar. Raadpleeg
 - Preklinisch of mechanistisch onderzoek dat koolzuuranhydraseremming koppelt aan haarfollikelbiologie.
 - Gegevens over het werkingsmechanisme en over de geschiktheid van de toedieningsroute voor een aandoening van de hoofdhuid.
 - Beoordeling van de veiligheidsinformatie in de SmPC van het CBG-MEB.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

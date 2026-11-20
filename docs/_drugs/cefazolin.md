@@ -60,7 +60,7 @@ maar hiervoor zijn **geen geregistreerde klinische studies** en slechts **2 publ
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn voor dit rapport geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de database. Op basis van algemene kennis is cefazolin een eerstegeneratie-cefalosporine dat de celwandsynthese van bacteriën remt via binding aan penicilline-bindende eiwitten (PBP's). Het is actief tegen grampositieve kokken, zoals streptokokken en methicillinegevoelige *Staphylococcus aureus* (MSSA).
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Cefazolin (niet-officiële vertaling): ‘Cefazoline is een antibacterieel geneesmiddel. […] Cefazoline is een bactericide middel dat werkt door remming van de synthese van de bacteriële celwand.’ Oorspronkelijke Engelse tekst: "Cefazolin is an antibacterial drug. […] Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis." ([DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4), versie van 2026-08-31; geraadpleegd op 2026-11-19). Op basis van algemene kennis is cefazolin een eerstegeneratie-cefalosporine dat de celwandsynthese van bacteriën remt via binding aan penicilline-bindende eiwitten (PBP's). Het is actief tegen grampositieve kokken, zoals streptokokken en methicillinegevoelige *Staphylococcus aureus* (MSSA).
 
 De oorspronkelijke indicaties (o.a. pneumonie door streptokokken en stafylokokken, endocarditis) betreffen bacteriële infecties met dezelfde grampositieve verwekkers die ook bij otitis media een rol kunnen spelen. Dat maakt de voorspelling mechanistisch plausibel.
 
@@ -137,13 +137,14 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Beoordeling van de praktische toepasbaarheid, gezien de uitsluitend parenterale toediening en de ingetrokken vergunning in Nederland” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 57366: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4) |
 
 <!-- review:end log -->
 

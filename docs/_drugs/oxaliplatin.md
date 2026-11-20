@@ -58,7 +58,7 @@ Oxaliplatine is een platinahoudend cytostaticum dat oorspronkelijk wordt gebruik
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde data. Op basis van bekende klasse-informatie is oxaliplatine een platinaverbinding die DNA-crosslinks (binnen en tussen DNA-strengen) vormt. Hierdoor worden DNA-replicatie en -transcriptie geremd en sterven kankercellen af.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Oxaliplatin (niet-officiële vertaling): ‘Oxaliplatine ondergaat in fysiologische oplossingen een niet-enzymatische omzetting tot actieve derivaten door verdringing van de labiele oxalaatligand. Er worden verschillende kortstondige reactieve species gevormd, waaronder monoaquo- en diaquo-DACH-platina, die covalent binden aan macromoleculen.’ Oorspronkelijke Engelse tekst: "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules." ([DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5), versie van 2026-08-24; geraadpleegd op 2026-11-19). Op basis van bekende klasse-informatie is oxaliplatine een platinaverbinding die DNA-crosslinks (binnen en tussen DNA-strengen) vormt. Hierdoor worden DNA-replicatie en -transcriptie geremd en sterven kankercellen af.
 
 Platinaverbindingen zoals cisplatine en carboplatine vormen de basis van de chemotherapie bij mesothelioom. Het is daarom aannemelijk dat oxaliplatine een vergelijkbaar werkingsprincipe deelt. Meerdere fase 2-studies laten activiteit zien in combinatie met gemcitabine, raltitrexed, vinorelbine of bortezomib. De zeer hoge TxGNN-score past bij deze klasse-gebonden redenering. Het mechanisme berust echter op kennis over de geneesmiddelklasse en niet op specifieke mechanismegegevens van dit middel.
 
@@ -159,12 +159,13 @@ Voor de officiële waarschuwingen en contra-indicaties raadpleegt u de SmPC (Sam
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 110045: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->
 

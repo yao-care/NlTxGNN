@@ -54,7 +54,7 @@ Celecoxib is een ontstekingsremmend en pijnstillend geneesmiddel uit de groep va
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme van celecoxib zijn in de voor dit rapport verzamelde data niet beschikbaar. Algemeen bekend is dat celecoxib COX-2 remt en daarmee de prostaglandinesynthese vermindert, wat pijn en ontsteking verlaagt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Celecoxib (niet-officiële vertaling): ‘Celecoxib heeft analgetische, ontstekingsremmende en antipyretische eigenschappen. Aangenomen wordt dat het werkingsmechanisme van celecoxib berust op remming van de prostaglandinesynthese, voornamelijk via remming van COX-2. Celecoxib is in vitro een krachtige remmer van de prostaglandinesynthese.’ Oorspronkelijke Engelse tekst: "Celecoxib has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2. Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro." ([DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d), versie van 2025-07-31; geraadpleegd op 2026-11-19). Algemeen bekend is dat celecoxib COX-2 remt en daarmee de prostaglandinesynthese vermindert, wat pijn en ontsteking verlaagt.
 
 Acromesomele dysplasie type Hunter-Thompson is een zeldzame erfelijke skeletdysplasie, veroorzaakt door verlies van functie van het CDMP1/GDF5-gen. Er is geen bekende door COX-2 of prostaglandinen gedreven ziektemechanisme dat celecoxib zou kunnen beïnvloeden. De hoge modelscore wordt waarschijnlijk veroorzaakt door gedeelde musculoskeletale kenmerken in de annotaties en is geen biologische onderbouwing.
 
@@ -97,6 +97,19 @@ Voor dit geneesmiddel zijn in de verzamelde data geen waarschuwingen of contra-i
 - Aanvullende gegevens over het werkingsmechanisme en een onderbouwde biologische hypothese voor een effect op de GDF5-gerelateerde skeletontwikkeling.
 - Preklinisch onderzoek (bijvoorbeeld in celmodellen of diermodellen) dat een effect van celecoxib bij deze aandoening aantoont.
 - De veiligheidsinformatie uit de SmPC van het CBG-MEB (waarschuwingen en contra-indicaties), die nu ontbreekt in de verzamelde data.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -60,7 +60,7 @@ Voor desogestrel is in de voor dit rapport verzamelde gegevens geen geregistreer
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van bekende informatie is desogestrel een progestageen dat de afgifte van gonadotrofines onderdrukt. In combinatie met ethinylestradiol levert het exogene oestrogenen en progestagenen.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Desogestrel (niet-officiële vertaling): ‘Progesteronreceptoragonist’ Oorspronkelijke Engelse tekst: "Progesterone receptor agonist" ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Op basis van bekende informatie is desogestrel een progestageen dat de afgifte van gonadotrofines onderdrukt. In combinatie met ethinylestradiol levert het exogene oestrogenen en progestagenen.
 
 Bij hypothalame oligo-amenorroe (bijvoorbeeld door energietekort bij sporters) kan dit onttrekkingsbloedingen herstellen en de botgezondheid ondersteunen. Een cohortstudie bij jonge vrouwen met hypothalame oligoamenorroe die orale anticonceptiva kregen, past bij deze redenering. Het verband is biologisch aannemelijk.
 
@@ -158,12 +158,13 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “In Nederland is het middel op de markt, met 1 geldige vergunning van 1; d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Etonogestrel is een progestageen dat wordt gebruikt in hormonale anticonceptie (
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van algemene kennis is etonogestrel een progestageen dat de ovulatie onderdrukt en het baarmoederslijmvlies verdunt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Etonogestrel (niet-officiële vertaling): ‘Het anticonceptieve effect van NEXPLANON wordt bereikt door onderdrukking van de ovulatie, verhoogde viscositeit van het cervixslijm en veranderingen in het endometrium.’ Oorspronkelijke Engelse tekst: "The contraceptive effect of NEXPLANON is achieved by suppression of ovulation, increased viscosity of the cervical mucus, and alterations in the endometrium." ([DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594), versie van 2026-05-28; geraadpleegd op 2026-11-19). Op basis van algemene kennis is etonogestrel een progestageen dat de ovulatie onderdrukt en het baarmoederslijmvlies verdunt.
 
 Amenorroe is een bekend **bijwerkingeffect** van etonogestrelimplantaten en geen therapeutisch doel. De hoge TxGNN-score weerspiegelt waarschijnlijk deze farmacologische associatie. Het ondersteunt **niet** het gebruik als behandeling van amenorroe, omdat onderdrukking van menstruatiebloedingen daarbij contraproductief zou zijn. De voorspelling moet daarom met veel voorzichtigheid worden geïnterpreteerd.
 
@@ -140,12 +140,13 @@ hypertensie, epilepsie, angststoornis, porfyrie, nierziekte, leverziekte, galbla
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 106801: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594) |
 
 <!-- review:end log -->
 

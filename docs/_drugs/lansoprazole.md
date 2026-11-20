@@ -58,7 +58,7 @@ Lansoprazol is een protonpompremmer die oorspronkelijk wordt gebruikt voor zuurg
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene kennis is lansoprazol een protonpompremmer die de maagzuursecretie onderdrukt. De werkzaamheid bij refluxziekte, oesofagitis en peptische ulcusziekte is aangetoond.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Lansoprazole (niet-officiële vertaling): ‘Lansoprazol behoort tot een klasse van antisecretoire verbindingen, de gesubstitueerde benzimidazolen, die de maagzuursecretie onderdrukken door specifieke remming van het (H +, K + )-ATPase-enzymsysteem aan het secretoire oppervlak van de pariëtale cel van de maag. Omdat dit enzymsysteem wordt beschouwd als de zuur(proton)pomp in de pariëtale cel, wordt lansoprazol gekarakteriseerd als een maagzuurpompremmer, in die zin dat het de laatste stap van de zuurproductie blokkeert.’ Oorspronkelijke Engelse tekst: "Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84), versie van 2025-07-08; geraadpleegd op 2026-11-19). Op basis van algemene kennis is lansoprazol een protonpompremmer die de maagzuursecretie onderdrukt. De werkzaamheid bij refluxziekte, oesofagitis en peptische ulcusziekte is aangetoond.
 
 Duodenogastrische reflux is het terugstromen van duodenale inhoud, waaronder gal en pancreassap, naar de maag. Zuurremming kan klachten mogelijk verlichten doordat de zure component van de slijmvliesbeschadiging afneemt en de pH van het refluxaat stijgt. Lansoprazol pakt echter de onderliggende motiliteits- of pylorusstoornis niet aan. Er is ook geen bewijs dat het de galreflux zelf vermindert.
 
@@ -135,12 +135,13 @@ Voor officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige Nederlandse registratie is doorgehaald en de veiligheidsgegevens uit de productinformatie ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 114236: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84) |
 
 <!-- review:end log -->
 

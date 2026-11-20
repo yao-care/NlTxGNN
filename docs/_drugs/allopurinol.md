@@ -58,7 +58,7 @@ Allopurinol is een xanthine-oxidaseremmer die in Nederland als tablet is geregis
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme van allopurinol zijn voor dit rapport niet beschikbaar. Op basis van de beschikbare informatie is de voorspelling mechanistisch niet goed onderbouwd.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Allopurinol (niet-officiële vertaling): ‘Allopurinol is een structureel analogon van de natuurlijke purinebase hypoxanthine. Allopurinol en zijn metaboliet oxypurinol remmen xanthineoxidase, het enzym dat verantwoordelijk is voor de omzetting van hypoxanthine in xanthine en van xanthine in urinezuur, het eindproduct van het purinemetabolisme bij de mens.’ Oorspronkelijke Engelse tekst: "Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans." ([DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449), versie van 2022-02-18; geraadpleegd op 2026-11-19). Op basis van de beschikbare informatie is de voorspelling mechanistisch niet goed onderbouwd.
 
 Uit de gegevens blijkt juist een mogelijk veiligheidsprobleem. Allopurinol staat in diermodellen (knaagdieren) bekend om het induceren van hepatisch 5-aminolevulinaatsynthase (ALAS1) en het afbreken van het heem van cytochroom P450. Dat zou porfyrie eerder kunnen verergeren dan behandelen. De twee gevonden publicaties zijn slechts zijdelings relevant: een hypothese-artikel uit 2019 over metabole beïnvloeding van ALAS1 via tryptofaan, en een dierstudie uit 1992 over carbamazepine en het heemmetabolisme in de rattenlever. Geen van beide toont een therapeutisch voordeel van allopurinol.
 
@@ -110,6 +110,19 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Gegevens over het werkingsmechanisme
 - Directe studies naar allopurinol bij hepatische porfyrie
 - Volledige veiligheidsgegevens uit de SmPC
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

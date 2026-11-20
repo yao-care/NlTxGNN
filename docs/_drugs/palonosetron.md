@@ -58,7 +58,7 @@ Palonosetron is een tweede-generatie 5-HT3-receptorantagonist, gebruikt als midd
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde gegevens. Bekend is dat palonosetron een tweede-generatie 5-HT3-receptorantagonist is. Dit type middel wordt gebruikt tegen misselijkheid en braken, onder meer bij chemotherapie.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Palonosetron (niet-officiële vertaling): ‘Palonosetron is een 5-HT 3-receptorantagonist met een sterke bindingsaffiniteit voor deze receptor en weinig of geen affiniteit voor andere receptoren. Chemotherapie bij kanker kan gepaard gaan met een hoge incidentie van misselijkheid en braken, vooral wanneer bepaalde middelen, zoals cisplatine, worden gebruikt.’ Oorspronkelijke Engelse tekst: "Palonosetron is a 5-HT 3 receptor antagonist with a strong binding affinity for this receptor and little or no affinity for other receptors. Cancer chemotherapy may be associated with a high incidence of nausea and vomiting, particularly when certain agents, such as cisplatin, are used." ([DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7), versie van 2025-04-29; geraadpleegd op 2026-11-19). Bekend is dat palonosetron een tweede-generatie 5-HT3-receptorantagonist is. Dit type middel wordt gebruikt tegen misselijkheid en braken, onder meer bij chemotherapie.
 
 Er bestaat een theoretische link: serotoninesignalering wordt in verband gebracht met de pathofysiologie van migraine, en 5-HT3-antagonisten zijn onderzocht voor migrainegerelateerde misselijkheid en modulatie van het trigeminovasculaire systeem.
 
@@ -131,12 +131,13 @@ Het enige beschikbare bewijs wijst op een migraineachtige bijwerking in plaats v
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7) |
 
 <!-- review:end log -->
 

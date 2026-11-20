@@ -58,7 +58,7 @@ Lamivudine is een nucleoside-reversetranscriptaseremmer (NRTI) die oorspronkelij
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Lamivudine remt het reversetranscriptase-enzym van lentivirussen en van het hepatitis B-virus. SIV is nauw verwant aan hiv en de doelwit-enzymen zijn grotendeels geconserveerd. Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar; de mechanistische onderbouwing berust op de bekende werking van de NRTI-klasse.
+Lamivudine remt het reversetranscriptase-enzym van lentivirussen en van het hepatitis B-virus. SIV is nauw verwant aan hiv en de doelwit-enzymen zijn grotendeels geconserveerd. Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Lamivudine (niet-officiële vertaling): ‘Lamivudine is een antiretroviraal middel. […] Lamivudine is een synthetisch nucleosideanaloog. Intracellulair wordt lamivudine gefosforyleerd tot zijn actieve 5′-trifosfaatmetaboliet, lamivudinetrifosfaat (3TC-TP). De voornaamste werkingswijze van 3TC-TP is remming van het reverse transcriptase (RT) van HIV-1 via DNA-ketenterminatie na inbouw van het nucleotideanaloog.’ Oorspronkelijke Engelse tekst: "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8), versie van 2024-08-15; geraadpleegd op 2026-11-19).
 
 De literatuur bevat onderzoek bij makaken waarin combinatietherapie met lamivudine de virale belasting onderdrukte of overdracht na blootstelling voorkwam. Ook is de M184V-resistentiemutatie (die lamivudineresistentie geeft) in SIV-reversetranscriptase onderzocht. Dit zijn indirecte, preklinische gegevens uit een diermodel.
 
@@ -138,11 +138,12 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
 
 <!-- review:end log -->
 

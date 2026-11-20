@@ -54,7 +54,7 @@ Esomeprazol is een zuurremmer (protonpompremmer) die in Nederland is geregistree
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Esomeprazol remmen de maagzuurproductie; dit is een bekend werkingsprincipe van protonpompremmers.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Esomeprazole (niet-officiële vertaling): ‘Esomeprazol behoort tot een klasse van antisecretoire verbindingen, de gesubstitueerde benzimidazolen, die de maagzuursecretie onderdrukken door specifieke remming van het H+/K+-ATPase-enzymsysteem aan het secretoire oppervlak van de pariëtale cel van de maag. Esomeprazol wordt in het zure compartiment van de pariëtale cel geprotoneerd en omgezet, waarbij de actieve remmer, het achirale sulfenamide, wordt gevormd.’ Oorspronkelijke Engelse tekst: "Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell. Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide." ([DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96), versie van 2025-12-19; geraadpleegd op 2026-11-19). Esomeprazol remmen de maagzuurproductie; dit is een bekend werkingsprincipe van protonpompremmers.
 
 Duodenale obstructie is vooral een mechanische of structurele aandoening. Zuurremming heeft geen duidelijke ziektemodificerende rol, behalve bij het beperken van secundaire complicaties van maagzuur, zoals ulcusziekte. Een plausibel direct mechanisme is daarom niet zichtbaar. De hoge score weerspiegelt een patroon in het model en geen bevestigd klinisch effect. Ook de overeenkomst met de oorspronkelijke indicaties is nog niet beoordeeld.
 
@@ -93,6 +93,19 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - De geregistreerde indicatietekst en veiligheidsinformatie (waarschuwingen, contra-indicaties) uit de SmPC van het CBG-MEB
 - Een systematische literatuursearch of preklinisch onderzoek naar een rol bij duodenale obstructie
 - Een beoordeling van de overeenkomst met de oorspronkelijke indicaties en van de toedieningsroutes
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

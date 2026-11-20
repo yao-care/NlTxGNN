@@ -60,7 +60,7 @@ Prilocaïne is een lokaal anestheticum (natriumkanaalblokker). Het TxGNN-model v
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van algemene kennis blokkeert prilocaïne, als lokaal anestheticum van het amidetype, spanningsafhankelijke natriumkanalen in perifere nociceptoren. Daardoor wordt de geleiding van pijnsignalen onderdrukt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Prilocaine (niet-officiële vertaling): ‘Prilocaïne stabiliseert het neuronale membraan door remming van de ionenstromen die nodig zijn voor het ontstaan en de geleiding van impulsen, waardoor een lokaal anesthetische werking wordt bewerkstelligd.’ Oorspronkelijke Engelse tekst: "Prilocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action." ([DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41), versie van 2021-11-10; geraadpleegd op 2026-11-19). Op basis van algemene kennis blokkeert prilocaïne, als lokaal anestheticum van het amidetype, spanningsafhankelijke natriumkanalen in perifere nociceptoren. Daardoor wordt de geleiding van pijnsignalen onderdrukt.
 
 Dit mechanisme sluit goed aan bij neuropathische pijn. De oorspronkelijke indicaties (voortijdige ejaculatie, dyspareunie) hangen samen met lokale gevoeligheid; plaatselijke verdoving van gevoelszenuwen is daar het gemeenschappelijke principe. Oudere rapporten beschrijven EMLA (lidocaïne 2,5% + prilocaïne 2,5%) bij therapieresistente postherpetische neuralgie, inclusief farmacokinetische gegevens.
 
@@ -144,11 +144,12 @@ Aanvullende signalen uit de compilatie van dit rapport:
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 115964//11015: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41) |
 
 <!-- review:end log -->
 

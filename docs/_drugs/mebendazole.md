@@ -58,7 +58,7 @@ Mebendazol is een ontwormingsmiddel dat oorspronkelijk wordt gebruikt tegen worm
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme in de samengestelde data beschikbaar. Op basis van algemene kennis remt mebendazol de polymerisatie van tubuline in wormen. Uit preklinisch onderzoek komen daarnaast aanwijzingen voor antiproliferatieve en anti-angiogene effecten in kankermodellen.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Mebendazole (niet-officiële vertaling): ‘Mebendazol, een benzimidazol, is een anthelminthicum. […] Mebendazol verstoort de vorming van cellulair tubuline in de worm en veroorzaakt ultrastructurele degeneratieve veranderingen in diens darm. Als gevolg hiervan worden de glucoseopname en de spijsverterings- en voortplantingsfuncties verstoord, wat leidt tot immobilisatie, remming van de eiproductie en de dood van de worm.’ Oorspronkelijke Engelse tekst: "Mebendazole, a benzimidazole, is an anthelmintic. […] Mebendazole interferes with cellular tubulin formation in the helminth and causes ultrastructural degenerative changes in its intestine. As a result, its glucose uptake and the digestive and reproductive functions are disrupted, leading to immobilization, inhibition of egg production and death of the helminth." ([DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f), versie van 2021-10-05; geraadpleegd op 2026-11-19). Op basis van algemene kennis remt mebendazol de polymerisatie van tubuline in wormen. Uit preklinisch onderzoek komen daarnaast aanwijzingen voor antiproliferatieve en anti-angiogene effecten in kankermodellen.
 
 Een geloofwaardig mechanistisch verband met acne is niet aangetoond. Acne wordt bepaald door talgproductie, verhoorning van haarfollikels, *Cutibacterium acnes* en ontsteking, en mebendazol is aan geen van deze processen gekoppeld. De hoge score van 0,9920 komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, en is geen biologisch bewijs. De overeenkomst met de oorspronkelijke indicatie (wormbesmetting) is niet beoordeeld.
 
@@ -121,11 +121,12 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f) |
 
 <!-- review:end log -->
 

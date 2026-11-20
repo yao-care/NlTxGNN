@@ -54,7 +54,7 @@ Diclofenac is een niet-selectieve cyclo-oxygenaseremmer (NSAID) die in Nederland
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Diclofenac remt COX-1 en COX-2 en daarmee de synthese van prostaglandinen. Dat verklaart het ontstekingsremmende en pijnstillende effect.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Diclofenac (niet-officiële vertaling): ‘Diclofenac heeft analgetische, ontstekingsremmende en antipyretische eigenschappen. Het werkingsmechanisme van diclofenac wordt, net als dat van andere NSAID's, niet volledig begrepen, maar omvat remming van cyclo-oxygenase (COX-1 en COX-2).’ Oorspronkelijke Engelse tekst: "Diclofenac has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970), versie van 2026-09-24; geraadpleegd op 2026-11-19). Diclofenac remt COX-1 en COX-2 en daarmee de synthese van prostaglandinen. Dat verklaart het ontstekingsremmende en pijnstillende effect.
 
 Hypotrichosis simplex van de hoofdhuid is een erfelijke haarziekte (monogeen, bijvoorbeeld met varianten in CDSN, APCDD1 of RPL21). Er is geen duidelijke biologische verbinding tussen COX-remming en deze aandoening. De hoge modelscore is een voorspelling op basis van netwerkverbanden en geen aanwijzing voor werkzaamheid.
 
@@ -96,6 +96,19 @@ Raadpleeg voor volledige en actuele veiligheidsinformatie de SmPC (Samenvatting 
 - Preklinisch of mechanistisch onderzoek dat een rol van prostaglandinroutes bij deze aandoening aantoont
 - Gegevens over het werkingsmechanisme van diclofenac en volledige veiligheidsinformatie uit de SmPC
 - Een beoordeling van de balans tussen baten en risico's (cardiovasculair, gastro-intestinaal, lever) voordat enig onderzoek bij deze populatie wordt overwogen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

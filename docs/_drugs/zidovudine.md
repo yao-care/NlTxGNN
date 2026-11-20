@@ -56,7 +56,7 @@ Voor deze voorspelling zijn **geen klinische studies** geregistreerd. Er zijn **
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van bekende informatie is zidovudine een thymidine-analoog uit de NRTI-klasse. Het wordt in cellen gefosforyleerd tot de trifosfaatvorm, die het reverse transcriptase van hiv remt en de verlenging van het DNA-molecuul stopt. De werkzaamheid bij hiv/aids is goed vastgesteld.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Zidovudine (niet-officiële vertaling): ‘Zidovudine is een antiretroviraal middel. […] Zidovudine is een synthetisch nucleosideanaloog. Intracellulair wordt zidovudine gefosforyleerd tot de actieve 5′-trifosfaatmetaboliet, zidovudinetrifosfaat (ZDV-TP). Het belangrijkste werkingsmechanisme van ZDV-TP is remming van reverse transcriptase (RT) via DNA-ketenbeëindiging na inbouw van het nucleotide-analoog.’ Oorspronkelijke Engelse tekst: "Zidovudine is an antiretroviral agent. […] Zidovudine is a synthetic nucleoside analogue. Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84), versie van 2024-11-13; geraadpleegd op 2026-11-19). Op basis van bekende informatie is zidovudine een thymidine-analoog uit de NRTI-klasse. Het wordt in cellen gefosforyleerd tot de trifosfaatvorm, die het reverse transcriptase van hiv remt en de verlenging van het DNA-molecuul stopt. De werkzaamheid bij hiv/aids is goed vastgesteld.
 
 Het feliene immuundeficiëntievirus (FIV) is een lentivirus dat net als hiv gebruikmaakt van reverse transcriptase. Daardoor lijkt het mechanisme mechanistisch overdraagbaar. FIV-infectie bij katten wordt al lang gebruikt als diermodel voor hiv. Het bewijs is echter uitsluitend veterinair of afkomstig uit diermodellen (katten, SCID-kattenmuizen). Er zijn ook toxiciteitsbevindingen bij katten die met het felien leukemievirus zijn besmet. Dit bewijs ondersteunt dus geen nieuwe indicatie voor mensen. Het gaat bovendien om een diergeneeskundige aandoening en niet om een herpositioneringsdoel voor de humane geneeskunde.
 
@@ -122,6 +122,19 @@ De gegevens uit de kennisgraaf zijn geen bijsluitertekst. Voor de officiële waa
 - De SmPC/bijsluiter van het CBG-MEB voor waarschuwingen en contra-indicaties, nodig voor een veiligheidsscreening.
 - Een heldere beoordeling of een diergeneeskundige indicatie binnen de scope van deze herpositionering valt (veterinair kader, niet CBG-MEB/EMA humaan).
 - Bij een eventuele humane toepassing: een monitoringplan voor hematologische toxiciteit en een beoordeling van geneesmiddelinteracties.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

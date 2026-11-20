@@ -58,7 +58,7 @@ Everolimus is een mTOR-remmer (remt het eiwitcomplex mTORC1, dat celgroei en cel
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport verzamelde gegevens. Uit algemene farmacologische kennis is bekend dat everolimus mTORC1 remt, dat stroomafwaarts van de PI3K/AKT-signaalroute werkt en betrokken is bij celgroei en overleving van tumorcellen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Everolimus (niet-officiële vertaling): ‘Everolimus remt de door antigenen en interleukinen (IL-2 en IL-15) gestimuleerde activatie en proliferatie van T- en B-lymfocyten. In cellen bindt everolimus aan een cytoplasmatisch eiwit, het FK506-bindend eiwit-12 (FKBP-12), waarbij een immunosuppressief complex (everolimus: FKBP-12) wordt gevormd dat bindt aan en remmend werkt op het 'mammalian target of rapamycin' (mTOR), een belangrijk regulerend kinase.’ Oorspronkelijke Engelse tekst: "Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes. In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase." ([DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a), versie van 2026-09-16; geraadpleegd op 2026-11-19). Uit algemene farmacologische kennis is bekend dat everolimus mTORC1 remt, dat stroomafwaarts van de PI3K/AKT-signaalroute werkt en betrokken is bij celgroei en overleving van tumorcellen.
 
 Gededifferentieerd liposarcoom wordt gekenmerkt door amplificatie van CDK4 en MDM2. Het combineren van everolimus met de CDK4/6-remmer ribociclib richt zich op twee complementaire routes: de celcyclus en de mTOR-gestuurde groei. Dit is biologisch plausibel, maar het gaat om een combinatiebehandeling en niet om een monotherapie-indicatie voor everolimus.
 
@@ -136,11 +136,12 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a) |
 
 <!-- review:end log -->
 

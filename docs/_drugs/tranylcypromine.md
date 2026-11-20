@@ -54,7 +54,7 @@ Tranylcypromine is een monoamineoxidaseremmer (MAO-remmer) die oorspronkelijk wo
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van algemene kennis is tranylcypromine een onomkeerbare, niet-selectieve MAO-remmer. De werkzaamheid bij depressie en angststoornissen is gedocumenteerd.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Tranylcypromine (niet-officiële vertaling): ‘Het werkingsmechanisme van PARNATE als antidepressivum is niet volledig opgehelderd, maar wordt verondersteld samen te hangen met versterking van de activiteit van monoamine-neurotransmitters in het centrale zenuwstelsel (CZS) als gevolg van de irreversibele remming van het enzym monoamineoxidase (MAO).’ Oorspronkelijke Engelse tekst: "The mechanism of action of PARNATE as an antidepressant is not fully understood, but is presumed to be linked to potentiation of monoamine neurotransmitter activity in the central nervous system (CNS) resulting from its irreversible inhibition of the enzyme monoamine oxidase (MAO)." ([DailyMed: Parnate (tranylcypromine sulfate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b72d8187-dfcc-4ea0-b5e9-c0be95b69a27), versie van 2025-07-02; geraadpleegd op 2026-11-19). Op basis van algemene kennis is tranylcypromine een onomkeerbare, niet-selectieve MAO-remmer. De werkzaamheid bij depressie en angststoornissen is gedocumenteerd.
 
 Voor de voorspelde indicatie ontbreekt een onderbouwde mechanistische verklaring. Benigne paroxismale torticollis van de kindertijd is een aandoening bij jonge kinderen die vermoedelijk samenhangt met een kanaalziekte (vaak met *CACNA1A*-varianten). Er is geen bekende reden waarom een onomkeerbare MAO-remmer hierbij zou helpen. De hoge modelscore is daarom een grafvoorspelling zonder klinische of literatuurondersteuning.
 
@@ -120,12 +120,13 @@ Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de officiële
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige in de data opgenomen registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “De enige Nederlandse registratie is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Parnate (tranylcypromine sulfate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b72d8187-dfcc-4ea0-b5e9-c0be95b69a27) |
 
 <!-- review:end log -->
 

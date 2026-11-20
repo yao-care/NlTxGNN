@@ -54,7 +54,7 @@ Progesteron is een natuurlijk vrouwelijk geslachtshormoon (progestageen) dat al 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van progesteron zijn in de voor dit rapport verzamelde data niet beschikbaar. Progesteron is een natuurlijk progestageen dat via receptoren op slijmvlies- en borstweefsel werkt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Progesterone (niet-officiële vertaling): ‘Progesteron is een natuurlijk voorkomend steroïd dat wordt uitgescheiden door het ovarium, de placenta en de bijnier. Bij aanwezigheid van voldoende oestrogeen zet progesteron een proliferatief endometrium om in een secretorisch endometrium.’ Oorspronkelijke Engelse tekst: "Progesterone is a naturally occurring steroid that is secreted by the ovary, placenta, and adrenal gland. In the presence of adequate estrogen, progesterone transforms a proliferative endometrium into a secretory endometrium." ([DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1), versie van 2026-10-05; geraadpleegd op 2026-11-19). Progesteron is een natuurlijk progestageen dat via receptoren op slijmvlies- en borstweefsel werkt.
 
 De literatuur beschrijft dat fibrocystische borstziekte samenhangt met oestrogeendominantie en een relatief tekort aan progesteron (een veranderde estradiol/progesteron-ratio, mogelijk door relatieve luteale insufficiëntie). Dit geeft een plausibele hormonale reden om progesteron te onderzoeken (PMID 31168213, PMID 6481706, PMID 3511705).
 
@@ -116,11 +116,12 @@ Voor de veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de P
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 119743//114730: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
 
 <!-- review:end log -->
 

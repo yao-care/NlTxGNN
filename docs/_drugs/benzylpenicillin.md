@@ -58,7 +58,7 @@ Benzylpenicilline is een antibioticum uit de penicillinegroep dat actief is tege
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van de algemeen bekende eigenschappen van penicillines remt benzylpenicilline de celwandsynthese van gevoelige bacteriën en is het werkzaam tegen streptokokken en veel orale anaerobe bacteriën.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Benzylpenicillin (niet-officiële vertaling): ‘Penicillines binden aan serumeiwitten, voornamelijk albumine. Therapeutische spiegels van de penicillines worden onder normale omstandigheden gemakkelijk bereikt in extracellulair vocht en de meeste andere lichaamsweefsels. Penicillines worden in wisselende mate verdeeld in pleuravocht, pericardvocht, peritoneaal vocht, ascitesvocht, synoviaal vocht en interstitieel vocht.’ Oorspronkelijke Engelse tekst: "Penicillins bind to serum proteins, mainly albumin. Therapeutic levels of the penicillins are easily achieved under normal circumstances in extracellular fluid and most other body tissues. Penicillins are distributed in varying degrees into pleural, pericardial, peritoneal, ascitic, synovial, and interstitial fluids." ([DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2), versie van 2026-11-04; geraadpleegd op 2026-11-19). Op basis van de algemeen bekende eigenschappen van penicillines remt benzylpenicilline de celwandsynthese van gevoelige bacteriën en is het werkzaam tegen streptokokken en veel orale anaerobe bacteriën.
 
 Pericoronitis is een gemengde bacteriële infectie (streptokokken en anaerobe bacteriën) van het zachte weefsel rond een gedeeltelijk doorgebroken tand of kies. Daardoor is er een plausibele mechanistische link met de antibacteriële werking van benzylpenicilline, en penicillines worden al gebruikt bij odontogene infecties.
 
@@ -111,6 +111,19 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 - Gegevens over het werkingsmechanisme
 - Waarschuwingen en contra-indicaties uit de SmPC (CBG-MEB)
 - Vergelijking met bestaande orale penicillines en een beoordeling van de toedieningsroute
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

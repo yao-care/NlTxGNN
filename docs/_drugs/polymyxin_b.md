@@ -66,7 +66,7 @@ Het bewijs voor deze voorspelling is daarmee zwak.
 
 ## Waarom is deze voorspelling plausibel?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Op basis van bekende informatie is polymyxine B een kationisch polypeptide-antibioticum dat de buitenmembraan van gramnegatieve bacteriën verstoort, waaronder multiresistente *Pseudomonas aeruginosa* en *Acinetobacter baumannii*. Dat geeft een antibacteriële rationale voor gramnegatieve tracheobronchitis.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Polymyxin B (niet-officiële vertaling): ‘Polymyxine B-sulfaat heeft een bactericide werking tegen vrijwel alle gramnegatieve bacillen, met uitzondering van de Proteus-groep. Polymyxinen verhogen de permeabiliteit van het bacteriële celmembraan, wat leidt tot de dood van de cel. Alle grampositieve bacteriën, schimmels en gramnegatieve kokken zijn resistent tegen polymyxine B. Voor specifieke informatie over de criteria voor gevoeligheidstests en de bijbehorende testmethoden en kwaliteitscontrolenormen die door de FDA voor dit geneesmiddel worden erkend, zie: www.fda.gov/STIC.’ Oorspronkelijke Engelse tekst: "Polymyxin B sulfate has a bactericidal action against almost all gram-negative bacilli except the Proteus group. Polymyxins increase the permeability of bacterial cell membrane leading to death of the cell. All gram positive bacteria, fungi, and gram-negative cocci are resistant to polymyxin B. For specific information regarding susceptibility test criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: www.fda.gov/STIC." ([DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6), versie van 2026-06-22; geraadpleegd op 2026-11-19). Op basis van bekende informatie is polymyxine B een kationisch polypeptide-antibioticum dat de buitenmembraan van gramnegatieve bacteriën verstoort, waaronder multiresistente *Pseudomonas aeruginosa* en *Acinetobacter baumannii*. Dat geeft een antibacteriële rationale voor gramnegatieve tracheobronchitis.
 
 Er zijn echter duidelijke tegenargumenten. Geïnhaleerd of endobronchiaal polymyxine B kan bronchoconstrictie uitlokken en werd zelfs gebruikt als niet-specifiek provocatiemiddel bij astma en chronische bronchitis. In diermodellen veroorzaakt het ophoping van eosinofielen in de luchtwegen. De hoge TxGNN-score is een computationele voorspelling en wordt niet ondersteund door een geregistreerde klinische studie.
 
@@ -162,7 +162,7 @@ Raadpleeg voor verdere veiligheidsinformatie de SmPC (Samenvatting van de Produc
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
@@ -170,6 +170,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6) |
 
 <!-- review:end log -->
 

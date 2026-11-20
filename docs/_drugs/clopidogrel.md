@@ -60,7 +60,7 @@ Voor deze specifieke subvorm zijn **geen geregistreerde klinische studies** gevo
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Clopidogrel remt de P2Y12-receptor op bloedplaatjes en vermindert daardoor plaatjesactivatie en -aggregatie.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Clopidogrel (niet-officiële vertaling): ‘Clopidogrel is een remmer van de activering en aggregatie van bloedplaatjes door de irreversibele binding van zijn actieve metaboliet aan de P2Y 12 -klasse van ADP-receptoren op bloedplaatjes.’ Oorspronkelijke Engelse tekst: "Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227), versie van 2025-05-30; geraadpleegd op 2026-11-19). Clopidogrel remt de P2Y12-receptor op bloedplaatjes en vermindert daardoor plaatjesactivatie en -aggregatie.
 
 Het voorgestelde mechanisme is als volgt: bij een rechts-links-shunt (zoals een PFO) kunnen paradoxale micro-embolieën of vasoactieve stoffen uit bloedplaatjes (bijvoorbeeld serotonine) in de hersenen terechtkomen en een corticale spreidende depressie en aura uitlokken. Door de plaatjesactivatie te remmen zou clopidogrel dit kunnen verminderen.
 
@@ -124,6 +124,19 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 - Gegevens over het werkingsmechanisme en de relatie met de subvorm
 - Veiligheidsgegevens uit de SmPC (waarschuwingen en contra-indicaties), met een bloedingsrisicoanalyse en een plan voor het beheersen van interacties
 - Bevestiging van de PFO-gerelateerde populatie waarin een effect zou kunnen optreden
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

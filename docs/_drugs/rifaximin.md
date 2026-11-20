@@ -58,7 +58,7 @@ Rifaximine is een slecht opgenomen, in de darm werkzaam antibioticum, oorspronke
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Voor de gegevens die voor dit rapport zijn samengesteld, is geen gedetailleerde beschrijving van het werkingsmechanisme beschikbaar. Bekend is dat rifaximine een slecht opgenomen antibioticum is dat het bacteriële RNA-polymerase remt en vooral in de darm werkt. Het heeft geen bekende antischimmelwerking.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Rifaximin (niet-officiële vertaling): ‘Rifaximine is een antibacterieel geneesmiddel. […] Rifaximine is een semisynthetisch derivaat van rifampicine en werkt door binding aan de bèta-subeenheid van bacterieel DNA-afhankelijk RNA-polymerase, waardoor een van de stappen in de transcriptie wordt geblokkeerd. Dit leidt tot remming van de bacteriële eiwitsynthese en remt daardoor de groei van bacteriën.’ Oorspronkelijke Engelse tekst: "Rifaximin is an antibacterial drug. […] Rifaximin is a semi-synthetic derivative of rifampin and acts by binding to the beta-subunit of bacterial DNA-dependent RNA polymerase blocking one of the steps in transcription. This results in inhibition of bacterial protein synthesis and consequently inhibits the growth of bacteria." ([DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b), versie van 2025-08-27; geraadpleegd op 2026-11-19). Bekend is dat rifaximine een slecht opgenomen antibioticum is dat het bacteriële RNA-polymerase remt en vooral in de darm werkt. Het heeft geen bekende antischimmelwerking.
 
 Het verband tussen de oorspronkelijke indicatie (hepatische encefalopathie, behandeld door de darmflora en de productie van ammoniak te verminderen) en orale candidiasis (een schimmelinfectie van de mondslijmvliezen) is mechanistisch zwak.
 
@@ -125,11 +125,12 @@ Raadpleeg voor volledige waarschuwingen de SmPC (Samenvatting van de Productkenm
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 117454//110659: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b) |
 
 <!-- review:end log -->
 

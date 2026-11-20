@@ -60,7 +60,7 @@ Een belangrijke kanttekening: de voorspelling met de hoogste rangorde is niet de
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn voor dit rapport geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de samengestelde data. Uit de literatuur is bekend dat levetiracetam bindt aan het synaptische vesicle-eiwit SV2A en de afgifte van neurotransmitters moduleert. Dit kan de aanvalsgevoeligheid verminderen, ook bij fotosensitieve reflexepilepsie.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Levetiracetam (niet-officiële vertaling): ‘Het precieze mechanisme of de precieze mechanismen waardoor levetiracetam zijn anti-epileptische effect uitoefent, is onbekend. Voor levetiracetam is een verzadigbare en stereoselectieve neuronale bindingsplaats in hersenweefsel van ratten beschreven. Experimentele gegevens wijzen erop dat deze bindingsplaats het synaptische-vesikeleiwit SV2A is, waarvan wordt aangenomen dat het betrokken is bij de regulatie van vesikelexocytose.’ Oorspronkelijke Engelse tekst: "The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown. A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam. Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis." ([DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e), versie van 2026-11-11; geraadpleegd op 2026-11-19). Uit de literatuur is bekend dat levetiracetam bindt aan het synaptische vesicle-eiwit SV2A en de afgifte van neurotransmitters moduleert. Dit kan de aanvalsgevoeligheid verminderen, ook bij fotosensitieve reflexepilepsie.
 
 Visuele epilepsie en partiële epilepsie zijn beide aandoeningen met overmatige neuronale prikkelbaarheid. De gevonden publicaties gaan echter over neonatale aanvallen, profylaxe op de neurologische intensive care, zwangerschap, aanvallen na een beroerte en epilepsie bij katten. Geen ervan richt zich op door visuele prikkels uitgelokte aanvallen. De zeer hoge TxGNN-score weerspiegelt waarschijnlijk de nabijheid in het netwerk tot de moederindicatie (partiële epilepsie) en niet ziektespecifiek bewijs.
 
@@ -153,11 +153,12 @@ Bij status epilepticus tonen de fase 3-studie ESETT (NCT01960075; [PMID 31774955
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 118335: “(ingetrokken)” verwijderd (geldig ingeschreven) | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e) |
 
 <!-- review:end log -->
 

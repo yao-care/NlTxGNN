@@ -54,7 +54,7 @@ Modafinil is een wakkerblijfmiddel dat werkt op de waak-slaapregulatie. Het TxGN
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Modafinil wordt algemeen beschouwd als een wakkerblijfmiddel dat vermoedelijk werkt via remming van de dopaminetransporter en modulatie van waakgerelateerde hersencircuits.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Modafinil (niet-officiële vertaling): ‘Het mechanisme of de mechanismen waardoor modafinil de waakzaamheid bevordert, is/zijn onbekend. Modafinil heeft waakzaamheidsbevorderende werkingen die vergelijkbaar zijn met die van sympathicomimetische middelen, waaronder amfetamine en methylfenidaat, hoewel het farmacologische profiel niet identiek is aan dat van de sympathicomimetische amines.’ Oorspronkelijke Engelse tekst: "The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines." ([DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7), versie van 2026-09-16; geraadpleegd op 2026-11-19). Modafinil wordt algemeen beschouwd als een wakkerblijfmiddel dat vermoedelijk werkt via remming van de dopaminetransporter en modulatie van waakgerelateerde hersencircuits.
 
 Dit staat haaks op wat bij slapeloosheid nodig is: slaapbevordering of vermindering van hyperarousal. De hoge score (0,9985) wordt waarschijnlijk vooral gedreven door de nabijheid van modafinil tot slaap-waakstoornissen in het model, en niet door een werkelijk therapeutisch verband. Een gunstig effect op slapeloosheid zou hooguit indirect zijn, en er is een risico dat de nachtelijke slaap verslechtert.
 
@@ -105,6 +105,18 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Gegevens over het werkingsmechanisme en een beoordeling van de mechanistische plausibiliteit
 - Veiligheidsinformatie uit de SmPC, met name over effecten op de nachtelijke slaap
 - Gerandomiseerd, gecontroleerd onderzoek bij slapeloosheid vóór een heroverweging
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

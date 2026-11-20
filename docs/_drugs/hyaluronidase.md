@@ -60,7 +60,7 @@ Hyaluronidase is een enzym dat hyaluronzuur afbreekt en in de praktijk vooral wo
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de data voor dit rapport niet beschikbaar. Op basis van algemene kennis breekt hyaluronidase hyaluronzuur af, een belangrijk bestanddeel van de glasvochtmatrix. Intravitreale toediening wordt voorgesteld voor farmacologische vitreolyse: het vloeibaar maken van het glasvocht en het bevorderen van een achterste glasvochtloslating. Dat kan de opruiming van glasvochtbloedingen bevorderen en de tractie op het netvlies verminderen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Hyaluronidase (niet-officiële vertaling): ‘Hyaluronidase is een dispersiemiddel dat de permeabiliteit van bindweefsel wijzigt door hydrolyse van hyaluronzuur, een polysacharide dat voorkomt in de intercellulaire grondsubstantie van bindweefsel en van bepaalde gespecialiseerde weefsels, zoals de navelstreng en het glasvocht. Hyaluronzuur is ook aanwezig in de kapsels van hemolytische streptokokken van type A en C.’ Oorspronkelijke Engelse tekst: "Hyaluronidase is a dispersion agent, which modifies the permeability of connective tissue through the hydrolysis of hyaluronic acid, a polysaccharide found in the intercellular ground substance of connective tissue, and of certain specialized tissues, such as the umbilical cord and vitreous humor. Hyaluronic acid is also present in the capsules of type A and C hemolytic streptococci." ([DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658), versie van 2024-11-11; geraadpleegd op 2026-11-19). Op basis van algemene kennis breekt hyaluronidase hyaluronzuur af, een belangrijk bestanddeel van de glasvochtmatrix. Intravitreale toediening wordt voorgesteld voor farmacologische vitreolyse: het vloeibaar maken van het glasvocht en het bevorderen van een achterste glasvochtloslating. Dat kan de opruiming van glasvochtbloedingen bevorderen en de tractie op het netvlies verminderen.
 
 Preklinisch onderzoek ondersteunt dit. Bij diabetische ratten is vitreolyse met plasmine en hyaluronidase onderzocht, er zijn effecten op de glycocalyx van retinale endotheelcellen beschreven, en enzym-geïnduceerde vitreolyse verlicht in diermodellen de voortgang van retinopathie via de HIF-1α-route. Een publicatie uit 2026 koppelt bovendien een ontregeld hyaluronzuurmetabolisme aan ontsteking en angiogenese bij proliferatieve diabetische retinopathie.
 
@@ -159,12 +159,13 @@ De registratietekst (SmPC) bevat in de samengestelde data geen vastgelegde waars
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het enige product is in Nederland doorgehaald, en de essentiële registratie- en veiligheidsgegevens ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 114351//15180: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658) |
 
 <!-- review:end log -->
 

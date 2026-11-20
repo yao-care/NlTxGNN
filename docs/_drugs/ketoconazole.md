@@ -58,7 +58,7 @@ Ketoconazol is een azool-antischimmelmiddel dat oorspronkelijk wordt gebruikt bi
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Voor ketoconazol zijn in de data die voor dit rapport is samengesteld geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Op basis van algemene kennis remt ketoconazol het schimmelenzym CYP51 (lanosterol-14-alfa-demethylase), waardoor de celmembraan van schimmels wordt verstoord. Bij hogere blootstelling remt het ook menselijke enzymen van de steroïdsynthese (CYP17A1, CYP11A1), waardoor de aanmaak van androgenen daalt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ketoconazole (niet-officiële vertaling): ‘Ketoconazol blokkeert de synthese van ergosterol, een essentieel bestanddeel van de schimmelcelmembraan, door remming van het cytochroom P-450-afhankelijke enzym lanosterol-14α-demethylase, dat verantwoordelijk is voor de omzetting van lanosterol in ergosterol in de schimmelcelmembraan. Dit leidt tot een accumulatie van gemethyleerde sterolprecursoren en een depletie van ergosterol in de celmembraan, waardoor de structuur en functie van de schimmelcelmembraan worden verzwakt.’ Oorspronkelijke Engelse tekst: "Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371), versie van 2025-11-18; geraadpleegd op 2026-11-19). Op basis van algemene kennis remt ketoconazol het schimmelenzym CYP51 (lanosterol-14-alfa-demethylase), waardoor de celmembraan van schimmels wordt verstoord. Bij hogere blootstelling remt het ook menselijke enzymen van de steroïdsynthese (CYP17A1, CYP11A1), waardoor de aanmaak van androgenen daalt.
 
 Voor acne zijn er twee mogelijke routes. Ten eerste: androgenen stimuleren de talgproductie, dus een systemische anti-androgene werking is theoretisch relevant. Ten tweede: bij topicaal gebruik kan de werking tegen Malassezia (Pityrosporum) en ontstekingsremmende effecten helpen bij acne-achtige beelden of Malassezia-folliculitis. Laboratoriumstudies tonen bovendien dat ketoconazol de groei en lipase-activiteit van *Propionibacterium acnes* remt.
 
@@ -142,11 +142,12 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB zijn ni
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 119912//10470: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->
 

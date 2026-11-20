@@ -58,7 +58,7 @@ Atosiban is een peptide dat bindt aan de oxytocine- en vasopressinereceptoren (V
 
 ## Waarom is deze voorspelling (on)waarschijnlijk redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Wel is bekend dat atosiban bindt aan de oxytocinereceptor en aan de vasopressinereceptoren V1A, V1B en V2.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Atosiban (niet-officiële vertaling): ‘Oxytocinereceptorantagonist’ Oorspronkelijke Engelse tekst: "Oxytocin receptor antagonist" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Wel is bekend dat atosiban bindt aan de oxytocinereceptor en aan de vasopressinereceptoren V1A, V1B en V2.
 
 Een verband met de regulatie van de oogdruk is mogelijk denkbaar via signalering van deze receptoren in oogweefsel, maar dit is speculatief. De beschikbare gegevens bevatten geen enkele studie die dit ondersteunt. De score van 0,9992 is een uitsluitend op modelberekening gebaseerde voorspelling en vormt op zichzelf geen klinisch bewijs.
 
@@ -104,6 +104,19 @@ Raadpleeg voor verdere veiligheidsinformatie de SmPC (Samenvatting van de Produc
 - Gegevens over het werkingsmechanisme uit betrouwbare bronnen
 - Beoordeling van de toedieningsroute: atosiban is een infusieconcentraat, en voor een oogindicatie zou een geschikte (bijv. lokale oogheelkundige) toedieningsvorm nodig zijn
 - Volledige veiligheidsinformatie uit de SmPC van CBG-MEB
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

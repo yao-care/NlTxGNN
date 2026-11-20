@@ -58,7 +58,7 @@ Citalopram is een selectieve serotonineheropnameremmer (SSRI). Het TxGNN-model v
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde data. Op basis van de bekende klasse-eigenschappen is citalopram een SSRI. Serotonerge disfunctie speelt een centrale rol in de pathofysiologie van OCS, en SSRI's zijn eerstelijns farmacotherapie bij deze aandoening. Citalopram deelt zijn mechanisme met middelen die voor OCS gebruikt worden, zoals fluoxetine, fluvoxamine, sertraline en paroxetine.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Citalopram (niet-officiële vertaling): ‘Het werkingsmechanisme van citalopram is onduidelijk, maar wordt verondersteld verband te houden met versterking van de serotonerge activiteit in het centrale zenuwstelsel (CZS) als gevolg van remming van de neuronale heropname van serotonine (5-HT) in het CZS.’ Oorspronkelijke Engelse tekst: "The mechanism of action of citalopram is unclear, but is presumed to be related to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT)." ([DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177), versie van 2023-10-09; geraadpleegd op 2026-11-19). Op basis van de bekende klasse-eigenschappen is citalopram een SSRI. Serotonerge disfunctie speelt een centrale rol in de pathofysiologie van OCS, en SSRI's zijn eerstelijns farmacotherapie bij deze aandoening. Citalopram deelt zijn mechanisme met middelen die voor OCS gebruikt worden, zoals fluoxetine, fluvoxamine, sertraline en paroxetine.
 
 De literatuur bevat citalopram-specifieke open-label en voorlopige studies bij therapieresistente OCS bij volwassenen en bij OCS bij kinderen en adolescenten. Het bewijs is echter overwegend kleinschalig en niet-geblindeerd, en de koppeling berust op het klassemechanisme, niet op mechanistische gegevens uit de aangeleverde data.
 
@@ -124,6 +124,19 @@ Voor overige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvattin
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties via het CBG-MEB, inclusief QT-verlenging en interacties
 - Een veiligheidsmonitoringplan voor specifieke populaties, zoals kinderen en adolescenten
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

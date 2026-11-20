@@ -58,7 +58,7 @@ Bupropion is een antidepressivum dat de heropname van noradrenaline en dopamine 
 
 ## Waarom is deze voorspelling redelijk?
 
-Bupropion remt de heropname van noradrenaline en dopamine en heeft geen serotonerge werking. Dezelfde catecholaminerge routes worden aangestuurd door bestaande ADHD-geneesmiddelen, zoals methylfenidaat en atomoxetine. Dat geeft een plausibele farmacologische basis voor werkzaamheid bij ADHD. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; bovenstaande beschrijving komt uit de geraadpleegde literatuur.
+Bupropion remt de heropname van noradrenaline en dopamine en heeft geen serotonerge werking. Dezelfde catecholaminerge routes worden aangestuurd door bestaande ADHD-geneesmiddelen, zoals methylfenidaat en atomoxetine. Dat geeft een plausibele farmacologische basis voor werkzaamheid bij ADHD. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Bupropion (niet-officiële vertaling): ‘Het exacte mechanisme waarmee bupropionhydrochloride tabletten met verlengde afgifte (SR) het vermogen van patiënten om zich van roken te onthouden vergroten, is niet bekend, maar wordt verondersteld verband te houden met noradrenerge en/of dopaminerge mechanismen. Bupropion is een relatief zwakke remmer van de neuronale heropname van noradrenaline en dopamine en remt de heropname van serotonine niet.’ Oorspronkelijke Engelse tekst: "The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin." ([DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119), versie van 2026-11-11; geraadpleegd op 2026-11-19).
 
 Meerdere systematische reviews en netwerk-meta-analyses bespreken bupropion als tweedelijns- of niet-stimulerende optie bij ADHD, vooral wanneer stimulantia onvoldoende werken of slecht worden verdragen. Gebruik bij ADHD valt buiten de geregistreerde indicaties en is dus off-label.
 
@@ -123,6 +123,19 @@ Raadpleeg voor volledige informatie over waarschuwingen en contra-indicaties de 
 - De SmPC-informatie van CBG-MEB (waarschuwingen en contra-indicaties) beoordelen, omdat die in de samengestelde data ontbreekt
 - Een veiligheidsplan voor epileptische aanvallen, bloeddruk en interacties, met name bij patiënten met middelengebruik of een eetstoornis
 - Bevestiging van de actuele registratiestatus van het Nederlandse product en aanvullende gegevens over het werkingsmechanisme
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

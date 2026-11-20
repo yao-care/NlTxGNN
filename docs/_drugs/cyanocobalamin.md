@@ -58,7 +58,7 @@ Cyanocobalamine is een synthetische vorm van vitamine B12. De TxGNN-modellen voo
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Over het werkingsmechanisme van cyanocobalamine zijn in de voor dit rapport verzamelde gegevens geen gedetailleerde gegevens beschikbaar. Uit algemene farmacologische kennis is bekend dat vitamine B12 een cofactor is voor methylmalonyl-CoA-mutase en methioninesynthase. Biotine is een cofactor voor carboxylasen, zoals propionyl-CoA-carboxylase, pyruvaatcarboxylase, acetyl-CoA-carboxylase en 3-methylcrotonyl-CoA-carboxylase.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Cyanocobalamin (niet-officiële vertaling): ‘KLINISCHE FARMACOLOGIE Vitamine B12 is essentieel voor groei, celdeling, hematopoëse en de synthese van nucleoproteïnen en myeline.’ Oorspronkelijke Engelse tekst: "CLINICAL PHAMRACOLOGY Vitamin B12 is essential to growth, cell reproduction, hematopoiesis, and nucleoprotein and myelin synthesis." ([DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d), versie van 2025-12-08; geraadpleegd op 2026-11-19). Uit algemene farmacologische kennis is bekend dat vitamine B12 een cofactor is voor methylmalonyl-CoA-mutase en methioninesynthase. Biotine is een cofactor voor carboxylasen, zoals propionyl-CoA-carboxylase, pyruvaatcarboxylase, acetyl-CoA-carboxylase en 3-methylcrotonyl-CoA-carboxylase.
 
 De twee routes raken elkaar bij het propionaat-/methylmalonaatmetabolisme: propionyl-CoA-carboxylase (biotineafhankelijk) levert methylmalonyl-CoA, dat vervolgens met behulp van vitamine B12 wordt verwerkt. Dit is een aannemelijk, maar niet geverifieerd biologisch verband.
 
@@ -110,6 +110,19 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Preklinisch of klinisch onderzoek dat direct het effect van cyanocobalamine bij biotinemetabole ziekten onderzoekt
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de SmPC van het CBG-MEB
 - Beoordeling van de relevantie voor specifieke aandoeningen, zoals biotinidasedeficiëntie en holocarboxylasesynthetasedeficiëntie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

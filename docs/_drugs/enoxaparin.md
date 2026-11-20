@@ -54,7 +54,7 @@ Enoxaparine is een laagmoleculairgewichtheparine dat de bloedstolling remt. De T
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Enoxaparine versterkt de werking van antitrombine III en remt vooral factor Xa, in mindere mate trombine. Gegevens over het werkingsmechanisme zijn niet opgenomen in de voor dit rapport samengestelde gegevens; de onderstaande koppeling is daarom afgeleid uit algemene farmacologische kennis.
+Enoxaparine versterkt de werking van antitrombine III en remt vooral factor Xa, in mindere mate trombine. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Enoxaparin (niet-officiële vertaling): ‘Enoxaparine is een heparine met een laag molecuulgewicht die antitrombotische eigenschappen heeft.’ Oorspronkelijke Engelse tekst: "Enoxaparin is a low molecular weight heparin which has antithrombotic properties." ([DailyMed: Lovenox (enoxaparin sodium) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5017a927-2a24-4f27-89f9-27c805bf7d59), versie van 2026-05-28; geraadpleegd op 2026-11-19).
 
 Bij autosomaal recessieve proteïne C-deficiëntie (homozygoot of compound heterozygoot) ontbreekt de antistollingsroute van proteïne C. Hierdoor ontstaat ongeremde trombinevorming en kunnen trombotische complicaties optreden, zoals purpura fulminans bij pasgeborenen. Enoxaparine werkt stroomafwaarts van dit defect en vervangt proteïne C niet, maar zou de trombotische belasting wel plausibel kunnen verminderen.
 
@@ -94,6 +94,19 @@ Voor overige veiligheidsinformatie (waarschuwingen en contra-indicaties) wordt v
 - Aanvullende gegevens over het werkingsmechanisme
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties van het CBG-MEB, vooral in verband met bloedingsrisico en pasgeborenen
 - Eventueel een klinisch onderzoeksvoorstel bij deskundigen op het gebied van hemostase en kindergeneeskunde
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lovenox (enoxaparin sodium) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5017a927-2a24-4f27-89f9-27c805bf7d59) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

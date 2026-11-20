@@ -54,7 +54,7 @@ Calcitriol is de actieve vorm van vitamine D en wordt gebruikt bij stoornissen v
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn niet beschikbaar in de voor dit rapport verzamelde gegevens. Calcitriol is echter de biologisch actieve vorm van vitamine D, waardoor een mechanistische samenhang met vitamine D-deficiëntie biologisch plausibel is.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Calcitriol (niet-officiële vertaling): ‘De endogene synthese en het katabolisme van calcitriol, alsmede de fysiologische regelmechanismen die deze processen beïnvloeden, spelen een cruciale rol bij de regulering van de serumspiegel van calcitriol. De fysiologische dagelijkse productie bedraagt normaal gesproken 0,5 tot 1,0 mcg en is enigszins hoger tijdens perioden van verhoogde botsynthese (bijv. groei of zwangerschap).’ Oorspronkelijke Engelse tekst: "Endogenous synthesis and catabolism of calcitriol, as well as physiological control mechanisms affecting these processes, play a critical role regulating the serum level of calcitriol. Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher during periods of increased bone synthesis (eg, growth or pregnancy)." ([DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e), versie van 2026-10-15; geraadpleegd op 2026-11-19). Calcitriol is echter de biologisch actieve vorm van vitamine D, waardoor een mechanistische samenhang met vitamine D-deficiëntie biologisch plausibel is.
 
 Een belangrijke kanttekening: de term "vitamine D-deficiëntie" is in de gebruikte ontologie als verouderd (obsolete) gemarkeerd. Er zijn bovendien geen studies of publicaties. De hoge score weerspiegelt waarschijnlijk vooral de bekende farmacologie van vitamine D en niet nieuw herpositioneringsbewijs. Er is geen studie die deze ziekte direct onderzoekt, daarom is het bewijsniveau L5.
 
@@ -92,6 +92,19 @@ Voor overige veiligheidsinformatie (waarschuwingen en contra-indicaties): raadpl
 - Gegevens over het werkingsmechanisme
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties via het CBG-MEB
 - Gerichte studies of systematisch literatuuronderzoek naar calcitriol bij deze indicatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -54,7 +54,7 @@ Abacavir is een antivirale remmer van het reverse transcriptase-enzym (NRTI). He
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Abacavir is een nucleoside-reverse-transcriptaseremmer. Het wordt in de cel gefosforyleerd tot carbovirtrifosfaat, dat de verlenging van het virale DNA stopt. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet opgenomen; de beschrijving hierboven berust op algemeen bekende farmacologie.
+Abacavir is een nucleoside-reverse-transcriptaseremmer. Het wordt in de cel gefosforyleerd tot carbovirtrifosfaat, dat de verlenging van het virale DNA stopt. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor abacavir and lamivudine (combinatiepreparaat met Abacavir) (niet-officiële vertaling): ‘Abacavir en lamivudine is een antiretroviraal middel met activiteit tegen HIV-1.’ Oorspronkelijke Engelse tekst: "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1." ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), versie van 2026-09-18; geraadpleegd op 2026-11-19).
 
 SIV is een lentivirus dat nauw verwant is aan HIV en een vergelijkbaar reverse transcriptase gebruikt. Werkzaamheid is daarom biologisch plausibel. De enige beschikbare studie is een in-vitrostudie uit 2004 naar de gevoeligheid van HIV-2, SIV en SHIV voor middelen tegen HIV-1. Die ondersteunt de plausibiliteit van activiteit tegen meerdere lentivirussen, maar is geen klinisch bewijs.
 
@@ -94,6 +94,19 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 - Gegevens over het werkingsmechanisme uit een betrouwbare bron zoals DrugBank
 - Bijsluitertekst (waarschuwingen en contra-indicaties) van het CBG-MEB voor veiligheidsscreening
 - Een duidelijke vraagstelling over de translationele waarde van een diermodel-indicatie voor humaan gebruik
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

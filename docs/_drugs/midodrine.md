@@ -59,7 +59,7 @@ Midodrine is een perifere alfa-1-adrenerge agonist die vooral wordt gebruikt bij
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Midodrine is een prodrug. De actieve metaboliet, desglymidodrine, stimuleert perifere alfa-1-receptoren, waardoor de vaattonus en de bloeddruk toenemen. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar.
+Midodrine is een prodrug. De actieve metaboliet, desglymidodrine, stimuleert perifere alfa-1-receptoren, waardoor de vaattonus en de bloeddruk toenemen. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Midodrine (niet-officiële vertaling): ‘Midodrinehydrochloride vormt een actieve metaboliet, desglymidodrine, die een alfa 1 -agonist is en zijn werking uitoefent via activering van de alfa-adrenerge receptoren van het arteriolaire en veneuze vaatstelsel, wat leidt tot een toename van de vaattonus en een verhoging van de bloeddruk. Desglymidodrine stimuleert de cardiale bèta-adrenerge receptoren niet.’ Oorspronkelijke Engelse tekst: "Midodrine hydrochloride forms an active metabolite, desglymidodrine, that is an alpha 1 -agonist, and exerts its actions via activation of the alpha-adrenergic receptors of the arteriolar and venous vasculature, producing an increase in vascular tone and elevation of blood pressure. Desglymidodrine does not stimulate cardiac beta-adrenergic receptors." ([DailyMed: midodrine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6705af-bb72-4edb-863a-93a351bd6dba), versie van 2026-11-12; geraadpleegd op 2026-11-19).
 
 Variabel proteasegevoelige prionopathie is een zeldzame, neurodegeneratieve prionziekte. Er is geen herkenbaar mechanistisch verband tussen perifere alfa-1-agonisme en het ziekteproces van deze prionopathie. De zeer hoge score (0,9999) is een puur op modelberekening gebaseerde voorspelling en wordt niet ondersteund door klinische of literatuurgegevens. Midodrine passeert bovendien de bloed-hersenbarrière niet noemenswaardig, wat een direct effect in het centrale zenuwstelsel onwaarschijnlijk maakt.
 
@@ -119,11 +119,12 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC.
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het CBG-MEB registreert voor midodrine in totaal 1 vergunning, die geldig is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: midodrine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6705af-bb72-4edb-863a-93a351bd6dba) |
 
 <!-- review:end log -->
 

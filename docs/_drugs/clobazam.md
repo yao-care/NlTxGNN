@@ -54,7 +54,7 @@ Clobazam is een benzodiazepine dat werkt als positieve allosterische modulator v
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het precieze werkingsmechanisme zijn voor dit rapport niet beschikbaar. Clobazam is echter een GABA-A-modulator, net als de benzodiazepinen (midazolam, lorazepam) die bij de behandeling van FIRES worden gebruikt. Dit geeft een aannemelijke redenering op klasseniveau voor aanvalscontrole.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Clobazam (niet-officiële vertaling): ‘Het exacte werkingsmechanisme van clobazam, een 1,5-benzodiazepine, is niet volledig bekend, maar men denkt dat het berust op potentiëring van de GABA-erge neurotransmissie als gevolg van binding aan de benzodiazepinebindingsplaats van de GABA A -receptor.’ Oorspronkelijke Engelse tekst: "The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c), versie van 2026-10-16; geraadpleegd op 2026-11-19). Clobazam is echter een GABA-A-modulator, net als de benzodiazepinen (midazolam, lorazepam) die bij de behandeling van FIRES worden gebruikt. Dit geeft een aannemelijke redenering op klasseniveau voor aanvalscontrole.
 
 De twee gevonden publicaties gaan over enterale lorazepam als afbouwstrategie bij midazolam-responsieve FIRES (2022) en over perampanel om barbituraatafhankelijkheid te verminderen (2025). Geen van beide onderzoekt clobazam. Het bewijs is dus indirect en de zeer hoge score is slechts een modelvoorspelling.
 
@@ -112,11 +112,12 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De lokale gegevens bevatten één registratie, die als ingetrokken staat vermeld” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c) |
 
 <!-- review:end log -->
 

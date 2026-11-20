@@ -62,7 +62,7 @@ Er zijn **geen geregistreerde klinische studies** en **3 publicaties** (casuïst
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn in de data van dit rapport niet beschikbaar. Op basis van algemene kennis is pyridostigmine een omkeerbare acetylcholinesteraseremmer. Het remt de afbraak van acetylcholine, waardoor er meer acetylcholine beschikbaar is in de synaps van de neuromusculaire overgang. Dit verbetert direct het symptomatische tekort bij myasthenia gravis.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pyridostigmine (niet-officiële vertaling): ‘Pyridostigminebromide drank remt de afbraak van acetylcholine door cholinesterase en maakt daardoor een vrijere overdracht van zenuwimpulsen over de neuromusculaire overgang mogelijk. Pyridostigmine is een analoog van neostigmine (Prostigmine TM ), maar verschilt daarvan in bepaalde klinisch significante opzichten; zo kenmerkt pyridostigmine zich door een langere werkingsduur en minder gastro-intestinale bijwerkingen.’ Oorspronkelijke Engelse tekst: "Pyridostigmine bromide oral solution inhibits the destruction of acetylcholine by cholinesterase and thereby permits freer transmission of nerve impulses across the neuromuscular junction. Pyridostigmine is an analog of neostigmine (Prostigmine TM ), but differs from it in certain clinically significant respects; for example, pyridostigmine is characterized by a longer duration of action and fewer gastrointestinal side effects." ([DailyMed: Pryidostigmine Bromide (pyridostigmine bromide) prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=beda905e-005a-439d-ac74-92db4e269780), versie van 2022-09-07; geraadpleegd op 2026-11-19). Op basis van algemene kennis is pyridostigmine een omkeerbare acetylcholinesteraseremmer. Het remt de afbraak van acetylcholine, waardoor er meer acetylcholine beschikbaar is in de synaps van de neuromusculaire overgang. Dit verbetert direct het symptomatische tekort bij myasthenia gravis.
 
 Myasthenia gravis met thymushyperplasie is een subtype van myasthenia gravis. Omdat de symptomatische behandeling niet afhangt van de thymusbevinding, is de mechanistische aansluiting sterk. Het hoge TxGNN-score weerspiegelt waarschijnlijk deze nauwe ontologische verwantschap met de reeds bekende indicatie.
 
@@ -153,13 +153,14 @@ Kanttekeningen: de neonatale vorm (rang 2) heeft de meeste literatuur (20 public
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De Nederlandse vergunning is ingetrokken en gegevens uit de productinformatie ontbreken, waardoor veiligheidsscreening nog niet mogelijk is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Bevestiging van de beschikbaarheid in Nederland, gezien de ingetrokken registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 116602//03821: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Pryidostigmine Bromide (pyridostigmine bromide) prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=beda905e-005a-439d-ac74-92db4e269780) |
 
 <!-- review:end log -->
 

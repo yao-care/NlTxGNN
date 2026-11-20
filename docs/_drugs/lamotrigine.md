@@ -58,7 +58,7 @@ Lamotrigine is een anti-epilepticum dat oorspronkelijk wordt gebruikt bij epilep
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data die voor dit rapport zijn samengesteld. Op basis van bekende informatie blokkeert lamotrigine spanningsgevoelige natriumkanalen en vermindert het de afgifte van glutamaat. Dit is dezelfde mechanismeklasse als carbamazepine en oxcarbazepine, de eerstekeusmiddelen bij trigeminusneuralgie.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Lamotrigine (niet-officiële vertaling): ‘Het precieze mechanisme of de precieze mechanismen waardoor lamotrigine zijn anticonvulsieve werking uitoefent, zijn onbekend. In diermodellen die zijn ontworpen om anticonvulsieve activiteit aan te tonen, was lamotrigine werkzaam in het voorkomen van de verspreiding van aanvallen in de maximale-elektroshocktest (MES) en de pentyleentetrazooltest (scMet), en voorkwam het aanvallen in de tests met visueel en elektrisch opgewekte nadischarges (EEAD) voor anti-epileptische activiteit.’ Oorspronkelijke Engelse tekst: "The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity." ([DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4), versie van 2026-10-12; geraadpleegd op 2026-11-19). Op basis van bekende informatie blokkeert lamotrigine spanningsgevoelige natriumkanalen en vermindert het de afgifte van glutamaat. Dit is dezelfde mechanismeklasse als carbamazepine en oxcarbazepine, de eerstekeusmiddelen bij trigeminusneuralgie.
 
 Trigeminusneuralgie ontstaat vaak door compressie van de zenuwwortel, met focale demyelinisatie en abnormale, hoogfrequente ontladingen van de zenuwvezels. Natriumkanaalblokkade past bij dit mechanisme. De Europese richtlijn (EAN 2019) positioneert lamotrigine als aanvullende of alternatieve optie wanneer eerstelijnsmiddelen niet worden verdragen.
 
@@ -147,12 +147,13 @@ Deze enige registratie bij het CBG-MEB is geldig. Het middel is dus in Nederland
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Bevestiging van de actuele registratiestatus in Nederland, aangezien de enige gevonden vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
 
 <!-- review:end log -->
 

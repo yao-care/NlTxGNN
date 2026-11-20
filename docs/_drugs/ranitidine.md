@@ -54,7 +54,7 @@ Ranitidine is een H2-receptorantagonist (zuurremmer) die oorspronkelijk wordt ge
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Uit de gevonden literatuur is wel bekend dat ranitidine een competitieve histamine-H2-receptorantagonist is. Het remt de maagzuur- en pepsinesecretie, en het is naar verluidt 4 tot 10 keer krachtiger dan cimetidine.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ranitidine (niet-officiële vertaling): ‘Ranitidine Tabletten zijn een competitieve, reversibele remmer van de werking van histamine op de histamine-H 2 -receptoren, waaronder receptoren op de maagcellen. Ranitidine Tabletten verlagen het serum-Ca ++ niet bij hypercalciëmische toestanden.’ Oorspronkelijke Engelse tekst: "Ranitidine Tablets are a competitive, reversible inhibitor of the action of histamine at the histamine H 2 -receptors, including receptors on the gastric cells. Ranitidine Tablets do not lower serum Ca ++ in hypercalcemic states." ([DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9), versie van 2026-09-24; geraadpleegd op 2026-11-19). Uit de gevonden literatuur is wel bekend dat ranitidine een competitieve histamine-H2-receptorantagonist is. Het remt de maagzuur- en pepsinesecretie, en het is naar verluidt 4 tot 10 keer krachtiger dan cimetidine.
 
 Zweren ontstaan mede doordat zuur en pepsine de slijmvliesbescherming overstemmen, dus zuurremming is een logische behandelstrategie. De hoge modelscore weerspiegelt vooral dit bekende mechanisme en niet een nieuwe ontdekking.
 
@@ -141,7 +141,7 @@ Raadpleeg voor de volledige veiligheidsinformatie (waarschuwingen en contra-indi
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
@@ -149,6 +149,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Tabelregel RVG 113857//13064: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “Er is één vergunning bekend bij het CBG-MEB en deze is inget” → “Er is één registratie bekend; deze komt niet voor in de actu” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “Besluit over de relevantie van de ingetrokken vergunning,” → “Besluit over de relevantie van de niet meer geregistreerde v” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9) |
 
 <!-- review:end log -->
 

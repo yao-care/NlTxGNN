@@ -58,7 +58,7 @@ Cefuroxim is een tweede-generatie cefalosporine-antibioticum dat bacteriële cel
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Cefuroxim is een bèta-lactam antibioticum dat bindt aan penicilline-bindende eiwitten en zo de celwandsynthese van bacteriën remt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Cefuroxime (niet-officiële vertaling): ‘Cefuroxim is een bactericide middel dat werkt door remming van de synthese van de bacteriële celwand. Cefuroxim is werkzaam in aanwezigheid van sommige bètalactamasen, zowel penicillinasen als cefalosporinasen, van gramnegatieve en grampositieve bacteriën.’ Oorspronkelijke Engelse tekst: "Cefuroxime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Cefuroxime has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c), versie van 2025-03-27; geraadpleegd op 2026-11-19). Cefuroxim is een bèta-lactam antibioticum dat bindt aan penicilline-bindende eiwitten en zo de celwandsynthese van bacteriën remt.
 
 Er is geen aannemelijke mechanistische link gevonden tussen deze werking en de regulatie van amylase of de klaring van pancreasenzymen. De hoge TxGNN-score (0,9976) is een modelmatige voorspelling zonder ondersteunende studiegegevens. Er is daarom geen onderbouwing om aan te nemen dat cefuroxim hyperamylasemie behandelt.
 
@@ -106,6 +106,19 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Een plausibele mechanistische hypothese voor een effect op amylasewaarden.
 - Preklinisch of klinisch onderzoek dat cefuroxim direct bij hyperamylasemie bestudeert.
 - Aanvullende veiligheidsgegevens uit de SmPC van de geregistreerde producten.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

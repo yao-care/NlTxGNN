@@ -54,7 +54,7 @@ Salbutamol is een kortwerkende β2-adrenerge agonist die als bronchusverwijder w
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme van salbutamol zijn in de samengestelde gegevens niet beschikbaar. Op basis van algemene farmacologische kennis is salbutamol een β2-agonist; deze klasse kan via β2-receptoren gladde spieren ontspannen en mogelijk de afgifte van mediatoren uit mestcellen remmen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Salbutamol (niet-officiële vertaling): ‘Salbutamolsulfaat is een bèta 2 -adrenerge agonist. De farmacologische effecten van salbutamolsulfaat zijn toe te schrijven aan activering van bèta 2 -adrenerge receptoren op het gladde spierweefsel van de luchtwegen. Activering van bèta 2 -adrenerge receptoren leidt tot activering van adenylcyclase en tot een toename van de intracellulaire concentratie van cyclisch 3',5'-adenosinemonofosfaat (cyclisch AMP).’ Oorspronkelijke Engelse tekst: "Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)." ([DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d), versie van 2024-12-20; geraadpleegd op 2026-11-19). Op basis van algemene farmacologische kennis is salbutamol een β2-agonist; deze klasse kan via β2-receptoren gladde spieren ontspannen en mogelijk de afgifte van mediatoren uit mestcellen remmen.
 
 Papillaire conjunctivitis is een allergisch-inflammatoire aandoening van het oogbindvlies waarbij mestcellen een rol spelen. Een anti-allergisch effect van β2-agonisten op mestcellen en conjunctivaal weefsel is daarom theoretisch denkbaar, maar tot nu toe niet aangetoond. Er zijn geen gegevens die dit voor deze aandoening onderbouwen, en ook de gelijkenis met de oorspronkelijke toepassing is niet nader onderzocht.
 
@@ -103,11 +103,12 @@ Voor waarschuwingen en contra-indicaties geldt: raadpleeg de SmPC (Samenvatting 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Alle drie de vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
 
 <!-- review:end log -->
 

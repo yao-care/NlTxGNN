@@ -54,7 +54,7 @@ Methylprednisolon is een systemisch werkend corticosteroïd met ontstekingsremme
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het precieze werkingsmechanisme van methylprednisolon zijn voor dit rapport niet beschikbaar. Methylprednisolon behoort tot de glucocorticoïden. Deze klasse remt ontstekingsprocessen en dempt de immuunrespons.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Methylprednisolone (niet-officiële vertaling): ‘Natuurlijk voorkomende glucocorticoïden (hydrocortison en cortison), die ook zoutretinerende eigenschappen hebben, worden gebruikt als substitutietherapie bij toestanden van bijnierschorsinsufficiëntie. Hun synthetische analogen worden voornamelijk gebruikt vanwege hun krachtige ontstekingsremmende effecten bij aandoeningen van vele orgaansystemen.’ Oorspronkelijke Engelse tekst: "Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems." ([DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4), versie van 2026-07-01; geraadpleegd op 2026-11-19). Methylprednisolon behoort tot de glucocorticoïden. Deze klasse remt ontstekingsprocessen en dempt de immuunrespons.
 
 Folliculaire mucinose is een ontstekingsaandoening van de haarfollikels, waarbij mucine zich ophoopt in de follikels. Een ontstekingsremmend middel zoals een corticosteroïd zou daar theoretisch kunnen werken. Dit is echter een mechanistische veronderstelling. Er zijn geen onderzoeksgegevens opgehaald die deze koppeling ondersteunen, en de overeenkomst met de oorspronkelijke indicaties is niet nader uitgewerkt.
 
@@ -106,11 +106,12 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het CBG-MEB registreert één geldige vergunning voor dit enkelvoudige product” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4) |
 
 <!-- review:end log -->
 

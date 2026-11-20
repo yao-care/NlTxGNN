@@ -58,7 +58,7 @@ Ofloxacine is een fluorochinolon-antibioticum dat oorspronkelijk wordt gebruikt 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van algemene kennis is ofloxacine een fluorochinolon dat bacterieel DNA-gyrase en topoisomerase IV remt. Het is werkzaam bij diverse gramnegatieve en grampositieve infecties, en de werkzaamheid bij de oorspronkelijke indicaties is bekend.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ofloxacin (niet-officiële vertaling): ‘Ofloxacine oefent zijn antibacteriële werking uit door remming van DNA-gyrase, een bacterieel topo-isomerase. DNA-gyrase is een essentieel enzym dat de DNA-topologie reguleert en bijdraagt aan DNA-replicatie, -herstel, -deactivatie en -transcriptie.’ Oorspronkelijke Engelse tekst: "Ofloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase. DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA replication, repair, deactivation, and transcription." ([DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de), versie van 2026-10-23; geraadpleegd op 2026-11-19). Op basis van algemene kennis is ofloxacine een fluorochinolon dat bacterieel DNA-gyrase en topoisomerase IV remt. Het is werkzaam bij diverse gramnegatieve en grampositieve infecties, en de werkzaamheid bij de oorspronkelijke indicaties is bekend.
 
 Pest wordt veroorzaakt door *Yersinia pestis*, een gramnegatieve bacterie. Het mechanisme van ofloxacine is dus biologisch plausibel. In vitro-studies tonen aan dat ofloxacine zeer actief is tegen *Y. pestis* (MIC90 < 0,03 µg/ml, PMID 8913481). Dierstudies bij muizen laten werkzaamheid zien bij experimentele pest.
 
@@ -163,7 +163,7 @@ De officiële waarschuwingen en contra-indicaties uit de bijsluiter zijn in de v
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
@@ -171,6 +171,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-10-31 | Verwijderd: “Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Er is één vergunning, en die is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 115765: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Bicalutamide is een niet-steroïde androgeenreceptorantagonist. Het TxGNN-model 
 
 ## Waarom is deze voorspelling redelijk?
 
-Bicalutamide is een niet-steroïde androgeenreceptor (AR)-antagonist. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; de onderstaande redenering is gebaseerd op de bekende farmacologische klasse.
+Bicalutamide is een niet-steroïde androgeenreceptor (AR)-antagonist. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Bicalutamide (niet-officiële vertaling): ‘CASODEX is een niet-steroïdale androgeenreceptorremmer. Het remt competitief de werking van androgenen door binding aan cytosolaire androgeenreceptoren in het doelweefsel. Van prostaatcarcinoom is bekend dat het androgeengevoelig is en reageert op een behandeling die het effect van androgenen tegengaat en/of de bron van androgenen verwijdert.’ Oorspronkelijke Engelse tekst: "CASODEX is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen." ([DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67), versie van 2026-02-27; geraadpleegd op 2026-11-19).
 
 Hypertrichose, met name door minoxidil veroorzaakte hypertrichose bij vrouwen, is gedeeltelijk androgeengevoelig. Blokkade van de androgeenreceptor is daarom farmacologisch aannemelijk.
 
@@ -125,6 +125,18 @@ Voor waarschuwingen en contra-indicaties zijn in de samengestelde data geen prod
 - Een prospectieve, gecontroleerde studie bij door minoxidil veroorzaakte hypertrichose
 - Gegevens over het werkingsmechanisme aanvullen
 - Veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties) toevoegen en beoordelen, met name rond de leverfunctie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -54,7 +54,7 @@ Doxorubicine is een antracycline-cytostaticum dat de werking van topoisomerase I
 
 ## Waarom is deze voorspelling redelijk?
 
-Doxorubicine remt topoisomerase II en intercaleert in het DNA, waardoor snel delende tumorcellen worden beschadigd. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar; de beschrijving hier is gebaseerd op de algemeen bekende farmacologie van antracyclinen.
+Doxorubicine remt topoisomerase II en intercaleert in het DNA, waardoor snel delende tumorcellen worden beschadigd. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Doxorubicin (niet-officiële vertaling): ‘Men denkt dat het cytotoxische effect van doxorubicinehydrochloride op maligne cellen en de toxische effecten ervan op verschillende organen verband houden met de intercalatie van nucleotidebasen en de binding aan lipiden van de celmembraan door doxorubicine. Intercalatie remt de nucleotidereplicatie en de werking van DNA- en RNA-polymerasen.’ Oorspronkelijke Engelse tekst: "The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases." ([DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd), versie van 2026-11-12; geraadpleegd op 2026-11-19).
 
 Doxorubicine is al een vast onderdeel van multimodale chemotherapieschema's voor Ewing-sarcoom, zoals VDC/IE (vincristine, doxorubicine, cyclofosfamide, ifosfamide, etoposide) en VAC met dexrazoxaan. De hoge score van het model komt overeen met dit bestaande klinische gebruik. Cardiotoxiciteit vraagt wel om bescherming met dexrazoxaan of om begrenzing van de cumulatieve dosis.
 
@@ -117,6 +117,19 @@ Raadpleeg voor aanvullende informatie over waarschuwingen en contra-indicaties d
 - Gedetailleerde gegevens over het werkingsmechanisme
 - Een cardiaal monitoringsplan (LVEF, cumulatieve dosisgrens, overweging van dexrazoxaan)
 - Een beoordeling van de lokale richtlijnen voor Ewing-sarcoom door een multidisciplinair team
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

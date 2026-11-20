@@ -58,7 +58,7 @@ Ganirelix is een GnRH-antagonist die wordt gebruikt om voortijdige LH-pieken te 
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de verzamelde gegevens. Op basis van bekende farmacologie is ganirelix een GnRH-receptorantagonist die LH en FSH onderdrukt en daarmee de productie van geslachtshormonen in de gonaden vermindert.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ganirelix (niet-officiële vertaling): ‘De pulsatiele afgifte van GnRH stimuleert de synthese en secretie van luteïniserend hormoon (LH) en follikelstimulerend hormoon (FSH). De frequentie van LH-pulsen in de midden- en late folliculaire fase bedraagt ongeveer 1 puls per uur. […] Ganirelixacetaat werkt door competitieve blokkade van de GnRH-receptoren op de gonadotrofe cellen van de hypofyse en van de daaropvolgende signaaltransductieroute.’ Oorspronkelijke Engelse tekst: "The pulsatile release of GnRH stimulates the synthesis and secretion of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). The frequency of LH pulses in the mid and late follicular phase is approximately 1 pulse per hour. […] Ganirelix acetate acts by competitively blocking the GnRH receptors on the pituitary gonadotroph and subsequent transduction pathway." ([DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1), versie van 2026-10-16; geraadpleegd op 2026-11-19). Op basis van bekende farmacologie is ganirelix een GnRH-receptorantagonist die LH en FSH onderdrukt en daarmee de productie van geslachtshormonen in de gonaden vermindert.
 
 Een theoretisch verband met hypertrichose zou verminderde androgene of oestrogene signalering zijn. Hypertrichose is echter vaak niet androgeenafhankelijk (bijvoorbeeld aangeboren of geneesmiddelgeïnduceerde vormen), waardoor het verband zwak is. De hoge TxGNN-score is een puur grafiekgebaseerde voorspelling zonder klinisch of literatuurbewijs.
 
@@ -132,11 +132,12 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1) |
 
 <!-- review:end log -->
 

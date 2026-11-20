@@ -57,7 +57,7 @@ De ondersteuning bestaat uit **0 geregistreerde klinische studies** en **13 publ
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn op dit moment niet beschikbaar in de voor dit rapport samengestelde data. Fluvastatine is een statine (HMG-CoA-reductaseremmer). Het wordt gebruikt bij hypercholesterolemie en preventie van hart- en vaatziekten, en mechanistisch zou het via effecten op lipiden en ontsteking relevant kunnen zijn voor hiv.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Fluvastatin (niet-officiële vertaling): ‘Fluvastatine is een competitieve remmer van HMG-CoA-reductase, het snelheidsbeperkende enzym dat 3-hydroxy-3-methylglutaryl-co-enzym A (HMG-CoA) omzet in mevalonaat, een voorloper van cholesterol.’ Oorspronkelijke Engelse tekst: "Fluvastatin is a competitive inhibitor of HMG-CoA reductase, the rate limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) to mevalonate, a precursor of cholesterol." ([DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310), versie van 2024-01-31; geraadpleegd op 2026-11-19). Fluvastatine is een statine (HMG-CoA-reductaseremmer). Het wordt gebruikt bij hypercholesterolemie en preventie van hart- en vaatziekten, en mechanistisch zou het via effecten op lipiden en ontsteking relevant kunnen zijn voor hiv.
 
 De literatuur beschrijft vooral het gebruik van fluvastatine bij **hiv-geassocieerde dyslipidemie**, dus bij een complicatie van hiv of antiretrovirale therapie, niet bij de behandeling van het virus zelf. Fluvastatine wordt vooral door CYP2C9 gemetaboliseerd en is geen sterk CYP3A4-substraat. Daardoor is het risico op geneesmiddelinteracties met proteaseremmers lager dan bij andere statines.
 
@@ -92,7 +92,6 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Veiligheidsoverwegingen
 
-
 - **Contra-indicaties volgens de kennisgraaf**: leverziekte, galblaasziekte, myopathie, spierziekte, skeletspierziekte, familiaire periodieke paralyse, hypotensieve aandoening, middelenmisbruik/-afhankelijkheid, rabdomyolyse, nodulaire fasciitis en letsel.
 - **Geneesmiddelinteracties**: er zijn 187 interacties gevonden. Matige interacties zijn onder meer aprepitant, metronidazol, oxandrolon, naltrexon, nateglinide, nitisinon, rosuvastatine, simvastatine, tinidazol, glibenclamide en pectine. Voor andere stoffen is het niveau onbekend, zoals calcitriol, doxycycline, cimetidine, epinefrine, mannitol, dicyclomine, famotidine, acetylsalicylzuur en pantoprazol.
 - Bij combinatie met hiv-proteaseremmers is het interactierisico bij fluvastatine lager dan bij andere statines, maar dit moet per regime worden beoordeeld.
@@ -112,6 +111,19 @@ Er is geen enkele geregistreerde klinische studie en geen studie die aantoont da
 - Gecontroleerde studies die het effect op hiv zelf (virale last, immuunactivatie, ontsteking) onderzoeken
 - Een duidelijke afbakening of het doel de behandeling van hiv-infectie is of de behandeling van hiv-geassocieerde dyslipidemie
 - Aanvullend onderzoek naar het mogelijke effect op HCV-replicatie bij hiv/HCV-co-infectie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

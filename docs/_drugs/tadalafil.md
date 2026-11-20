@@ -58,7 +58,7 @@ Tadalafil is een PDE5-remmer die oorspronkelijk wordt gebruikt voor goedaardige 
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Tadalafil is bekend als PDE5-remmer die via de cGMP/NO-route vaatverwijding bevordert. Dat verklaart de werking bij erectiestoornissen en pulmonale hypertensie.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Tadalafil (niet-officiële vertaling): ‘Peniserectie tijdens seksuele stimulatie wordt veroorzaakt door een verhoogde bloedstroom in de penis als gevolg van relaxatie van de penisarteriën en de gladde spieren van het corpus cavernosum. Deze respons komt tot stand door de afgifte van stikstofmonoxide (NO) uit zenuwuiteinden en endotheelcellen, wat de synthese van cGMP in gladde spiercellen stimuleert. […] Tadalafil remt PDE5.’ Oorspronkelijke Engelse tekst: "Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cGMP in smooth muscle cells. […] Tadalafil inhibits PDE5." ([DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895), versie van 2026-06-03; geraadpleegd op 2026-11-19). Tadalafil is bekend als PDE5-remmer die via de cGMP/NO-route vaatverwijding bevordert. Dat verklaart de werking bij erectiestoornissen en pulmonale hypertensie.
 
 Voor een verband met Ambras-syndroom, een aangeboren vorm van overmatige beharing met een genetische oorzaak, is geen mechanistische onderbouwing gevonden. Haargroei-effecten van andere vaatactieve stoffen (zoals minoxidil, dat via kaliumkanalen werkt) zijn geen bewijs voor tadalafil. De hoge score is waarschijnlijk een grafiekgebaseerd model-artefact.
 
@@ -151,12 +151,13 @@ Raadpleeg voor waarschuwingen en formele contra-indicaties de SmPC (Samenvatting
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning (RVG 118514) is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 118514: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
 
 <!-- review:end log -->
 

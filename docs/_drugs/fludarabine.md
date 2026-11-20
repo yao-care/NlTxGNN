@@ -54,7 +54,7 @@ Fludarabine is een purinenucleoside-analoog (cytostaticum). In de gegevens voor 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van fludarabine zijn voor dit rapport niet beschikbaar. Op basis van algemene kennis is fludarabine een purinenucleoside-analoog dat DNA-synthese remt en lymfodepletie veroorzaakt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Fludarabine (niet-officiële vertaling): ‘Fludarabinefosfaat wordt snel omgezet in het actieve 2-fluoro-ara-ATP, dat de DNA-synthese lijkt te remmen door remming van DNA-polymerase alfa, ribonucleotidereductase en DNA-primase.’ Oorspronkelijke Engelse tekst: "Fludarabine phosphate is rapidly converted to active 2-fluoro-ara-ATP, which appears to inhibit DNA synthesis through inhibition of DNA polymerase alpha, ribonucleotide reductase and DNA primase." ([DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951), versie van 2026-09-20; geraadpleegd op 2026-11-19). Op basis van algemene kennis is fludarabine een purinenucleoside-analoog dat DNA-synthese remt en lymfodepletie veroorzaakt.
 
 Bij myeloom wordt fludarabine vooral gebruikt als onderdeel van lymfodepleterende chemotherapie vóór BCMA-CAR-T-therapie (meestal met cyclofosfamide) en van reduced-intensity of niet-myeloablatieve conditionering vóór allogene transplantatie (bijvoorbeeld met busulfan, melfalan of treosulfan). Er is ook preklinisch bewijs voor directe antimyeloomactiviteit (PMID 17976186). De meeste signalen uit studies en literatuur betreffen fludarabine als bouwsteen van deze schema's. De werkzaamheid is daardoor vermengd met die van de andere componenten, en een zelfstandig effect bij myeloom is niet aangetoond.
 
@@ -150,12 +150,13 @@ Waarschuwingen en contra-indicaties zijn niet beschikbaar in de gegevens voor di
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “aangezien de enige vergunning in de gegevens is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Cabergoline is een dopamine-D2-receptoragonist die in Nederland als tablet is ge
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Cabergoline is een D2-agonist, maar op basis van de beschikbare gegevens kan geen aannemelijke mechanistische link tussen D2-agonisme en dit zeldzame syndroom worden vastgesteld.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Cabergoline (niet-officiële vertaling): ‘Cabergoline is een ergotderivaat en dopaminereceptoragonist met een hoge affiniteit voor D2-receptoren. Resultaten van in-vitro-onderzoek tonen aan dat cabergoline een direct remmend effect uitoefent op de secretie van prolactine door lactotrofe cellen van de hypofyse van de rat.’ Oorspronkelijke Engelse tekst: "Cabergoline is an ergot derivative and dopamine receptor agonist with a high affinity for D2 receptors. Results of in vitro studies demonstrate that cabergoline exerts a direct inhibitory effect on the secretion of prolactin by rat pituitary lactotrophs." ([DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb), versie van 2026-06-30; geraadpleegd op 2026-11-19). Cabergoline is een D2-agonist, maar op basis van de beschikbare gegevens kan geen aannemelijke mechanistische link tussen D2-agonisme en dit zeldzame syndroom worden vastgesteld.
 
 De hoge score (0,9906) is daarom uitsluitend een uitkomst van het model. Er is geen klinisch of preklinisch bewijs dat de voorspelling onderbouwt. De score is geen maat voor werkzaamheid en mag niet als zodanig worden gelezen.
 
@@ -95,6 +95,19 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 - Preklinisch of observationeel bewijs, bijvoorbeeld casuïstiek of cel- en diermodellen.
 - Volledige veiligheidsgegevens uit de SmPC en bijsluiter, aangezien de lokale gegevens geen waarschuwingen of contra-indicaties bevatten.
 - Beoordeling van de haalbaarheid van een studie bij deze zeldzame aandoening, inclusief overleg met deskundigen en de regelgevende instanties (CBG-MEB/EMA).
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

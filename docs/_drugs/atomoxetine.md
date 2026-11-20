@@ -58,7 +58,7 @@ Atomoxetine is een selectieve remmer van de heropname van noradrenaline en is in
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Atomoxetine is bekend als selectieve remmer van de noradrenalineheropname. Dit mechanisme verbetert aandacht en executieve functies.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Atomoxetine (niet-officiële vertaling): ‘Het precieze mechanisme waardoor STRATTERA zijn therapeutische effecten bij ADHD teweegbrengt, is onbekend, maar wordt verondersteld verband te houden met selectieve remming van de presynaptische noradrenalinetransporter, zoals vastgesteld in ex-vivo-opname- en neurotransmitterdepletiestudies.’ Oorspronkelijke Engelse tekst: "The precise mechanism by which STRATTERA produces its therapeutic effects in ADHD is unknown, but is thought to be related to selective inhibition of the pre-synaptic norepinephrine transporter, as determined in ex vivo uptake and neurotransmitter depletion studies." ([DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb), versie van 2026-06-30; geraadpleegd op 2026-11-19). Atomoxetine is bekend als selectieve remmer van de noradrenalineheropname. Dit mechanisme verbetert aandacht en executieve functies.
 
 Specifieke ontwikkelingsstoornissen, zoals leerstoornissen, komen vaak samen voor met de aandoening waarvoor atomoxetine al wordt gebruikt. Een symptoomverbetering is daarom denkbaar via die aandoening, niet via een direct effect op het leerprobleem zelf. De beschikbare literatuur beschrijft uitkomsten bij neurobiologische comorbiditeit (bijvoorbeeld autisme en leerstoornissen). Over werkzaamheid bij de specifieke ontwikkelingsstoornis zelf is niets aangetoond. De hoge modelscore is dus een computationele voorspelling en geen klinisch bewijs.
 
@@ -131,11 +131,12 @@ Waarschuwingen en contra-indicaties uit de officiële productinformatie zijn nie
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 116879//100389: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) |
 
 <!-- review:end log -->
 

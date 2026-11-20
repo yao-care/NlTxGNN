@@ -58,7 +58,7 @@ Finasteride is een 5-alfa-reductaseremmer die oorspronkelijk wordt gebruikt voor
 
 ## Waarom is deze voorspelling (on)waarschijnlijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde data. Op basis van algemene kennis remt finasteride het enzym 5-alfa-reductase type II, waardoor de omzetting van testosteron naar dihydrotestosteron (DHT) afneemt. Dit verklaart de werking bij BPH en bij androgeen-afhankelijke haaraandoeningen zoals androgenetische alopecia.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Finasteride (niet-officiële vertaling): ‘De ontwikkeling en vergroting van de prostaatklier is afhankelijk van het krachtige androgeen 5α-dihydrotestosteron (DHT). Type II-5α-reductase metaboliseert testosteron tot DHT in de prostaatklier, de lever en de huid. […] Finasteride is een competitieve en specifieke remmer van type II-5α-reductase, waarmee het langzaam een stabiel enzymcomplex vormt.’ Oorspronkelijke Engelse tekst: "The development and enlargement of the prostate gland is dependent on the potent androgen, 5α-dihydrotestosterone (DHT). Type II 5α-reductase metabolizes testosterone to DHT in the prostate gland, liver and skin. […] Finasteride is a competitive and specific inhibitor of Type II 5α-reductase with which it slowly forms a stable enzyme complex." ([DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b), versie van 2026-03-18; geraadpleegd op 2026-11-19). Op basis van algemene kennis remt finasteride het enzym 5-alfa-reductase type II, waardoor de omzetting van testosteron naar dihydrotestosteron (DHT) afneemt. Dit verklaart de werking bij BPH en bij androgeen-afhankelijke haaraandoeningen zoals androgenetische alopecia.
 
 Het ambras-syndroom is echter een aangeboren aandoening die wordt veroorzaakt door genomische herschikkingen die de regulatie van het *TRPS1*-gen beïnvloeden. De aandoening is niet primair androgeen-gedreven, dus onderdrukking van DHT zal waarschijnlijk niet de onderliggende oorzaak aanpakken. De hoge TxGNN-score is uitsluitend een computationele voorspelling.
 
@@ -149,13 +149,14 @@ Voor volledige waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenva
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “er is momenteel 1 geldige vergunning van 1 in de data die voor dit report zijn samengesteld” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119270//27397: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b) |
 
 <!-- review:end log -->
 

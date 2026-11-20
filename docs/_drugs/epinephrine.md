@@ -58,7 +58,7 @@ Epinefrine is een niet-selectieve adrenerge agonist die bronchodilatatie en vaso
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van de bekende farmacologie is epinefrine een niet-selectieve adrenerge agonist: activering van bèta-2-receptoren ontspant de gladde spiercellen van de luchtwegen en geeft bronchodilatatie, terwijl alfa-1-activering slijmvlieszwelling vermindert.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Epinephrine (niet-officiële vertaling): ‘Epinefrine werkt op zowel alfa- als bèta-adrenerge receptoren. Via zijn werking op alfa-adrenerge receptoren vermindert epinefrine de vasodilatatie en de verhoogde vasculaire permeabiliteit die optreden tijdens anafylaxie, wat kan leiden tot verlies van intravasculair vloeistofvolume en hypotensie.’ Oorspronkelijke Engelse tekst: "Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension." ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), versie van 2026-09-18; geraadpleegd op 2026-11-19). Op basis van de bekende farmacologie is epinefrine een niet-selectieve adrenerge agonist: activering van bèta-2-receptoren ontspant de gladde spiercellen van de luchtwegen en geeft bronchodilatatie, terwijl alfa-1-activering slijmvlieszwelling vermindert.
 
 Dit past bij obstructieve luchtwegaandoeningen zoals astma. Het meeste bewijs betreft astma (geïnhaleerd epinefrine in een HFA-doseeraerosol) en acute bronchiolitis bij zuigelingen. Bronchiolitis is een obstructieve luchtwegaandoening, maar het bewijs daarvoor is wisselend. Voor COPD is geen specifiek onderzoek aangetroffen, dus extrapolatie daarnaar is niet gerechtvaardigd.
 
@@ -132,6 +132,19 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC (Samenvatti
 - Specifieke gegevens voor COPD voordat extrapolatie wordt overwogen.
 - Opheldering van de formulering en het regelgevend traject in Nederland, aangezien de vergunning in de lokale data niet als geldig staat vermeld.
 - Gegevens over het werkingsmechanisme en de officiële waarschuwingen en contra-indicaties uit de SmPC.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -54,7 +54,7 @@ Flecainide is een klasse IC-antiaritmicum dat wordt gebruikt voor ritmecontrole 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data die voor dit rapport is samengesteld. Op basis van bekende informatie is flecainide een klasse IC-natriumkanaalblokker die wordt gebruikt voor ritmecontrole, en mechanistisch kan het via een indirecte route relevant zijn voor beroerte.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Flecainide (niet-officiële vertaling): ‘Flecaïnide heeft een lokaal anesthetische werking en behoort tot de groep van membraanstabiliserende (klasse 1) anti-aritmica; het heeft elektrofysiologische effecten die kenmerkend zijn voor de klasse IC van anti-aritmica. Elektrofysiologie Bij de mens veroorzaakt flecaïnide een dosisafhankelijke afname van de intracardiale geleiding in alle delen van het hart, met het grootste effect op het His-Purkinje-systeem (H-V-geleiding).’ Oorspronkelijke Engelse tekst: "Flecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics. Electrophysiology In man, flecainide produces a dose-related decrease in intracardiac conduction in all parts of the heart with the greatest effect on the His-Purkinje system (H-V conduction)." ([DailyMed: flecainide acetate prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee9595d5-08a1-4529-9215-ddc3c7f929c4), versie van 2026-06-11; geraadpleegd op 2026-11-19). Op basis van bekende informatie is flecainide een klasse IC-natriumkanaalblokker die wordt gebruikt voor ritmecontrole, en mechanistisch kan het via een indirecte route relevant zijn voor beroerte.
 
 Atriumfibrilleren is een belangrijke oorzaak van cardio-embolische beroerte. Een eventueel gunstig effect van flecainide op beroerte zou daarom indirect zijn: via vermindering van de belasting door ritmestoornissen, niet via een directe neuroprotectieve of antitrombotische werking.
 
@@ -107,6 +107,19 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Resultaten van NCT05213104 (verwachte afronding 2026) en bij voorkeur een studie met beroerte of cerebrovasculaire uitkomsten als eindpunt.
 - Gegevens over het werkingsmechanisme en SmPC-informatie over waarschuwingen en contra-indicaties.
 - Een veiligheidsplan voor patiënten met structurele hartziekte, geleidingsstoornissen en gelijktijdig gebruik van anticoagulantia.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: flecainide acetate prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee9595d5-08a1-4529-9215-ddc3c7f929c4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

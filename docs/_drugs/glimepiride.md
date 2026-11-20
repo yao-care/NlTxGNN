@@ -59,7 +59,7 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **focal stiff limb sy
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme van glimepiride zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Bekend is dat glimepiride een sulfonylureumderivaat is dat de K-ATP-kanalen van de pancreatische bètacellen sluit en zo de insulinesecretie stimuleert. De werkzaamheid bij type 2-diabetes is vastgesteld.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Glimepiride (niet-officiële vertaling): ‘Glimepiride verlaagt de bloedglucose voornamelijk door de afgifte van insuline uit de bètacellen van de pancreas te stimuleren. Sulfonylureumderivaten binden aan de sulfonylureumreceptor in de plasmamembraan van de bètacellen van de pancreas, wat leidt tot sluiting van het ATP-gevoelige kaliumkanaal, waardoor de afgifte van insuline wordt gestimuleerd.’ Oorspronkelijke Engelse tekst: "Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin." ([DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa), versie van 2024-08-20; geraadpleegd op 2026-11-19). Bekend is dat glimepiride een sulfonylureumderivaat is dat de K-ATP-kanalen van de pancreatische bètacellen sluit en zo de insulinesecretie stimuleert. De werkzaamheid bij type 2-diabetes is vastgesteld.
 
 Focal stiff limb syndrome behoort tot het spectrum van het stiff-person-syndroom, een auto-immuunaandoening van het GABAerge systeem die vaak gepaard gaat met anti-GAD-antilichamen en frequent samen voorkomt met diabetes. Glimepiride heeft geen bekend direct effect op GABAerge neurotransmissie of auto-immuniteit. De voorspelling is daarom waarschijnlijk een artefact van comorbiditeit (diabetes) en geen weergave van een therapeutisch mechanisme.
 
@@ -143,11 +143,12 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De Nederlandse registratie is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
 
 <!-- review:end log -->
 

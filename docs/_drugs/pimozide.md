@@ -58,7 +58,7 @@ Pimozide is een dopamine-D2-receptorantagonist (antipsychoticum) die oorspronkel
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Op basis van de beschikbare literatuur is pimozide een relatief selectieve dopamine-D2-receptorantagonist. Dopaminerge ontregeling wordt in verband gebracht met trichotillomanie en verwante gewoonte- en ticgerelateerde gedragingen.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pimozide (niet-officiële vertaling): ‘Farmacodynamische werkingen Pimozide tabletten zijn een oraal werkzaam antipsychotisch geneesmiddel dat met andere antipsychotica het vermogen deelt om dopaminerge receptoren op neuronen in het centrale zenuwstelsel te blokkeren. Hoewel de exacte werkingswijze niet is vastgesteld, wordt aangenomen dat het vermogen van pimozide om motorische en vocale tics bij de stoornis van Gilles de la Tourette te onderdrukken, een functie is van de dopamineblokkerende activiteit.’ Oorspronkelijke Engelse tekst: "Pharmacodynamic Actions Pimozide tablets, are an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system. Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity." ([DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280), versie van 2026-08-12; geraadpleegd op 2026-11-19). Op basis van de beschikbare literatuur is pimozide een relatief selectieve dopamine-D2-receptorantagonist. Dopaminerge ontregeling wordt in verband gebracht met trichotillomanie en verwante gewoonte- en ticgerelateerde gedragingen.
 
 Het syndroom van Gilles de la Tourette, obsessieve-compulsieve stoornis (OCS) en trichotillomanie overlappen in fenomenologie en behandelrespons. Antipsychotica worden gebruikt bij Tourette en bij therapieresistente OCS. Daarom is onderzocht of ze ook helpen bij trichotillomanie, vooral als toevoeging aan serotonineheropnameremmers (SSRI's).
 
@@ -152,12 +152,13 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties) dient
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er zijn geen geregistreerde studies, de Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (QT-verlenging, veel interacties) zi” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119412//06150: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280) |
 
 <!-- review:end log -->
 

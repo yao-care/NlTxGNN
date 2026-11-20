@@ -54,7 +54,7 @@ Levofloxacine is een fluorochinolon-antibioticum dat wordt gebruikt bij bacteri�
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Levofloxacine behoort tot de fluorochinolonen, die bacterieel DNA-gyrase en topo-isomerase IV remmen. Dat is algemeen bekend, maar niet vastgelegd in de verzamelde gegevens.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Levofloxacin (niet-officiële vertaling): ‘Levofloxacine behoort tot de fluorochinolonklasse van antibacteriële middelen. […] Levofloxacine is de L-isomeer van het racemaat ofloxacine, een antimicrobieel middel uit de groep van de chinolonen. De antibacteriële activiteit van ofloxacine berust voornamelijk bij de L-isomeer. Het werkingsmechanisme van levofloxacine en andere fluorochinolonantimicrobiële middelen omvat remming van bacterieel topo-isomerase IV en DNA-gyrase (beide type II-topo-isomerasen), enzymen die nodig zijn voor DNA-replicatie, -transcriptie, -herstel en -recombinatie.’ Oorspronkelijke Engelse tekst: "Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination." ([DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5), versie van 2026-11-05; geraadpleegd op 2026-11-19). Levofloxacine behoort tot de fluorochinolonen, die bacterieel DNA-gyrase en topo-isomerase IV remmen. Dat is algemeen bekend, maar niet vastgelegd in de verzamelde gegevens.
 
 De voorspelling lijkt vooral voort te komen uit de nabijheid van deze aandoening tot bekende oogoppervlakte-infecties zoals bacteriële conjunctivitis. Daardoor is werkzaamheid op het oogoppervlak aannemelijk, maar dat is geen specifiek mechanistisch signaal. De enige gevonden publicatie beschrijft een uitbraak van microsporidiale keratoconjunctivitis. Microsporidia zijn in het algemeen niet gevoelig voor fluorochinolonen, dus dit artikel levert geen steun voor werkzaamheid van levofloxacine. De hoge score weerspiegelt waarschijnlijk vooral modelmatige nabijheid en niet een echt mechanistisch bewijs.
 
@@ -92,6 +92,18 @@ Raadpleeg voor de overige veiligheidsinformatie (waarschuwingen en contra-indica
 - Studies of casusreeksen die levofloxacine direct bij puntvormige epitheliale keratoconjunctivitis onderzoeken, bij voorkeur met een oogheelkundige toedieningsroute.
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties voor de beoogde toepassing en toedieningsroute.
 - Bevestiging van de routecompatibiliteit met de in Nederland beschikbare toedieningsvormen (de geregistreerde vorm is een orale tablet).
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

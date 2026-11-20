@@ -55,7 +55,7 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **faciodigitogenitaal
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Clonidine is bekend als alfa-2-adrenerge agonist, die de noradrenerge tonus verlaagt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Clonidine (niet-officiële vertaling): ‘Clonidine stimuleert alfa-adrenoreceptoren in de hersenstam. Deze werking resulteert in een verminderde sympathische output vanuit het centrale zenuwstelsel en in een daling van de perifere weerstand, de renale vaatweerstand, de hartfrequentie en de bloeddruk.’ Oorspronkelijke Engelse tekst: "Clonidine stimulates alpha-adrenoreceptors in the brain stem. This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure." ([DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd), versie van 2026-08-12; geraadpleegd op 2026-11-19). Clonidine is bekend als alfa-2-adrenerge agonist, die de noradrenerge tonus verlaagt.
 
 Faciodigitogenitaal syndroom is een zeldzame, erfelijke ontwikkelingsstoornis met skelet- en urogenitale afwijkingen. Er is geen aannemelijk mechanisme waarbij alfa-2-adrenerge agonisme de onderliggende pathologie zou beïnvloeden. De zeer hoge modelscore weerspiegelt dus alleen een voorspelling op basis van het model en is geen aanwijzing voor werkzaamheid.
 
@@ -92,6 +92,19 @@ Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Prod
 - Een plausibele mechanistische hypothese, bijvoorbeeld door preklinisch onderzoek
 - Gegevens over het werkingsmechanisme en de productinformatie (SmPC) van het CBG-MEB
 - Beoordeling van de veiligheid en toedieningsroute voor de beoogde populatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

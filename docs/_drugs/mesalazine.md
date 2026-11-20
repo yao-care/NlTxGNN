@@ -60,7 +60,7 @@ Mesalazine is een ontstekingsremmend middel dat oorspronkelijk wordt gebruikt vo
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme van mesalazine ontbreken in de voor dit rapport samengestelde data. Op basis van algemene kennis remt mesalazine (5-aminosalicylzuur) COX- en LOX-routes, NF-κB-signalering en reactieve zuurstofradicalen. Dit zijn ontstekingsprocessen die ook bij gewrichtsontsteking een rol spelen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Mesalazine (niet-officiële vertaling): ‘Het werkingsmechanisme van mesalazine is niet volledig bekend, maar het lijkt een lokaal ontstekingsremmend effect te hebben op de epitheelcellen van het colon. De mucosale productie van arachidonzuurmetabolieten, zowel via de cyclo-oxygenase- als via de lipoxygenaseroute, is verhoogd bij patiënten met colitis ulcerosa, en het is mogelijk dat mesalazine de ontsteking vermindert door cyclo-oxygenase te blokkeren en de productie van prostaglandinen in het colon te remmen.’ Oorspronkelijke Engelse tekst: "The mechanism of action of mesalamine is not fully understood, but it appears to have a topical anti-inflammatory effect on the colonic epithelial cells. Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon." ([DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7), versie van 2026-10-26; geraadpleegd op 2026-11-19). Op basis van algemene kennis remt mesalazine (5-aminosalicylzuur) COX- en LOX-routes, NF-κB-signalering en reactieve zuurstofradicalen. Dit zijn ontstekingsprocessen die ook bij gewrichtsontsteking een rol spelen.
 
 Mesalazine is het 5-ASA-onderdeel van sulfasalazine. Sulfasalazine is een gevestigd DMARD bij reumatoïde artritis. De antireumatische werking wordt echter vooral toegeschreven aan het sulfapyridine-deel, niet aan mesalazine. Werkzaamheid van mesalazine als enkelvoudig middel bij reumatoïde artritis wordt daarom **niet** ondersteund. Het verband is indirect en onbewezen.
 
@@ -144,11 +144,12 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor v
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7) |
 
 <!-- review:end log -->
 

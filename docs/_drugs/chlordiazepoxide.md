@@ -60,7 +60,7 @@ Chlordiazepoxide is een benzodiazepine met een kalmerend en angstremmend effect.
 
 Chlordiazepoxide is een benzodiazepine dat de signalering van de GABA-A-receptor versterkt. Dit geeft kalmerende en slaapbevorderende effecten, en dit werkingsmechanisme is plausibel voor slapeloosheid. Andere middelen uit dezelfde klasse worden voor dit doel gebruikt.
 
-Een gedetailleerde beschrijving van het werkingsmechanisme is in de samengestelde gegevens niet beschikbaar. De onderbouwing berust op klasse-eigenschappen van benzodiazepinen.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Chlordiazepoxide (niet-officiële vertaling): ‘Chloordiazepoxide HCl heeft anxiolytische, sedatieve, eetlustopwekkende en zwak analgetische werkingen. Het precieze werkingsmechanisme is niet bekend. Het geneesmiddel blokkeert EEG-arousal als gevolg van stimulatie van de formatio reticularis van de hersenstam.’ Oorspronkelijke Engelse tekst: "Chlordiazepoxide HCl has antianxiety, sedative, appetite-stimulating and weak analgesic actions. The precise mechanism of action is not known. The drug blocks EEG arousal from stimulation of the brain stem reticular formation." ([DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937), versie van 2026-11-05; geraadpleegd op 2026-11-19). De onderbouwing berust op klasse-eigenschappen van benzodiazepinen.
 
 De gevonden literatuur bestaat vooral uit klasse-overzichten, farmacokinetische beschouwingen en artikelen over geriatrische veiligheid. Directe studies met chlordiazepoxide bij slapeloosheid ontbreken. Omdat er geen studie is die deze ziekte direct onderzoekt, is het evidenceniveau L5 (alleen modelvoorspelling).
 
@@ -114,6 +114,19 @@ Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Prod
 - Gerandomiseerde studies van chlordiazepoxide bij slapeloosheid, vergeleken met kortwerkende alternatieven
 - Volledige gegevens over werkingsmechanisme, waarschuwingen en contra-indicaties uit de SmPC
 - Beoordeling van het ontwikkelingsbelang, gezien de beperkte praktische meerwaarde ten opzichte van bestaande middelen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

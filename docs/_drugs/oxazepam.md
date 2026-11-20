@@ -58,7 +58,7 @@ Oxazepam is een kortwerkend benzodiazepine dat oorspronkelijk wordt gebruikt bij
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van de bekende klasse-eigenschappen is oxazepam een kortwerkend benzodiazepine dat als positieve allosterische modulator van de GABA-A-receptor de remmende neurotransmissie versterkt. Deze afleiding komt uit de klasse van benzodiazepinen en niet uit het aangeleverde geneesmiddelrecord.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Oxazepam (niet-officiële vertaling): ‘GABA-A-receptor; positieve allostere modulator van anionkanalen’ Oorspronkelijke Engelse tekst: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL568 (oxazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL568), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Op basis van de bekende klasse-eigenschappen is oxazepam een kortwerkend benzodiazepine dat als positieve allosterische modulator van de GABA-A-receptor de remmende neurotransmissie versterkt. Deze afleiding komt uit de klasse van benzodiazepinen en niet uit het aangeleverde geneesmiddelrecord.
 
 Dit sederend-hypnotische effect is biologisch plausibel bij slapeloosheid. Angst en slaapproblemen overlappen bovendien vaak: slapeloosheid is een veelvoorkomend begeleidend symptoom van angststoornissen en van alcoholontwenning. Oxazepam wordt geglucuronideerd en vormt geen actieve metabolieten die zich ophopen. Dat is relevant voor de veiligheid bij ouderen en bij leverfunctiestoornissen.
 
@@ -141,11 +141,12 @@ Voor waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB zijn 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning (RVG 55969) is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL568 (oxazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL568) |
 
 <!-- review:end log -->
 

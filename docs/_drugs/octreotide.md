@@ -58,7 +58,7 @@ Octreotide is een somatostatine-analoog die oorspronkelijk wordt gebruikt bij ac
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Octreotide is bekend als somatostatine-analoog die vooral aan somatostatinereceptoren (SSTR2/SSTR5) bindt en hormoonafgifte remt. Het is werkzaam bij acromegalie en neuro-endocriene tumoren.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Octreotide (niet-officiële vertaling): ‘Sandostatin injectie oefent farmacologische werkingen uit die vergelijkbaar zijn met die van het natuurlijke hormoon somatostatine. Het is een nog krachtigere remmer van GH, glucagon en insuline dan somatostatine. […] Op grond van deze farmacologische werkingen is octreotide gebruikt voor de behandeling van de symptomen die gepaard gaan met gemetastaseerde carcinoïde tumoren (flushing en diarree) en VIP-secernerende adenomen (waterige diarree).’ Oorspronkelijke Engelse tekst: "Sandostatin Injection exerts pharmacologic actions similar to the natural hormone, somatostatin. It is an even more potent inhibitor of GH, glucagon, and insulin than somatostatin. […] By virtue of these pharmacological actions, octreotide has been used to treat the symptoms associated with metastatic carcinoid tumors (flushing and diarrhea), and VIP secreting adenomas (watery diarrhea)." ([DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39), versie van 2026-07-22; geraadpleegd op 2026-11-19). Octreotide is bekend als somatostatine-analoog die vooral aan somatostatinereceptoren (SSTR2/SSTR5) bindt en hormoonafgifte remt. Het is werkzaam bij acromegalie en neuro-endocriene tumoren.
 
 Een mogelijk verband met de voorspelde indicatie zou een remmend effect op groeifactorsignalering (zoals IGF-1/EGFR) of op de proliferatie van keratinocyten kunnen zijn. Dit is **speculatief** en wordt door geen enkel gegeven ondersteund. Inverted follicular keratosis is een goedaardige, zelflimiterende huidafwijking die meestal door eenvoudige excisie wordt behandeld, en de vulvaire locatie is zeer zeldzaam. De behoefte aan een systemische peptidetherapie is dus zeer laag.
 
@@ -129,12 +129,13 @@ Voor de officiële waarschuwingen en contra-indicaties raadpleeg de SmPC en de b
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Er is één vergunning, en deze is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een grote interactielast en is de enige Nederlandse” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39) |
 
 <!-- review:end log -->
 

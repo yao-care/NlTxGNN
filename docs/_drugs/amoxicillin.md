@@ -56,7 +56,7 @@ maar hiervoor zijn **geen klinische studies** en **geen publicaties** beschikbaa
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Amoxicilline remt de celwandsynthese van bacteriën en werkt daarmee antibacterieel.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Amoxicillin (niet-officiële vertaling): ‘Amoxicilline is een antibacterieel geneesmiddel. […] Amoxicilline lijkt in zijn bactericide werking tegen gevoelige bacteriën tijdens de fase van actieve vermenigvuldiging op penicilline. Het werkt via remming van de celwandbiosynthese, wat leidt tot de dood van de bacteriën.’ Oorspronkelijke Engelse tekst: "Amoxicillin is an antibacterial drug. […] Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77), versie van 2026-11-13; geraadpleegd op 2026-11-19). Amoxicilline remt de celwandsynthese van bacteriën en werkt daarmee antibacterieel.
 
 Hyperamylasemie is een laboratoriumbevinding (verhoogd serumamylase) met zowel infectieuze als niet-infectieuze oorzaken. Een direct effect van een antibioticum op deze bevinding is niet aannemelijk. Er is geen mechanistische link vastgesteld. De hoge modelscore (0,9963) is een voorspelling op basis van het model en wordt door geen enkele studie ondersteund.
 
@@ -93,6 +93,19 @@ Raadpleeg voor de overige veiligheidsinformatie de SmPC (Samenvatting van de Pro
 - Een plausibele mechanistische hypothese voor het effect van amoxicilline op serumamylase
 - Gegevens over het werkingsmechanisme en de veiligheid uit de SmPC
 - Preklinisch of klinisch onderzoek dat hyperamylasemie direct bestudeert
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

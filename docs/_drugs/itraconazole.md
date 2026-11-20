@@ -58,7 +58,7 @@ Itraconazol is een azool-antischimmelmiddel dat oorspronkelijk wordt gebruikt vo
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Itraconazol remmt het schimmelenzym lanosterol-14-alfa-demethylase (CYP51) en blokkeert zo de synthese van ergosterol, een essentieel bestanddeel van het celmembraan van schimmels. Gedetailleerde gegevens over het werkingsmechanisme waren in de voor dit rapport samengestelde data niet beschikbaar; bovenstaande beschrijving is de algemeen bekende farmacologie van azolen.
+Itraconazol remmt het schimmelenzym lanosterol-14-alfa-demethylase (CYP51) en blokkeert zo de synthese van ergosterol, een essentieel bestanddeel van het celmembraan van schimmels. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Itraconazole (niet-officiële vertaling): ‘In-vitro-onderzoek heeft aangetoond dat itraconazol de cytochroom P450-afhankelijke synthese van ergosterol remt, dat een essentieel bestanddeel is van schimmelcelmembranen.’ Oorspronkelijke Engelse tekst: "In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes." ([DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0), versie van 2026-07-13; geraadpleegd op 2026-11-19).
 
 *Pneumocystis jirovecii* heeft in zijn celmembraan echter nauwelijks ergosterol en gebruikt cholesterol en andere sterolen. Het belangrijkste doelwit van azolen ontbreekt dus grotendeels, waardoor de mechanistische onderbouwing zwak is.
 
@@ -149,12 +149,13 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Er is één vergunning gevonden, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “aangezien de enige vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
 
 <!-- review:end log -->
 

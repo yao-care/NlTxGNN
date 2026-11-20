@@ -58,7 +58,7 @@ Bumetanide is een lisdiureticum dat wordt gebruikt om vochtretentie (oedeem) te 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Uit algemene farmacologische kennis is bekend dat bumetanide de Na-K-2Cl-cotransporter (NKCC2) in het dikke opstijgende deel van de lus van Henle remt. Dit leidt tot snelle uitscheiding van natrium en water.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Bumetanide (niet-officiële vertaling): ‘Bumetanide remt voornamelijk de terugresorptie van natrium en chloride in de proximale en distale tubuli en in de lis van Henle. De sterke mate van diurese is grotendeels toe te schrijven aan de unieke plaats van werking. De werking op de distale tubulus is onafhankelijk van enig remmend effect op koolzuuranhydrase en aldosteron.’ Oorspronkelijke Engelse tekst: "Bumetanide primarily inhibits the reabsorption of sodium and chloride in the proximal and distal tubules and in the loop of Henle. The high degree of diuresis is largely due to the unique site of action. The action on the distal tubule is independent of any inhibitory effect on carbonic anhydrase and aldosterone." ([DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f), versie van 2026-08-27; geraadpleegd op 2026-11-19). Uit algemene farmacologische kennis is bekend dat bumetanide de Na-K-2Cl-cotransporter (NKCC2) in het dikke opstijgende deel van de lus van Henle remt. Dit leidt tot snelle uitscheiding van natrium en water.
 
 Bij acute pulmonale hartziekte (acuut cor pulmonale) kunnen overbelasting van de rechterventrikel en veneuze stuwing mogelijk worden verminderd door ontstuwing. Daarom is een indirect verband denkbaar via het bekende gebruik van lisdiuretica bij vochtoverbelasting en hartfalen.
 
@@ -139,12 +139,13 @@ Interacties van gering niveau zijn onder meer doxycycline en acetylsalicylzuur.
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het CBG-MEB-register vermeldt 1 geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 115707//12412: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f) |
 
 <!-- review:end log -->
 

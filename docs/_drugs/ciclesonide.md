@@ -58,7 +58,7 @@ Ciclesonide is een inhalatiecorticosteroïd dat oorspronkelijk wordt gebruikt bi
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Ciclesonide is een prodrug van een inhalatiecorticosteroïd. Esterasen in het lichaam zetten het om in des-ciclesonide, een agonist van de glucocorticoïdreceptor. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar; bovenstaande beschrijving is gebaseerd op de klasse van het middel.
+Ciclesonide is een prodrug van een inhalatiecorticosteroïd. Esterasen in het lichaam zetten het om in des-ciclesonide, een agonist van de glucocorticoïdreceptor. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ciclesonide (niet-officiële vertaling): ‘Ciclesonide is een prodrug die na orale inhalatie enzymatisch wordt gehydrolyseerd tot een farmacologisch actieve metaboliet, C21-desisobutyryl-ciclesonide (des-ciclesonide of RM1). Des-ciclesonide heeft een ontstekingsremmende werking met een affiniteit voor glucocorticoïdreceptoren die 120 maal groter is dan die van de moederverbinding en 12 maal groter dan die van dexamethason.’ Oorspronkelijke Engelse tekst: "Ciclesonide is a prodrug that is enzymatically hydrolyzed to a pharmacologically active metabolite, C21-desisobutyryl-ciclesonide (des-ciclesonide or RM1) following oral inhalation. Des-ciclesonide has anti-inflammatory activity with affinity for glucocorticoid receptors that is 120 times greater than the parent compound and 12 times greater than dexamethasone." ([DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468), versie van 2025-02-28; geraadpleegd op 2026-11-19).
 
 Corticosteroïden zijn een gevestigde ontstekingsremmende behandeling bij atopisch eczeem. Er is dus een rationale op klasseniveau. Er zijn echter geen studies of publicaties specifiek voor ciclesonide bij deze aandoening. De hoge score is uitsluitend een computationele voorspelling.
 
@@ -165,13 +165,14 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De inhalatievorm sluit slecht aan bij huidziekte, en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “(het product is op de markt met 1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119131//31633: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468) |
 
 <!-- review:end log -->
 

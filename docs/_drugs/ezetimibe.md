@@ -54,7 +54,7 @@ Ezetimibe is een cholesterolverlagend middel dat de opname van cholesterol in de
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Ezetimibe remt de NPC1L1-gemedieerde opname van cholesterol in de darm en verlaagt daardoor het LDL-cholesterol. Uitgebreide gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar.
+Ezetimibe remt de NPC1L1-gemedieerde opname van cholesterol in de darm en verlaagt daardoor het LDL-cholesterol. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ezetimibe (niet-officiële vertaling): ‘Ezetimib verlaagt het cholesterolgehalte in het bloed door de absorptie van cholesterol door de dunne darm te remmen. Aangetoond is dat het moleculaire doelwit van ezetimib de steroltransporter Niemann-Pick C1-Like 1 (NPC1L1) is, die betrokken is bij de opname van cholesterol en fytosterolen in de darm.’ Oorspronkelijke Engelse tekst: "Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine. The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols." ([DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9), versie van 2026-10-08; geraadpleegd op 2026-11-19).
 
 Bij CETP-deficiëntie is de overdracht van cholesterylesters tussen lipoproteïnen verstoord, wat HDL-cholesterol verhoogt en LDL-cholesterol verlaagt. De twee mechanismen grijpen dus op verschillende punten van het lipoproteïnemetabolisme aan. Een mogelijke link is dat ezetimibe de resterende atherogene lipoproteïnelast of bijkomende hyperlipidemie zou kunnen aanpakken bij patiënten met CETP-deficiëntie, maar hiervoor is geen direct bewijs.
 
@@ -102,6 +102,19 @@ Raadpleeg voor de overige veiligheidsinformatie (waarschuwingen en contra-indica
 - Gegevens over het werkingsmechanisme van ezetimibe en een analyse van de mechanistische link.
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties via het CBG-MEB voor veiligheidsscreening.
 - Een veiligheidsbeoordeling van de combinatie met statines en andere interacterende middelen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

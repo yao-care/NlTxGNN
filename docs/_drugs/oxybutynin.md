@@ -58,7 +58,7 @@ Oxybutynine is een antimuscarinisch middel dat oorspronkelijk wordt gebruikt bij
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van oxybutynine zijn in de voor dit rapport samengestelde data niet beschikbaar. Oxybutynine staat bekend als antimuscarinisch middel met anticholinerge werking; de werkzaamheid bij overactieve blaas is vastgesteld.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Oxybutynin (niet-officiële vertaling): ‘Oxybutynine ontspant het gladde spierweefsel van de blaas. Oxybutyninechloride oefent een direct spasmolytisch effect uit op glad spierweefsel en remt de muscarinerge werking van acetylcholine op glad spierweefsel. Er treden geen blokkerende effecten op ter hoogte van neuromusculaire overgangen van skeletspieren of autonome ganglia (antinicotinerge effecten).’ Oorspronkelijke Engelse tekst: "Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects)." ([DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67), versie van 2026-11-11; geraadpleegd op 2026-11-19). Oxybutynine staat bekend als antimuscarinisch middel met anticholinerge werking; de werkzaamheid bij overactieve blaas is vastgesteld.
 
 Een mechanistisch verband met rustelozebenensyndroom is op basis van de beschikbare gegevens **niet aangetoond**. Dit syndroom wordt vooral in verband gebracht met dopaminerge disfunctie en ijzertekort in de hersenen, niet met antimusc­arinische werking. Anticholinergica kunnen bij sommige patiënten de klachten zelfs verergeren. De hoge score (0,9974) komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen; het is geen biologisch bewijs en geen bevestiging van werkzaamheid.
 
@@ -142,12 +142,13 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Het middel is in Nederland wel op de markt, met 1 geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
 
 <!-- review:end log -->
 

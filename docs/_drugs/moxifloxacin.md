@@ -60,7 +60,7 @@ Voor deze voorspelling zijn **0 klinische studies** en **0 publicaties** gevonde
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er is op dit moment geen gedetailleerde informatie over het werkingsmechanisme beschikbaar in de voor dit rapport samengestelde gegevens. Moxifloxacine is bekend als antibacterieel fluorochinolon dat het bacteriële DNA-gyrase en topoisomerase IV remt. Dit mechanisme verklaart de werkzaamheid bij bacteriële infecties.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Moxifloxacin (niet-officiële vertaling): ‘Moxifloxacine tablet behoort tot de fluorochinolonklasse van antibacteriële middelen. […] De bactericide werking van moxifloxacine is het gevolg van remming van topo-isomerase II (DNA-gyrase) en topo-isomerase IV, die nodig zijn voor bacteriële DNA-replicatie, -transcriptie, -herstel en -recombinatie.’ Oorspronkelijke Engelse tekst: "Moxifloxacin Tablet is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5), versie van 2026-11-06; geraadpleegd op 2026-11-19). Moxifloxacine is bekend als antibacterieel fluorochinolon dat het bacteriële DNA-gyrase en topoisomerase IV remt. Dit mechanisme verklaart de werkzaamheid bij bacteriële infecties.
 
 Polyclonaal hyperviscositeitssyndroom is een hematologische aandoening die door eiwitten wordt veroorzaakt: de bloedviscositeit stijgt door een verhoogde hoeveelheid immunoglobulinen of andere plasma-eiwitten. Er is **geen plausibele mechanistische relatie** met de remming van bacteriële topoisomerasen.
 
@@ -134,12 +134,13 @@ Pest en longpest staan echter al bij de oorspronkelijke indicaties. Het gaat dus
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samenges” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5) |
 
 <!-- review:end log -->
 

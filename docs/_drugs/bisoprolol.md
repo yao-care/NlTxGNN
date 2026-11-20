@@ -58,7 +58,7 @@ Bisoprolol is een selectieve bèta-1-blokker die wordt gebruikt bij de behandeli
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van bisoprolol zijn in de voor dit rapport samengestelde data niet beschikbaar. Bisoprolol is een cardioselectieve bèta-1-adrenerge blokker. Maligne hypertensieve nierziekte is een ernstige complicatie van hoge bloeddruk waarbij de nieren worden aangetast. Een bloeddrukverlagend en renine-onderdrukkend effect van bèta-1-blokkade maakt een rol daarom theoretisch denkbaar.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Bisoprolol (niet-officiële vertaling): ‘BISOPROLOLFUMARAAT is een bèta 1 -selectief (cardioselectief) adrenoceptorblokkerend middel zonder significante membraanstabiliserende activiteit of intrinsieke sympathicomimetische activiteit binnen zijn therapeutische doseringsbereik. Cardioselectiviteit is echter niet absoluut, en bij hogere doses (≥ 20 mg) remt bisoprololfumaraat ook bèta 2 -adrenoceptoren, die voornamelijk gelokaliseerd zijn in de bronchiale en vasculaire musculatuur; om de selectiviteit te behouden is het daarom belangrijk de laagste werkzame dosis te gebruiken.’ Oorspronkelijke Engelse tekst: "BISOPROLOL FUMARATE is a beta 1 -selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range. Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose." ([DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e), versie van 2026-11-11; geraadpleegd op 2026-11-19). Bisoprolol is een cardioselectieve bèta-1-adrenerge blokker. Maligne hypertensieve nierziekte is een ernstige complicatie van hoge bloeddruk waarbij de nieren worden aangetast. Een bloeddrukverlagend en renine-onderdrukkend effect van bèta-1-blokkade maakt een rol daarom theoretisch denkbaar.
 
 De hoge score (0,9994) is echter uitsluitend een modeluitkomst. Acute maligne hypertensie wordt doorgaans met parenterale middelen behandeld; orale bètablokkers zijn daarbij geen eerste keuze. De voorspelling moet dus worden gezien als een hypothese die verdere toetsing vraagt.
 
@@ -110,6 +110,19 @@ Voor de beschikbare veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatt
 - Controle van de waarschuwingen en contra-indicaties in de SmPC van het CBG-MEB
 - Preklinisch of klinisch onderzoek dat bisoprolol rechtstreeks bij maligne hypertensieve nierziekte onderzoekt
 - Een veiligheidsbeoordeling voor patiënten met nierfunctiestoornissen en ernstige hypertensie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

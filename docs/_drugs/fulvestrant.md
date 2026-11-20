@@ -54,7 +54,7 @@ Fulvestrant is een selectieve estrogeenreceptor-antagonist en -afbreker; de oors
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Op basis van algemene kennis is fulvestrant een estrogeenreceptor-antagonist en -afbreker (selective estrogen receptor degrader). De oorspronkelijke indicatie is niet vastgelegd, dus een directe vergelijking met de nieuwe indicatie is niet mogelijk.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Fulvestrant (niet-officiële vertaling): ‘Veel borstkankers hebben oestrogeenreceptoren (ER) en de groei van deze tumoren kan door oestrogeen worden gestimuleerd. Fulvestrant is een oestrogeenreceptorantagonist die op competitieve wijze aan de oestrogeenreceptor bindt met een affiniteit die vergelijkbaar is met die van estradiol, en die het ER-eiwit in humane borstkankercellen downreguleert.’ Oorspronkelijke Engelse tekst: "Many breast cancers have estrogen receptors (ER) and the growth of these tumors can be stimulated by estrogen. Fulvestrant is an estrogen receptor antagonist that binds to the estrogen receptor in a competitive manner with affinity comparable to that of estradiol and downregulates the ER protein in human breast cancer cells." ([DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a), versie van 2026-10-16; geraadpleegd op 2026-11-19). Op basis van algemene kennis is fulvestrant een estrogeenreceptor-antagonist en -afbreker (selective estrogen receptor degrader). De oorspronkelijke indicatie is niet vastgelegd, dus een directe vergelijking met de nieuwe indicatie is niet mogelijk.
 
 De estrogeenreceptor alfa (ERα) komt tot expressie in CD4+ T-cellen en wordt in verband gebracht met HIV-transcriptie en latentie. Een preklinische in-vitro studie uit 2026 onderzocht het effect van ERα-liganden, waaronder fulvestrant, en van latentie-omkerende middelen op ERα in CD4+ T-cellen. Dat geeft een plausibele maar uitsluitend preklinische reden. Klinische gegevens ontbreken.
 
@@ -124,12 +124,13 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “aangezien er 1 geldige vergunning (van 1) voor dit product is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a) |
 
 <!-- review:end log -->
 

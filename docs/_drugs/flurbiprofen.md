@@ -58,7 +58,7 @@ Flurbiprofen is een niet-steroïde ontstekingsremmer (NSAID) die wordt gebruikt 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van flurbiprofen zijn in de voor dit rapport samengestelde data niet beschikbaar. Flurbiprofen behoort tot de NSAID's, die in het algemeen de cyclo-oxygenase (COX)-enzymen remmen en zo pijn en ontsteking verminderen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Flurbiprofen (niet-officiële vertaling): ‘Flurbiprofen heeft analgetische, ontstekingsremmende en koortswerende eigenschappen. Het werkingsmechanisme van flurbiprofen is, net als dat van andere NSAID's, niet volledig bekend, maar omvat remming van cyclo-oxygenase (COX-1 en COX-2).’ Oorspronkelijke Engelse tekst: "Flurbiprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of flurbiprofen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763), versie van 2026-10-05; geraadpleegd op 2026-11-19). Flurbiprofen behoort tot de NSAID's, die in het algemeen de cyclo-oxygenase (COX)-enzymen remmen en zo pijn en ontsteking verminderen.
 
 Acromesomele dysplasie van het Hunter-Thompson-type is een zeldzame erfelijke skeletaandoening die samenhangt met de CDMP1/GDF5-route. Er is geen aannemelijk mechanistisch verband met COX-remming zichtbaar en er is geen klinisch bewijs aangeleverd. De hoge score is waarschijnlijk een rekenkundig artefact van het model en geen aanwijzing voor werkzaamheid. Hooguit is symptomatische pijnstilling denkbaar, maar dat is speculatief.
 
@@ -119,11 +119,12 @@ Daarnaast zijn in de beschikbare gegevens aandoeningen vermeld waarbij NSAID's a
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het CBG-MEB registreert voor dit middel één geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
 
 <!-- review:end log -->
 

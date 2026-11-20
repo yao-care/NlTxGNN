@@ -58,7 +58,7 @@ Granisetron is een selectieve 5-HT3-receptorantagonist. Het wordt klassiek gebru
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme van granisetron zijn in de samengestelde data niet beschikbaar. Granisetron is een selectieve 5-HT3-receptorantagonist, en dat is de basis voor de onderstaande redenering.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Granisetron (niet-officiële vertaling): ‘Granisetron is een selectieve 5-hydroxytryptamine 3 (5-HT 3 )-receptorantagonist met weinig of geen affiniteit voor andere serotoninereceptoren, waaronder 5-HT 1, 5-HT 1A, 5-HT 1B/C, 5-HT 2; voor alfa 1-, alfa 2- of bèta-adrenoreceptoren; voor dopamine-D 2; of voor histamine-H 1-; benzodiazepine-; picrotoxine- of opioïdreceptoren. Serotoninereceptoren van het 5-HT 3-type bevinden zich perifeer op de uiteinden van de nervus vagus en centraal in de chemoreceptortriggerzone van de area postrema.’ Oorspronkelijke Engelse tekst: "Granisetron is a selective 5-hydroxytryptamine 3 (5-HT 3 ) receptor antagonist with little or no affinity for other serotonin receptors, including 5-HT 1, 5-HT 1A, 5-HT 1B/C, 5-HT 2; for alpha 1-, alpha 2-, or beta-adrenoreceptors; for dopamine-D 2; or for histamine-H 1; benzodiazepine; picrotoxin or opioid receptors. Serotonin receptors of the 5-HT 3 type are located peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema." ([DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56), versie van 2026-04-30; geraadpleegd op 2026-11-19). Granisetron is een selectieve 5-HT3-receptorantagonist, en dat is de basis voor de onderstaande redenering.
 
 Bij manie wordt een ontregeling van het serotonerge en dopaminerge systeem verondersteld, en 5-HT3-antagonisme is in neuropsychiatrische aandoeningen onderzocht. Daarom is een mechanistisch verband denkbaar. Dit blijft echter speculatief: de TxGNN-score is een modelvoorspelling, er zijn geen studies of publicaties aangeleverd, en de overeenkomst met de oorspronkelijke indicatie is niet beoordeeld.
 
@@ -161,12 +161,13 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56) |
 
 <!-- review:end log -->
 

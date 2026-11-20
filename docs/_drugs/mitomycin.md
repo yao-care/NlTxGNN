@@ -54,7 +54,7 @@ Mitomycine is een alkylerend cytostaticum dat DNA-strengen verknoopt en wordt ge
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar. Mitomycine is een DNA-crosslinkend alkylerend middel, en een gedeelde rationale op basis van de tumorlocatie (pancreas) is aannemelijk.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Mitomycin (niet-officiële vertaling): ‘Mitomycine remt selectief de synthese van desoxyribonucleïnezuur (DNA). Het guanine- en cytosinegehalte correleert met de mate van door mitomycine geïnduceerde crosslinking. Bij hoge concentraties van het geneesmiddel worden ook de cellulaire RNA- en eiwitsynthese onderdrukt.’ Oorspronkelijke Engelse tekst: "Mitomycin selectively inhibits the synthesis of deoxyribonucleic acid (DNA). The guanine and cytosine content correlates with the degree of mitomycin-induced cross-linking. At high concentrations of the drug, cellular RNA and protein synthesis are also suppressed." ([DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e), versie van 2025-03-12; geraadpleegd op 2026-11-19). Mitomycine is een DNA-crosslinkend alkylerend middel, en een gedeelde rationale op basis van de tumorlocatie (pancreas) is aannemelijk.
 
 Er zijn echter belangrijke kanttekeningen. Solide pseudopapillaire neoplasmata zijn doorgaans laaggradig en worden meestal genezen met chirurgie. Ze zijn biologisch anders dan ductaal adenocarcinoom (aangedreven door CTNNB1-mutaties). De hoge modelscore weerspiegelt daarom vooral een voorspelling en geen aangetoonde werkzaamheid.
 
@@ -111,11 +111,12 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De vergunninghouder (CBG-MEB) registreert één geldige vergunning voor dit enkelvoudige product” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e) |
 
 <!-- review:end log -->
 

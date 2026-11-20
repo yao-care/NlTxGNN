@@ -54,7 +54,7 @@ Ebastine is een tweedegeneratie H1-antihistaminicum. Het TxGNN-model voorspelt e
 
 ## Waarom is deze voorspelling plausibel?
 
-Gedetailleerde gegevens over het werkingsmechanisme van ebastine ontbreken in de voor dit rapport verzamelde gegevens. Ebastine is een tweedegeneratie H1-antihistaminicum.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Ebastine (niet-officiële vertaling): ‘Inverse agonist van de histamine-H1-receptor’ Oorspronkelijke Engelse tekst: "Histamine H1 receptor inverse agonist" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Ebastine is een tweedegeneratie H1-antihistaminicum.
 
 Een speculatieve link is dat histamine en mestcelactiviteit een rol spelen bij atherosclerose en bij de tonus van de kransslagvaten: histamine kan coronaire vasospasme veroorzaken en mestcellen komen voor in atherosclerotische plaques. Blokkade van de H1-receptor zou in theorie hierop kunnen ingrijpen. Dit is redenering op hypotheseniveau en wordt niet ondersteund door studies of publicaties in de beschikbare gegevens.
 
@@ -96,6 +96,19 @@ Bij een eventuele toepassing in een cardiovasculaire populatie moeten de bekende
 - Verwerking van de SmPC-waarschuwingen en contra-indicaties in een veiligheidsbeoordeling
 - Een beoordeling van het cardiale veiligheidsprofiel (QT-interval, interacties met CYP3A4-remmers) in patiënten met coronaire hartziekte
 - Preklinisch of verkennend onderzoek om de mechanistische hypothese te toetsen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -59,7 +59,7 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **renale hypodysplasi
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Op basis van bekende informatie is liothyronine een schildklierhormoon waarvan de werkzaamheid bij hypothyreoïdie is aangetoond. Een mechanistisch verband met renale hypodysplasie/aplasie is op basis van de beschikbare gegevens niet onderbouwd.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Liothyronine (niet-officiële vertaling): ‘Schildklierhormonen oefenen hun fysiologische werking uit door regulatie van DNA-transcriptie en eiwitsynthese. Trijoodthyronine (T3) en L-thyroxine (T4) diffunderen in de celkern en binden aan schildklierreceptoreiwitten die aan DNA zijn gebonden.’ Oorspronkelijke Engelse tekst: "Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA." ([DailyMed: Cytomel (liothyronine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51452b31-ff68-4e0c-b982-c15502ebf1d3), versie van 2026-05-18; geraadpleegd op 2026-11-19). Op basis van bekende informatie is liothyronine een schildklierhormoon waarvan de werkzaamheid bij hypothyreoïdie is aangetoond. Een mechanistisch verband met renale hypodysplasie/aplasie is op basis van de beschikbare gegevens niet onderbouwd.
 
 Schildklierhormoonsignalering speelt in het algemeen een rol bij de nierontwikkeling. Er is echter geen directe aanwijzing dat behandeling met liothyronine congenitale nierafwijkingen beïnvloedt. Het gaat om structurele, prenatale ontwikkelingsstoornissen, die waarschijnlijk niet omkeerbaar zijn door hormoonsuppletie. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs of therapeutische relevantie.
 
@@ -119,11 +119,12 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is het enige Nederlandse product doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Cytomel (liothyronine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51452b31-ff68-4e0c-b982-c15502ebf1d3) |
 
 <!-- review:end log -->
 

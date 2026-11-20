@@ -58,7 +58,7 @@ Oxytetracycline is een antibioticum uit de tetracyclinegroep. Het wordt van ouds
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Op basis van de bekende informatie behoort oxytetracycline tot de tetracyclines. De werkzaamheid daarvan bij diverse bacteriële luchtweg-, urineweg- en ooginfecties is aangetoond. Mechanistisch zou het daarom van toepassing kunnen zijn op chronische rinosinusitis.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Oxytetracycline (niet-officiële vertaling): ‘Remmer van het bacteriële 70S-ribosoom’ Oorspronkelijke Engelse tekst: "Bacterial 70S ribosome inhibitor" ([ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Op basis van de bekende informatie behoort oxytetracycline tot de tetracyclines. De werkzaamheid daarvan bij diverse bacteriële luchtweg-, urineweg- en ooginfecties is aangetoond. Mechanistisch zou het daarom van toepassing kunnen zijn op chronische rinosinusitis.
 
 Tetracyclines hebben een antibacteriële werking en daarnaast mogelijk ontstekingsremmende eigenschappen, waaronder remming van matrixmetalloproteïnasen (MMP's). Beide kunnen plausibel samenhangen met een infectie en ontsteking van de neusbijholten. Het ontbreken van mechanismegegevens betekent echter dat deze link niet kan worden getoetst. De score weerspiegelt bovendien een voorspelling van het model en geen klinisch bewijs.
 
@@ -150,7 +150,7 @@ De registratietekst (SmPC) was voor dit rapport niet beschikbaar. Raadpleeg de S
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
@@ -159,6 +159,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “Beide registraties zijn doorgehaald.” → “Beide registratienummers komen niet voor in de actuele Genee” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517) |
 
 <!-- review:end log -->
 

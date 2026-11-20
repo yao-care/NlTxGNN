@@ -58,7 +58,7 @@ Cytarabine is een antimetaboliet die de DNA-synthese remt in delende cellen. Het
 
 ## Waarom is deze voorspelling redelijk?
 
-Cytarabine is een pyrimidine-nucleosideanaloog dat de DNA-synthese remt in cellen in de S-fase. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde gegevens niet beschikbaar. Op basis van de bekende farmacologie is een snel prolifererende tumor zoals kleincellig longcarcinoom een plausibel doelwit voor een S-fasespecifiek middel.
+Cytarabine is een pyrimidine-nucleosideanaloog dat de DNA-synthese remt in cellen in de S-fase. Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Cytarabine (niet-officiële vertaling): ‘Hoewel het werkingsmechanisme niet volledig wordt begrepen, lijkt cytarabine te werken via remming van DNA-polymerase. Er is ook een beperkte, maar significante, incorporatie van cytarabine in zowel DNA als RNA gemeld.’ Oorspronkelijke Engelse tekst: "Although the mechanism of action is not completely understood, it appears that cytarabine acts through the inhibition of DNA polymerase. A limited, but significant, incorporation of cytarabine into both DNA and RNA has also been reported." ([DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd), versie van 2026-10-19; geraadpleegd op 2026-11-19). Op basis van de bekende farmacologie is een snel prolifererende tumor zoals kleincellig longcarcinoom een plausibel doelwit voor een S-fasespecifiek middel.
 
 Er zijn echter belangrijke kanttekeningen. Het merendeel van de gevonden literatuur gaat over niet-kleincellig longcarcinoom (NSCLC) of over andere nucleosideanalogen (gemcitabine, decitabine), en niet over kleincellig longcarcinoom met cytarabine. De zeer hoge modelscore wordt dus niet gesteund door een uitgebreide set SCLC-specifieke klinische data. Eén kleine klinische studie met hoge-dosis cytarabine bij kleincellig longcarcinoom (PMID 3030547, 1987) vormt de enige directe aanwijzing; hiervan is geen samenvatting beschikbaar.
 
@@ -130,6 +130,18 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor volledige informat
 - Gegevens over het werkingsmechanisme en een onderbouwing van de plausibiliteit specifiek voor SCLC
 - Prospectief klinisch onderzoek naar cytarabine bij kleincellig longcarcinoom
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties, en van het veiligheidsprofiel (met name myelosuppressie) in deze populatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

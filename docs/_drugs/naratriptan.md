@@ -58,7 +58,7 @@ Naratriptan is een selectieve 5-HT1B/1D-agonist die oorspronkelijk wordt gebruik
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Naratriptan is een selectieve 5-HT1B/1D-agonist, goedgekeurd voor de acute behandeling van migraine. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar; de onderstaande uitleg berust op algemene farmacologische kennis.
+Naratriptan is een selectieve 5-HT1B/1D-agonist, goedgekeurd voor de acute behandeling van migraine. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Naratriptan (niet-officiële vertaling): ‘Naratriptan bindt met hoge affiniteit aan humane gekloonde 5-HT 1B/1D-receptoren. Migraine wordt waarschijnlijk veroorzaakt door lokale craniale vasodilatatie en/of door het vrijkomen van sensorische neuropeptiden (waaronder substantie P en calcitonine-gen-gerelateerd peptide) via zenuwuiteinden in het trigeminale systeem.’ Oorspronkelijke Engelse tekst: "Naratriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Migraines are likely due to local cranial vasodilatation and/or to the release of sensory neuropeptides (including substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system." ([DailyMed: naratriptan prescribing information, ASCLEMED USA INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63ea356f-0895-4540-b242-8e611eacd938), versie van 2026-08-07; geraadpleegd op 2026-11-19).
 
 Migraine met hersenstamaura is een subtype van migraine met aura. Beide delen de trigeminovasculaire route, waarop triptanen aangrijpen. Daarom is een werkzaamheid mechanistisch plausibel.
 
@@ -143,12 +143,13 @@ Het mechanisme is plausibel, maar er zijn geen klinische studies en geen literat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse registratie doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 106987: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: naratriptan prescribing information, ASCLEMED USA INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63ea356f-0895-4540-b242-8e611eacd938) |
 
 <!-- review:end log -->
 

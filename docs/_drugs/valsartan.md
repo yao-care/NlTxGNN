@@ -58,7 +58,7 @@ Valsartan is een angiotensine-II-receptorblokker die wordt gebruikt bij de behan
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme van valsartan zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Valsartan behoort tot de angiotensine-II-receptorblokkers, die het renine-angiotensinesysteem remmen. Blokkade van dit systeem is theoretisch nierbeschermend bij hypertensieve nierschade, doordat zowel de bloeddruk als de druk in de nierfilters daalt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Valsartan (niet-officiële vertaling): ‘Angiotensine II wordt gevormd uit angiotensine I in een reactie die wordt gekatalyseerd door het angiotensineconverterend enzym (ACE, kininase II). Angiotensine II is de belangrijkste pressorstof van het renine-angiotensinesysteem, met effecten die vasoconstrictie, stimulatie van de synthese en afgifte van aldosteron, cardiale stimulatie en renale reabsorptie van natrium omvatten. […] Diovan (valsartan) blokkeert de vasoconstrictieve en aldosteronsecretie-bevorderende effecten van angiotensine II door selectief de binding van angiotensine II aan de AT 1-receptor te blokkeren in veel weefsels, zoals vasculair glad spierweefsel en de bijnier.’ Oorspronkelijke Engelse tekst: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Diovan (valsartan) blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213), versie van 2026-08-11; geraadpleegd op 2026-11-19). Valsartan behoort tot de angiotensine-II-receptorblokkers, die het renine-angiotensinesysteem remmen. Blokkade van dit systeem is theoretisch nierbeschermend bij hypertensieve nierschade, doordat zowel de bloeddruk als de druk in de nierfilters daalt.
 
 Dit is echter een indirecte redenering. De enige gevonden publicatie (PMID 24368192) onderzoekt avosentan, een endothelinereceptorantagonist, in een rattenmodel en niet valsartan. Er is dus geen direct bewijs dat valsartan bij maligne hypertensieve nierziekte werkzaam of veilig is.
 
@@ -109,6 +109,18 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 - Gericht literatuuronderzoek en eventueel klinische of observationele studies naar valsartan bij maligne hypertensieve nierziekte.
 - Gegevens over het werkingsmechanisme van valsartan.
 - Informatie uit de SmPC (CBG-MEB) over waarschuwingen en contra-indicaties, om een veiligheidsbeoordeling mogelijk te maken, met aandacht voor nierfunctie en kaliumspiegels.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

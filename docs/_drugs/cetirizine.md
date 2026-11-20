@@ -58,7 +58,7 @@ Cetirizine is een antihistaminicum (H1-receptorantagonist) dat al wordt gebruikt
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene kennis blokkeert cetirizine de histamine-H1-receptor. Dit remt de door histamine veroorzaakte symptomen in het neusslijmvlies, zoals zwelling, slijmproductie en niezen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Cetirizine (niet-officiële vertaling): ‘Cetirizinehydrochloride, een humane metaboliet van hydroxyzine, is een antihistaminicum; de belangrijkste effecten ervan worden gemedieerd via selectieve remming van perifere H 1 -receptoren. De antihistaminerge werking van cetirizinehydrochloride is duidelijk gedocumenteerd in diverse dier- en humane modellen.’ Oorspronkelijke Engelse tekst: "Cetirizine hydrochloride, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1 -receptors. The antihistaminic activity of cetirizine hydrochloride has been clearly documented in a variety of animal and human models." ([DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d), versie van 2026-09-22; geraadpleegd op 2026-11-19). Op basis van algemene kennis blokkeert cetirizine de histamine-H1-receptor. Dit remt de door histamine veroorzaakte symptomen in het neusslijmvlies, zoals zwelling, slijmproductie en niezen.
 
 "Neusholteaandoening" is een zeer brede categorie die overlapt met allergische en vasomotorische rhinitis. Een antihistaminicum kan voor allergische neusaandoeningen plausibel zijn. De term is echter te weinig specifiek om een afzonderlijke herpositioneringsclaim te onderbouwen. De aandoening zou eerst moeten worden aangescherpt tot specifieke entiteiten (bijvoorbeeld subtypen van niet-allergische rhinitis of rhinosinusitis).
 
@@ -112,6 +112,19 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor v
 - Gerichte studies of literatuur over cetirizine bij die specifieke aandoeningen
 - Gegevens over het werkingsmechanisme
 - Veiligheidsinformatie uit de SmPC van het CBG-MEB
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

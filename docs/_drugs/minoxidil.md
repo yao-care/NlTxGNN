@@ -60,7 +60,7 @@ Hiervoor zijn **geen geregistreerde klinische trials** en **3 publicaties** (uit
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van de beschikbare literatuur geldt het volgende: minoxidil is een kaliumkanaalopener (via de metaboliet minoxidilsulfaat). Het verlengt de anagene (groei)fase van het haar, vergroot de haarfollikels en verbetert waarschijnlijk de doorbloeding van de hoofdhuid. De werkzaamheid bij haaruitval is bekend en hypotrichosis simplex is eveneens een aandoening met verminderde haardichtheid, dus mechanistisch kan het middel hier van toepassing zijn.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Minoxidil (niet-officiële vertaling): ‘Sulfonylureumreceptor 2, Kir6.2-opener’ Oorspronkelijke Engelse tekst: "Sulfonylurea receptor 2, Kir6.2 opener" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Op basis van de beschikbare literatuur geldt het volgende: minoxidil is een kaliumkanaalopener (via de metaboliet minoxidilsulfaat). Het verlengt de anagene (groei)fase van het haar, vergroot de haarfollikels en verbetert waarschijnlijk de doorbloeding van de hoofdhuid. De werkzaamheid bij haaruitval is bekend en hypotrichosis simplex is eveneens een aandoening met verminderde haardichtheid, dus mechanistisch kan het middel hier van toepassing zijn.
 
 Hypotrichosis simplex van de hoofdhuid is een zeldzame, erfelijke aandoening (o.a. door varianten in het CDSN-gen). Een bevredigende standaardbehandeling bestaat niet. De drie gevonden publicaties zijn kleine casusbeschrijvingen waarin minoxidil (oraal of topisch) is gecombineerd met groeifactoren, plaatjesrijk plasma (PRP) of plantenextracten. Het effect van minoxidil alleen is daardoor niet te isoleren.
 
@@ -136,13 +136,14 @@ Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Prod
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgero” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “RVG 119952//08426 (doorgehaald)” → “RVG 119952//08426 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Meloxicam is een NSAID met voorkeur voor COX-2-remming, dat oorspronkelijk wordt
 
 ## Waarom is deze voorspelling redelijk?
 
-Voor dit rapport is geen gedetailleerde informatie over het werkingsmechanisme beschikbaar in de samengestelde gegevens. Meloxicam is echter een NSAID met voorkeur voor COX-2-remming. Door de prostaglandinesynthese te verminderen, remt het ontsteking en pijn. Dit mechanisme is relevant voor gewrichtsontsteking in het algemeen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Meloxicam (niet-officiële vertaling): ‘Meloxicam heeft analgetische, ontstekingsremmende en antipyretische eigenschappen. Het werkingsmechanisme van Zybic™ is, net als dat van andere NSAID's, niet volledig bekend, maar omvat remming van cyclo-oxygenase (COX-1 en COX-2).’ Oorspronkelijke Engelse tekst: "Meloxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Zybic™, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec), versie van 2026-09-25; geraadpleegd op 2026-11-19). Meloxicam is echter een NSAID met voorkeur voor COX-2-remming. Door de prostaglandinesynthese te verminderen, remt het ontsteking en pijn. Dit mechanisme is relevant voor gewrichtsontsteking in het algemeen.
 
 De voorspelde subtype (reumatoïde-factor-positieve polyarticulaire JIA) is dus een uitbreiding binnen een bestaande indicatiefamilie, geen echte nieuwe herpositionering. Het mechanistische overlap is sterk, maar de enige beschikbare literatuur betreft celecoxib en niet-selectieve NSAID's, niet meloxicam zelf.
 
@@ -142,11 +142,12 @@ Linaclotide is als enige in de lijst van een licht (minor) niveau.
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec) |
 
 <!-- review:end log -->
 

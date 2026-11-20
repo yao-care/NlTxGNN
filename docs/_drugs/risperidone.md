@@ -54,7 +54,7 @@ Risperidon is een atypisch antipsychoticum dat in Nederland is geregistreerd. He
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Risperidon werkt volgens de algemene farmacologische kennis als antagonist van dopamine-D2- en serotonine-5-HT2A-receptoren.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Risperidone (niet-officiële vertaling): ‘Het werkingsmechanisme van risperidon bij schizofrenie is onduidelijk. De therapeutische werking van het geneesmiddel bij schizofrenie zou tot stand kunnen komen via een combinatie van antagonisme van dopamine type 2 (D 2 )- en serotonine type 2 (5HT 2 )-receptoren.’ Oorspronkelijke Engelse tekst: "The mechanism of action of risperidone in schizophrenia is unclear. The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2 ) receptor antagonism." ([DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0), versie van 2026-10-23; geraadpleegd op 2026-11-19). Risperidon werkt volgens de algemene farmacologische kennis als antagonist van dopamine-D2- en serotonine-5-HT2A-receptoren.
 
 De voorspelde aandoening is een uiterst zeldzame erfelijke aandoening die samenhangt met ROBO3. Daarbij is de geleiding van zenuwvezels (axonale geleiding) in de achterhersenen verstoord. Er is geen aannemelijke link tussen D2/5-HT2A-blokkade en deze pathologie. Er is dus geen mechanistische onderbouwing gevonden. De hoge modelscore wordt niet ondersteund door studies of publicaties en moet met grote terughoudendheid worden geïnterpreteerd.
 
@@ -102,6 +102,18 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Een plausibele biologische onderbouwing voor het effect van D2/5-HT2A-blokkade bij deze ROBO3-gerelateerde aandoening, bijvoorbeeld uit preklinisch onderzoek.
 - Gegevens over het werkingsmechanisme van risperidon en de volledige veiligheidsinformatie uit de SmPC.
 - Een beoordeling van de veiligheid en de risico-batenverhouding bij deze zeer zeldzame patiëntengroep.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

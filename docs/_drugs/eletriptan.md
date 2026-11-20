@@ -54,7 +54,7 @@ Eletriptan is een geneesmiddel uit de klasse van de triptanen (selectieve seroto
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Er zijn geen gedetailleerde gegevens over het werkingsmechanisme in de data die voor dit rapport zijn verzameld. Triptanen werken via serotonine 5-HT1B/1D-receptoren, met vaatvernauwende en neuromodulerende effecten.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Eletriptan (niet-officiële vertaling): ‘Eletriptan bindt met hoge affiniteit aan 5-HT 1B-, 5-HT 1D- en 5-HT 1F-receptoren en heeft een matige affiniteit voor 5-HT 1A-, 5-HT 1E-, 5-HT 2B- en 5-HT 7-receptoren. Migraine wordt waarschijnlijk veroorzaakt door lokale craniale vasodilatatie en/of door de afgifte van sensorische neuropeptiden (vasoactief intestinaal peptide, substantie P en calcitonine-gen-gerelateerd peptide) via zenuwuiteinden in het trigeminale systeem.’ Oorspronkelijke Engelse tekst: "Eletriptan binds with high affinity to 5-HT 1B, 5-HT 1D and 5-HT 1F receptors, has modest affinity for 5-HT 1A, 5-HT 1E, 5-HT 2B and 5-HT 7 receptors. Migraines are likely due to local cranial vasodilatation and/or to the release of sensory neuropeptides (vasoactive intestinal peptide, substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system." ([DailyMed: Relpax (eletriptan hydrobromide) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a501dbd-3ea8-47e4-9fcb-07035b8c8c9e), versie van 2024-01-15; geraadpleegd op 2026-11-19). Triptanen werken via serotonine 5-HT1B/1D-receptoren, met vaatvernauwende en neuromodulerende effecten.
 
 Atrofoderma vermiculata is een zeldzame folliculaire aandoening met atrofische huidveranderingen. Er is geen bekende rol van 5-HT1B/1D-signalering in het ontstaan ervan. Een plausibele mechanistische koppeling is daarom niet gevonden. De hoge score (0,9994) komt uit het model en wordt niet ondersteund door klinische of literatuurgegevens. De voorspelling moet daarom met grote voorzichtigheid worden gelezen.
 
@@ -102,6 +102,19 @@ Eletriptan heeft vaatvernauwende eigenschappen. Dit is relevant als een nieuwe i
 - Een literatuuronderzoek of casuïstiek die deze toepassing direct onderzoekt
 - Volledige gegevens over werkingsmechanisme, waarschuwingen en contra-indicaties uit de SmPC
 - Een beoordeling van het vasculaire veiligheidsrisico voor de beoogde patiëntenpopulatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Relpax (eletriptan hydrobromide) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a501dbd-3ea8-47e4-9fcb-07035b8c8c9e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -58,7 +58,7 @@ Buprenorfine is een partiële mu-opioïdagonist (met kappa-antagonistische werki
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Buprenorfine is een partiële mu-opioïdagonist met kappa-antagonistische activiteit. Er is geen aannemelijke mechanistische koppeling met een ziektemodificerend effect bij acute intermitterende porfyrie.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Buprenorphine (niet-officiële vertaling): ‘SUBLOCADE Injectie bevat buprenorfine. Buprenorfine is een partiële agonist van de mu-opioïdreceptor en een antagonist van de kappa-opioïdreceptor.’ Oorspronkelijke Engelse tekst: "SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor." ([DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95), versie van 2026-07-27; geraadpleegd op 2026-11-19). Buprenorfine is een partiële mu-opioïdagonist met kappa-antagonistische activiteit. Er is geen aannemelijke mechanistische koppeling met een ziektemodificerend effect bij acute intermitterende porfyrie.
 
 De enige gevonden publicatie betreft de perioperatieve keuze van geneesmiddelen bij een patiënt met porfyrie, niet de behandeling van de ziekte zelf. Opioïden kunnen worden gebruikt tegen pijn tijdens een acute aanval, maar dat is symptomatisch en vormt geen aanwijzing voor herpositionering. De veiligheid van buprenorfine bij porfyrie (porfyrinogeniciteit) is op basis van de beschikbare gegevens niet vastgesteld. De hoge score is een modelvoorspelling zonder klinische onderbouwing.
 
@@ -114,6 +114,19 @@ Daarnaast zijn er interacties van het niveau *matig* (o.a. famotidine, loperamid
 - Beoordeling van de porfyrinogeniciteit van buprenorfine aan de hand van de SmPC en aanvullende literatuur
 - Preklinische of klinische gegevens die de ziekte zelf betreffen
 - Analyse van de bijsluitertekst van het CBG-MEB (waarschuwingen en contra-indicaties)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

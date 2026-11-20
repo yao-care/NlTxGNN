@@ -58,7 +58,7 @@ Olanzapine is een antipsychoticum dat oorspronkelijk wordt gebruikt bij onder me
 
 ## Waarom is deze voorspelling redelijk?
 
-Voor deze voorspelling is eigenlijk weinig onderbouwing. Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Olanzapine is bekend als antagonist van dopamine- en serotoninereceptoren, en de werkzaamheid bij schizofrenie en bipolaire stoornis is aangetoond. Een plausibele farmacologische link met de nieuwe indicatie is op basis van de beschikbare gegevens niet vastgesteld.
+Voor deze voorspelling is eigenlijk weinig onderbouwing. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Olanzapine (niet-officiële vertaling): ‘Het werkingsmechanisme van olanzapine bij de vermelde indicaties is onduidelijk. De werkzaamheid van olanzapine bij schizofrenie zou echter tot stand kunnen komen via een combinatie van antagonisme van dopamine- en serotonine type 2 (5HT 2 )-receptoren.’ Oorspronkelijke Engelse tekst: "The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c), versie van 2026-10-26; geraadpleegd op 2026-11-19). Olanzapine is bekend als antagonist van dopamine- en serotoninereceptoren, en de werkzaamheid bij schizofrenie en bipolaire stoornis is aangetoond. Een plausibele farmacologische link met de nieuwe indicatie is op basis van de beschikbare gegevens niet vastgesteld.
 
 Benigne paroxismale torticollis van de kindertijd is een zelflimiterende, episodische aandoening bij jonge kinderen. Ze wordt gerekend tot het migrainespectrum en wordt in verband gebracht met kanaalziekten (zoals varianten in *CACNA1A*). De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, en is geen biologisch bewijs. Bovendien zou blootstelling van zuigelingen aan een antipsychoticum aanzienlijke veiligheidsvragen oproepen.
 
@@ -137,13 +137,14 @@ In de gegevens staan twee andere voorspellingen met meer ondersteuning. Beide zi
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige bekende vergunning bij het CBG-MEB is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 112855: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Alfuzosine is een alfa-1-adrenoreceptorantagonist die oorspronkelijk wordt gebru
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme van alfuzosine zijn in de voor dit rapport verzamelde gegevens niet beschikbaar. Uit algemene kennis is alfuzosine een alfa-1-adrenoreceptorantagonist die inwerkt op gladde spiercellen van de prostaat en de blaashals; daarmee verlicht het urinewegklachten bij prostaatvergroting.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Alfuzosin (niet-officiële vertaling): ‘Alfuzosine is een selectieve antagonist van postsynaptische alfa 1 -adrenoreceptoren, die zich bevinden in de prostaat, de blaasbodem, de blaashals, het prostaatkapsel en de prostatische urethra.’ Oorspronkelijke Engelse tekst: "Alfuzosin is a selective antagonist of post-synaptic alpha 1 -adrenoreceptors, which are located in the prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra." ([DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3), versie van 2024-12-05; geraadpleegd op 2026-11-19). Uit algemene kennis is alfuzosine een alfa-1-adrenoreceptorantagonist die inwerkt op gladde spiercellen van de prostaat en de blaashals; daarmee verlicht het urinewegklachten bij prostaatvergroting.
 
 Er is **geen duidelijk mechanistisch verband** met de voorspelde indicatie. Het syndroom van Ambras is een zeldzame genetische aandoening, die samenhangt met herrangschikkingen op chromosoom 8q22 die de regulatie van het *TRPS1*-gen beïnvloeden. Alfa-1-blokkade is niet bekend als beïnvloeder van haargroei of van deze genetische route.
 
@@ -113,12 +113,13 @@ De voorspelling bevindt zich op bewijsniveau L5: uitsluitend modelvoorspelling, 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinform” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 110187//23923: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ Acetylcysteïne is een slijmoplossend en antioxiderend middel dat wordt gebruikt
 
 Acetylcysteïne is een thiol-reducerend middel. Door disulfidebindingen te verbreken kan het de multimere grootte en de plaatjesbindende activiteit van de von Willebrand-factor (VWF) verminderen. Daarnaast heeft het antioxidatieve eigenschappen die het endotheel kunnen beschermen. Samen vormt dit een plausibel mechanisme voor trombotische microangiopathieën, zoals trombotische trombocytopenische purpura (TTP) en transplantatie-geassocieerde trombotische microangiopathie (TA-TMA). Preklinische muis- en bavianenmodellen voor TTP ondersteunen dit mechanisme.
 
-Het bewijs beperkt zich tot trombotische microangiopathie en immuun-trombocytopenie. Het mag daarom niet worden geëxtrapoleerd naar trombotische aandoeningen in brede zin. Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank zijn voor dit rapport niet beschikbaar.
+Het bewijs beperkt zich tot trombotische microangiopathie en immuun-trombocytopenie. Het mag daarom niet worden geëxtrapoleerd naar trombotische aandoeningen in brede zin. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Acetylcysteine (niet-officiële vertaling): ‘Van acetylcysteïne is aangetoond dat het de omvang van leverschade na een overdosis paracetamol vermindert. Paracetamoldoses van 150 mg/kg of meer zijn in verband gebracht met hepatotoxiciteit. Acetylcysteïne beschermt de lever waarschijnlijk door de glutathionspiegels te handhaven of te herstellen, of door te fungeren als alternatief substraat voor conjugatie met, en daarmee ontgifting van, de reactieve metaboliet van paracetamol.’ Oorspronkelijke Engelse tekst: "Acetylcysteine has been shown to reduce the extent of liver injury following acetaminophen overdose. Acetaminophen doses of 150 mg/kg or greater have been associated with hepatotoxicity. Acetylcysteine probably protects the liver by maintaining or restoring the glutathione levels, or by acting as an alternate substrate for conjugation with, and thus detoxification of, the reactive metabolite of acetaminophen." ([DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39), versie van 2025-04-30; geraadpleegd op 2026-11-19).
 
 ## Bewijs uit klinische studies
 
@@ -111,6 +111,18 @@ Raadpleeg voor de overige veiligheidsinformatie, zoals waarschuwingen en contra-
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Waarschuwingen en contra-indicaties uit de SmPC (CBG-MEB)
 - Een veiligheidsmonitoringplan voor de beoogde patiëntgroep, afgestemd op de beperkte populatie van trombotische microangiopathie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -58,7 +58,7 @@ Didanosine is een nucleoside-reverse-transcriptaseremmer (NRTI) die wordt gebrui
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn op dit moment niet beschikbaar in de voor dit rapport samengestelde data. Didanosine is een NRTI en remt het enzym reverse transcriptase van retrovirussen. Het felien immunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan hiv. Remming van reverse transcriptase is daarom mechanistisch een plausibele aanpak.
+Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Didanosine (niet-officiële vertaling): ‘Remmer van het reverse transcriptase van humaan immunodeficiëntievirus type 1’ Oorspronkelijke Engelse tekst: "Human immunodeficiency virus type 1 reverse transcriptase inhibitor" ([ChEMBL CHEMBL1460 (didanosine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1460), CC BY-SA 3.0; geraadpleegd op 2026-11-19). Didanosine is een NRTI en remt het enzym reverse transcriptase van retrovirussen. Het felien immunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan hiv. Remming van reverse transcriptase is daarom mechanistisch een plausibele aanpak.
 
 De hoge score weerspiegelt waarschijnlijk vooral de grote gelijkenis van de aandoening met hiv-infectie. Het gaat bovendien om diergeneeskundig gebruik, niet om humaan gebruik. De twee gevonden publicaties beschrijven didanosine-geïnduceerde sensorische neuropathie en neuronale autofagie in hiv/aids- of lentivirusmodellen. Zij onderzoeken toxiciteit en neuropathologie, niet de antivirale werkzaamheid bij FIV-geïnfecteerde katten. Er is dus geen studie die werkzaamheid bij de voorspelde aandoening direct aantoont, en daarom geldt bewijsniveau L5.
 
@@ -109,6 +109,19 @@ Raadpleeg voor volledige informatie over waarschuwingen en contra-indicaties de 
 - Studies naar antivirale werkzaamheid en veiligheid in FIV-geïnfecteerde katten.
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties.
 - Een beoordeling van de relevantie van diergeneeskundig gebruik voor de Nederlandse gezondheidszorg.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL1460 (didanosine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1460) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

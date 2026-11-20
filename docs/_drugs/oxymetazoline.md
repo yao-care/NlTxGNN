@@ -54,7 +54,7 @@ Oxymetazoline is een lokaal werkend sympathicomimeticum dat oorspronkelijk wordt
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde data. Op basis van bekende farmacologie is oxymetazoline een agonist van alfa-1- en alfa-2-adrenerge receptoren. Het veroorzaakt vasoconstrictie van de bloedvaten in het neusslijmvlies, waardoor congestie en slijmvliesoedeem afnemen. Daarnaast bindt het in farmacologische databases aan enkele serotonine-receptoren (5-HT1B, 5-HT1D en 5-HT2C).
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Oxymetazoline (niet-officiële vertaling): ‘Oxymetazoline is een alfa 1A-adrenoceptoragonist. Oxymetazoline werkt als vasoconstrictor.’ Oorspronkelijke Engelse tekst: "Oxymetazoline is an alpha 1A adrenoceptor agonist. Oxymetazoline acts as a vasoconstrictor." ([DailyMed: Rhofade (oxymetazoline hydrochloride) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34298db6-647d-480d-88a8-dc53258a5164), versie van 2026-07-13; geraadpleegd op 2026-11-19). Op basis van bekende farmacologie is oxymetazoline een agonist van alfa-1- en alfa-2-adrenerge receptoren. Het veroorzaakt vasoconstrictie van de bloedvaten in het neusslijmvlies, waardoor congestie en slijmvliesoedeem afnemen. Daarnaast bindt het in farmacologische databases aan enkele serotonine-receptoren (5-HT1B, 5-HT1D en 5-HT2C).
 
 De oorspronkelijke indicaties (verkoudheid, faryngitis) betreffen ontsteking en congestie van de bovenste luchtwegen. Aandoeningen van de neusholte, zoals acute rhinitis en sinusitis, liggen daar dicht bij. De hoge score is daarom plausibel. Het gaat echter vooral om een uitbreiding van het bestaande gebruik als decongestivum, niet om een echt nieuwe herpositionering.
 
@@ -122,12 +122,13 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 120414//25847: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Rhofade (oxymetazoline hydrochloride) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34298db6-647d-480d-88a8-dc53258a5164) |
 
 <!-- review:end log -->
 

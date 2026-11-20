@@ -62,7 +62,7 @@ De hoge score van het model (0,9906) komt van het TxGNN-model (deep learning) en
 
 Rasmussen-encefalitis is een zeldzame, voortschrijdende, immuungemedieerde (T-celgedreven) ontsteking van één hersenhelft. Kenmerkend zijn moeilijk behandelbare focale aanvallen en neurologische achteruitgang. Levodopa vult daarentegen dopamine aan in het striatum bij de ziekte van Parkinson. Een mogelijke verbinding is dat bij sommige focale encefalitiden bewegingsstoornissen voorkomen (zoals hemiparkinsonisme of dystonie), maar dit is speculatief. Het zou de immuungemedieerde ziekte zelf en de epileptische aanvallen niet behandelen.
 
-Gegevens over het werkingsmechanisme van levodopa ontbreken in de verzamelde gegevens, waardoor de mechanistische redenering niet verder onderbouwd kan worden. Daarnaast is levodopa in sommige situaties mogelijk van invloed op de aanvalsdrempel. Dat is een theoretisch veiligheidsprobleem bij een ziekte waarin epilepsie centraal staat.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Levodopa (niet-officiële vertaling): ‘Levodopa, de metabole precursor van dopamine, passeert de bloed-hersenbarrière en wordt vermoedelijk in de hersenen omgezet in dopamine. Aangenomen wordt dat dit het mechanisme is waardoor levodopa de symptomen van de ziekte van Parkinson verlicht.’ Oorspronkelijke Engelse tekst: "Levodopa, the metabolic precursor of dopamine, crosses the blood-brain barrier and presumably is converted to dopamine in the brain. This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease." ([DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb), versie van 2026-07-20; geraadpleegd op 2026-11-19). Daarnaast is levodopa in sommige situaties mogelijk van invloed op de aanvalsdrempel. Dat is een theoretisch veiligheidsprobleem bij een ziekte waarin epilepsie centraal staat.
 
 ---
 
@@ -145,13 +145,14 @@ Epilepsie op deze lijst is extra relevant, omdat Rasmussen-encefalitis gepaard g
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “aangezien alle geregistreerde producten in de gegevens als doorgehaald staan” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “alle 10 registraties zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Daarbij zijn in Nederland 10 van de 10 registraties geldig, en ontbreken de gegevens uit de bijsluiter” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
 
 <!-- review:end log -->
 

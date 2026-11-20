@@ -54,7 +54,7 @@ Ciclosporine is een calcineurineremmer met immunosuppressieve werking op T-celle
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Ciclosporine is een calcineurineremmer die de activiteit van T-cellen onderdrukt.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Cyclosporine (niet-officiële vertaling): ‘Ciclosporine is een krachtig immunosuppressief middel dat bij dieren de overleving verlengt van allogene transplantaten van huid, nier, lever, hart, pancreas, beenmerg, dunne darm en long. Bij veel diersoorten en voor diverse organen is aangetoond dat ciclosporine een deel van de humorale immuniteit onderdrukt en in sterkere mate celgemedieerde immuunreacties zoals afstoting van allotransplantaten, vertraagde overgevoeligheid, experimentele allergische encefalomyelitis, artritis door adjuvans van Freund en graft-versus-hostziekte.’ Oorspronkelijke Engelse tekst: "Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs." ([DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f), versie van 2026-09-10; geraadpleegd op 2026-11-19). Ciclosporine is een calcineurineremmer die de activiteit van T-cellen onderdrukt.
 
 Bij chronische granulomateuze ziekte (CGD) ligt de onderliggende afwijking in het NADPH-oxidase van fagocyten, niet in de T-cellen. De enige gevonden publicatie betreft hematopoëtische stamceltransplantatie. Daarbij kunnen calcineurineremmers een rol spelen als profylaxe tegen graft-versus-host-ziekte. Dat is een indirecte ondersteunende rol en geen behandeling van het eigenlijke defect. De hoge TxGNN-score wordt niet onderbouwd door direct klinisch bewijs.
 
@@ -96,6 +96,19 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 - Gegevens over het werkingsmechanisme en een onderbouwde mechanistische link met het NADPH-oxidasedefect
 - Veiligheidsinformatie uit de SmPC, inclusief waarschuwingen en contra-indicaties
 - Beoordeling van het interactierisico bij patiënten met CGD, die vaak meerdere geneesmiddelen gebruiken (o.a. antimicrobiële profylaxe)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -58,7 +58,7 @@ Orlistat is een lipaseremmer die oorspronkelijk wordt gebruikt voor de behandeli
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van orlistat zijn in de voor dit rapport samengestelde data niet beschikbaar. Op basis van algemene farmacologische kennis is orlistat een remmer van maag- en alvleesklierlipase en verlaagt het de opname van voedingsvet met ongeveer 30%.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Orlistat (niet-officiële vertaling): ‘Orlistat is een reversibele remmer van gastro-intestinale lipasen. Het oefent zijn therapeutische werking uit in het lumen van de maag en de dunne darm door een covalente binding te vormen met de actieve serineresidu-plaats van maag- en pancreaslipasen.’ Oorspronkelijke Engelse tekst: "Orlistat is a reversible inhibitor of gastrointestinal lipases. It exerts its therapeutic activity in the lumen of the stomach and small intestine by forming a covalent bond with the active serine residue site of gastric and pancreatic lipases." ([DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e), versie van 2026-09-30; geraadpleegd op 2026-11-19). Op basis van algemene farmacologische kennis is orlistat een remmer van maag- en alvleesklierlipase en verlaagt het de opname van voedingsvet met ongeveer 30%.
 
 Vetoplosbare vitamines (A, D, E en K) worden samen met voedingsvet opgenomen. Een verminderde vetopname kan daardoor ook hun opname verlagen. Dit is de basis van de bekende bijwerking van orlistat: een tekort aan vetoplosbare vitamines. Een theoretische link met hypervitaminose is dat een verminderde opname de toxiciteit zou kunnen beperken bij overmatige suppletie.
 
@@ -124,11 +124,12 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e) |
 
 <!-- review:end log -->
 

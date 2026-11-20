@@ -58,7 +58,7 @@ Latanoprost is een oogdruppel die oorspronkelijk wordt gebruikt voor de behandel
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Latanoprost is echter bekend als een prostaglandine-F2-alfa-analoog dat de oogdruk verlaagt door de uveosclerale uitstroom van kamerwater te vergroten. Dit mechanisme is in principe ook relevant voor andere vormen van glaucoom met verhoogde oogdruk.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Latanoprost (niet-officiële vertaling): ‘Latanoprost is een prostaglandine F 2α-analoog waarvan wordt aangenomen dat het de intraoculaire druk (IOD) verlaagt door de afvloed van kamerwater te verhogen. Onderzoeken bij dieren en de mens wijzen erop dat het belangrijkste werkingsmechanisme een verhoogde uveosclerale afvloed is.’ Oorspronkelijke Engelse tekst: "Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow." ([DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded), versie van 2025-12-18; geraadpleegd op 2026-11-19). Latanoprost is echter bekend als een prostaglandine-F2-alfa-analoog dat de oogdruk verlaagt door de uveosclerale uitstroom van kamerwater te vergroten. Dit mechanisme is in principe ook relevant voor andere vormen van glaucoom met verhoogde oogdruk.
 
 Primair erfelijk glaucoom ligt dicht bij de al bestaande indicaties. Het gaat dus eerder om een uitbreiding binnen dezelfde ziektefamilie dan om echte herpositionering. Een belangrijke kanttekening is dat erfelijk glaucoom vaak samenhangt met aangeboren afwijkingen van het kamerhoekdrainagesysteem. Of verbeterde uveosclerale uitstroom daar voldoende effect heeft, is niet aangetoond in de beschikbare gegevens.
 
@@ -134,11 +134,12 @@ Alle onderstaande voorspellingen zijn L5 (alleen modelvoorspelling, zonder trial
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “aangezien de enige vermelde vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
 
 <!-- review:end log -->
 

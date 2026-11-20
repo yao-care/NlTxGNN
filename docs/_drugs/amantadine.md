@@ -54,7 +54,7 @@ Amantadine is een geneesmiddel met een NMDA-receptorantagonistische en dopaminer
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde gegevens. Amantadine staat bekend als NMDA-receptorantagonist met dopaminerge modulatie en remming van het M2-ionkanaal van het influenzavirus.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Amantadine (niet-officiële vertaling): ‘Het mechanisme waardoor amantadine werkzaam is bij de behandeling van dyskinesie bij patiënten met de ziekte van Parkinson of als aanvullende behandeling naast levodopa/carbidopa bij patiënten met de ziekte van Parkinson die 'off'-episoden ervaren, is onbekend. Amantadine is een zwakke oncompetitieve antagonist van de NMDA-receptor.’ Oorspronkelijke Engelse tekst: "The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson's disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson's disease experiencing 'off' episodes is unknown. Amantadine is a weak uncompetitive antagonist of the NMDA receptor." ([DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28), versie van 2026-10-05; geraadpleegd op 2026-11-19). Amantadine staat bekend als NMDA-receptorantagonist met dopaminerge modulatie en remming van het M2-ionkanaal van het influenzavirus.
 
 Bij Rasmussen-encefalitis worden door glutamaatreceptoren gemedieerde excitotoxiciteit en auto-immuniteit (de anti-GluR3-hypothese) als mogelijke mechanismen genoemd. Een NMDA-antagonist zou daarom theoretisch kunnen aansluiten. Dit is een mechanistische hypothese zonder klinische bevestiging; de hoge score alleen is geen bewijs van werkzaamheid.
 
@@ -94,6 +94,19 @@ Voor waarschuwingen en contra-indicaties wordt verwezen naar de SmPC (Samenvatti
 - Een systematisch literatuuronderzoek en eventueel casuïstiek bij deze zeldzame aandoening
 - Aanvullende gegevens over het werkingsmechanisme en over de waarschuwingen en contra-indicaties uit de SmPC (CBG-MEB)
 - Beoordeling van de veiligheid bij kinderen, gezien de typische leeftijd van aanvang van de aandoening, en van interacties met gelijktijdige anti-epileptica
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

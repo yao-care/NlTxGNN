@@ -54,7 +54,7 @@ Erythromycine is een macrolide-antibioticum dat bacteriële eiwitsynthese remt. 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Erythromycine behoort tot de macrolide-antibiotica. Deze klasse remt de bacteriële 50S-ribosomale subeenheid en heeft daarnaast een ontstekingsremmend effect.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Erythromycin (niet-officiële vertaling): ‘Erytromycine werkt door remming van de eiwitsynthese via binding aan de 50S-ribosomale subeenheden van gevoelige organismen. Het heeft geen invloed op de nucleïnezuursynthese.’ Oorspronkelijke Engelse tekst: "Erythromycin acts by inhibition of protein synthesis by binding 50S ribosomal subunits of susceptible organisms. It does not affect nucleic acid synthesis." ([DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd), versie van 2018-12-04; geraadpleegd op 2026-11-19). Erythromycine behoort tot de macrolide-antibiotica. Deze klasse remt de bacteriële 50S-ribosomale subeenheid en heeft daarnaast een ontstekingsremmend effect.
 
 Punctate epitheliale keratopathie gaat vaak samen met chronische blefaritis en blefarokeratoconjunctivitis, onder meer door stafylokokken. Een antibacterieel en ontstekingsremmend middel kan daar in theorie bij passen. De hoge TxGNN-score weerspiegelt waarschijnlijk vooral de nabijheid van deze aandoening tot andere oogaandoeningen waarvoor erythromycine al wordt gebruikt. Dit is geen bewijs van werkzaamheid.
 
@@ -100,6 +100,18 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Gegevens over het werkingsmechanisme
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties
 - Controle of de geregistreerde toedieningsvorm (applicatievloeistof 1%) geschikt is voor oculair gebruik; de beschikbare toedieningsroutes zijn nog niet beoordeeld
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

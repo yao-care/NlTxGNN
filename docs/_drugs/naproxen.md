@@ -58,7 +58,7 @@ Naproxen is een niet-steroïde ontstekingsremmer (NSAID) die oorspronkelijk word
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Naproxen is een bekende niet-selectieve COX-1/COX-2-remmer die de aanmaak van prostaglandines vermindert en daardoor pijn en ontsteking onderdrukt. De werkzaamheid bij ontstekings- en pijnklachten van het bewegingsapparaat is goed gedocumenteerd.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Naproxen (niet-officiële vertaling): ‘Naproxen heeft analgetische, ontstekingsremmende en koortswerende eigenschappen. Het werkingsmechanisme van NAPRELAN is, net als dat van andere NSAID's, niet volledig bekend, maar omvat remming van cyclo-oxygenase (COX-1 en COX-2).’ Oorspronkelijke Engelse tekst: "Naproxen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of NAPRELAN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893), versie van 2026-01-08; geraadpleegd op 2026-11-19). Naproxen is een bekende niet-selectieve COX-1/COX-2-remmer die de aanmaak van prostaglandines vermindert en daardoor pijn en ontsteking onderdrukt. De werkzaamheid bij ontstekings- en pijnklachten van het bewegingsapparaat is goed gedocumenteerd.
 
 Brachydactylie-syndactylie-syndroom is echter een aangeboren afwijking van de ledematen, die doorgaans voortkomt uit genetische of ontwikkelingsstoringen in de aanleg van de ledematen. Remming van prostaglandinesynthese corrigeert dit soort defecten niet. Een mechanistische koppeling wordt door de beschikbare gegevens dan ook niet ondersteund.
 
@@ -137,12 +137,13 @@ De waarschuwingen en contra-indicaties uit de productinformatie (SmPC) ontbreken
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Het CBG-MEB-register laat voor naproxen in de verzamelde gegevens slechts één vergunning zien, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de SmPC” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
 
 <!-- review:end log -->
 

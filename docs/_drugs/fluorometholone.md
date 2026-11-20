@@ -54,7 +54,7 @@ Fluorometholon is een corticosteroïde (ontstekingsremmer) in oogdruppels. Het T
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van fluorometholon zijn momenteel niet beschikbaar in de voor dit rapport verzamelde gegevens. Fluorometholon is een topisch corticosteroïde met ontstekingsremmende en afweeronderdrukkende effecten. Die eigenschappen kunnen in theorie relevant zijn bij immuungemedieerde ontsteking van bloedvaten, zoals bij postinfectieuze vasculitis.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Fluorometholone (niet-officiële vertaling): ‘Corticosteroïden remmen de ontstekingsreactie op diverse uitlokkende agentia en vertragen of remmen waarschijnlijk de genezing. Ze remmen het oedeem, de fibrineafzetting, de capillaire dilatatie, de leukocytenmigratie, de capillaire proliferatie, de fibroblastproliferatie, de afzetting van collageen en de littekenvorming die gepaard gaan met ontsteking. […] In klinische studies bij aangetoonde steroïdresponders vertoonde fluorometholon een significant langere gemiddelde tijd tot het optreden van een stijging van de intraoculaire druk dan dexamethasonfosfaat; bij een klein percentage van de personen trad echter binnen één week een significante stijging van de intraoculaire druk op.’ Oorspronkelijke Engelse tekst: "Corticosteroids inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation. […] In clinical studies of documented steroid-responders, fluorometholone demonstrated a significantly longer average time to produce a rise in intraocular pressure than dexamethasone phosphate; however, in a small percentage of individuals, a significant rise in intraocular pressure occurred within one week." ([DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01), versie van 2026-08-12; geraadpleegd op 2026-11-19). Fluorometholon is een topisch corticosteroïde met ontstekingsremmende en afweeronderdrukkende effecten. Die eigenschappen kunnen in theorie relevant zijn bij immuungemedieerde ontsteking van bloedvaten, zoals bij postinfectieuze vasculitis.
 
 Er zijn echter belangrijke kanttekeningen. Bij toediening als oogdruppel is de systemische blootstelling minimaal, waardoor een effect op ontsteking van bloedvaten elders in het lichaam onwaarschijnlijk is. De koppeling berust dus alleen op de TxGNN-voorspelling en wordt niet ondersteund door klinische of literatuurgegevens.
 
@@ -90,6 +90,19 @@ Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Prod
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de SmPC van het CBG-MEB.
 - Preklinisch of klinisch bewijs dat de werkzaamheid bij postinfectieuze vasculitis direct onderzoekt.
 - Beoordeling van de routecompatibiliteit, aangezien de beschikbare toedieningsvorm een oogdruppel is.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

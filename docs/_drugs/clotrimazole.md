@@ -60,7 +60,7 @@ Het bewijsniveau is L5: de enige geregistreerde studie onderzoekt een combinatie
 
 ## Waarom is deze voorspelling plausibel?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Clotrimazol is een azool-antimycoticum met daarnaast enige ontstekingsremmende en antimicrobiële eigenschappen. Een betrokkenheid van *Malassezia* en *Cutibacterium* bij acneachtige huidafwijkingen zou een mogelijk verband met deze indicatie kunnen verklaren.
+Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Clotrimazole (niet-officiële vertaling): ‘Clotrimazol is een breedspectrum-antimycoticum dat de groei van pathogene gisten remt door de permeabiliteit van celmembranen te veranderen. De werking van clotrimazol is fungistatisch bij geneesmiddelconcentraties tot 20 mcg/ml en kan in vitro bij hogere concentraties fungicide zijn tegen Candida albicans en andere soorten van het geslacht Candida.’ Oorspronkelijke Engelse tekst: "Clotrimazole is a broad-spectrum antifungal agent that inhibits the growth of pathogenic yeasts by altering the permeability of cell membranes. The action of clotrimazole is fungistatic at concentrations of drug up to 20 mcg/mL and may be fungicidal in vitro against Candida albicans and other species of the genus Candida at higher concentrations." ([DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f), versie van 2025-03-27; geraadpleegd op 2026-11-19). Clotrimazol is een azool-antimycoticum met daarnaast enige ontstekingsremmende en antimicrobiële eigenschappen. Een betrokkenheid van *Malassezia* en *Cutibacterium* bij acneachtige huidafwijkingen zou een mogelijk verband met deze indicatie kunnen verklaren.
 
 Dit verband is echter indirect. De enige studie is een vaste combinatie van beclometason, gentamicine en clotrimazol, waardoor de bijdrage van clotrimazol niet te isoleren is. De hoge score van 0,9986 is een computationele voorspelling en wordt niet ondersteund door klinische gegevens.
 
@@ -108,6 +108,18 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Gegevens over het werkingsmechanisme en een onderbouwing van de rol van *Malassezia* of *Cutibacterium*.
 - Beoordeling van de SmPC op waarschuwingen en contra-indicaties, en een veiligheidsplan voor lokaal gebruik op de huid.
 - Controle van de beschikbare toedieningsroutes (crème voor vaginaal gebruik versus een product voor de huid).
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

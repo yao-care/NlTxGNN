@@ -60,7 +60,7 @@ Ivabradine is een hartfrequentieverlagend middel dat de HCN-kanalen (If-stroom) 
 
 ## Waarom is deze voorspelling (on)waarschijnlijk?
 
-Ivabradine remt de HCN-kanalen (If-stroom) in de sinusknoop en verlaagt zo de hartfrequentie. Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens.
+Ivabradine remt de HCN-kanalen (If-stroom) in de sinusknoop en verlaagt zo de hartfrequentie. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ivabradine (niet-officiële vertaling): ‘Corlanor blokkeert het door hyperpolarisatie geactiveerde, door cyclische nucleotiden gereguleerde (HCN-)kanaal dat verantwoordelijk is voor de cardiale pacemakerstroom I f, die de hartfrequentie reguleert. In klinische elektrofysiologische onderzoeken waren de cardiale effecten het meest uitgesproken in de sinoatriale (SA-)knoop, maar er is verlenging van het AH-interval opgetreden, evenals verlenging van het PR-interval.’ Oorspronkelijke Engelse tekst: "Corlanor blocks the hyperpolarization-activated cyclic nucleotide-gated (HCN) channel responsible for the cardiac pacemaker I f current, which regulates heart rate. In clinical electrophysiology studies, the cardiac effects were most pronounced in the sinoatrial (SA) node, but prolongation of the AH interval has occurred as has PR interval prolongation." ([DailyMed: Corlanor (ivabradine) prescribing information, Amgen Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92018a65-38f6-45f7-91d4-a34921b81d0d), versie van 2026-11-09; geraadpleegd op 2026-11-19).
 
 Er is geen bekende relatie tussen HCN-kanaalremming en de regulatie van de haarfollikelcyclus of haargroei. Hypertrichose is een bekende bijwerking van sommige middelen die op ionkanalen werken (bijvoorbeeld minoxidil via K-ATP-kanalen). Een indirecte hypothese via ionkanalen is daarom denkbaar, maar voor ivabradine niet onderbouwd. De hoge score (0,9979) is een kennisgrafiekvoorspelling en geen farmacologische onderbouwing.
 
@@ -137,11 +137,12 @@ Waarschuwingen en contra-indicaties uit de bijsluiter/SmPC zijn niet beschikbaar
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Corlanor (ivabradine) prescribing information, Amgen Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92018a65-38f6-45f7-91d4-a34921b81d0d) |
 
 <!-- review:end log -->
 

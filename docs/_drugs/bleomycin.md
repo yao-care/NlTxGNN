@@ -54,7 +54,7 @@ Bleomycine is een cytotoxisch glycopeptide dat DNA-strengbreuken veroorzaakt en 
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het precieze werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van algemene kennis veroorzaakt bleomycine DNA-strengbreuken en is het een cytotoxisch middel dat bij diverse tumoren wordt toegepast.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Bleomycin (niet-officiële vertaling): ‘Hoewel het exacte werkingsmechanisme van bleomycine onbekend is, wijst het beschikbare bewijs erop dat de belangrijkste werkingswijze de remming van de DNA-synthese is, met enig bewijs van een geringere remming van de RNA- en eiwitsynthese. Van bleomycine is bekend dat het enkelstrengs- en, in mindere mate, dubbelstrengsbreuken in DNA veroorzaakt.’ Oorspronkelijke Engelse tekst: "Although the exact mechanism of action of bleomycin is unknown, available evidence indicates that the main mode of action is the inhibition of DNA synthesis with some evidence of lesser inhibition of RNA and protein synthesis. Bleomycin is known to cause single, and to a lesser extent, double-stranded breaks in DNA." ([DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee), versie van 2026-04-17; geraadpleegd op 2026-11-19). Op basis van algemene kennis veroorzaakt bleomycine DNA-strengbreuken en is het een cytotoxisch middel dat bij diverse tumoren wordt toegepast.
 
 De score van het model is hoog (0,9930), maar de enige gekoppelde publicatie gaat over bestraling bij teruggekeerd germinoom van het centrale zenuwstelsel, na eerdere chemotherapie met carboplatine, etoposide en bleomycine. Die studie ondersteunt geen werkzaamheid van bleomycine bij tumoren van de cauda equina. Bovendien is de penetratie van bleomycine in het centrale zenuwstelsel en het spinale compartiment beperkt, waardoor elk mechanistisch verband speculatief blijft.
 
@@ -101,6 +101,18 @@ Voor waarschuwingen en contra-indicaties verwijzen we naar de SmPC (Samenvatting
 - Gegevens over het werkingsmechanisme en over penetratie van bleomycine in het CZS en het spinale compartiment
 - Preklinisch of klinisch onderzoek dat tumoren van de cauda equina direct onderzoekt
 - Analyse van de waarschuwingen en contra-indicaties uit de SmPC, voordat een veiligheidsbeoordeling kan plaatsvinden
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

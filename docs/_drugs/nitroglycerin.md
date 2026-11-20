@@ -54,7 +54,7 @@ Nitroglycerine is een stikstofmonoxide (NO)-donor die klassiek wordt gebruikt al
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Nitroglycerine is een NO-donor. NO activeert oplosbaar guanylaatcyclase, waardoor het cGMP-gehalte stijgt en gladde spiercellen in de vaatwand ontspannen. Dit verlaagt de pulmonale vaatweerstand. Bij toediening via verneveling of inhalatie kan de werking relatief selectief op de longvaten gericht zijn, met minder systemische bloeddrukdaling. Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken momenteel; bovenstaande uitleg is gebaseerd op algemeen bekende farmacologie.
+Nitroglycerine is een NO-donor. NO activeert oplosbaar guanylaatcyclase, waardoor het cGMP-gehalte stijgt en gladde spiercellen in de vaatwand ontspannen. Dit verlaagt de pulmonale vaatweerstand. Bij toediening via verneveling of inhalatie kan de werking relatief selectief op de longvaten gericht zijn, met minder systemische bloeddrukdaling. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Nitroglycerin (niet-officiële vertaling): ‘Nitroglycerine vormt het vrije radicaal stikstofmonoxide (NO), dat guanylaatcyclase activeert, wat leidt tot een toename van guanosine-3',5'-monofosfaat (cyclisch GMP) in glad spierweefsel en andere weefsels. Dit leidt uiteindelijk tot defosforylering van lichte myosineketens, wat de contractiele toestand van glad spierweefsel reguleert en resulteert in vasodilatatie.’ Oorspronkelijke Engelse tekst: "Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues. This eventually leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation." ([DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300), versie van 2025-12-17; geraadpleegd op 2026-11-19).
 
 Het verband met de bekende toepassing is plausibel: het vaatverwijdende effect dat bij het klassieke gebruik van nitraten wordt benut, is mechanistisch ook relevant voor de longcirculatie. De klinische signalen zijn consistent met dit mechanisme. Het beschikbare bewijs bestaat echter vooral uit kleine studies naar acute hemodynamische effecten of vasoreactiviteit en laat geen langetermijnuitkomsten zien.
 
@@ -132,12 +132,13 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119350//15864: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300) |
 
 <!-- review:end log -->
 

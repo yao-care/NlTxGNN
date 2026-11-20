@@ -58,7 +58,7 @@ Lanreotide is een somatostatine-analoog dat oorspronkelijk wordt gebruikt bij de
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme van lanreotide zijn in de voor dit rapport samengestelde data niet beschikbaar. Lanreotide is een somatostatine-analoog dat de afgifte van groeihormoon (GH) en IGF-1 onderdrukt, wat de werkzaamheid bij acromegalie verklaart.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Lanreotide (niet-officiële vertaling): ‘Lanreotide, het werkzame bestanddeel van SOMATULINE DEPOT, is een octapeptide-analoog van natuurlijk somatostatine. Het werkingsmechanisme van lanreotide wordt verondersteld vergelijkbaar te zijn met dat van natuurlijk somatostatine.’ Oorspronkelijke Engelse tekst: "Lanreotide, the active component of SOMATULINE DEPOT is an octapeptide analog of natural somatostatin. The mechanism of action of lanreotide is believed to be similar to that of natural somatostatin." ([DailyMed: Somatuline Depot (lanreotide acetate) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d), versie van 2024-10-11; geraadpleegd op 2026-11-19). Lanreotide is een somatostatine-analoog dat de afgifte van groeihormoon (GH) en IGF-1 onderdrukt, wat de werkzaamheid bij acromegalie verklaart.
 
 Een mogelijk verband met hypertrichose is slechts speculatief: IGF-1-signalering beïnvloedt de groei van haarfollikels. Hypertrichose is echter geen vastgesteld gevolg van somatostatinereceptormodulatie en is juist vaker een bijwerking van andere geneesmiddelen dan een aandoening die met somatostatine-analogen wordt behandeld. De zeer hoge score (0,9997) is een rekenkundige voorspelling zonder bevestiging uit studies of literatuur.
 
@@ -136,12 +136,13 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “Deze vergunning is ingetrokken.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Somatuline Depot (lanreotide acetate) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d) |
 
 <!-- review:end log -->
 

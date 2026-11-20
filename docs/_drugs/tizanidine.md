@@ -60,7 +60,7 @@ Tizanidine is een centraal werkende alfa-2-adrenerge agonist die de spiertonus v
 
 Tizanidine is een centrale alfa-2-adrenerge agonist die spasticiteit en spiertonus vermindert. Het remt vermoedelijk de afgifte van exciterende neurotransmitters (zoals glutamaat en substance P) in de spinale trigeminuskern en moduleert zo nociceptieve banen in de hersenstam en de nervus trigeminus. Dit biedt een plausibele verklaring voor een effect bij migraine en chronische dagelijkse hoofdpijn. Een effect op de spanning van de pericraniale spieren kan bovendien nuttig zijn bij spanningshoofdpijn en gemengde hoofdpijnvormen.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn niet beschikbaar in de voor dit rapport samengestelde data; bovenstaande redenering berust op de farmacologische kennis van de stofklasse en op de literatuur.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Tizanidine (niet-officiële vertaling): ‘Tizanidine is een centrale alfa-2-adrenerge-receptoragonist en vermindert spasticiteit vermoedelijk door versterking van de presynaptische remming van motorneuronen. De effecten van tizanidine zijn het grootst op polysynaptische banen. Het algehele effect van deze werkingen wordt verondersteld de facilitatie van spinale motorneuronen te verminderen.’ Oorspronkelijke Engelse tekst: "Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons. The effects of tizanidine are greatest on polysynaptic pathways. The overall effect of these actions is thought to reduce facilitation of spinal motor neurons." ([DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08), versie van 2026-01-02; geraadpleegd op 2026-11-19).
 
 ---
 
@@ -131,11 +131,12 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC (Samenvatti
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 117382//12983: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08) |
 
 <!-- review:end log -->
 

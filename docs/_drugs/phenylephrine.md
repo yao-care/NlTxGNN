@@ -60,7 +60,7 @@ Hiervoor zijn **geen geregistreerde klinische studies** en **5 publicaties** bes
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Detailgegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Fenylefrine is echter een bekende alfa-1-adrenerge agonist. Het veroorzaakt vasoconstrictie van de bloedvaten in het neusslijmvlies, waardoor congestie en slijmvliesbloedingen afnemen.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Phenylephrine (niet-officiële vertaling): ‘Fenylefrinehydrochloride is een α-1-adrenerge receptoragonist.’ Oorspronkelijke Engelse tekst: "Phenylephrine hydrochloride is an α-1 adrenergic receptor agonist." ([DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be), versie van 2026-03-31; geraadpleegd op 2026-11-19). Fenylefrine is echter een bekende alfa-1-adrenerge agonist. Het veroorzaakt vasoconstrictie van de bloedvaten in het neusslijmvlies, waardoor congestie en slijmvliesbloedingen afnemen.
 
 De oorspronkelijke indicaties omvatten al rinitis, nasofaryngitis en allergische rinitis. De voorspelling voor aandoeningen van de neusholte ligt dus sterk in het verlengde daarvan. De zeer hoge TxGNN-score (~0,9997) weerspiegelt waarschijnlijk deze overlap met bestaande indicaties en niet een werkelijk nieuw herpositioneringssignaal.
 
@@ -134,11 +134,12 @@ De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “en beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
 
 <!-- review:end log -->
 

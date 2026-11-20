@@ -54,7 +54,7 @@ Eplerenon is een selectieve mineralocorticoïdreceptorantagonist. Het TxGNN-mode
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de data die voor dit rapport zijn verzameld. Eplerenon is bekend als selectieve mineralocorticoïdreceptor (MR)-antagonist.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Eplerenone (niet-officiële vertaling): ‘Eplerenon bindt aan de mineralocorticoïdreceptor en blokkeert de binding van aldosteron, een component van het renine-angiotensine-aldosteronsysteem (RAAS). De aldosteronsynthese, die voornamelijk in de bijnier plaatsvindt, wordt gemoduleerd door meerdere factoren, waaronder angiotensine II en niet-RAAS-mediatoren zoals adrenocorticotroop hormoon (ACTH) en kalium.’ Oorspronkelijke Engelse tekst: "Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, a component of the renin-angiotensin-aldosterone-system (RAAS). Aldosterone synthesis, which occurs primarily in the adrenal gland, is modulated by multiple factors, including angiotensin II and non-RAAS mediators such as adrenocorticotropic hormone (ACTH) and potassium." ([DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a), versie van 2025-06-23; geraadpleegd op 2026-11-19). Eplerenon is bekend als selectieve mineralocorticoïdreceptor (MR)-antagonist.
 
 Preklinische studies koppelen chronische intermitterende hypoxie (zoals bij obstructieve slaapapneu) aan MR-activatie, met nierfibrose en atriale remodellering als gevolg. Eplerenon verminderde deze effecten in rattenmodellen. Daarnaast tonen laboratoriumstudies dat hypoxie de aldosteronsynthese in endotheelcellen van de longslagader stimuleert en vasculaire fibrose bevordert. Dit wijst op een mogelijke as van hypoxie, MR-activatie en vasculaire remodellering.
 
@@ -106,6 +106,19 @@ Er is geen enkele klinische studie of publicatie die eplerenon direct bij pulmon
 - Gerichte preklinische en klinische studies bij pulmonale hypertensie door longziekte of hypoxie
 - Een veiligheidsbeoordeling aan de hand van de SmPC (CBG-MEB), met aandacht voor hyperkaliëmie en nierfunctie
 - Verduidelijking van de actuele registratie- en marktstatus bij het CBG-MEB
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -58,7 +58,7 @@ Alprostadil is een prostaglandine E1-analoog dat vaten verwijdt en bij pasgebore
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het precieze werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van de bekende farmacologie werkt alprostadil (prostaglandine E1) door de gladde spiercellen van de ductus arteriosus te ontspannen. Daardoor blijft de ductus open bij pasgeborenen met ductusafhankelijke aangeboren hartafwijkingen, zoals een vernauwde of onderbroken aortaboog.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Alprostadil (niet-officiële vertaling): ‘Alprostadil (PGE1) is een prostaglandine met een grote verscheidenheid aan farmacologische werkingen, waaronder vasodilatatie en remming van de plaatjesaggregatie. Alprostadil induceert een erectie door relaxatie van het trabeculaire gladde spierweefsel en door dilatatie van de caverneuze arteriën, via binding aan zijn receptoren en verhoging van de intracellulaire concentraties cyclisch adenosinemonofosfaat (cAMP) door modulatie van adenylaatcyclase.’ Oorspronkelijke Engelse tekst: "Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase." ([DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98), versie van 2024-05-13; geraadpleegd op 2026-11-19). Op basis van de bekende farmacologie werkt alprostadil (prostaglandine E1) door de gladde spiercellen van de ductus arteriosus te ontspannen. Daardoor blijft de ductus open bij pasgeborenen met ductusafhankelijke aangeboren hartafwijkingen, zoals een vernauwde of onderbroken aortaboog.
 
 De voorspelling ligt dicht bij het bestaande gebruik van alprostadil bij ductusafhankelijke hartafwijkingen. Ze is daarom grotendeels een herhaling van bekend gebruik en geen echt nieuwe toepassing. Een tweede, zwakkere lijn betreft ontstekingsremmende en longbeschermende effecten na een hart-longmachine-operatie bij kinderen.
 
@@ -117,6 +117,18 @@ Voor de volledige veiligheidsinformatie wordt verwezen naar de SmPC (Samenvattin
 - Een beoordeling van de SmPC-waarschuwingen en contra-indicaties, die voor dit rapport niet beschikbaar waren.
 - Gecontroleerde studies of systematische reviews die aortamisvorming rechtstreeks onderzoeken.
 - Een veiligheidsplan voor langdurige infusie bij pasgeborenen, gezien de gemelde bijwerkingen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -54,7 +54,7 @@ Budesonide is een glucocorticoïd met een breed ontstekingsremmend en immuunonde
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Budesonide is een glucocorticoïd. Dergelijke middelen remmen via de glucocorticoïdreceptor ontstekingsprocessen, onder meer van Th2-cytokines en eosinofiele activiteit. Dit is plausibel relevant voor eczeem, een door Th2 gedreven ontstekingsziekte van de huid.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Budesonide (niet-officiële vertaling): ‘Budesonide is een ontstekingsremmend corticosteroïd met een sterke glucocorticoïde werking en een zwakke mineralocorticoïde werking. In standaard in-vitro- en diermodellen heeft budesonide een ongeveer 200 maal hogere affiniteit voor de glucocorticoïdreceptor en een 1000 maal hogere topische ontstekingsremmende potentie dan cortisol (crotonolie-ooroedeemtest bij de rat).’ Oorspronkelijke Engelse tekst: "Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)." ([DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da), versie van 2026-06-10; geraadpleegd op 2026-11-19). Budesonide is een glucocorticoïd. Dergelijke middelen remmen via de glucocorticoïdreceptor ontstekingsprocessen, onder meer van Th2-cytokines en eosinofiele activiteit. Dit is plausibel relevant voor eczeem, een door Th2 gedreven ontstekingsziekte van de huid.
 
 Lokale corticosteroïden vormen al standaardtherapie bij eczeem. Het mechanistische argument is dus redelijk, maar het is een klasse-effect en geen budesonide-specifiek bewijs. De hoge modelscore wordt niet ondersteund door klinische gegevens.
 
@@ -107,6 +107,19 @@ De literatuur wijst bovendien op een risico op contactallergie voor corticostero
 - Gerandomiseerde klinische studies naar lokaal budesonide bij eczeem, vergeleken met bestaande lokale corticosteroïden
 - Gegevens over het werkingsmechanisme en een geschikte lokale toedieningsvorm
 - Een veiligheidsbeoordeling aan de hand van de SmPC, met aandacht voor contactallergie en systemische opname, vooral bij kinderen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

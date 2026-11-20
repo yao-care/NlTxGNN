@@ -58,7 +58,7 @@ Lorazepam is een benzodiazepine dat oorspronkelijk wordt gebruikt bij epilepsiev
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene farmacologische kennis is lorazepam een benzodiazepine dat de GABA-A-receptor positief moduleert, met kalmerende, angstremmende en anticonvulsieve effecten.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Lorazepam (niet-officiële vertaling): ‘Lorazepam oefent zijn effect bij de behandeling van angststoornissen uit door binding aan de benzodiazepinebindingsplaats van de gamma-aminoboterzuur-A-receptoren (GABA A-receptoren) in de hersenen en versterkt de GABA-gemedieerde synaptische remming.’ Oorspronkelijke Engelse tekst: "Lorazepam exerts its effect for the treatment of anxiety disorders through binding to the benzodiazepine site of the gamma-aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9), versie van 2025-10-08; geraadpleegd op 2026-11-19). Op basis van algemene farmacologische kennis is lorazepam een benzodiazepine dat de GABA-A-receptor positief moduleert, met kalmerende, angstremmende en anticonvulsieve effecten.
 
 Een plausibel mechanistisch verband tussen deze werking en tumorbeheersing is er niet. Hooguit is een symptomatische rol denkbaar, bijvoorbeeld angstvermindering of aanvalscontrole bij hersenbetrokkenheid. Dat is geen ziektemodificerende indicatie. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. De voorspelling moet daarom met grote terughoudendheid worden benaderd.
 
@@ -139,12 +139,13 @@ Gegevens uit de bijsluitertekst (waarschuwingen en contra-indicaties) ontbreken 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Lorazepam is in Nederland wel op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9) |
 
 <!-- review:end log -->
 

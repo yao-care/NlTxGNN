@@ -58,7 +58,7 @@ Montelukast is een leukotrieenreceptorantagonist die oorspronkelijk wordt gebrui
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de databron. Op basis van bekende informatie blokkeert montelukast de cysteïnyl-leukotrieen-1-receptor (CysLT1). Daardoor kan het door leukotriënen gestuurde ontstekingsprocessen in de luchtwegen verminderen: bronchoconstrictie, slijmproductie en eosinofiele ontsteking. Dit werkingsmechanisme ligt ten grondslag aan het bewezen gebruik bij astma en allergische rhinitis.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Montelukast (niet-officiële vertaling): ‘De cysteïnylleukotriënen (LTC 4, LTD 4, LTE 4 ) zijn producten van het arachidonzuurmetabolisme en worden vrijgegeven uit verschillende cellen, waaronder mestcellen en eosinofielen. Deze eicosanoïden binden aan cysteïnylleukotriëne(CysLT)-receptoren. […] Montelukast is een oraal werkzame verbinding die met hoge affiniteit en selectiviteit bindt aan de CysLT 1-receptor (bij voorkeur boven andere farmacologisch belangrijke receptoren in de luchtwegen, zoals de prostanoïde, cholinerge of β-adrenerge receptor).’ Oorspronkelijke Engelse tekst: "The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors. […] Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor)." ([DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842), versie van 2025-04-30; geraadpleegd op 2026-11-19). Op basis van bekende informatie blokkeert montelukast de cysteïnyl-leukotrieen-1-receptor (CysLT1). Daardoor kan het door leukotriënen gestuurde ontstekingsprocessen in de luchtwegen verminderen: bronchoconstrictie, slijmproductie en eosinofiele ontsteking. Dit werkingsmechanisme ligt ten grondslag aan het bewezen gebruik bij astma en allergische rhinitis.
 
 Bij bronchitis en verwante aandoeningen spelen vergelijkbare ontstekingsroutes een rol. Bij virale bronchiolitis bij zuigelingen zijn verhoogde leukotriënen beschreven. Een rattenmodel van bronchiolitis obliterans na transplantatie (PMID 28545478) wijst op een rol van leukotrieensignalering bij fibro-obliteratieve luchtwegziekte.
 
@@ -150,12 +150,13 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er is één vergunning, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119166//23164: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Hydrocortison is een corticosteroïde (glucocorticoïd) met ontstekingsremmende 
 
 Alopecia areata is een door T-cellen gemedieerde auto-immuunziekte waarbij de haarfollikel wordt aangevallen en er plaatselijk haarverlies optreedt. Hydrocortison is een glucocorticoïd met ontstekingsremmende en afweeronderdrukkende werking. Dat sluit aan bij de pathologie van deze aandoening.
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn in de verzamelde data niet beschikbaar. Op basis van de bekende klasse-eigenschappen is een werking via onderdrukking van de ontsteking rond de follikel plausibel.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Hydrocortisone (niet-officiële vertaling): ‘Hydrocortison is een glucocorticoïd. Glucocorticoïden, bijnierschorssteroïden, veroorzaken uiteenlopende metabole effecten. Daarnaast wijzigen zij de immuunrespons van het lichaam op diverse stimuli..’ Oorspronkelijke Engelse tekst: "Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.." ([DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682), versie van 2026-04-21; geraadpleegd op 2026-11-19). Op basis van de bekende klasse-eigenschappen is een werking via onderdrukking van de ontsteking rond de follikel plausibel.
 
 Er is wel een belangrijke kanttekening: in de enige beschikbare studie was hydrocortison de laagpotente vergelijker en niet het onderzochte middel. Voor deze aandoening worden over het algemeen sterker werkzame corticosteroïden verkozen. Het bewijs ondersteunt hydrocortison dus eerder als laagpotente referentie dan als bewezen effectieve behandeling.
 
@@ -144,13 +144,14 @@ Voor waarschuwingen en contra-indicaties wordt verwezen naar de SmPC (Samenvatti
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Beide vergunningen zijn geldig (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
 
 <!-- review:end log -->
 

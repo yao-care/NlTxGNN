@@ -55,7 +55,7 @@ Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **alopecia**, maar er zi
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar in de samengestelde data. Op basis van algemene kennis is lubiprostone een activator van het ClC-2-chloridekanaal en een derivaat van prostaglandine E1, met een werking die vooral in het darmepitheel plaatsvindt.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Lubiprostone (niet-officiële vertaling): ‘Lubiproston is een lokaal werkende chloridekanaalactivator die de secretie van chloriderijk darmvocht bevordert zonder de natrium- en kaliumconcentraties in het serum te wijzigen. Lubiproston werkt door specifieke activering van ClC-2, een normaal bestanddeel van de apicale membraan van de menselijke darm, op een proteïnekinase A-onafhankelijke wijze.’ Oorspronkelijke Engelse tekst: "Lubiprostone is a locally acting chloride channel activator that enhances a chloride-rich intestinal fluid secretion without altering sodium and potassium concentrations in the serum. Lubiprostone acts by specifically activating ClC-2, which is a normal constituent of the apical membrane of the human intestine, in a protein kinase A–independent fashion." ([DailyMed: Amitiza (lubiprostone) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=164a2b47-0a52-4bb4-9e71-5342c2e951f4), versie van 2026-07-10; geraadpleegd op 2026-11-19). Op basis van algemene kennis is lubiprostone een activator van het ClC-2-chloridekanaal en een derivaat van prostaglandine E1, met een werking die vooral in het darmepitheel plaatsvindt.
 
 Voor alopecia is er in de beschikbare gegevens **geen aannemelijke biologische link** met haarfollikelbiologie aangetoond. De score van het model is een puur op de grafiek gebaseerde voorspelling en wordt niet ondersteund door een studie of publicatie. De voorspelling moet daarom als speculatief worden beschouwd.
 
@@ -138,7 +138,7 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
@@ -146,6 +146,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-15 | “De enige vergunning in Nederland (CBG-MEB) heeft de status d” → “De enige bekende Nederlandse registratie komt niet voor in d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “en de enige Nederlandse vergunning is doorgehaald.” → “en de enige bekende Nederlandse registratie komt niet voor i” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “aangezien de vergunning is doorgehaald.” → “aangezien de registratie niet voorkomt in de actuele Geneesm” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Amitiza (lubiprostone) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=164a2b47-0a52-4bb4-9e71-5342c2e951f4) |
 
 <!-- review:end log -->
 

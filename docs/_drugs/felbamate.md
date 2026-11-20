@@ -55,7 +55,7 @@ Het TxGNN-model voorspelt dat het mogelijk werkzaam is bij **trigeminuszenuwneop
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme van felbamaat zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Op basis van algemene kennis wordt felbamaat in verband gebracht met antagonisme van de glycinebindingsplaats van de NMDA-receptor en versterking van GABA-A-activiteit. Dit zijn mechanismen die neuronale overprikkelbaarheid dempen. Deze mechanismen konden hier niet aan de brongegevens worden getoetst.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Felbamate (niet-officiële vertaling): ‘Het mechanisme waarmee felbamaat zijn anticonvulsieve werking uitoefent, is onbekend, maar in diermodellen die zijn ontworpen om anticonvulsieve activiteit aan te tonen, heeft felbamaat eigenschappen gemeen met andere in de handel gebrachte anticonvulsiva. Felbamaat is werkzaam bij muizen en ratten in de maximale-elektroshocktest, de subcutane pentyleentetrazol-insulttest en de subcutane picrotoxine-insulttest.’ Oorspronkelijke Engelse tekst: "The mechanism by which felbamate exerts its anticonvulsant activity is unknown, but in animal test systems designed to detect anticonvulsant activity, felbamate has properties in common with other marketed anticonvulsants. Felbamate is effective in mice and rats in the maximal electroshock test, the subcutaneous pentylenetetrazol seizure test, and the subcutaneous picrotoxin seizure test." ([DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66), versie van 2025-08-15; geraadpleegd op 2026-11-19). Op basis van algemene kennis wordt felbamaat in verband gebracht met antagonisme van de glycinebindingsplaats van de NMDA-receptor en versterking van GABA-A-activiteit. Dit zijn mechanismen die neuronale overprikkelbaarheid dempen. Deze mechanismen konden hier niet aan de brongegevens worden getoetst.
 
 Voor **trigeminuszenuwneoplasma** is er geen vastgesteld antineoplastisch mechanisme. De hoge score weerspiegelt waarschijnlijk netwerknabijheid in de kennisgrafiek met trigeminus-gerelateerde aandoeningen (zoals trigeminusneuralgie) en niet een echt antitumoreffect. Hooguit zou een symptomatisch effect op neuropathische pijn denkbaar zijn, niet op de tumor zelf.
 
@@ -114,12 +114,13 @@ De voorspelling berust uitsluitend op een modelscore (evidentieniveau L5) zonder
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119849//16889: “(doorgehaald)” verwijderd (geldig ingeschreven) | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66) |
 
 <!-- review:end log -->
 

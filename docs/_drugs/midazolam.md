@@ -58,7 +58,7 @@ Midazolam is een kortwerkend benzodiazepine dat oorspronkelijk wordt gebruikt bi
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme ontbreken in de data die voor dit rapport is samengesteld. Op basis van de klassefarmacologie is midazolam een kortwerkend benzodiazepine dat als positieve allosterische modulator op GABA-A-receptoren werkt. Dit versterkt de remmende neurotransmissie en geeft een sedatief-hypnotisch effect. Deze koppeling is afgeleid uit klassekennis en niet uit het aangeleverde dossier.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Midazolam (niet-officiële vertaling): ‘Midazolam is een kortwerkend benzodiazepine dat het centrale zenuwstelsel (CZS) onderdrukt.’ Oorspronkelijke Engelse tekst: "Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant." ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), versie van 2025-07-31; geraadpleegd op 2026-11-19). Op basis van de klassefarmacologie is midazolam een kortwerkend benzodiazepine dat als positieve allosterische modulator op GABA-A-receptoren werkt. Dit versterkt de remmende neurotransmissie en geeft een sedatief-hypnotisch effect. Deze koppeling is afgeleid uit klassekennis en niet uit het aangeleverde dossier.
 
 Angst en slapeloosheid hebben een overlappende pathofysiologie (hyperarousal) en worden beide met GABA-erge middelen behandeld. Andere benzodiazepinen met hypnotische werking (zoals flurazepam en triazolam) zijn al voor slapeloosheid in gebruik, dus een biologische link is plausibel. De korte halfwaardetijd kan helpen bij het inslapen, maar kan het doorslapen beperken.
 
@@ -138,12 +138,13 @@ Raadpleeg voor volledige waarschuwingen de SmPC en bijsluiter (CBG-MEB), aangezi
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 112883: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Metronidazol is een antibioticum en antiprotozoair middel dat oorspronkelijk wor
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar. Metronidazol is werkzaam tegen anaerobe bacteriën en protozoa. *Pneumocystis jirovecii* is echter een schimmel zonder bekende nitroimidazol-gevoelige route.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Metronidazole (niet-officiële vertaling): ‘Metronidazol, een nitro-imidazool, oefent antibacteriële effecten uit in een anaerobe omgeving tegen de meeste obligate anaeroben. Zodra metronidazol het organisme is binnengedrongen door passieve diffusie en geactiveerd is in het cytoplasma van gevoelige anaerobe bacteriën, wordt het gereduceerd; dit proces omvat intracellulaire elektronentransportdonoren zoals ferredoxine en overdracht van een elektron naar de nitrogroep van het metronidazol, wat leidt tot de vorming van een kortlevend nitroso-vrij radicaal.’ Oorspronkelijke Engelse tekst: "Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical." ([DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255), versie van 2026-11-02; geraadpleegd op 2026-11-19). Metronidazol is werkzaam tegen anaerobe bacteriën en protozoa. *Pneumocystis jirovecii* is echter een schimmel zonder bekende nitroimidazol-gevoelige route.
 
 De hoge TxGNN-score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante ziekten, niet biologisch bewijs. De gevonden literatuur bestaat uit algemene overzichten over antiparasitaire middelen en hiv-gerelateerde opportunistische infecties. Geen enkele publicatie toont werkzaamheid van metronidazol tegen Pneumocystis aan. De standaardbehandeling is trimethoprim-sulfamethoxazol.
 
@@ -148,12 +148,13 @@ Voor de volledige veiligheidsinformatie, waarschuwingen en contra-indicaties, ra
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “RVG 119834//14416 (doorgehaald)” → “RVG 119834//14416 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
 
 <!-- review:end log -->
 

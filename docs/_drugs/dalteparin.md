@@ -58,7 +58,7 @@ Dalteparine is een laagmoleculairgewicht-heparine, oorspronkelijk gebruikt bij p
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Dalteparine is een laagmoleculairgewicht-heparine. Het versterkt de werking van antitrombine en remt factor Xa. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar; de beschrijving hier berust op algemene farmacologische kennis.
+Dalteparine is een laagmoleculairgewicht-heparine. Het versterkt de werking van antitrombine en remt factor Xa. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Dalteparin (niet-officiële vertaling): ‘Dalteparine is een heparine met een laag molecuulgewicht met antitrombotische eigenschappen. Het werkt door de remming van factor Xa en trombine door antitrombine te versterken. Bij de mens potentieert dalteparine bij voorkeur de remming van stollingsfactor Xa, terwijl het de geactiveerde partiële tromboplastinetijd (APTT) slechts in geringe mate beïnvloedt.’ Oorspronkelijke Engelse tekst: "Dalteparin is a low molecular weight heparin with antithrombotic properties. It acts by enhancing the inhibition of Factor Xa and thrombin by antithrombin. In humans, dalteparin potentiates preferentially the inhibition of coagulation Factor Xa, while only slightly affecting the activated partial thromboplastin time (APTT)." ([DailyMed: Fragmin (dalteparin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23527b8b-9b28-4e6d-9751-33b143975ac7), versie van 2025-09-30; geraadpleegd op 2026-11-19).
 
 Bij proteïne C-deficiëntie is de natuurlijke anticoagulatieroute verstoord, waardoor er een verhoogd trombose-risico is. Dit sluit conceptueel aan bij de oorspronkelijke indicaties purpura fulminans en verworven purpura fulminans, waarbij het proteïne C-systeem tekortschiet. Anticoagulatie is dus biologisch plausibel.
 
@@ -167,7 +167,7 @@ De voorspelling is uitsluitend gebaseerd op het model (L5) zonder klinische stud
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
@@ -175,6 +175,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 120289//21898: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Fragmin (dalteparin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23527b8b-9b28-4e6d-9751-33b143975ac7) |
 
 <!-- review:end log -->
 

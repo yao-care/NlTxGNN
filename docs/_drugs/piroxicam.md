@@ -62,7 +62,7 @@ De rest van dit rapport richt zich daarom op de enige voorspelling met bewijs, J
 
 ## Waarom is deze voorspelling redelijk?
 
-Voor de gegevens die voor dit rapport zijn verzameld is geen gedetailleerde beschrijving van het werkingsmechanisme beschikbaar. Op basis van algemene kennis is piroxicam een niet-selectieve COX-remmer: het remt de aanmaak van prostaglandines, waardoor ontsteking en pijn afnemen. Dit effect is al aangetoond bij reumatoïde artritis en artrose.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Piroxicam (niet-officiële vertaling): ‘Piroxicam heeft analgetische, ontstekingsremmende en koortswerende eigenschappen. Het werkingsmechanisme van Piroxicam capsules is, net als dat van andere NSAID's, niet volledig bekend, maar omvat remming van cyclo-oxygenase (COX-1 en COX-2).’ Oorspronkelijke Engelse tekst: "Piroxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Piroxicam Capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4), versie van 2026-09-29; geraadpleegd op 2026-11-19). Op basis van algemene kennis is piroxicam een niet-selectieve COX-remmer: het remt de aanmaak van prostaglandines, waardoor ontsteking en pijn afnemen. Dit effect is al aangetoond bij reumatoïde artritis en artrose.
 
 **JIA:** dit is een ontstekingsziekte van de gewrichten waarbij NSAID's een standaard symptomatische behandeling vormen. Het mechanistische verband is daarom goed. Het bewijs is echter symptomatisch (geen ziektemodificatie) en afkomstig uit oudere kinderstudies. Dit is dichter bij een bestaand gebruik van de NSAID-klasse dan bij echte herpositionering.
 
@@ -146,11 +146,12 @@ Voor de officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samen
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 57449: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
 
 <!-- review:end log -->
 

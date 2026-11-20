@@ -58,7 +58,7 @@ Bendamustine is een alkylerend cytostaticum dat oorspronkelijk wordt gebruikt bi
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Er zijn momenteel geen gedetailleerde gegevens over het werkingsmechanisme beschikbaar. Op basis van bekende informatie is bendamustine een alkylerend middel met eigenschappen die lijken op die van purine-analogen. Het werkt cytotoxisch op delende B-celmaligniteiten, en de werkzaamheid bij folliculair lymfoom en andere rijpe B-celneoplasmata is aangetoond.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Bendamustine (niet-officiële vertaling): ‘Bendamustine is een bifunctioneel mechloorethaminederivaat met een purineachtige benzimidazolring. Mechloorethamine en zijn derivaten vormen elektrofiele alkylgroepen. Deze groepen vormen covalente bindingen met elektronrijke nucleofiele groepen, wat resulteert in DNA-crosslinks tussen de strengen.’ Oorspronkelijke Engelse tekst: "Bendamustine is a bifunctional mechlorethamine derivative containing a purine-like benzimidazole ring. Mechlorethamine and its derivatives form electrophilic alkyl groups. These groups form covalent bonds with electron-rich nucleophilic moieties, resulting in interstrand DNA crosslinks." ([DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f), versie van 2026-10-28; geraadpleegd op 2026-11-19). Op basis van bekende informatie is bendamustine een alkylerend middel met eigenschappen die lijken op die van purine-analogen. Het werkt cytotoxisch op delende B-celmaligniteiten, en de werkzaamheid bij folliculair lymfoom en andere rijpe B-celneoplasmata is aangetoond.
 
 Mantelcellymfoom is een rijp B-celneoplasma dat nauw verwant is aan de oorspronkelijke indicaties. Bendamustine plus rituximab (BR) is een gevestigd basisregime. Het wordt in recente fase 3-studies gebruikt als vergelijkingsarm of combinatiepartner, onder meer met de BTK-remmers ibrutinib, acalabrutinib en orelabrutinib. Dit ondersteunt de aannemelijkheid van de voorspelling van het TxGNN-model.
 
@@ -177,12 +177,13 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f) |
 
 <!-- review:end log -->
 

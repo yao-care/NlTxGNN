@@ -58,7 +58,7 @@ Misoprostol is een prostaglandine-E1-analoog. In de voor dit rapport verzamelde 
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Misoprostol is een prostaglandine-E1-analoog die samentrekking van de baarmoeder en rijping van de baarmoedermond opwekt. Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de verzamelde gegevens. De hierboven beschreven farmacologie is algemene kennis en geen onderdeel van deze gegevens.
+Misoprostol is een prostaglandine-E1-analoog die samentrekking van de baarmoeder en rijping van de baarmoedermond opwekt. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor diclofenac sodium and misoprostol (combinatiepreparaat met Misoprostol) (niet-officiële vertaling): ‘Misoprostol Misoprostol is een synthetisch PGE1-analoog met maagzuursecretieremmende en slijmvliesbeschermende eigenschappen. Misoprostol kan de productie van bicarbonaat en slijm verhogen, maar dit is aangetoond bij doses van 200 mcg en hoger, die ook zuursecretieremmend zijn.’ Oorspronkelijke Engelse tekst: "Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory." ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), versie van 2026-08-31; geraadpleegd op 2026-11-19). De hierboven beschreven farmacologie is algemene kennis en geen onderdeel van deze gegevens.
 
 Het verband met amenorroe is indirect. De gevonden literatuur gaat over beëindiging van zwangerschap (mifepriston plus misoprostol), een casus over acute leververvetting in de zwangerschap en abnormale baarmoederbloeding, en niet over de behandeling van amenorroe. Zwangerschap is een veelvoorkomende oorzaak van amenorroe, dus de associatie weerspiegelt waarschijnlijk gezamenlijk voorkomen in de literatuur en geen therapeutisch effect. Van misoprostol wordt niet verwacht dat het de menstruatie herstelt bij primaire of secundaire amenorroe met een hormonale of structurele oorzaak.
 
@@ -147,13 +147,14 @@ De productinformatie van het CBG-MEB bevat in de verzamelde gegevens geen bruikb
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning (CBG-MEB) is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113032: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3) |
 
 <!-- review:end log -->
 

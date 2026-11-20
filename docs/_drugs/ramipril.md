@@ -62,7 +62,7 @@ Hiervoor zijn **geen klinische studies** en slechts **1 relevante preklinische p
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Op basis van algemene kennis is ramipril een ACE-remmer: het remt de omzetting van angiotensine I naar angiotensine II, waardoor bloedvaten ontspannen en vasculaire hermodellering kan afnemen. Dit staat los van de aangeleverde gegevens en is niet door de gecompileerde data bevestigd.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ramipril (niet-officiële vertaling): ‘Ramipril en ramiprilaat remmen ACE bij mensen en dieren. Angiotensineconverterend enzym is een peptidyldipeptidase dat de omzetting katalyseert van angiotensine I in de vaatvernauwende stof angiotensine II. Angiotensine II stimuleert ook de secretie van aldosteron door de bijnierschors.’ Oorspronkelijke Engelse tekst: "Ramipril and ramiprilat inhibit ACE in human subjects and animals. Angiotensin converting enzyme is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59), versie van 2026-11-11; geraadpleegd op 2026-11-19). Op basis van algemene kennis is ramipril een ACE-remmer: het remt de omzetting van angiotensine I naar angiotensine II, waardoor bloedvaten ontspannen en vasculaire hermodellering kan afnemen. Dit staat los van de aangeleverde gegevens en is niet door de gecompileerde data bevestigd.
 
 De oorspronkelijke indicaties (hypertensie en cerebrovasculaire aandoeningen) betreffen systemische vaatziekten. Pulmonale hypertensie door chronische hypoxie omvat verhoogde druk in de longvaten en hermodellering van die vaten. Het renine-angiotensinesysteem kan daarbij een rol spelen.
 
@@ -138,11 +138,12 @@ Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bew
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de produ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
 
 <!-- review:end log -->
 

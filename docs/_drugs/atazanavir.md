@@ -58,7 +58,7 @@ Atazanavir is een hiv-proteaseremmer. Het TxGNN-model voorspelt dat het mogelijk
 
 ## Waarom is deze voorspelling redelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de voor dit rapport samengestelde gegevens. Atazanavir behoort tot de hiv-1-proteaseremmers. Het kattenimmunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan hiv-1 en eveneens een protease codeert. Daardoor bestaat op klasseniveau een theoretische mechanistische grondslag.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Atazanavir (niet-officiële vertaling): ‘Atazanavir is een antiretroviraal geneesmiddel tegen HIV-1. […] Atazanavir (ATV) is een azapeptide-HIV-1-proteaseremmer (PI). De verbinding remt selectief de virusspecifieke verwerking van de virale Gag- en Gag-Pol-polyproteïnen in met HIV-1 geïnfecteerde cellen, waardoor de vorming van rijpe virionen wordt voorkomen.’ Oorspronkelijke Engelse tekst: "Atazanavir is an HIV-1 antiretroviral drug. […] Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI). The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions." ([DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8), versie van 2024-12-05; geraadpleegd op 2026-11-19). Atazanavir behoort tot de hiv-1-proteaseremmers. Het kattenimmunodeficiëntievirus (FIV) is een lentivirus dat verwant is aan hiv-1 en eveneens een protease codeert. Daardoor bestaat op klasseniveau een theoretische mechanistische grondslag.
 
 Het FIV-protease verschilt echter van het hiv-1-protease in substraatspecificiteit en gevoeligheid voor remmers. Er zijn geen gegevens die activiteit van atazanavir tegen FIV-protease ondersteunen. De hoge score weerspiegelt waarschijnlijk vooral de gelijkenis met de hiv-indicatie in het model en vormt geen onafhankelijk bewijs. Het gaat bovendien om een diergeneeskundige indicatie zonder directe klinische relevantie voor de mens.
 
@@ -104,6 +104,19 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Gegevens over het werkingsmechanisme van atazanavir
 - Beoordeling van de diergeneeskundige regelgeving en van de veiligheid bij katten, aangezien het geen menselijke indicatie betreft
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

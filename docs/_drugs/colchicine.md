@@ -64,7 +64,7 @@ Colchicine is een stof die microtubuli verstoort: het bindt aan tubuline en remt
 
 De opgehaalde literatuur ondersteunt dit slechts indirect. Eén artikel onderzoekt curcumine (niet colchicine) en de verstoring van parasitaire microtubuli. Het andere artikel beschrijft dat expressie van het pfmdr1-gen in zoogdiercellen de gevoeligheid voor chloroquine verandert; colchicine is daarin vermoedelijk gebruikt als P-glycoproteïne-substraat. Geen van beide laat antimalariawerking van colchicine bij patiënten zien.
 
-Daar komt bij dat colchicine een smalle therapeutische breedte heeft. De doses die nodig zouden zijn om parasitair tubuline te beïnvloeden, geven waarschijnlijk toxiciteit bij de gastheer. Gegevens over het precieze werkingsmechanisme van colchicine zijn in de voor dit rapport samengestelde data niet beschikbaar; bovenstaande mechanistische redenering is algemene kennis en geen onderdeel van de aangeleverde gegevens.
+Daar komt bij dat colchicine een smalle therapeutische breedte heeft. De doses die nodig zouden zijn om parasitair tubuline te beïnvloeden, geven waarschijnlijk toxiciteit bij de gastheer. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Colchicine (niet-officiële vertaling): ‘Verondersteld wordt dat de werkzaamheid van colchicine als behandeling van jicht berust op het vermogen ervan om door neutrofielen gemedieerde ontstekingsreacties te blokkeren die worden geïnduceerd door mononatriumuraatkristallen in synoviaal vocht. Colchicine verstoort de polymerisatie van β-tubuline tot microtubuli, waardoor de activering, degranulatie en migratie van neutrofielen naar ontstekingsplaatsen wordt voorkomen.’ Oorspronkelijke Engelse tekst: "Colchicine’s effectiveness as a treatment for gout has been postulated to be due to its ability to block neutrophil-mediated inflammatory responses induced by monosodium urate crystals in synovial fluid. Colchicine disrupts the polymerization of β-tubulin into microtubules, thereby preventing the activation, degranulation, and migration of neutrophils to sites of inflammation." ([DailyMed: Mitigare (colchicine) prescribing information, Hikma Specialty USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2), versie van 2026-10-16; geraadpleegd op 2026-11-19).
 
 ---
 
@@ -147,12 +147,13 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “(de enige vergunning is ingetrokken)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Mitigare (colchicine) prescribing information, Hikma Specialty USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2) |
 
 <!-- review:end log -->
 

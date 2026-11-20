@@ -54,7 +54,7 @@ Methadon is een synthetische opioïde. Voor dit rapport is geen geregistreerde o
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar. Uit de algemene farmacologische kennis in de gegevens blijkt dat methadon een mu-opioïdagonist en een NMDA-receptorantagonist is. Modulatie van het opioïdsysteem beïnvloedt dopaminerge en striatale circuits, een plausibele route voor onderdrukking van tics.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Methadone (niet-officiële vertaling): ‘Methadonhydrochloride is een mu-agonist; een synthetisch opioïde met meerdere werkingen die kwalitatief vergelijkbaar zijn met die van morfine, waarvan de meest prominente het centrale zenuwstelsel en organen die uit glad spierweefsel bestaan betreffen. Het methadononthoudingssyndroom is weliswaar kwalitatief vergelijkbaar met dat van morfine, maar verschilt daarvan doordat het begin trager is, het verloop langduriger is en de symptomen minder ernstig zijn.’ Oorspronkelijke Engelse tekst: "Methadone hydrochloride is a mu-agonist; a synthetic opioid with multiple actions qualitatively similar to those of morphine, the most prominent of which involves the central nervous system and organs composed of smooth muscle. The methadone withdrawal syndrome, although qualitatively similar to that of morphine, differs in that the onset is slower, the course is more prolonged, and the symptoms are less severe." ([DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05), versie van 2026-08-04; geraadpleegd op 2026-11-19). Uit de algemene farmacologische kennis in de gegevens blijkt dat methadon een mu-opioïdagonist en een NMDA-receptorantagonist is. Modulatie van het opioïdsysteem beïnvloedt dopaminerge en striatale circuits, een plausibele route voor onderdrukking van tics.
 
 Eén publicatie (PMID 1728167, 1992) beschrijft methadonbehandeling bij Tourette. Het lijkt een klein, ongecontroleerd rapport. Een overzichtsartikel (2007) meldt dat opiaten ook werkzaam kunnen zijn bij therapieresistente OCD en Tourette, maar dat betreft indirecte, deels preklinische ondersteuning. De hoge TxGNN-score is een computationele voorspelling en geen klinische validatie.
 
@@ -130,11 +130,12 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05) |
 
 <!-- review:end log -->
 

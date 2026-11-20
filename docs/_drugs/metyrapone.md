@@ -60,7 +60,7 @@ Hiervoor zijn **geen klinische studies** en **geen publicaties** gevonden; de vo
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de samengestelde gegevens. Uit algemene kennis is metyrapon een remmer van 11-bèta-hydroxylase (CYP11B1) en verlaagt het de cortisolsynthese in de bijnier.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Metyrapone (niet-officiële vertaling): ‘Het farmacologische effect van Metopirone is het verminderen van de productie van cortisol en corticosteron door remming van de 11-bèta-hydroxyleringsreactie in de bijnierschors. Het wegvallen van het sterke remmende terugkoppelingsmechanisme dat door cortisol wordt uitgeoefend, leidt tot een toename van de productie van adrenocorticotroop hormoon (ACTH) door de hypofyse.’ Oorspronkelijke Engelse tekst: "The pharmacological effect of Metopirone is to reduce cortisol and corticosterone production by inhibiting the 11-beta-hydroxylation reaction in the adrenal cortex. Removal of the strong inhibitory feedback mechanism exerted by cortisol results in an increase in adrenocorticotropic hormone (ACTH) production by the pituitary." ([DailyMed: Metopirone (metyrapone) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4046b167-7a46-8f4a-e063-6394a90a147f), versie van 2026-05-19; geraadpleegd op 2026-11-19). Uit algemene kennis is metyrapon een remmer van 11-bèta-hydroxylase (CYP11B1) en verlaagt het de cortisolsynthese in de bijnier.
 
 Maligne hyperthermie is daarentegen een stoornis van de calciumhuishouding in de skeletspier (RYR1/CACNA1S). Er is geen bekend biologisch verband met remming van de steroïdsynthese. De hoge score komt van het TxGNN-model (deep learning) en kan overeenkomsten weerspiegelen die het model heeft geleerd tussen verwante aandoeningen, en niet een aangetoond biologisch mechanisme. Dezelfde conclusie geldt voor de overige voorspelde aandoeningen in deze analyse, zoals gerelateerde congenitale myopathieën (o.a. King-Denborough-syndroom, central core myopathy, centronucleaire myopathie).
 
@@ -129,11 +129,12 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeer” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Metopirone (metyrapone) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4046b167-7a46-8f4a-e063-6394a90a147f) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Indomethacine is een niet-selectieve COX-remmer (NSAID) die oorspronkelijk wordt
 
 ## Waarom is deze voorspelling redelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar in de samengestelde data. Op basis van algemene kennis is indomethacine een niet-selectieve remmer van COX-1 en COX-2. Daardoor vermindert het de productie van prostaglandinen, die ontsteking, pijn en koorts veroorzaken.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Indomethacin (niet-officiële vertaling): ‘Indometacine heeft analgetische, ontstekingsremmende en antipyretische eigenschappen. Het werkingsmechanisme van INDOCIN is, net als dat van andere NSAID's, niet volledig bekend, maar omvat remming van cyclo-oxygenase (COX-1 en COX-2).’ Oorspronkelijke Engelse tekst: "Indomethacin has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of INDOCIN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da), versie van 2024-12-16; geraadpleegd op 2026-11-19). Op basis van algemene kennis is indomethacine een niet-selectieve remmer van COX-1 en COX-2. Daardoor vermindert het de productie van prostaglandinen, die ontsteking, pijn en koorts veroorzaken.
 
 Bij JIA staat chronische gewrichtsontsteking (synovitis) centraal, vergelijkbaar met de ontstekingsziekten waarvoor indomethacine al is geregistreerd bij volwassenen. NSAID's, waaronder indomethacine, worden al lang symptomatisch ingezet bij kinderreumatische aandoeningen. De literatuur vermeldt indomethacine onder meer voor koorts bij systemische JIA.
 
@@ -171,13 +171,14 @@ Interacties van licht niveau zijn onder meer famotidine, ranitidine, cimetidine 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Er is één vergunning, en die is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Er zijn geen geregistreerde klinische studies, het bewijs is oud en indirect, en de Nederlandse vergunning is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 57631: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da) |
 
 <!-- review:end log -->
 

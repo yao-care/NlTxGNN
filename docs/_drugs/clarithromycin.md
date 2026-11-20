@@ -54,7 +54,7 @@ Claritromycine is een macrolide-antibioticum dat bij meerdere bacteriële infect
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme van claritromycine zijn in de voor dit rapport verzamelde data niet beschikbaar. Claritromycine staat bekend als macrolide met naast de antibacteriële werking ook immunomodulerende en ontstekingsremmende eigenschappen, zoals effecten op de cytokineproductie en de activiteit van B-cellen en plasmacellen. Theoretisch zou dit een rol kunnen spelen bij toestanden met verhoogde immunoglobulinespiegels, zoals polyklonale hyperviscositeit.
+Volgens de rubrieken ‘Mechanism of Action’ en ‘Microbiology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Clarithromycin (niet-officiële vertaling): ‘Claritromycine is een antimicrobieel geneesmiddel uit de groep van de macroliden. […] Claritromycine oefent zijn antibacteriële werking uit door binding aan de 50S-ribosomale subeenheid van gevoelige bacteriën, wat leidt tot remming van de eiwitsynthese.’ Oorspronkelijke Engelse tekst: "Clarithromycin is a macrolide antimicrobial drug. […] Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis." ([DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460), versie van 2026-11-12; geraadpleegd op 2026-11-19). Claritromycine staat bekend als macrolide met naast de antibacteriële werking ook immunomodulerende en ontstekingsremmende eigenschappen, zoals effecten op de cytokineproductie en de activiteit van B-cellen en plasmacellen. Theoretisch zou dit een rol kunnen spelen bij toestanden met verhoogde immunoglobulinespiegels, zoals polyklonale hyperviscositeit.
 
 Deze redenering is echter hypothetisch. Er is geen mechanistische of klinische onderbouwing in de beschikbare gegevens. De hoge score (0,9935) is een modelvoorspelling en geen bewijs van werkzaamheid.
 
@@ -101,6 +101,19 @@ Daarnaast zijn er interacties van gemiddelde ernst, onder andere met paclitaxel,
 - Preklinisch of observationeel onderzoek dat de hypothese ondersteunt
 - Veiligheidsinformatie uit de SmPC, met aandacht voor QT-verlenging en interacties
 - Beoordeling van de relevantie voor de Nederlandse praktijk in overleg met het CBG-MEB
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

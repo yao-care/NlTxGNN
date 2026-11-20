@@ -54,7 +54,7 @@ Aciclovir is een antiviraal middel dat werkt tegen herpesvirussen. Het TxGNN-mod
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Aciclovir remt na activatie door het thymidinekinase van het virus het DNA-polymerase van herpesvirussen. Gedetailleerde gegevens over het werkingsmechanisme zijn in de voor dit rapport verzamelde data niet beschikbaar; bovenstaande beschrijving berust op algemeen bekende farmacologie.
+Aciclovir remt na activatie door het thymidinekinase van het virus het DNA-polymerase van herpesvirussen. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Acyclovir (niet-officiële vertaling): ‘Aciclovir is een synthetisch purinenucleosideanaloog met in vitro en in vivo remmende activiteit tegen herpessimplexvirus type 1 (HSV-1), type 2 (HSV-2) en varicellazostervirus (VZV). De remmende activiteit van aciclovir is zeer selectief vanwege de affiniteit voor het enzym thymidinekinase (TK) dat door HSV en VZV wordt gecodeerd.’ Oorspronkelijke Engelse tekst: "Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV). The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV." ([DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4), versie van 2026-06-26; geraadpleegd op 2026-11-19).
 
 De hoge modelscore weerspiegelt waarschijnlijk vooral de nabijheid in het netwerk tot herpetische oogaandoeningen (herpetische keratitis), en niet direct bewijs. De twee gevonden publicaties gaan over keratoconjunctivitis door microsporidia en over cornea-lipidose bij aids. Dat zijn geen herpetische of op aciclovir reagerende aandoeningen. Een aannemelijk mechanisme voor punctate epitheliale keratoconjunctivitis is dus niet aangetoond.
 
@@ -97,6 +97,19 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 - Geregistreerde klinische studies, bij voorkeur gerandomiseerd, bij deze aandoening
 - Beoordeling van de toedieningsroute (oogzalf of systemisch) en de beschikbare Nederlandse producten
 - Volledige veiligheidsinformatie uit de SmPC van het CBG-MEB
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -54,7 +54,7 @@ Ibuprofen is een niet-selectieve COX-remmer (NSAID) die oorspronkelijk wordt geb
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme van ibuprofen zijn voor dit rapport niet beschikbaar. Algemeen bekend is dat ibuprofen een niet-selectieve COX-remmer is met ontstekingsremmende en pijnstillende werking.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Ibuprofen (niet-officiële vertaling): ‘Ibuprofen heeft analgetische, ontstekingsremmende en koortswerende eigenschappen. Het werkingsmechanisme van CALDOLOR is, net als dat van andere NSAID's, niet volledig bekend, maar omvat remming van cyclo-oxygenase (COX-1 en COX-2).’ Oorspronkelijke Engelse tekst: "Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684), versie van 2026-01-29; geraadpleegd op 2026-11-19). Algemeen bekend is dat ibuprofen een niet-selectieve COX-remmer is met ontstekingsremmende en pijnstillende werking.
 
 Acromesomelische dysplasie, type Hunter-Thompson is een zeldzame skeletdysplasie. De oorzaak is functieverlies van CDMP1/GDF5, wat de aanleg van kraakbeen en bot verstoort. Ibuprofen werkt niet op GDF5/BMP-signalering. Er is dus **geen onderbouwd mechanistisch verband**.
 
@@ -131,11 +131,12 @@ Alle onderstaande voorspellingen hebben bewijsniveau L5 en de aanbeveling Hold. 
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is vervallen, en g” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
 
 <!-- review:end log -->
 

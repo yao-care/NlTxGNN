@@ -56,7 +56,7 @@ maar er zijn **0 klinische studies** en **0 publicaties** die deze richting onde
 
 ## Waarom is deze voorspelling (on)aannemelijk?
 
-Gegevens over het werkingsmechanisme van tamsulosine zijn momenteel niet beschikbaar in de voor dit rapport samengestelde data. Tamsulosine is bekend als selectieve alfa-1A/1D-adrenoceptorantagonist. Het ontspant de gladde spieren in de prostaat en blaashals en verbetert zo de urinestroom bij BPH.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Tamsulosin (niet-officiële vertaling): ‘De symptomen die gepaard gaan met benigne prostaathyperplasie (BPH) houden verband met obstructie van de blaasuitgang, die uit twee onderliggende componenten bestaat: een statische en een dynamische. De statische component houdt verband met een toename van de prostaatgrootte, die deels wordt veroorzaakt door proliferatie van gladde spiercellen in het prostaatstroma. […] Tamsulosine, een alfa 1 -adrenoceptorblokkerend middel, vertoont selectiviteit voor alfa 1 -receptoren in de menselijke prostaat.’ Oorspronkelijke Engelse tekst: "The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic. The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma. […] Tamsulosin, an alpha 1 adrenoceptor blocking agent, exhibits selectivity for alpha 1 receptors in the human prostate." ([DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f), versie van 2026-11-12; geraadpleegd op 2026-11-19). Tamsulosine is bekend als selectieve alfa-1A/1D-adrenoceptorantagonist. Het ontspant de gladde spieren in de prostaat en blaashals en verbetert zo de urinestroom bij BPH.
 
 Er is geen aannemelijk mechanistisch verband met de voorspelde indicatie. Ambras-type hypertrichosis is een aangeboren aandoening die wordt veroorzaakt door genomische herschikkingen op 8q22 (regulatiegebied van TRPS1). Alfa-1-blokkade speelt geen bekende rol bij haargroei of bij het corrigeren van dit genetische defect. De hoge score komt van het TxGNN-model (deep learning) en weerspiegelt waarschijnlijk overeenkomsten die het model heeft geleerd tussen verwante aandoeningen, niet biologisch bewijs.
 
@@ -126,13 +126,14 @@ De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zond
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | Verwijderd: “, gezien de ingetrokken vergunningsstatus” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f) |
 
 <!-- review:end log -->
 

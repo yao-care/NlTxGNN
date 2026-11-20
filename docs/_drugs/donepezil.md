@@ -58,7 +58,7 @@ Donepezil is een acetylcholinesteraseremmer die wordt gebruikt bij cognitieve aa
 
 ## Waarom is deze voorspelling (on)waarschijnlijk?
 
-Voor donepezil is in de samengestelde gegevens geen gedetailleerde beschrijving van het werkingsmechanisme beschikbaar. Bekend is dat donepezil behoort tot de acetylcholinesteraseremmers, die de cholinerge signaaloverdracht versterken.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Donepezil (niet-officiële vertaling): ‘Volgens de huidige theorieën over de pathogenese van de cognitieve klachten en symptomen van de ziekte van Alzheimer worden sommige daarvan toegeschreven aan een tekort aan cholinerge neurotransmissie. Verondersteld wordt dat donepezilhydrochloride zijn therapeutische effect uitoefent door de cholinerge functie te versterken.’ Oorspronkelijke Engelse tekst: "Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer’s disease attribute some of them to a deficiency of cholinergic neurotransmission. Donepezil hydrochloride is postulated to exert its therapeutic effect by enhancing cholinergic function." ([DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975), versie van 2021-12-30; geraadpleegd op 2026-11-19). Bekend is dat donepezil behoort tot de acetylcholinesteraseremmers, die de cholinerge signaaloverdracht versterken.
 
 Een cholinerge modulatie van bewegingssymptomen is denkbaar, maar voor psychogene bewegingsstoornissen bestaat geen vastgestelde neurochemische basis voor remming van acetylcholinesterase. De mechanistische link is daarom speculatief. Er is geen onderliggend onderzoek gevonden dat de voorspelling ondersteunt.
 
@@ -107,6 +107,19 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn geen gege
 - Gegevens over het werkingsmechanisme van donepezil
 - Waarschuwingen en contra-indicaties uit de SmPC van het CBG-MEB
 - Een beoordeling van de veiligheid bij de beoogde patiëntengroep, gezien het grote aantal geneesmiddelinteracties
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

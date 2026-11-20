@@ -54,7 +54,7 @@ Amlodipine is een calciumkanaalblokker die wordt gebruikt bij hoge bloeddruk en 
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Gegevens over het werkingsmechanisme zijn voor dit rapport niet beschikbaar. Amlodipine is een calciumkanaalblokker die de bloedvaten verwijdt en de bloeddruk verlaagt. Bloeddrukcontrole is een belangrijke factor bij het voorkomen van beroertes, zodat een rol bij herseninfarcten mechanistisch denkbaar is.
+Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Amlodipine (niet-officiële vertaling): ‘Amlodipine is een dihydropyridine-calciumantagonist (calciumionantagonist of slow-channel-blokker) die de transmembraneuze instroom van calciumionen in vasculair glad spierweefsel en hartspierweefsel remt. Experimentele gegevens wijzen erop dat amlodipine bindt aan zowel dihydropyridine- als niet-dihydropyridinebindingsplaatsen.’ Oorspronkelijke Engelse tekst: "Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites." ([DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487), versie van 2026-09-28; geraadpleegd op 2026-11-19). Amlodipine is een calciumkanaalblokker die de bloedvaten verwijdt en de bloeddruk verlaagt. Bloeddrukcontrole is een belangrijke factor bij het voorkomen van beroertes, zodat een rol bij herseninfarcten mechanistisch denkbaar is.
 
 De hoge modelscore weerspiegelt waarschijnlijk vooral de nabijheid van de voorspelde aandoening tot andere cerebrovasculaire aandoeningen waarvoor het middel al wordt gebruikt. Er is geen studie of publicatie die specifiek hersenstaminfarct onderzoekt. Dit is dus geen onafhankelijk bewijs voor een nieuw gebruik.
 
@@ -90,6 +90,19 @@ De voor dit rapport samengestelde gegevens bevatten geen tekst uit de bijsluiter
 - Gegevens over het werkingsmechanisme
 - Veiligheidsinformatie uit de SmPC (waarschuwingen en contra-indicaties)
 - Beoordeling van de relevantie ten opzichte van reeds bestaande cerebrovasculaire toepassingen en bloeddrukbeleid
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

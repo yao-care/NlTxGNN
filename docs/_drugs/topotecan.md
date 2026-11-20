@@ -58,7 +58,7 @@ Topotecan is een celdodend middel (cytostaticum) dat oorspronkelijk wordt gebrui
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Topotecan remt topo-isomerase I, een enzym dat DNA ontwindt tijdens celdeling. Door dit enzym te remmen ontstaan DNA-breuken en sterven snel delende tumorcellen af. Dit mechanisme is niet beperkt tot eierstokkanker en kan in principe bij meerdere solide tumoren werken. Gegevens over het werkingsmechanisme uit de officiële bronnen waren voor dit rapport niet beschikbaar; bovenstaande beschrijving is gebaseerd op de gevonden literatuur.
+Topotecan remt topo-isomerase I, een enzym dat DNA ontwindt tijdens celdeling. Door dit enzym te remmen ontstaan DNA-breuken en sterven snel delende tumorcellen af. Dit mechanisme is niet beperkt tot eierstokkanker en kan in principe bij meerdere solide tumoren werken. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Topotecan (niet-officiële vertaling): ‘Topo-isomerase I heft torsiespanning in DNA op door reversibele enkelstrengsbreuken te induceren. Topotecan bindt aan het topo-isomerase I-DNA-complex en voorkomt het opnieuw ligeren van deze enkelstrengsbreuken. Aangenomen wordt dat de cytotoxiciteit van topotecan het gevolg is van dubbelstrengs-DNA-schade die ontstaat tijdens de DNA-synthese, wanneer replicatie-enzymen een interactie aangaan met het ternaire complex dat wordt gevormd door topotecan, topo-isomerase I en DNA.’ Oorspronkelijke Engelse tekst: "Topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents re-ligation of these single-strand breaks. The cytotoxicity of topotecan is thought to be due to double-strand DNA damage produced during DNA synthesis, when replication enzymes interact with the ternary complex formed by topotecan, topoisomerase I, and DNA." ([DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579), versie van 2023-09-18; geraadpleegd op 2026-11-19).
 
 Zowel eierstokkanker als borstkanker zijn hormoongevoelige gynaecologische tumoren. Ze komen ook samen voor bij erfelijke aanleg (bijvoorbeeld BRCA-mutaties). Preklinisch onderzoek (PMID 37987734) suggereert dat remming van topo-isomerase I in MYC-gedreven kankers leidt tot ophoping van zogeheten R-loops en daardoor tot celdood. Dit geldt ook voor een deel van de borstkankers. Daarnaast is topotecan een substraat van het effluxeiwit BCRP/ABCG2 (PMID 25236865). Dit eiwit werd voor het eerst beschreven in een resistente borstkankercellijn en kan de werkzaamheid en resistentie van topotecan in borstweefsel beïnvloeden.
 
@@ -155,11 +155,12 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie (CBG-
 
 ## Controlelogboek
 
-Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-15 | “Deze vergunning is doorgehaald. Bij een eventuele vervolgsta” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
 
 <!-- review:end log -->
 

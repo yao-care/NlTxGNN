@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Droperidol"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Droperidol: voorspelde nieuwe indicatie Gilles-de-la-Tourettesyndroom (Tourette syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)"
 ---
 
@@ -60,7 +60,7 @@ Voor deze specifieke voorspelling zijn **geen klinische studies** en **geen publ
 
 ## Waarom is deze voorspelling redelijk?
 
-Droperidol is een butyrofenon met krachtige centrale dopamine-D2-antagonistische werking. Gedetailleerde mechanismegegevens (MOA) zijn in de voor dit rapport samengestelde gegevens niet beschikbaar, maar de farmacologische klasse is bekend.
+Droperidol is een butyrofenon met krachtige centrale dopamine-D2-antagonistische werking. Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Droperidol (niet-officiële vertaling): ‘Serotonine 2a (5-HT2a)-receptorantagonist; D2-achtige dopaminereceptorantagonist’. Oorspronkelijke Engelse tekst: "Serotonin 2a (5-HT2a) receptor antagonist; D2-like dopamine receptor antagonist" ([ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108), CC BY-SA 3.0; geraadpleegd op 2026-11-20).
 
 D2-blokkade is het werkingsmechanisme van geregistreerde middelen bij Tourette, zoals haloperidol, pimozide en aripiprazol. Daarom is de voorspelling biologisch aannemelijk. Er zijn echter geen studies of publicaties over droperidol bij Tourette beschikbaar, en de hoge score is uitsluitend een rekenkundige voorspelling.
 
@@ -115,6 +115,19 @@ Interacties met niveau "matig" (Moderate) zijn onder meer famotidine, epinefrine
 - Vergelijking met reeds geregistreerde D2-antagonisten (haloperidol, pimozide, aripiprazol) op werkzaamheid en veiligheid
 - Volledige veiligheidsgegevens uit de SmPC, met nadruk op QT-verlenging en torsades de pointes
 - Gedetailleerde gegevens over het werkingsmechanisme en over de toedieningsroute (droperidol is een injectievloeistof, terwijl Tourette-behandeling doorgaans chronisch en oraal is)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-20 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

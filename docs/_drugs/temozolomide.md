@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Temozolomide: voorspelde nieuwe indicatie Cauda equina neoplasm (bewijsniveau L5). In Nederland, CBG-vergunningen: 58 (geldig: 58)"
 ---
 
@@ -56,7 +56,7 @@ Er zijn **geen geregistreerde klinische studies** en **3 publicaties** (alleen c
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Temozolomide is een orale alkylerende stof die DNA methyleert (O6-guanine, N7-guanine, N3-adenine). Dit veroorzaakt celdodende schade en apoptose. Tumoren met een uitgeschakelde MGMT-promotor zijn gevoeliger. Gedetailleerde mechanismegegevens uit de bronnen zijn voor dit rapport niet beschikbaar; deze beschrijving berust op algemene farmacologische kennis.
+Temozolomide is een orale alkylerende stof die DNA methyleert (O6-guanine, N7-guanine, N3-adenine). Dit veroorzaakt celdodende schade en apoptose. Tumoren met een uitgeschakelde MGMT-promotor zijn gevoeliger. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Temozolomide (niet-officiële vertaling): ‘Temozolomide is niet direct werkzaam, maar ondergaat bij fysiologische pH een snelle niet-enzymatische omzetting in de reactieve verbinding 5-(3-methyltriazeen-1-yl)-imidazol-4-carboxamide (MTIC). De cytotoxiciteit van MTIC wordt verondersteld voornamelijk het gevolg te zijn van DNA-alkylering, hoofdzakelijk op de O 6- en N 7-posities van guanine, wat DNA-dubbelstrengsbreuken veroorzaakt en leidt tot geprogrammeerde celdood.’ Oorspronkelijke Engelse tekst: "Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death." ([DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56), versie van 2026-02-20; geraadpleegd op 2026-11-20).
 
 Neoplasmata van de cauda equina zijn meestal myxopapillaire ependymomen. Dit zijn gliale tumoren van het centrale zenuwstelsel en daarmee biologisch verwant aan astrocytoom en glioblastoom. Een gedeeld werkingsmechanisme is dus denkbaar.
 
@@ -112,6 +112,19 @@ De voorspelling berust op een computationeel model en één verwante casus (spin
 - Gegevens over de MGMT-status bij myxopapillaire ependymomen
 - Een systematische literatuurstudie naar temozolomide bij ependymomen van het ruggenmerg en de cauda equina
 - Een beoordeling van de balans tussen voordelen en risico's (o.a. beenmergsuppressie) en de interacties in de beoogde patiëntenpopulatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-20 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

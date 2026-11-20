@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 342
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 description: "Vinblastine: voorspelde nieuwe indicatie Rhabdomyosarcoom (rhabdomyosarcoma (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 1 (geldig: 1)"
@@ -54,7 +54,7 @@ Vinblastine is een vinca-alkaloïde dat de microtubulusvorming remt en wordt geb
 
 ## Waarom is deze voorspelling aannemelijk?
 
-Vinblastine bindt aan tubuline en remt de opbouw van microtubuli. Hierdoor stoppen snel delende cellen in de mitose en sterven ze af. Dit past bij een snel prolifererend wekedelensarcoom zoals rhabdomyosarcoom. Gedetailleerde mechanismegegevens zijn niet opgenomen in de voor dit rapport verzamelde data; bovenstaande beschrijving berust op de algemeen bekende farmacologie van vinca-alkaloïden.
+Vinblastine bindt aan tubuline en remt de opbouw van microtubuli. Hierdoor stoppen snel delende cellen in de mitose en sterven ze af. Dit past bij een snel prolifererend wekedelensarcoom zoals rhabdomyosarcoom. Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Vinblastine (niet-officiële vertaling): ‘Andere studies wijzen erop dat vinblastinesulfaat een effect heeft op de cellulaire energieproductie die nodig is voor de mitose en de nucleïnezuursynthese verstoort. Het werkingsmechanisme van vinblastine is in verband gebracht met de remming van de vorming van microtubuli in de mitotische spoelfiguur, wat resulteert in een stilstand van delende cellen in het metafasestadium.’ Oorspronkelijke Engelse tekst: "Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage." ([DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77), versie van 2025-04-15; geraadpleegd op 2026-11-20).
 
 Verwante vinca-alkaloïden (vooral vincristine) maken al deel uit van standaardschema's voor rhabdomyosarcoom. Voor vinblastine zelf bestaan casusbeschrijvingen van combinatiechemotherapie (onder meer cisplatine, vinblastine en bleomycine, of nivolumab met dacarbazine, cisplatine en vinblastine) en gebruik in metronomische kinderschema's. Preklinisch onderzoek laat bovendien synergie zien tussen PLK1-remmers en microtubulus-destabiliserende middelen in rhabdomyosarcoommodellen. De bijdrage van vinblastine afzonderlijk is in de multi-drugschema's niet te isoleren.
 
@@ -115,6 +115,18 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 - Volledige veiligheidsgegevens uit de SmPC (waarschuwingen en contra-indicaties), die in de verzamelde data ontbreken
 - Gegevens over het werkingsmechanisme en een monitoringplan voor beenmergsuppressie en neurotoxiciteit
 - Vergelijking met de huidige standaardbehandeling (o.a. vincristine-bevattende schema's)
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-20 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

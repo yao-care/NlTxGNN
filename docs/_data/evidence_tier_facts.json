@@ -289,7 +289,7 @@
   "with_current": 39,
   "none_current": 1,
   "without_data": 0,
-  "with_reviews": 36,
+  "with_reviews": 37,
   "rows": [
    {
     "t": "Acitretin",
@@ -727,8 +727,8 @@
     "i": "Rhabdomyosarcoom",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    }
   ],
@@ -755,7 +755,7 @@
   "with_current": 252,
   "none_current": 7,
   "without_data": 0,
-  "with_reviews": 234,
+  "with_reviews": 236,
   "rows": [
    {
     "t": "Valsartan",
@@ -1105,8 +1105,8 @@
     "i": "cauda equina neoplasm",
     "lt": 58,
     "lv": 58,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -2601,8 +2601,8 @@
     "i": "Gilles-de-la-Tourettesyndroom",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
     "x": 0
    },
    {
@@ -3559,7 +3559,7 @@
     "lt": 1,
     "lv": 0,
     "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "rs": "\"Een gedetailleerde beschrijving van het werkingsmechanisme is in de samengestelde gegevens niet beschikbaar.…",
     "x": 0
    },
    {

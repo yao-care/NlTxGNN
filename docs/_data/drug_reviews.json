@@ -10942,9 +10942,9 @@
    "drug": "chlordiazepoxide",
    "file": "chlordiazepoxide.md",
    "action": "mechanism",
-   "claim": "Een gedetailleerde beschrijving van het werkingsmechanisme is in de samengestelde gegevens niet beschikbaar.",
-   "replacement": "Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Chlordiazepoxide (niet-officiële vertaling): ‘Chloordiazepoxide HCl heeft anxiolytische, sedatieve, eetlustopwekkende en zwak analgetische werkingen. Het precieze werkingsmechanisme is niet bekend. Het geneesmiddel blokkeert EEG-arousal als gevolg van stimulatie van de formatio reticularis van de hersenstam.’ Oorspronkelijke Engelse tekst: \"Chlordiazepoxide HCl has antianxiety, sedative, appetite-stimulating and weak analgesic actions. The precise mechanism of action is not known. The drug blocks EEG arousal from stimulation of the brain stem reticular formation.\" ([DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937), versie van 2026-11-05; geraadpleegd op 2026-11-19).",
-   "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+   "claim": "Een gedetailleerde beschrijving van het werkingsmechanisme is in de samengestelde gegevens niet beschikbaar. De onderbouwing berust op klasse-eigenschappen van benzodiazepinen.",
+   "replacement": "De onderbouwing berust op klasse-eigenschappen van benzodiazepinen. Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Chlordiazepoxide (niet-officiële vertaling): ‘Chloordiazepoxide HCl heeft anxiolytische, sedatieve, eetlustopwekkende en zwak analgetische werkingen. Het precieze werkingsmechanisme is niet bekend. Het geneesmiddel blokkeert EEG-arousal als gevolg van stimulatie van de formatio reticularis van de hersenstam.’ Oorspronkelijke Engelse tekst: \"Chlordiazepoxide HCl has antianxiety, sedative, appetite-stimulating and weak analgesic actions. The precise mechanism of action is not known. The drug blocks EEG arousal from stimulation of the brain stem reticular formation.\" ([DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937), versie van 2026-11-05; geraadpleegd op 2026-11-19).",
+   "summary": "\"Een gedetailleerde beschrijving van het werkingsmechanisme is in de samengestelde gegevens niet beschikbaar. De onderbouwing berust op klasse-eigenschappen van benzodiazepinen\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -10961,8 +10961,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "nl-moa-20261119-chlordiazepoxide-1",
+     "drug": "chlordiazepoxide",
+     "file": "chlordiazepoxide.md",
+     "action": "mechanism",
+     "claim": "Een gedetailleerde beschrijving van het werkingsmechanisme is in de samengestelde gegevens niet beschikbaar.",
+     "replacement": "Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Chlordiazepoxide (niet-officiële vertaling): ‘Chloordiazepoxide HCl heeft anxiolytische, sedatieve, eetlustopwekkende en zwak analgetische werkingen. Het precieze werkingsmechanisme is niet bekend. Het geneesmiddel blokkeert EEG-arousal als gevolg van stimulatie van de formatio reticularis van de hersenstam.’ Oorspronkelijke Engelse tekst: \"Chlordiazepoxide HCl has antianxiety, sedative, appetite-stimulating and weak analgesic actions. The precise mechanism of action is not known. The drug blocks EEG arousal from stimulation of the brain stem reticular formation.\" ([DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937), versie van 2026-11-05; geraadpleegd op 2026-11-19).",
+     "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937",
+       "accessed": "2026-11-19",
+       "excerpt": "Chlordiazepoxide HCl has antianxiety, sedative, appetite-stimulating and weak analgesic actions. The precise mechanism of action is not known. The drug blocks EEG arousal from stimulation of the brain stem reticular formation.",
+       "label_version": "2026-11-05",
+       "section": "Clinical Pharmacology",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "3cbd7cee-c4d7-4c95-93d8-09428169b937",
+       "translation": "Chloordiazepoxide HCl heeft anxiolytische, sedatieve, eetlustopwekkende en zwak analgetische werkingen. Het precieze werkingsmechanisme is niet bekend. Het geneesmiddel blokkeert EEG-arousal als gevolg van stimulatie van de formatio reticularis van de hersenstam.",
+       "translation_lang": "nl",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-chlorthalidone-1",
@@ -12823,9 +12854,9 @@
    "drug": "gemcitabine",
    "file": "gemcitabine.md",
    "action": "mechanism",
-   "claim": "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank zijn niet beschikbaar in de data die voor dit rapport zijn samengesteld.",
-   "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Gemcitabine (niet-officiële vertaling): ‘Gemcitabine doodt cellen die DNA-synthese ondergaan en blokkeert de progressie van cellen door de G1/S-fasegrens. Gemcitabine wordt door nucleosidekinasen gemetaboliseerd tot difosfaat- (dFdCDP) en trifosfaat- (dFdCTP) nucleosiden.’ Oorspronkelijke Engelse tekst: \"Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides.\" ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), versie van 2026-07-27; geraadpleegd op 2026-11-19).",
-   "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+   "claim": "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank zijn niet beschikbaar in de data die voor dit rapport zijn samengesteld. De bovenstaande beschrijving komt uit de mechanistische onderbouwing van de voorspelling.",
+   "replacement": "De bovenstaande beschrijving komt uit de mechanistische onderbouwing van de voorspelling. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Gemcitabine (niet-officiële vertaling): ‘Gemcitabine doodt cellen die DNA-synthese ondergaan en blokkeert de progressie van cellen door de G1/S-fasegrens. Gemcitabine wordt door nucleosidekinasen gemetaboliseerd tot difosfaat- (dFdCDP) en trifosfaat- (dFdCTP) nucleosiden.’ Oorspronkelijke Engelse tekst: \"Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides.\" ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), versie van 2026-07-27; geraadpleegd op 2026-11-19).",
+   "summary": "\"Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank zijn niet beschikbaar in de data die voor dit rapport zijn samengesteld. De bovenstaande beschrijving komt uit de mechanistische onderbouwing van de voorspelling\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -12842,8 +12873,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "nl-moa-20261119-gemcitabine-1",
+     "drug": "gemcitabine",
+     "file": "gemcitabine.md",
+     "action": "mechanism",
+     "claim": "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank zijn niet beschikbaar in de data die voor dit rapport zijn samengesteld.",
+     "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Gemcitabine (niet-officiële vertaling): ‘Gemcitabine doodt cellen die DNA-synthese ondergaan en blokkeert de progressie van cellen door de G1/S-fasegrens. Gemcitabine wordt door nucleosidekinasen gemetaboliseerd tot difosfaat- (dFdCDP) en trifosfaat- (dFdCTP) nucleosiden.’ Oorspronkelijke Engelse tekst: \"Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides.\" ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), versie van 2026-07-27; geraadpleegd op 2026-11-19).",
+     "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84",
+       "accessed": "2026-11-19",
+       "excerpt": "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides.",
+       "label_version": "2026-07-27",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "e11eeff7-bcaf-4bf1-8da8-88138e01af84",
+       "translation": "Gemcitabine doodt cellen die DNA-synthese ondergaan en blokkeert de progressie van cellen door de G1/S-fasegrens. Gemcitabine wordt door nucleosidekinasen gemetaboliseerd tot difosfaat- (dFdCDP) en trifosfaat- (dFdCTP) nucleosiden.",
+       "translation_lang": "nl",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-glatiramer-1",
@@ -14075,9 +14137,9 @@
    "drug": "misoprostol",
    "file": "misoprostol.md",
    "action": "mechanism",
-   "claim": "Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de verzamelde gegevens.",
-   "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor diclofenac sodium and misoprostol (combinatiepreparaat met Misoprostol) (niet-officiële vertaling): ‘Misoprostol Misoprostol is een synthetisch PGE1-analoog met maagzuursecretieremmende en slijmvliesbeschermende eigenschappen. Misoprostol kan de productie van bicarbonaat en slijm verhogen, maar dit is aangetoond bij doses van 200 mcg en hoger, die ook zuursecretieremmend zijn.’ Oorspronkelijke Engelse tekst: \"Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory.\" ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), versie van 2026-08-31; geraadpleegd op 2026-11-19).",
-   "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+   "claim": "Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de verzamelde gegevens. De hierboven beschreven farmacologie is algemene kennis en geen onderdeel van deze gegevens.",
+   "replacement": "De hierboven beschreven farmacologie is algemene kennis en geen onderdeel van deze gegevens. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor diclofenac sodium and misoprostol (combinatiepreparaat met Misoprostol) (niet-officiële vertaling): ‘Misoprostol Misoprostol is een synthetisch PGE1-analoog met maagzuursecretieremmende en slijmvliesbeschermende eigenschappen. Misoprostol kan de productie van bicarbonaat en slijm verhogen, maar dit is aangetoond bij doses van 200 mcg en hoger, die ook zuursecretieremmend zijn.’ Oorspronkelijke Engelse tekst: \"Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory.\" ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), versie van 2026-08-31; geraadpleegd op 2026-11-19).",
+   "summary": "\"Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de verzamelde gegevens. De hierboven beschreven farmacologie is algemene kennis en geen onderdeel van deze gegevens\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -14094,8 +14156,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "nl-moa-20261119-misoprostol-1",
+     "drug": "misoprostol",
+     "file": "misoprostol.md",
+     "action": "mechanism",
+     "claim": "Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de verzamelde gegevens.",
+     "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor diclofenac sodium and misoprostol (combinatiepreparaat met Misoprostol) (niet-officiële vertaling): ‘Misoprostol Misoprostol is een synthetisch PGE1-analoog met maagzuursecretieremmende en slijmvliesbeschermende eigenschappen. Misoprostol kan de productie van bicarbonaat en slijm verhogen, maar dit is aangetoond bij doses van 200 mcg en hoger, die ook zuursecretieremmend zijn.’ Oorspronkelijke Engelse tekst: \"Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory.\" ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), versie van 2026-08-31; geraadpleegd op 2026-11-19).",
+     "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3",
+       "accessed": "2026-11-19",
+       "excerpt": "Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory.",
+       "label_version": "2026-08-31",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "a7701e8c-4e16-4165-8b83-de2c08d5ded3",
+       "translation": "Misoprostol Misoprostol is een synthetisch PGE1-analoog met maagzuursecretieremmende en slijmvliesbeschermende eigenschappen. Misoprostol kan de productie van bicarbonaat en slijm verhogen, maar dit is aangetoond bij doses van 200 mcg en hoger, die ook zuursecretieremmend zijn.",
+       "translation_lang": "nl",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-mitomycin-1",
@@ -14485,9 +14578,9 @@
    "drug": "oxcarbazepine",
    "file": "oxcarbazepine.md",
    "action": "mechanism",
-   "claim": "Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport samengestelde data.",
-   "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Oxcarbazepine (niet-officiële vertaling): ‘De farmacologische activiteit van TRILEPTAL wordt voornamelijk uitgeoefend via de 10-monohydroxymetaboliet (MHD) van oxcarbazepine. Het precieze mechanisme waarmee oxcarbazepine en MHD hun anti-epileptische effect uitoefenen, is onbekend; in-vitro elektrofysiologische onderzoeken wijzen er echter op dat zij blokkade van spanningsgevoelige natriumkanalen veroorzaken, wat resulteert in stabilisatie van overprikkelde neurale membranen, remming van repetitieve neuronale ontladingen en vermindering van de voortgeleiding van synaptische impulsen.’ Oorspronkelijke Engelse tekst: \"The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.\" ([DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b), versie van 2026-10-28; geraadpleegd op 2026-11-19).",
-   "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+   "claim": "Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport samengestelde data. Deze beschrijving is gebaseerd op algemene farmacologische kennis en op de analyse van de voorspelling.",
+   "replacement": "Deze beschrijving is gebaseerd op algemene farmacologische kennis en op de analyse van de voorspelling. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Oxcarbazepine (niet-officiële vertaling): ‘De farmacologische activiteit van TRILEPTAL wordt voornamelijk uitgeoefend via de 10-monohydroxymetaboliet (MHD) van oxcarbazepine. Het precieze mechanisme waarmee oxcarbazepine en MHD hun anti-epileptische effect uitoefenen, is onbekend; in-vitro elektrofysiologische onderzoeken wijzen er echter op dat zij blokkade van spanningsgevoelige natriumkanalen veroorzaken, wat resulteert in stabilisatie van overprikkelde neurale membranen, remming van repetitieve neuronale ontladingen en vermindering van de voortgeleiding van synaptische impulsen.’ Oorspronkelijke Engelse tekst: \"The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.\" ([DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b), versie van 2026-10-28; geraadpleegd op 2026-11-19).",
+   "summary": "\"Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport samengestelde data. Deze beschrijving is gebaseerd op algemene farmacologische kennis en op de analyse van de voorspelling\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -14504,8 +14597,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "nl-moa-20261119-oxcarbazepine-1",
+     "drug": "oxcarbazepine",
+     "file": "oxcarbazepine.md",
+     "action": "mechanism",
+     "claim": "Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport samengestelde data.",
+     "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Oxcarbazepine (niet-officiële vertaling): ‘De farmacologische activiteit van TRILEPTAL wordt voornamelijk uitgeoefend via de 10-monohydroxymetaboliet (MHD) van oxcarbazepine. Het precieze mechanisme waarmee oxcarbazepine en MHD hun anti-epileptische effect uitoefenen, is onbekend; in-vitro elektrofysiologische onderzoeken wijzen er echter op dat zij blokkade van spanningsgevoelige natriumkanalen veroorzaken, wat resulteert in stabilisatie van overprikkelde neurale membranen, remming van repetitieve neuronale ontladingen en vermindering van de voortgeleiding van synaptische impulsen.’ Oorspronkelijke Engelse tekst: \"The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.\" ([DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b), versie van 2026-10-28; geraadpleegd op 2026-11-19).",
+     "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b",
+       "accessed": "2026-11-19",
+       "excerpt": "The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses.",
+       "label_version": "2026-10-28",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b",
+       "translation": "De farmacologische activiteit van TRILEPTAL wordt voornamelijk uitgeoefend via de 10-monohydroxymetaboliet (MHD) van oxcarbazepine. Het precieze mechanisme waarmee oxcarbazepine en MHD hun anti-epileptische effect uitoefenen, is onbekend; in-vitro elektrofysiologische onderzoeken wijzen er echter op dat zij blokkade van spanningsgevoelige natriumkanalen veroorzaken, wat resulteert in stabilisatie van overprikkelde neurale membranen, remming van repetitieve neuronale ontladingen en vermindering van de voortgeleiding van synaptische impulsen.",
+       "translation_lang": "nl",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-oxybutynin-1",
@@ -14922,9 +15046,9 @@
    "drug": "pregabalin",
    "file": "pregabalin.md",
    "action": "mechanism",
-   "claim": "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens.",
-   "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pregabalin (niet-officiële vertaling): ‘Pregabaline bindt met hoge affiniteit aan de alfa 2 ‑deltaplaats (een hulpsubeenheid van spanningsafhankelijke calciumkanalen) in weefsels van het centrale zenuwstelsel. Hoewel het werkingsmechanisme van pregabaline niet volledig is opgehelderd, wijzen resultaten met genetisch gemodificeerde muizen en met verbindingen die structureel verwant zijn aan pregabaline (zoals gabapentine) erop dat binding aan de alfa 2 ‑delta-subeenheid betrokken kan zijn bij de antinociceptieve en anti-epileptische effecten van pregabaline bij dieren.’ Oorspronkelijke Engelse tekst: \"Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals.\" ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), versie van 2026-03-12; geraadpleegd op 2026-11-19).",
-   "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+   "claim": "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens. De beschrijving hierboven is de algemeen bekende farmacologie.",
+   "replacement": "De beschrijving hierboven is de algemeen bekende farmacologie. Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pregabalin (niet-officiële vertaling): ‘Pregabaline bindt met hoge affiniteit aan de alfa 2 ‑deltaplaats (een hulpsubeenheid van spanningsafhankelijke calciumkanalen) in weefsels van het centrale zenuwstelsel. Hoewel het werkingsmechanisme van pregabaline niet volledig is opgehelderd, wijzen resultaten met genetisch gemodificeerde muizen en met verbindingen die structureel verwant zijn aan pregabaline (zoals gabapentine) erop dat binding aan de alfa 2 ‑delta-subeenheid betrokken kan zijn bij de antinociceptieve en anti-epileptische effecten van pregabaline bij dieren.’ Oorspronkelijke Engelse tekst: \"Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals.\" ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), versie van 2026-03-12; geraadpleegd op 2026-11-19).",
+   "summary": "\"Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens. De beschrijving hierboven is de algemeen bekende farmacologie\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -14941,8 +15065,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "nl-moa-20261119-pregabalin-1",
+     "drug": "pregabalin",
+     "file": "pregabalin.md",
+     "action": "mechanism",
+     "claim": "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens.",
+     "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Pregabalin (niet-officiële vertaling): ‘Pregabaline bindt met hoge affiniteit aan de alfa 2 ‑deltaplaats (een hulpsubeenheid van spanningsafhankelijke calciumkanalen) in weefsels van het centrale zenuwstelsel. Hoewel het werkingsmechanisme van pregabaline niet volledig is opgehelderd, wijzen resultaten met genetisch gemodificeerde muizen en met verbindingen die structureel verwant zijn aan pregabaline (zoals gabapentine) erop dat binding aan de alfa 2 ‑delta-subeenheid betrokken kan zijn bij de antinociceptieve en anti-epileptische effecten van pregabaline bij dieren.’ Oorspronkelijke Engelse tekst: \"Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals.\" ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), versie van 2026-03-12; geraadpleegd op 2026-11-19).",
+     "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd",
+       "accessed": "2026-11-19",
+       "excerpt": "Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals.",
+       "label_version": "2026-03-12",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "f280bbd8-2af2-444a-bd96-e409337ca6dd",
+       "translation": "Pregabaline bindt met hoge affiniteit aan de alfa 2 ‑deltaplaats (een hulpsubeenheid van spanningsafhankelijke calciumkanalen) in weefsels van het centrale zenuwstelsel. Hoewel het werkingsmechanisme van pregabaline niet volledig is opgehelderd, wijzen resultaten met genetisch gemodificeerde muizen en met verbindingen die structureel verwant zijn aan pregabaline (zoals gabapentine) erop dat binding aan de alfa 2 ‑delta-subeenheid betrokken kan zijn bij de antinociceptieve en anti-epileptische effecten van pregabaline bij dieren.",
+       "translation_lang": "nl",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "nl-moa-20261119-prilocaine-1",
@@ -16000,6 +16155,85 @@
     }
    ],
    "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "nl-moa-20261120-droperidol-1",
+   "drug": "droperidol",
+   "file": "droperidol.md",
+   "action": "mechanism",
+   "claim": "Gedetailleerde mechanismegegevens (MOA) zijn in de voor dit rapport samengestelde gegevens niet beschikbaar, maar de farmacologische klasse is bekend.",
+   "replacement": "Volgens ChEMBL (EMBL-EBI) is het geregistreerde werkingsmechanisme van Droperidol (niet-officiële vertaling): ‘Serotonine 2a (5-HT2a)-receptorantagonist; D2-achtige dopaminereceptorantagonist’. Oorspronkelijke Engelse tekst: \"Serotonin 2a (5-HT2a) receptor antagonist; D2-like dopamine receptor antagonist\" ([ChEMBL CHEMBL1108 (droperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108), CC BY-SA 3.0; geraadpleegd op 2026-11-20).",
+   "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "ChEMBL CHEMBL1108 (droperidol): drug mechanism",
+     "url": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1108",
+     "accessed": "2026-11-20",
+     "excerpt": "Serotonin 2a (5-HT2a) receptor antagonist; D2-like dopamine receptor antagonist",
+     "via": "ChEMBL web services (https://www.ebi.ac.uk/chembl/api/data/docs), CC BY-SA 3.0",
+     "chembl_id": "CHEMBL1108",
+     "translation": "Serotonine 2a (5-HT2a)-receptorantagonist; D2-achtige dopaminereceptorantagonist",
+     "translation_lang": "nl",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "nl-moa-20261120-temozolomide-1",
+   "drug": "temozolomide",
+   "file": "temozolomide.md",
+   "action": "mechanism",
+   "claim": "Gedetailleerde mechanismegegevens uit de bronnen zijn voor dit rapport niet beschikbaar; deze beschrijving berust op algemene farmacologische kennis.",
+   "replacement": "Volgens de rubriek ‘Mechanism of Action’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Temozolomide (niet-officiële vertaling): ‘Temozolomide is niet direct werkzaam, maar ondergaat bij fysiologische pH een snelle niet-enzymatische omzetting in de reactieve verbinding 5-(3-methyltriazeen-1-yl)-imidazol-4-carboxamide (MTIC). De cytotoxiciteit van MTIC wordt verondersteld voornamelijk het gevolg te zijn van DNA-alkylering, hoofdzakelijk op de O 6- en N 7-posities van guanine, wat DNA-dubbelstrengsbreuken veroorzaakt en leidt tot geprogrammeerde celdood.’ Oorspronkelijke Engelse tekst: \"Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death.\" ([DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56), versie van 2026-02-20; geraadpleegd op 2026-11-20).",
+   "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56",
+     "accessed": "2026-11-20",
+     "excerpt": "Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death.",
+     "label_version": "2026-02-20",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "046a9011-3911-4d3f-a15f-fbb56d5aad56",
+     "translation": "Temozolomide is niet direct werkzaam, maar ondergaat bij fysiologische pH een snelle niet-enzymatische omzetting in de reactieve verbinding 5-(3-methyltriazeen-1-yl)-imidazol-4-carboxamide (MTIC). De cytotoxiciteit van MTIC wordt verondersteld voornamelijk het gevolg te zijn van DNA-alkylering, hoofdzakelijk op de O 6- en N 7-posities van guanine, wat DNA-dubbelstrengsbreuken veroorzaakt en leidt tot geprogrammeerde celdood.",
+     "translation_lang": "nl",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "nl-moa-20261120-vinblastine-1",
+   "drug": "vinblastine",
+   "file": "vinblastine.md",
+   "action": "mechanism",
+   "claim": "Gedetailleerde mechanismegegevens zijn niet opgenomen in de voor dit rapport verzamelde data; bovenstaande beschrijving berust op de algemeen bekende farmacologie van vinca-alkaloïden.",
+   "replacement": "Volgens de rubriek ‘Clinical Pharmacology’ van de door de Amerikaanse FDA goedgekeurde productinformatie (Prescribing Information) voor Vinblastine (niet-officiële vertaling): ‘Andere studies wijzen erop dat vinblastinesulfaat een effect heeft op de cellulaire energieproductie die nodig is voor de mitose en de nucleïnezuursynthese verstoort. Het werkingsmechanisme van vinblastine is in verband gebracht met de remming van de vorming van microtubuli in de mitotische spoelfiguur, wat resulteert in een stilstand van delende cellen in het metafasestadium.’ Oorspronkelijke Engelse tekst: \"Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage.\" ([DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77), versie van 2025-04-15; geraadpleegd op 2026-11-20).",
+   "summary": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77",
+     "accessed": "2026-11-20",
+     "excerpt": "Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage.",
+     "label_version": "2025-04-15",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "f073b58e-56d6-4c8d-a2ce-b37719402d77",
+     "translation": "Andere studies wijzen erop dat vinblastinesulfaat een effect heeft op de cellulaire energieproductie die nodig is voor de mitose en de nucleïnezuursynthese verstoort. Het werkingsmechanisme van vinblastine is in verband gebracht met de remming van de vorming van microtubuli in de mitotische spoelfiguur, wat resulteert in een stilstand van delende cellen in het metafasestadium.",
+     "translation_lang": "nl",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
    "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
   }
  ]

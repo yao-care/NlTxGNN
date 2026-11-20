@@ -3,9 +3,9 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 3 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 5 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
 # Nieuws over kanker (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>5 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -55,13 +55,29 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (3)
+## Gerelateerd nieuws (5)
+
+### [Christine (56) stelde het bevolkingsonderzoek uit, ze bleek kanker te hebben](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkotSzlxbnFNUUYwODkyT0g0dmV5UHRQekI2Q3JzZFZDMGFiMnZ3SlpzXzF2RmxLSEl0R0VMOVo3TWpNNEJnWl95RHVlcWFSWEJhTmdsNmsydnFmTW4ybnNOZWJKS3pabHRVcE40THVJU1dMVlVKVWJBNXZPa0JVMGtmazQ4b0t1bFRYemZLZFhwaVFFclpBbjZ5S0dncTVpY3lSaFBTMnRCMTRYLVNFLTJaMzlDNmZPZXc?oc=5)
+
+2026-11-19
+
+Bron: [Libelle](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkotSzlxbnFNUUYwODkyT0g0dmV5UHRQekI2Q3JzZFZDMGFiMnZ3SlpzXzF2RmxLSEl0R0VMOVo3TWpNNEJnWl95RHVlcWFSWEJhTmdsNmsydnFmTW4ybnNOZWJKS3pabHRVcE40THVJU1dMVlVKVWJBNXZPa0JVMGtmazQ4b0t1bFRYemZLZFhwaVFFclpBbjZ5S0dncTVpY3lSaFBTMnRCMTRYLVNFLTJaMzlDNmZPZXc?oc=5)
+
+---
 
 ### [Na behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’ - Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5)
 
 2026-11-16
 
 Bron: [Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5)
+
+---
+
+### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
+
+2026-11-16
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
 
 ---
 

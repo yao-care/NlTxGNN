@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Lorazepam. 1 voorspelde indicaties."
 permalink: /news/lorazepam/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
 # Nieuws over Lorazepam
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Lorazepam?">
-<strong>Lorazepam</strong> heeft momenteel <strong>3 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Lorazepam</strong> heeft momenteel <strong>5 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,29 @@ Deze pagina combineert de door AI voorspelde indicaties voor Lorazepam met het l
 <p><a href="{{ '/drugs/lorazepam/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (3)
+## Gerelateerd nieuws (5)
+
+### [Christine (56) stelde het bevolkingsonderzoek uit, ze bleek kanker te hebben](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkotSzlxbnFNUUYwODkyT0g0dmV5UHRQekI2Q3JzZFZDMGFiMnZ3SlpzXzF2RmxLSEl0R0VMOVo3TWpNNEJnWl95RHVlcWFSWEJhTmdsNmsydnFmTW4ybnNOZWJKS3pabHRVcE40THVJU1dMVlVKVWJBNXZPa0JVMGtmazQ4b0t1bFRYemZLZFhwaVFFclpBbjZ5S0dncTVpY3lSaFBTMnRCMTRYLVNFLTJaMzlDNmZPZXc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">kanker</span>
+
+Bron: [Libelle](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkotSzlxbnFNUUYwODkyT0g0dmV5UHRQekI2Q3JzZFZDMGFiMnZ3SlpzXzF2RmxLSEl0R0VMOVo3TWpNNEJnWl95RHVlcWFSWEJhTmdsNmsydnFmTW4ybnNOZWJKS3pabHRVcE40THVJU1dMVlVKVWJBNXZPa0JVMGtmazQ4b0t1bFRYemZLZFhwaVFFclpBbjZ5S0dncTVpY3lSaFBTMnRCMTRYLVNFLTJaMzlDNmZPZXc?oc=5)
+
+---
 
 ### [Na behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’ - Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5)
 
 2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1NXV3X09IMjVPc2ZxQzNVZXBJUFhzN0Q5ZWlPSWRNT0FQX2Zabmd3LU5kUXRiNjN1UVN4S0UwSDlnZ2kyUUwyMldxQUIwOWJKYXZqUlJhNkhpU3BYMlF4R0FjV0FsMmNOMklnU2hWUU9kYjBCeXdEd1pBMTJoMzJKZjhzd3RYTkhkOW54S19CNjRKeE16Sl81R2pxdE90Yjd1dEFQVkMtV3diU3prNlNxMUVmZVlIdFV4dFFEejhDZ1UxLURET1JpY1JqaXJTUHE4WmQzemYtc3FXTS1JUQ?oc=5)
+
+---
+
+### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
 
 ---
 

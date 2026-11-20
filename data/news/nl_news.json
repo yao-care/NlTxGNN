@@ -1,17 +1,29 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-19T15:11:12.313266+00:00",
-  "count": 10,
+  "fetched_at": "2026-11-20T00:14:43.019464+00:00",
+  "count": 15,
   "news": [
     {
-      "id": "ee3e83e3b5b3",
-      "title": "Jurre Geluk maakt zich zorgen over toename hiv-diagnoses - RTL.nl",
-      "published": "2026-11-19T12:14:11+00:00",
-      "summary": "Jurre Geluk maakt zich zorgen over toename hiv-diagnoses&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "61afdfb4d89f",
+      "title": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan - EenVandaag",
+      "published": "2026-11-19T18:10:09+00:00",
+      "summary": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan&nbsp;&nbsp;EenVandaag’Spuiten en slikken’-presentator Jurre Geluk maakt zich zorgen om stijgend aantal nieuwe hiv-diagnoses&nbsp;&nbsp;De TelegraafToename van aantal Nederlanders met hiv-diagnose voor het eerst zichtbaar. ‘Groep jonge mannen bereiken we onvoldoende met preventiemaatregelen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekAantal hiv-infecties stijgt, roep om prep-pil groeit&nbsp;&nbsp;TrouwExpert ziet opl",
       "sources": [
         {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGlHUi1QTjNDUG5seUJ0a2o4UlVKcUdzTWhaczFYZTdJU1VJTnlFblFMRDZRZDhDM0ZiajV0ZExQb1JWZXc2aVllbzFuYi1yVFFEdFF5V3VJSUlETXNHWUUwcl9XVTN2SEtXVlg2bWJaSDkwTVdsMkJud09RYTdZYjZINlpJZ0VXTGFJcVF2aHpvbXZzZFJQb1puQ1E0VktU?oc=5"
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0FNcGxpM0JFbEl6X1dVNV9ta1VQQ1dYVWJPNF9jdXhvbzFfWm5ya3lYNktQeHpaY0pHaTd0QVlUczBfZmxmRDlkaE92aXd4TUIyOXdUMTB4ZDVOelMwa2lYVTByOW52YWJSUHVsY1hKVGNjTEZQS1BGRk9HaWhRa3A1WmJodGhjSFREaUpZeVk2N1FjTHFRQ24zWmx4ZW0wWm91NHYzSHE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cc9091a29a40",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - de Stentor",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;de StentorMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "de Stentor",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc0tyV24yb0FMU3hYb2d1Qkc5aWExeGpNMmtUeEpzTy12SDIyamM3akVtd3VxamJhaWRObERYZlNBcW44MnZFQnltSUZ4RktDUldGR1FsVDRUaEh5RW5KTHl6S2dRVU1hOTZNYjE0dzJKWWdpejFLSXBnVEJDY3NBTll1VGhOUDBuQkN2V1lKQ3dQQW5xYVo5dm9mWmhVUTJDdTgzVnZiWE1PTHhIeWhvbV9ERHpMX19ScWhPX2h0RFFRckNIZHQtbjJ5dUNKd0cxUVloVGpFVzZaWHgx?oc=5"
         }
       ]
     },
@@ -19,7 +31,7 @@
       "id": "a494fc216cf6",
       "title": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid' - NU",
       "published": "2026-11-18T09:44:33+00:00",
-      "summary": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid'&nbsp;&nbsp;NUAantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk&nbsp;&nbsp;bnr.nlBacteriën zijn vaker ongevoelig voor antibiotica, RIVM bezorgd&nbsp;&nbsp;Noordhollands DagbladMeer resistente bacteriën in Nederland: goed omgaan met antibiotica belangrijk&nbsp;&nbsp;Rijksinstituut voor Volksgezondheid en Milieu | RIVMZiekenhuisarts vraagt om spaarzamer te zijn met antibiotica: “We zi",
+      "summary": "Bacteriën ongevoeliger voor antibiotica: 'Grote bedreiging voor volksgezondheid'&nbsp;&nbsp;NUBacteriën in Nederland vaker ongevoelig voor antibiotica en dat is zorgelijk&nbsp;&nbsp;NUAantal dodelijke, medicijnresistente infecties in Europese ziekenhuizen stijgt sterk&nbsp;&nbsp;bnr.nlAntibioticagebruik in veehouderij daalt verder&nbsp;&nbsp;Nieuwe OogstBacteriën zijn vaker ongevoelig voor antibiotica, RIVM bezorgd&nbsp;&nbsp;Noordhollands Dagblad",
       "sources": [
         {
           "name": "NU",
@@ -31,7 +43,7 @@
       "id": "cadf8eee4e92",
       "title": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
       "published": "2026-11-17T21:54:03+00:00",
-      "summary": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen mazelenvrije status na afnemend aantal vaccinaties&nbsp;&nbsp;Leidsch DagbladWSJ: Amerika verliest status van mazelenvrij land&nbsp;&nbsp;NOSVS verliezen hun status als land dat mazelen heeft uitgeroeid&nbsp;&nbsp;360 Magazine",
+      "summary": "Mazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvrije status | Nieuws&nbsp;&nbsp;AD.nlVS verliezen mazelenvrije status na afnemend aantal vaccinaties&nbsp;&nbsp;Leidsch DagbladVS verliezen hun status als land dat mazelen heeft uitgeroei",
       "sources": [
         {
           "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
@@ -43,11 +55,35 @@
       "id": "3e15bdfb98b6",
       "title": "Hoop op remmen alzheimer: viagrapil lijkt te helpen - RTL.nl",
       "published": "2026-11-18T17:00:05+00:00",
-      "summary": "Hoop op remmen alzheimer: viagrapil lijkt te helpen&nbsp;&nbsp;RTL.nlErectiepil tegen Alzheimer? Volgens nieuwe studie vertraagt medicatie cognitieve achteruitgang bij deel van de patiënten&nbsp;&nbsp;De Morgen",
+      "summary": "Hoop op remmen alzheimer: viagrapil lijkt te helpen&nbsp;&nbsp;RTL.nlEen pil uit dezelfde familie als Viagra geeft hoop bij alzheimer: wat is er ontdekt?&nbsp;&nbsp;GezondnuErectiepil tegen Alzheimer? Volgens nieuwe studie vertraagt medicatie cognitieve achteruitgang bij deel van de patiënten&nbsp;&nbsp;De Morgen",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGxDWmpNbDFHbmREZ2tsclFWenZUTjBHajhoNmF5RmNVUmdMcnJ3b3pPRXYweDBzWG1zdlUtdldvQndsZFBUNWhDdDdMcjlGNFBrMFhVdTRUUGcyUGpxRE5QQ1o5b3FLMlhhZzJYRTd3OU9ESUhJenBnMUNVOUNoMGR1ZEkyMUpqRTZNMTlUR2RtR2JHYUlxZ1p2N2l4TURZMlFKbGlUckRBM2Ro?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a70f82a12aa0",
+      "title": "Beter dan ooit het brein doorzoeken dankzij software van Delftse onderzoekers - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-11-19T14:36:22+00:00",
+      "summary": "Beter dan ooit het brein doorzoeken dankzij software van Delftse onderzoekers&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekMedical Delta onderzoek helpt navigeren in miljoenen hersencellen&nbsp;&nbsp;Medical DeltaEen nieuwe doorbraak in hersenonderzoek.&nbsp;&nbsp;Vietnam.vnMeebouwen aan de grootste hersenatlas ooit: \"We brengen een oceaan aan zoekmogelijkheden terug tot een badkuip\"&nbsp;&nbsp;Medical Delta",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWndxM0lIV2t2QXVpUTF0QXF2Z3p6a2VnZkZWd0sxVll3eWEycXNBdFZCelF5TTRhMlc0QUdQMVpQSXFZOFl2d3Jwd1ZwUVFXUThhMWRVaTIxMF9BOFpWR3ZBTWFBNllTZ0V0cE5qY0hsdW41NGxrUHJINVh0NXNuZm1BRW5XelB2anJERUxBNUo3SDdoeTF2T3psV2FiSFdUUi1VVDFXR25wSFpPeUVEblh6RzlfTGo3OWRlNFUzcUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce23f31c3d46",
+      "title": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren” - De Standaard",
+      "published": "2026-11-18T23:59:00+00:00",
+      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardSteeds meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;NieuwsbladBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNGroen wil ziekten door gewasbescherming erkennen als be&nbsp;&nbsp;VILT vzwDuid",
+      "sources": [
+        {
+          "name": "De Standaard",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzQ0QUxUWHJtcWR5U2p6MmxTbllpd0lQeGFWcnlpOTNwVGRXTzFMQlpSZ2EteFdZcE5nWEM1QzlCMUl4Z3E1ZjJQSUpuSEFTMGdXMml5cndpS2lEVmtJOWYwM3MyQWVVVFY1U3RfZGROVHdCX1lNdEFKeF9fRHBRanI0NnYwWGRDTTNBWG9XMXozRUN1LXQ0UWM2OGhOVGFqc2hsYlIwR21uVEpXb1VZby0tT3JZR1JHRmdiR29CeUJqTTRuWlZBRFdFTDVkakdTRXk2ZFJlYnVaUjN1RlUxbWtIMjl2R1BFa1dnVmV6TkZ3SUZPV19CUjNWdW5nNEx1bzQ4?oc=5"
         }
       ]
     },
@@ -64,14 +100,26 @@
       ]
     },
     {
-      "id": "d5ab89b0fb7b",
-      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem",
+      "id": "e7e23f401e00",
+      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - AD.nl",
       "published": "2026-11-16T04:00:00+00:00",
-      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;BN DeStemMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "BN DeStem",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5"
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea72e345d855",
+      "title": "Christine (56) stelde het bevolkingsonderzoek uit, ze bleek kanker te hebben - Libelle",
+      "published": "2026-11-19T06:05:06+00:00",
+      "summary": "Christine (56) stelde het bevolkingsonderzoek uit, ze bleek kanker te hebben&nbsp;&nbsp;Libelle",
+      "sources": [
+        {
+          "name": "Libelle",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkotSzlxbnFNUUYwODkyT0g0dmV5UHRQekI2Q3JzZFZDMGFiMnZ3SlpzXzF2RmxLSEl0R0VMOVo3TWpNNEJnWl95RHVlcWFSWEJhTmdsNmsydnFmTW4ybnNOZWJKS3pabHRVcE40THVJU1dMVlVKVWJBNXZPa0JVMGtmazQ4b0t1bFRYemZLZFhwaVFFclpBbjZ5S0dncTVpY3lSaFBTMnRCMTRYLVNFLTJaMzlDNmZPZXc?oc=5"
         }
       ]
     },
@@ -120,6 +168,18 @@
         {
           "name": "Nieuwsblad",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNSXhJZldYZURHUUdDdHFuOE9ROXR5UzE3NkxVRzd5bXhFVTNxbkZ4OGJOZV83bUZ6QkhnWFQtaEVIbGp2c0ExZVh3a00xWkQ4cXlzVUh4UDVBemgwbnlDRUQ3eEVsX3IwbTQwMFFzdXhjVlIwaWVwa3lPM1U3alNSRHhYc2V3QVRwV25fVGZWZXFlUmRuNnBxM3Y5SVJld1B1Xzh6R01UUmhtNEhLUHlPT1dQQlRfcG1OalJFakVrMFJaejdLWHpXZUZBemRQNEdILVBHeDJRbWxyckFvU2ctMXhWZFhEWDVSZzZXbjUzcjg5RjgwbnFjdktHMTlfSk5YTjBNQnlxdGZSLXBRcTRxaGppWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2fc2999b17d9",
+      "title": "Europese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer - HLN",
+      "published": "2026-11-17T15:50:00+00:00",
+      "summary": "Europese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "HLN",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM2VMUTZPeGZaNHhiZ0VHUHFBNDJnTk53SWd2bXBKN3NJbEE3S1M5M0hvcWtNaVdDVnp5dVo0M0hFbmt2UjhRZDNrZ0hJMEdIWlhWYThodnBjOXY3VE9peGRrUi10ZE8wZzV1RDh5NU1JWjI4YU5HMDd6M21FYXQ1bXlPYUloZ2l1Y1g3WERIVmxvNTVxUlE3WlMyUlRFLThTSk4yMVFITGhzenY1d1lZeE56WnZ3eGNQM0h2MDJMMlhXa3AxeWZoUVlCWFZ4UzNXbVRTTTF0bDFweXdydXR1TExYWXU5OUF1OXNtVUlzUWtOOWJqYUdJ?oc=5"
         }
       ]
     }

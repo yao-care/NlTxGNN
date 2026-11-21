@@ -1,8 +1,418 @@
 {
-  "last_updated": "2026-11-21T14:08:58.661171+00:00",
-  "total_count": 12,
-  "matched_count": 7,
+  "last_updated": "2026-11-21T22:43:58.384293+00:00",
+  "total_count": 15,
+  "matched_count": 8,
   "news": [
+    {
+      "id": "21a1df2bee7d",
+      "title": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’ - De Telegraaf",
+      "published": "2026-11-21T16:34:53+00:00",
+      "summary": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’&nbsp;&nbsp;De TelegraafJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladNieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzd0UXh4VEpzTkMxTkxuNXpLaFpEYUxnZFVMZGNGY3lZZG1BQkNDNUtfUUtCa1FteVhMSlQ2cEVYN0dab0ltSUx2dDJ2cnBoOHZKRXJzUjNLeW5Xd2d3bUJyaExtR3ZVZ085cEI5TmpoanJRZjI0U0VCSkNHbHFkQzB3UndQUXlMQWlMSzBPVC02bHBIR1dJWmg5WW9SckpmVm1NZzFkZlE2WERWQWlpd0pYTnFIRE5UcFVRd20weVp1SmtMaEp1MHJzQjFaQ1kycjdWY2Y1UmdDNDZlemtUWXMxM1NnaGcxT2dxVEN3VDEwdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4797b8f127d",
+      "title": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen",
+      "published": "2026-11-21T14:50:00+00:00",
+      "summary": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvrije status | Nieuws&nbsp;&nbsp;AD.nlAmerikaanse mazelengevallen naderen de 6.000 nu de uitbraak v",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSXJ4RzkyYVBQbUtldVlES0J6djc3Y3Vyd3JMRzNhaHZJZmstb25oWGplTjlRUlZvRHM1aGk5QkdERjJRUDNaaGNYTDVRRUJza19MYnd0dkVLY3daekhiTXFSSS1ncVdtUVZPNEQzTWhhTzNWV28xRDdsZzBhV1dXSzhvVHd0VWpxX2pKVWpKNzExbXFuV0ppNlZvRmlnZElld3g5ZXBqS2dNRWhvR2JHQ0M2UWk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "690ae45e4f12",
+      "title": "Lilian (41) uit Barneveld heeft de ziekte van Huntington: ‘Je kunt een totaal ander persoon worden’ - Barneveldse Krant",
+      "published": "2026-11-21T07:30:00+00:00",
+      "summary": "Lilian (41) uit Barneveld heeft de ziekte van Huntington: ‘Je kunt een totaal ander persoon worden’&nbsp;&nbsp;Barneveldse Krant",
+      "sources": [
+        {
+          "name": "Barneveldse Krant",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUZrZUMwR3FHZHQtVmNBYUwzMFNzYTYxUzBBX1NtM003TmpwOHNIOW9lRk1tUDRYZEVnZGs3WkhNT21xRGZ6cjZFQkdPYWw2QWRkUElIbmp6cXNlaUZZMnh5ajAxUEtyVVBnTkhsUFRFWElNQjV6cXI5b0Q4RjI4N3VZY2NrMFJDZXo5SS1CbnVud0VZemJ1REFyM1ZwdTNtOUFPZTBHM0hvSWdTZExualVwZUcxUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "af4084a48c7f",
+      "title": "Tijd om mensen die vaccinaties verdacht maken harder aan te pakken",
+      "published": "2026-11-19T21:00:24+00:00",
+      "summary": "Tijd om mensen die vaccinaties verdacht maken harder aan te pakken&nbsp;&nbsp;Trouw",
+      "sources": [
+        {
+          "name": "Trouw",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2Nkc0ExZVg4VnZPVHktZWNDQURld2xyazVPblNhT1FMYW9EY21HakJjbUtGR0E4ZC04aGpINEpibVNST3Z5TnEtbk5aaTl6VUYxMUJJVEpLUHRqcTdTcjlDVVFXcFZNUG9WYjhTWGhCeVBfbWxCRm1RUEhlQ3hPT1ZSYlN1bGFBdDlUcVNKeUFRTzVyMTBrcnR5cnZLZDg2d010akU1VGRrSTE1TkFwNzNn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dc66d35ed51c",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "61afdfb4d89f",
+      "title": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan",
+      "published": "2026-11-19T18:10:09+00:00",
+      "summary": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan&nbsp;&nbsp;EenVandaagOpinie: ‘Goede hiv-zorg kijkt naar de hele mens, niet alleen naar het virus’&nbsp;&nbsp;Het ParoolToename van aantal Nederlanders met hiv-diagnose voor het eerst zichtbaar. ‘Groep jonge mannen bereiken we onvoldoende met preventiemaatregelen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek’Spuiten en slikken’-presentator Jurre Geluk maakt zich zorgen om stijgend aantal nieuwe hiv-diagnoses&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "EenVandaag",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0FNcGxpM0JFbEl6X1dVNV9ta1VQQ1dYVWJPNF9jdXhvbzFfWm5ya3lYNktQeHpaY0pHaTd0QVlUczBfZmxmRDlkaE92aXd4TUIyOXdUMTB4ZDVOelMwa2lYVTByOW52YWJSUHVsY1hKVGNjTEZQS1BGRk9HaWhRa3A1WmJodGhjSFREaUpZeVk2N1FjTHFRQ24zWmx4ZW0wWm91NHYzSHE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ce23f31c3d46",
+      "title": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren” - De Standaard",
+      "published": "2026-11-18T23:59:00+00:00",
+      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardSteeds meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;NieuwsbladBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als b",
+      "sources": [
+        {
+          "name": "De Standaard",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzQ0QUxUWHJtcWR5U2p6MmxTbllpd0lQeGFWcnlpOTNwVGRXTzFMQlpSZ2EteFdZcE5nWEM1QzlCMUl4Z3E1ZjJQSUpuSEFTMGdXMml5cndpS2lEVmtJOWYwM3MyQWVVVFY1U3RfZGROVHdCX1lNdEFKeF9fRHBRanI0NnYwWGRDTTNBWG9XMXozRUN1LXQ0UWM2OGhOVGFqc2hsYlIwR21uVEpXb1VZby0tT3JZR1JHRmdiR29CeUJqTTRuWlZBRFdFTDVkakdTRXk2ZFJlYnVaUjN1RlUxbWtIMjl2R1BFa1dnVmV6TkZ3SUZPV19CUjNWdW5nNEx1bzQ4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4e2f5621f1fe",
+      "title": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas",
+      "published": "2026-11-17T20:16:52+00:00",
+      "summary": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas&nbsp;&nbsp;Artsenkrant",
+      "sources": [
+        {
+          "name": "Artsenkrant",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e7e23f401e00",
+      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam",
+      "published": "2026-11-16T04:00:00+00:00",
+      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;AD.nlNa behandeling is kanker vaak nog lang niet voorbij: ‘Borstkanker is meer dan woekerende cellen in je lichaam’&nbsp;&nbsp;Het ParoolBorstkankervrij, maar nog lang niet beter: aantal arbeidsongeschikten stijgt&nbsp;&nbsp;De Gelderlander",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "borstkanker",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fc49d45da456",
       "title": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten",
@@ -153,71 +563,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "dc66d35ed51c",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen",
-      "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "61afdfb4d89f",
-      "title": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan",
-      "published": "2026-11-19T18:10:09+00:00",
-      "summary": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan&nbsp;&nbsp;EenVandaagOpinie: ‘Goede hiv-zorg kijkt naar de hele mens, niet alleen naar het virus’&nbsp;&nbsp;Het Parool’Spuiten en slikken’-presentator Jurre Geluk maakt zich zorgen om stijgend aantal nieuwe hiv-diagnoses&nbsp;&nbsp;De TelegraafToename van aantal Nederlanders met hiv-diagnose voor het eerst zichtbaar. ‘Groep jonge mannen bereiken we onvoldoende met preventiemaatregelen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoek",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0FNcGxpM0JFbEl6X1dVNV9ta1VQQ1dYVWJPNF9jdXhvbzFfWm5ya3lYNktQeHpaY0pHaTd0QVlUczBfZmxmRDlkaE92aXd4TUIyOXdUMTB4ZDVOelMwa2lYVTByOW52YWJSUHVsY1hKVGNjTEZQS1BGRk9HaWhRa3A1WmJodGhjSFREaUpZeVk2N1FjTHFRQ24zWmx4ZW0wWm91NHYzSHE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ea35d796b544",
-      "title": "Beter dan ooit het brein doorzoeken dankzij software van Nederlandse onderzoekers - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-      "published": "2026-11-19T14:36:22+00:00",
-      "summary": "Beter dan ooit het brein doorzoeken dankzij software van Nederlandse onderzoekers&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekEen nieuwe doorbraak in hersenonderzoek.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWndxM0lIV2t2QXVpUTF0QXF2Z3p6a2VnZkZWd0sxVll3eWEycXNBdFZCelF5TTRhMlc0QUdQMVpQSXFZOFl2d3Jwd1ZwUVFXUThhMWRVaTIxMF9BOFpWR3ZBTWFBNllTZ0V0cE5qY0hsdW41NGxrUHJINVh0NXNuZm1BRW5XelB2anJERUxBNUo3SDdoeTF2T3psV2FiSFdUUi1VVDFXR25wSFpPeUVEblh6RzlfTGo3OWRlNFUzcUg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ce23f31c3d46",
-      "title": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren” - De Standaard",
-      "published": "2026-11-18T23:59:00+00:00",
-      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardSteeds meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;NieuwsbladBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNGroen wil ziekten door gewasbescherming erkennen als be&nbsp;&nbsp;VILT vzwDuid",
-      "sources": [
-        {
-          "name": "De Standaard",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzQ0QUxUWHJtcWR5U2p6MmxTbllpd0lQeGFWcnlpOTNwVGRXTzFMQlpSZ2EteFdZcE5nWEM1QzlCMUl4Z3E1ZjJQSUpuSEFTMGdXMml5cndpS2lEVmtJOWYwM3MyQWVVVFY1U3RfZGROVHdCX1lNdEFKeF9fRHBRanI0NnYwWGRDTTNBWG9XMXozRUN1LXQ0UWM2OGhOVGFqc2hsYlIwR21uVEpXb1VZby0tT3JZR1JHRmdiR29CeUJqTTRuWlZBRFdFTDVkakdTRXk2ZFJlYnVaUjN1RlUxbWtIMjl2R1BFa1dnVmV6TkZ3SUZPV19CUjNWdW5nNEx1bzQ4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4e2f5621f1fe",
-      "title": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas",
-      "published": "2026-11-17T20:16:52+00:00",
-      "summary": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas&nbsp;&nbsp;Artsenkrant",
-      "sources": [
-        {
-          "name": "Artsenkrant",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "ea72e345d855",
@@ -405,174 +750,6 @@
         {
           "name": "BN DeStem",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "kanker",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "famciclovir",
-              "name": "Famciclovir",
-              "url": "/drugs/famciclovir/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "sorbitol",
-              "name": "Sorbitol",
-              "url": "/drugs/sorbitol/"
-            },
-            {
-              "slug": "etoposide",
-              "name": "Etoposide",
-              "url": "/drugs/etoposide/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "everolimus",
-              "name": "Everolimus",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "fluorouracil",
-              "name": "Fluorouracil",
-              "url": "/drugs/fluorouracil/"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam",
-              "url": "/drugs/lorazepam/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "Telmisartan",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "Ramipril",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "Capecitabine",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol",
-              "url": "/drugs/carvedilol/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "borstkanker",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e7e23f401e00",
-      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam",
-      "published": "2026-11-16T04:00:00+00:00",
-      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5"
         }
       ],
       "matched_keywords": [

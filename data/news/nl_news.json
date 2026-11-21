@@ -1,13 +1,13 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-20T23:38:51.597334+00:00",
+  "fetched_at": "2026-11-21T05:29:38.247715+00:00",
   "count": 9,
   "news": [
     {
       "id": "61afdfb4d89f",
       "title": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan - EenVandaag",
       "published": "2026-11-19T18:10:09+00:00",
-      "summary": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan&nbsp;&nbsp;EenVandaag’Spuiten en slikken’-presentator Jurre Geluk maakt zich zorgen om stijgend aantal nieuwe hiv-diagnoses&nbsp;&nbsp;De TelegraafToename van aantal Nederlanders met hiv-diagnose voor het eerst zichtbaar. ‘Groep jonge mannen bereiken we onvoldoende met preventiemaatregelen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekExpert ziet oplossing voor hiv-stijging, maar die is erg duur&nbsp;&nbsp;RTV Utrecht",
+      "summary": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan&nbsp;&nbsp;EenVandaagOpinie: ‘Goede hiv-zorg kijkt naar de hele mens, niet alleen naar het virus’&nbsp;&nbsp;Het Parool’Spuiten en slikken’-presentator Jurre Geluk maakt zich zorgen om stijgend aantal nieuwe hiv-diagnoses&nbsp;&nbsp;De TelegraafToename van aantal Nederlanders met hiv-diagnose voor het eerst zichtbaar. ‘Groep jonge mannen bereiken we onvoldoende met preventiemaatregelen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoek",
       "sources": [
         {
           "name": "EenVandaag",
@@ -16,22 +16,10 @@
       ]
     },
     {
-      "id": "8374d10b5630",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - De Gelderlander",
-      "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPamc1dHU4WV9Qcjd6U3RmbG41ZDVlQUliQjg3NHlnc0ROSjFtdTRWZjRrV25JRXRuQnFxeHJGeDdwT3N2OXNldmxlM1pGTGVoUW94OGRlU2ZDSmNIbXVkTVpPUkhIOVNvblppYnJJQ3lYWUNvUEFDWExKQTMwNnJQOXk2M3hWbk5kdU53d1AtM0d3QjA3V2FvYWhBV2szMnJEaU1PQmhfczlkZVYyb0xELTNSQWRjeWNaUTlsMDlIM1hSckJxZjUxQ0RWREhadE5RQWRPX1VRU1JKT2h4aVVCYQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fc49d45da456",
       "title": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten - RTL.nl",
       "published": "2026-11-20T16:12:26+00:00",
-      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenNieuw kankermedicijn doet tumoren bij patiënten met alvleesklierkanker verdwijnen&nbsp;&nbsp;Newsmonkey -Onderzoekers werken samen aan behand",
+      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNNieuw kankermedi",
       "sources": [
         {
           "name": "RTL.nl",
@@ -40,10 +28,22 @@
       ]
     },
     {
+      "id": "5e936d786e74",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - BN DeStem",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;BN DeStemMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0JFNDJid0VVZmp6RE9ST2FVTGJ0d0FxZFd5RkNldHNLUG9WUlVQWmxFdEluRTlDLUk2NFZLbzJYUk44Q29OZ2YxZDNQRU9RVzhOZEFvYWxvNWpydTFrbUxGUWdRU0RkMWtmRTZVV2lySkVqNmloWkV1T0RMb3ozY0tHaGVzWTc3Q3FmOHRwN19mbzdfX3FhYmFBT2RGRzFWSjBuY2R3bENDdkVNMHRuWG1fMmJSVENvaXl5aDF4S1paZHIwaFFTbmliMUY0bk1UemFlMnlhcnQ0WjA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7510ebfde665",
       "title": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen - NU",
       "published": "2026-11-14T09:42:03+00:00",
-      "summary": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvr",
+      "summary": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvr",
       "sources": [
         {
           "name": "NU",
@@ -76,14 +76,14 @@
       ]
     },
     {
-      "id": "e7e23f401e00",
-      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - AD.nl",
+      "id": "d5ab89b0fb7b",
+      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem",
       "published": "2026-11-16T04:00:00+00:00",
-      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;BN DeStemMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5"
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5"
         }
       ]
     },
@@ -91,7 +91,7 @@
       "id": "ce23f31c3d46",
       "title": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren” - De Standaard",
       "published": "2026-11-18T23:59:00+00:00",
-      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als beroepsziekten&nbsp;&nbsp;BioJournaalGroen wil ziekten door gewasbescherming erkennen als be&nbsp;&nbsp;VILT vzwDuidelijk verband nodig voor erkenning beroepsziekte als gevolg van gewasbeschermingsmiddelen&nbsp;&nbsp;www.boerenbond.beGroenen willen ziekten die verband houden met pes",
+      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als beroepsziekten&nbsp;&nbsp;BioJournaalGroen wil ziekten door gewasbescherming erkennen als be&nbsp;&nbsp;VILT vzwDuidelijk verband nodig vo",
       "sources": [
         {
           "name": "De Standaard",

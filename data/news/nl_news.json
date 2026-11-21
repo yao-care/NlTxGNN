@@ -1,8 +1,20 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-21T05:29:38.247715+00:00",
-  "count": 9,
+  "fetched_at": "2026-11-21T14:08:58.567048+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "dc66d35ed51c",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - AD.nl",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
+        }
+      ]
+    },
     {
       "id": "61afdfb4d89f",
       "title": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan - EenVandaag",
@@ -19,7 +31,7 @@
       "id": "fc49d45da456",
       "title": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten - RTL.nl",
       "published": "2026-11-20T16:12:26+00:00",
-      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNNieuw kankermedi",
+      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenNieuw kankermedi",
       "sources": [
         {
           "name": "RTL.nl",
@@ -28,26 +40,14 @@
       ]
     },
     {
-      "id": "5e936d786e74",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - BN DeStem",
-      "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;BN DeStemMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "4e2f5621f1fe",
+      "title": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas - Artsenkrant",
+      "published": "2026-11-17T20:16:52+00:00",
+      "summary": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas&nbsp;&nbsp;Artsenkrant",
       "sources": [
         {
-          "name": "BN DeStem",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0JFNDJid0VVZmp6RE9ST2FVTGJ0d0FxZFd5RkNldHNLUG9WUlVQWmxFdEluRTlDLUk2NFZLbzJYUk44Q29OZ2YxZDNQRU9RVzhOZEFvYWxvNWpydTFrbUxGUWdRU0RkMWtmRTZVV2lySkVqNmloWkV1T0RMb3ozY0tHaGVzWTc3Q3FmOHRwN19mbzdfX3FhYmFBT2RGRzFWSjBuY2R3bENDdkVNMHRuWG1fMmJSVENvaXl5aDF4S1paZHIwaFFTbmliMUY0bk1UemFlMnlhcnQ0WjA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7510ebfde665",
-      "title": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen - NU",
-      "published": "2026-11-14T09:42:03+00:00",
-      "summary": "VS verliest na 26 jaar status als mazelenvrij land: dit jaar al ruim 5.400 gevallen&nbsp;&nbsp;NUDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvr",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHU1ZWlHeW9Lb2RRcXpBTWlqd1FqSnlFSW5Cd2N0bl9jQWxtSGZpOWtVQ1B3MzFGVzFBXzhXcnQ1cC14SE5YRjFZa1R6QnFnR050VnpnQkxFZjdmcW0wSHJMVmZuOE9odk1PaTQ3SFZpZThGMnpKeDJjaERxbjRaS19YVlBOTEVHM0otWm03TEdKNHktSlJTRGJRN2VLdlpCaWtfTEFzT0pLd3p5cFpzY21fZE8xakdSdk8waWdESko?oc=5"
+          "name": "Artsenkrant",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
         }
       ]
     },
@@ -64,50 +64,14 @@
       ]
     },
     {
-      "id": "3e15bdfb98b6",
-      "title": "Hoop op remmen alzheimer: viagrapil lijkt te helpen - RTL.nl",
-      "published": "2026-11-18T17:00:05+00:00",
-      "summary": "Hoop op remmen alzheimer: viagrapil lijkt te helpen&nbsp;&nbsp;RTL.nlEen pil uit dezelfde familie als Viagra geeft hoop bij alzheimer: wat is er ontdekt?&nbsp;&nbsp;GezondnuErectiepil tegen Alzheimer? Volgens nieuwe studie vertraagt medicatie cognitieve achteruitgang bij deel van de patiënten&nbsp;&nbsp;De Morgen",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGxDWmpNbDFHbmREZ2tsclFWenZUTjBHajhoNmF5RmNVUmdMcnJ3b3pPRXYweDBzWG1zdlUtdldvQndsZFBUNWhDdDdMcjlGNFBrMFhVdTRUUGcyUGpxRE5QQ1o5b3FLMlhhZzJYRTd3OU9ESUhJenBnMUNVOUNoMGR1ZEkyMUpqRTZNMTlUR2RtR2JHYUlxZ1p2N2l4TURZMlFKbGlUckRBM2Ro?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5ab89b0fb7b",
-      "title": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem",
-      "published": "2026-11-16T04:00:00+00:00",
-      "summary": "Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam&nbsp;&nbsp;BN DeStemMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "BN DeStem",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ce23f31c3d46",
       "title": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren” - De Standaard",
       "published": "2026-11-18T23:59:00+00:00",
-      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als beroepsziekten&nbsp;&nbsp;BioJournaalGroen wil ziekten door gewasbescherming erkennen als be&nbsp;&nbsp;VILT vzwDuidelijk verband nodig vo",
+      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardSteeds meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;NieuwsbladBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNGroen wil ziekten door gewasbescherming erkennen als be&nbsp;&nbsp;VILT vzwDuid",
       "sources": [
         {
           "name": "De Standaard",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzQ0QUxUWHJtcWR5U2p6MmxTbllpd0lQeGFWcnlpOTNwVGRXTzFMQlpSZ2EteFdZcE5nWEM1QzlCMUl4Z3E1ZjJQSUpuSEFTMGdXMml5cndpS2lEVmtJOWYwM3MyQWVVVFY1U3RfZGROVHdCX1lNdEFKeF9fRHBRanI0NnYwWGRDTTNBWG9XMXozRUN1LXQ0UWM2OGhOVGFqc2hsYlIwR21uVEpXb1VZby0tT3JZR1JHRmdiR29CeUJqTTRuWlZBRFdFTDVkakdTRXk2ZFJlYnVaUjN1RlUxbWtIMjl2R1BFa1dnVmV6TkZ3SUZPV19CUjNWdW5nNEx1bzQ4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea72e345d855",
-      "title": "Christine (56) stelde het bevolkingsonderzoek uit, ze bleek kanker te hebben - Libelle",
-      "published": "2026-11-19T06:05:06+00:00",
-      "summary": "Christine (56) stelde het bevolkingsonderzoek uit, ze bleek kanker te hebben&nbsp;&nbsp;Libelle",
-      "sources": [
-        {
-          "name": "Libelle",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkotSzlxbnFNUUYwODkyT0g0dmV5UHRQekI2Q3JzZFZDMGFiMnZ3SlpzXzF2RmxLSEl0R0VMOVo3TWpNNEJnWl95RHVlcWFSWEJhTmdsNmsydnFmTW4ybnNOZWJKS3pabHRVcE40THVJU1dMVlVKVWJBNXZPa0JVMGtmazQ4b0t1bFRYemZLZFhwaVFFclpBbjZ5S0dncTVpY3lSaFBTMnRCMTRYLVNFLTJaMzlDNmZPZXc?oc=5"
         }
       ]
     }

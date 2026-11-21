@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Capecitabine. 1 voorspelde indicaties."
 permalink: /news/capecitabine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Nieuws over Capecitabine
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Capecitabine?">
-<strong>Capecitabine</strong> heeft momenteel <strong>5 nieuwsberichten</strong> en 1 voorspelde indicaties.
+<strong>Capecitabine</strong> heeft momenteel <strong>6 nieuwsberichten</strong> en 1 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Capecitabine met he
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (5)
+## Gerelateerd nieuws (6)
+
+### [Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten](https://news.google.com/rss/articles/CBMinAFBVV95cUxObXQ3b1BIREZGeVNRTVRTYlo0d05oYUgxMGxFcDRfaVRqOWk3UC1DWGlEbkxJNU5aeEN5cV9tbjZJdUVBeTJmUm92YjBZYTVmOGQ4YzVqYjdUNXZ4dlAxeTNiNEVQTk45TTA5M1hkMU4xQmdzanNwQXBReXpqY2p4N0FaeTJnSHZCVzhUTGYtQUxRUnRNazlZTlFtUTA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">kanker</span>
+
+Bron: [RTL.nl](https://news.google.com/rss/articles/CBMinAFBVV95cUxObXQ3b1BIREZGeVNRTVRTYlo0d05oYUgxMGxFcDRfaVRqOWk3UC1DWGlEbkxJNU5aeEN5cV9tbjZJdUVBeTJmUm92YjBZYTVmOGQ4YzVqYjdUNXZ4dlAxeTNiNEVQTk45TTA5M1hkMU4xQmdzanNwQXBReXpqY2p4N0FaeTJnSHZCVzhUTGYtQUxRUnRNazlZTlFtUTA?oc=5)
+
+---
 
 ### [Christine (56) stelde het bevolkingsonderzoek uit, ze bleek kanker te hebben](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRkotSzlxbnFNUUYwODkyT0g0dmV5UHRQekI2Q3JzZFZDMGFiMnZ3SlpzXzF2RmxLSEl0R0VMOVo3TWpNNEJnWl95RHVlcWFSWEJhTmdsNmsydnFmTW4ybnNOZWJKS3pabHRVcE40THVJU1dMVlVKVWJBNXZPa0JVMGtmazQ4b0t1bFRYemZLZFhwaVFFclpBbjZ5S0dncTVpY3lSaFBTMnRCMTRYLVNFLTJaMzlDNmZPZXc?oc=5)
 
@@ -51,19 +59,19 @@ Bron: [Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1
 
 ---
 
-### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
-
-2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [AD.nl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
-
----
-
 ### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5)
 
 2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [BN DeStem](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5)
+
+---
+
+### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
 
 ---
 

@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-11-22T04:55:22.279386+00:00",
-  "total_count": 14,
+  "last_updated": "2026-11-22T13:59:15.494461+00:00",
+  "total_count": 16,
   "matched_count": 8,
   "news": [
+    {
+      "id": "48f63f91344c",
+      "title": "Afbeelding van zieke mensen stimuleert afweersysteem: nieuw neurologisch onderzoek",
+      "published": "2026-11-22T06:02:00+00:00",
+      "summary": "Afbeelding van zieke mensen stimuleert afweersysteem: nieuw neurologisch onderzoek&nbsp;&nbsp;bnr.nl",
+      "sources": [
+        {
+          "name": "bnr.nl",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUpMX1ZIdlI0VUFYNEkzeVdNS25hQTgzdVh1Q0xZWUNmUzhSdmt2SDBwTFZOQ29wR2Rwa3pzbk5HaEJ5UHBfbmtpSWFGTG1IUDRoVEVXRkdmLVJFUjZ0Y09fcWVXbUlEZlBoZmZrcDZKb1g1ZlhxRy1aX3JtTHQ3Q281RExiZEJoc0RuLW5FWFU5b0hvMkszMzBxbzB3RWhSMXVjZmNEV1F6QlVEVmlrMzdVdElVS3VKUmZCMi1VSzNVbl9f?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "21a1df2bee7d",
       "title": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’ - De Telegraaf",
       "published": "2026-11-21T16:34:53+00:00",
-      "summary": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’&nbsp;&nbsp;De TelegraafNieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenOnderzoekers w",
+      "summary": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’&nbsp;&nbsp;De TelegraafJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladNieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -158,7 +171,7 @@
       "id": "b4797b8f127d",
       "title": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen",
       "published": "2026-11-21T14:50:00+00:00",
-      "summary": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantLIVE VS | ICE arresteert gepensioneerd wereldkampioen boksen, Amerika verliest mazelenvrije status | Nieuws&nbsp;&nbsp;AD.nlAmerikaanse mazelengevallen naderen de 6.000 nu de uitbraak v",
+      "summary": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen hun status als land dat mazelen heeft uitgeroeid&nbsp;&nbsp;360 MagazineEen ernstige mazelenepidemie dreigt 26 jaar aan vooruitgang in de gezondheidszorg in de VS teniet te",
       "sources": [
         {
           "name": "Trouw",
@@ -194,14 +207,14 @@
       "matched_keywords": []
     },
     {
-      "id": "dc66d35ed51c",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen",
+      "id": "5e936d786e74",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - BN DeStem",
       "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;BN DeStemMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
+          "name": "BN DeStem",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0JFNDJid0VVZmp6RE9ST2FVTGJ0d0FxZFd5RkNldHNLUG9WUlVQWmxFdEluRTlDLUk2NFZLbzJYUk44Q29OZ2YxZDNQRU9RVzhOZEFvYWxvNWpydTFrbUxGUWdRU0RkMWtmRTZVV2lySkVqNmloWkV1T0RMb3ozY0tHaGVzWTc3Q3FmOHRwN19mbzdfX3FhYmFBT2RGRzFWSjBuY2R3bENDdkVNMHRuWG1fMmJSVENvaXl5aDF4S1paZHIwaFFTbmliMUY0bk1UemFlMnlhcnQ0WjA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -228,6 +241,19 @@
         {
           "name": "Artsenkrant",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cb4f19b35952",
+      "title": "Het autistische brein bestaat niet, blijkt uit nieuw onderzoek",
+      "published": "2026-11-16T12:00:19+00:00",
+      "summary": "Het autistische brein bestaat niet, blijkt uit nieuw onderzoek&nbsp;&nbsp;Scientias.nl",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWVOVU03N1otaWZFMF9rUnBjLUlNTVMxN1ZJVUdhSTZSYUJjazZhZWtnWk5jUFlTMzVRMXR2ZGgwY1N6MWRWOFlFOWY1VDc4T08tSXRFb0J3ZHdaWDZiVDUwLVRHQS1yc2xqWnZBeHotb1JjczdKWHcwSnQ4eWNOTU55blY1dE1heWs4?oc=5"
         }
       ],
       "matched_keywords": []

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Telmisartan?">
-<strong>Telmisartan</strong> heeft momenteel <strong>6 nieuwsberichten</strong> en 9 voorspelde indicaties.
+<strong>Telmisartan</strong> heeft momenteel <strong>7 nieuwsberichten</strong> en 9 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Telmisartan met het
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (6)
+## Gerelateerd nieuws (7)
+
+### [Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’ - De Telegraaf](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzd0UXh4VEpzTkMxTkxuNXpLaFpEYUxnZFVMZGNGY3lZZG1BQkNDNUtfUUtCa1FteVhMSlQ2cEVYN0dab0ltSUx2dDJ2cnBoOHZKRXJzUjNLeW5Xd2d3bUJyaExtR3ZVZ085cEI5TmpoanJRZjI0U0VCSkNHbHFkQzB3UndQUXlMQWlMSzBPVC02bHBIR1dJWmg5WW9SckpmVm1NZzFkZlE2WERWQWlpd0pYTnFIRE5UcFVRd20weVp1SmtMaEp1MHJzQjFaQ1kycjdWY2Y1UmdDNDZlemtUWXMxM1NnaGcxT2dxVEN3VDEwdw?oc=5)
+
+2026-11-21 <span class="news-indication-tag">kanker</span>
+
+Bron: [De Telegraaf](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzd0UXh4VEpzTkMxTkxuNXpLaFpEYUxnZFVMZGNGY3lZZG1BQkNDNUtfUUtCa1FteVhMSlQ2cEVYN0dab0ltSUx2dDJ2cnBoOHZKRXJzUjNLeW5Xd2d3bUJyaExtR3ZVZ085cEI5TmpoanJRZjI0U0VCSkNHbHFkQzB3UndQUXlMQWlMSzBPVC02bHBIR1dJWmg5WW9SckpmVm1NZzFkZlE2WERWQWlpd0pYTnFIRE5UcFVRd20weVp1SmtMaEp1MHJzQjFaQ1kycjdWY2Y1UmdDNDZlemtUWXMxM1NnaGcxT2dxVEN3VDEwdw?oc=5)
+
+---
 
 ### [Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten](https://news.google.com/rss/articles/CBMinAFBVV95cUxObXQ3b1BIREZGeVNRTVRTYlo0d05oYUgxMGxFcDRfaVRqOWk3UC1DWGlEbkxJNU5aeEN5cV9tbjZJdUVBeTJmUm92YjBZYTVmOGQ4YzVqYjdUNXZ4dlAxeTNiNEVQTk45TTA5M1hkMU4xQmdzanNwQXBReXpqY2p4N0FaeTJnSHZCVzhUTGYtQUxRUnRNazlZTlFtUTA?oc=5)
 
@@ -67,19 +75,19 @@ Bron: [Het Parool](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMzZZV1c1
 
 ---
 
-### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5)
-
-2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
-
-Bron: [BN DeStem](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5)
-
----
-
 ### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
 
 2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
 
 Bron: [AD.nl](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQkxPMnN1alpmZGVFNEdEcVRJSmdVM094YjJrTHJEOUptbUp1R1BmbFZKSDVsbFY4YURtSnBFcXNzWTVQekI4T2hod1BSdjNuak5jZm1mbjMzMDh5NkJDTy0xYXkxWjRFYmdPTDJEM3dYUjBHV25KWEloeWtGMW1pNzZSMV9tMElUNTBmUGFjdlBPNHZ2cE1DaW42eXZmbHNoa21SQ183UWVKbGlTdDlwbEQ4dF9zS0wzcUpKTkJHbi11VHNhRE1Oc1VFQTlhTnM4XzF5dzJPQmgwUQ?oc=5)
+
+---
+
+### [Na behandeling is kanker vaak nog lang niet voorbij: borstkanker is meer dan woekerende cellen in je lichaam - BN DeStem](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5)
+
+2026-11-16 <span class="news-indication-tag">kanker</span> <span class="news-indication-tag">borstkanker</span>
+
+Bron: [BN DeStem](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWnFQRkxvQk5TUHBQbHRVY2plbkl3QUdMNFZWbm5XZ0pid0RSdGlxSUVBbGQybGRrWEJCaGJvdjAzdlZCTHRZaDRRdUVXb0hEZ1FBeXNKSDNwcTJNOGl0Y0NDdXBPZ21xTHhaNUhJVjB3cUdMRlU1ekRnRW16ZGVSZEJjdlNLMjJqdW1zVndmUUgzdm9VN1cxemVCMGhPa1BtTm5RNjRLeUFhaVAzVzBkM2xqbDdKUzdWREoyT2VyT1FLbER5djFVMzBVVjBibHFOeHZCYWFUZk5FMXlwaTItZ2ZB?oc=5)
 
 ---
 

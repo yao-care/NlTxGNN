@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-21T22:43:58.306248+00:00",
-  "count": 9,
+  "fetched_at": "2026-11-22T04:55:22.166131+00:00",
+  "count": 8,
   "news": [
-    {
-      "id": "dc66d35ed51c",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - AD.nl",
-      "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
-        }
-      ]
-    },
     {
       "id": "61afdfb4d89f",
       "title": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan - EenVandaag",
@@ -28,10 +16,22 @@
       ]
     },
     {
+      "id": "dc66d35ed51c",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - AD.nl",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "21a1df2bee7d",
       "title": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’ - De Telegraaf",
       "published": "2026-11-21T16:34:53+00:00",
-      "summary": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’&nbsp;&nbsp;De TelegraafJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladNieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen",
+      "summary": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’&nbsp;&nbsp;De TelegraafNieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenOnderzoekers w",
       "sources": [
         {
           "name": "De Telegraaf",
@@ -72,18 +72,6 @@
         {
           "name": "Barneveldse Krant",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUZrZUMwR3FHZHQtVmNBYUwzMFNzYTYxUzBBX1NtM003TmpwOHNIOW9lRk1tUDRYZEVnZGs3WkhNT21xRGZ6cjZFQkdPYWw2QWRkUElIbmp6cXNlaUZZMnh5ajAxUEtyVVBnTkhsUFRFWElNQjV6cXI5b0Q4RjI4N3VZY2NrMFJDZXo5SS1CbnVud0VZemJ1REFyM1ZwdTNtOUFPZTBHM0hvSWdTZExualVwZUcxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce23f31c3d46",
-      "title": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren” - De Standaard",
-      "published": "2026-11-18T23:59:00+00:00",
-      "summary": "Almaar meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;De StandaardSteeds meer aanwijzingen dat pesticiden parkinson uitlokken: “Onder mijn patiënten zijn bovengemiddeld veel boeren”&nbsp;&nbsp;NieuwsbladBoer Marc (65) moest stoppen door Parkinson en hij is niet alleen: “Pesticides sproeiden we vroeger zonder handschoenen of masker”&nbsp;&nbsp;HLNBelgische partijen willen ziekten door gewasbeschermingsmiddelen erkennen als b",
-      "sources": [
-        {
-          "name": "De Standaard",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzQ0QUxUWHJtcWR5U2p6MmxTbllpd0lQeGFWcnlpOTNwVGRXTzFMQlpSZ2EteFdZcE5nWEM1QzlCMUl4Z3E1ZjJQSUpuSEFTMGdXMml5cndpS2lEVmtJOWYwM3MyQWVVVFY1U3RfZGROVHdCX1lNdEFKeF9fRHBRanI0NnYwWGRDTTNBWG9XMXozRUN1LXQ0UWM2OGhOVGFqc2hsYlIwR21uVEpXb1VZby0tT3JZR1JHRmdiR29CeUJqTTRuWlZBRFdFTDVkakdTRXk2ZFJlYnVaUjN1RlUxbWtIMjl2R1BFa1dnVmV6TkZ3SUZPV19CUjNWdW5nNEx1bzQ4?oc=5"
         }
       ]
     },

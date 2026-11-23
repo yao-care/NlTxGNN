@@ -1,17 +1,17 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-23T05:36:30.143483+00:00",
-  "count": 6,
+  "fetched_at": "2026-11-23T17:17:04.509725+00:00",
+  "count": 3,
   "news": [
     {
-      "id": "b4797b8f127d",
-      "title": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen - Trouw",
-      "published": "2026-11-21T14:50:00+00:00",
-      "summary": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwMazelen niet meer uitgebannen in VS, hoofdoorzaak is dalende vaccinatiegraad&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekVS verliezen status ‘mazelenvrij’ na grootschalige uitbraak&nbsp;&nbsp;de VolkskrantVS verliezen mazelenvrije status na afnemend aantal vaccinaties&nbsp;&nbsp;De Gooi- en EemlanderAmerikaanse mazelengevallen naderen de 6.000 nu de uitbraak verergert&nbsp;&nbsp;MarketSc",
+      "id": "d915b37cc3f8",
+      "title": "Allergisch voor noten? Hoopgevende test met vaccin - RTL.nl",
+      "published": "2026-11-23T14:29:30+00:00",
+      "summary": "Allergisch voor noten? Hoopgevende test met vaccin&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSXJ4RzkyYVBQbUtldVlES0J6djc3Y3Vyd3JMRzNhaHZJZmstb25oWGplTjlRUlZvRHM1aGk5QkdERjJRUDNaaGNYTDVRRUJza19MYnd0dkVLY3daekhiTXFSSS1ncVdtUVZPNEQzTWhhTzNWV28xRDdsZzBhV1dXSzhvVHd0VWpxX2pKVWpKNzExbXFuV0ppNlZvRmlnZElld3g5ZXBqS2dNRWhvR2JHQ0M2UWk?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVlkQ2RLUkVTTFU0ams0aW5GTUZISXc0RkRxbjhwTGZVTTlDMjZoc3lMbjZ2aEtUS0ZmQ0J2aVVLbmZENndQdzZFUDlpRkVtdUVaUGN1emZwVlV6VFNNZ2oxeXFTMnZ4eVpUbDhkRFd1b3dfOTEybko2NHVHRzRvR2tldlNaUTFRZ2lUV2ptQUxKVmZkb2N2SzFTaklQd0Nzb0gyZ3pka2lPSlU?oc=5"
         }
       ]
     },
@@ -19,23 +19,11 @@
       "id": "fc49d45da456",
       "title": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten - RTL.nl",
       "published": "2026-11-20T16:12:26+00:00",
-      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenNieuw kankermedi",
+      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNNieuw kankermedi",
       "sources": [
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXQ3b1BIREZGeVNRTVRTYlo0d05oYUgxMGxFcDRfaVRqOWk3UC1DWGlEbkxJNU5aeEN5cV9tbjZJdUVBeTJmUm92YjBZYTVmOGQ4YzVqYjdUNXZ4dlAxeTNiNEVQTk45TTA5M1hkMU4xQmdzanNwQXBReXpqY2p4N0FaeTJnSHZCVzhUTGYtQUxRUnRNazlZTlFtUTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48f63f91344c",
-      "title": "Afbeelding van zieke mensen stimuleert afweersysteem: nieuw neurologisch onderzoek - bnr.nl",
-      "published": "2026-11-22T06:02:00+00:00",
-      "summary": "Afbeelding van zieke mensen stimuleert afweersysteem: nieuw neurologisch onderzoek&nbsp;&nbsp;bnr.nl",
-      "sources": [
-        {
-          "name": "bnr.nl",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUpMX1ZIdlI0VUFYNEkzeVdNS25hQTgzdVh1Q0xZWUNmUzhSdmt2SDBwTFZOQ29wR2Rwa3pzbk5HaEJ5UHBfbmtpSWFGTG1IUDRoVEVXRkdmLVJFUjZ0Y09fcWVXbUlEZlBoZmZrcDZKb1g1ZlhxRy1aX3JtTHQ3Q281RExiZEJoc0RuLW5FWFU5b0hvMkszMzBxbzB3RWhSMXVjZmNEV1F6QlVEVmlrMzdVdElVS3VKUmZCMi1VSzNVbl9f?oc=5"
         }
       ]
     },
@@ -48,30 +36,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb4f19b35952",
-      "title": "Het autistische brein bestaat niet, blijkt uit nieuw onderzoek - Scientias.nl",
-      "published": "2026-11-16T12:00:19+00:00",
-      "summary": "Het autistische brein bestaat niet, blijkt uit nieuw onderzoek&nbsp;&nbsp;Scientias.nl",
-      "sources": [
-        {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWVOVU03N1otaWZFMF9rUnBjLUlNTVMxN1ZJVUdhSTZSYUJjazZhZWtnWk5jUFlTMzVRMXR2ZGgwY1N6MWRWOFlFOWY1VDc4T08tSXRFb0J3ZHdaWDZiVDUwLVRHQS1yc2xqWnZBeHotb1JjczdKWHcwSnQ4eWNOTU55blY1dE1heWs4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af4084a48c7f",
-      "title": "Tijd om mensen die vaccinaties verdacht maken harder aan te pakken - Trouw",
-      "published": "2026-11-19T21:00:24+00:00",
-      "summary": "Tijd om mensen die vaccinaties verdacht maken harder aan te pakken&nbsp;&nbsp;Trouw",
-      "sources": [
-        {
-          "name": "Trouw",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2Nkc0ExZVg4VnZPVHktZWNDQURld2xyazVPblNhT1FMYW9EY21HakJjbUtGR0E4ZC04aGpINEpibVNST3Z5TnEtbk5aaTl6VUYxMUJJVEpLUHRqcTdTcjlDVVFXcFZNUG9WYjhTWGhCeVBfbWxCRm1RUEhlQ3hPT1ZSYlN1bGFBdDlUcVNKeUFRTzVyMTBrcnR5cnZLZDg2d010akU1VGRrSTE1TkFwNzNn?oc=5"
         }
       ]
     }

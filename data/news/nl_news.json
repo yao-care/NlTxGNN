@@ -1,20 +1,8 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-22T23:10:30.975131+00:00",
-  "count": 8,
+  "fetched_at": "2026-11-23T05:36:30.143483+00:00",
+  "count": 6,
   "news": [
-    {
-      "id": "61afdfb4d89f",
-      "title": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan - EenVandaag",
-      "published": "2026-11-19T18:10:09+00:00",
-      "summary": "Aantal hiv-diagnoses stijgt sinds 4 jaar weer: hoe dat kan&nbsp;&nbsp;EenVandaagOpinie: ‘Goede hiv-zorg kijkt naar de hele mens, niet alleen naar het virus’&nbsp;&nbsp;Het ParoolToename van aantal Nederlanders met hiv-diagnose voor het eerst zichtbaar. ‘Groep jonge mannen bereiken we onvoldoende met preventiemaatregelen’&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiek’Spuiten en slikken’-presentator Jurre Geluk maakt zich zorgen om stijgend aantal nieuwe hiv-diagnoses&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0FNcGxpM0JFbEl6X1dVNV9ta1VQQ1dYVWJPNF9jdXhvbzFfWm5ya3lYNktQeHpaY0pHaTd0QVlUczBfZmxmRDlkaE92aXd4TUIyOXdUMTB4ZDVOelMwa2lYVTByOW52YWJSUHVsY1hKVGNjTEZQS1BGRk9HaWhRa3A1WmJodGhjSFREaUpZeVk2N1FjTHFRQ24zWmx4ZW0wWm91NHYzSHE?oc=5"
-        }
-      ]
-    },
     {
       "id": "b4797b8f127d",
       "title": "De mazelen rukken op in de VS en kunnen via reizigers deze kant op komen - Trouw",
@@ -28,14 +16,14 @@
       ]
     },
     {
-      "id": "21a1df2bee7d",
-      "title": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’ - De Telegraaf",
-      "published": "2026-11-21T16:34:53+00:00",
-      "summary": "Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’&nbsp;&nbsp;De TelegraafJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladNieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen",
+      "id": "fc49d45da456",
+      "title": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten - RTL.nl",
+      "published": "2026-11-20T16:12:26+00:00",
+      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenNieuw kankermedi",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzd0UXh4VEpzTkMxTkxuNXpLaFpEYUxnZFVMZGNGY3lZZG1BQkNDNUtfUUtCa1FteVhMSlQ2cEVYN0dab0ltSUx2dDJ2cnBoOHZKRXJzUjNLeW5Xd2d3bUJyaExtR3ZVZ085cEI5TmpoanJRZjI0U0VCSkNHbHFkQzB3UndQUXlMQWlMSzBPVC02bHBIR1dJWmg5WW9SckpmVm1NZzFkZlE2WERWQWlpd0pYTnFIRE5UcFVRd20weVp1SmtMaEp1MHJzQjFaQ1kycjdWY2Y1UmdDNDZlemtUWXMxM1NnaGcxT2dxVEN3VDEwdw?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXQ3b1BIREZGeVNRTVRTYlo0d05oYUgxMGxFcDRfaVRqOWk3UC1DWGlEbkxJNU5aeEN5cV9tbjZJdUVBeTJmUm92YjBZYTVmOGQ4YzVqYjdUNXZ4dlAxeTNiNEVQTk45TTA5M1hkMU4xQmdzanNwQXBReXpqY2p4N0FaeTJnSHZCVzhUTGYtQUxRUnRNazlZTlFtUTA?oc=5"
         }
       ]
     },
@@ -60,18 +48,6 @@
         {
           "name": "AD.nl",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4e2f5621f1fe",
-      "title": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas - Artsenkrant",
-      "published": "2026-11-17T20:16:52+00:00",
-      "summary": "Nieuwe klinische definitie 'CAD' is beter dan BMI bij diagnose van obesitas&nbsp;&nbsp;Artsenkrant",
-      "sources": [
-        {
-          "name": "Artsenkrant",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS2RobEMxVV9IVkJRYWRTdlNVUGQzMEJjMWo4Njh4ZEhmVUtFSERiWmV5UXdkQUNsUS1RRFFQOGdUWmw2VGp6em1mcjF6dkUyeVNZQlk4aEM5WF9PUV8xVk1SbE1DZ0dmWTBKc3U3S0tSRkNSMXBFcGNTS21mUU5oa1F3?oc=5"
         }
       ]
     },

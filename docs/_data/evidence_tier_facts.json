@@ -49,7 +49,7 @@
     "u": "/drugs/acetylcysteine/",
     "l": "L2",
     "i": "trombotische aandoening",
-    "lt": 52,
+    "lt": 53,
     "lv": 52,
     "r": 1,
     "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
@@ -450,8 +450,8 @@
     "u": "/drugs/xylometazoline/",
     "l": "L3",
     "i": "Neusholteaandoening",
-    "lt": 99,
-    "lv": 97,
+    "lt": 100,
+    "lv": 98,
     "r": 3,
     "rs": "Tabelregel RVG 119750//102338: “geldig” → “niet geregistreerd”",
     "x": 0
@@ -916,8 +916,8 @@
     "u": "/drugs/lidocaine/",
     "l": "L5",
     "i": "Punctate epitheliale keratoconjunctivitis",
-    "lt": 94,
-    "lv": 93,
+    "lt": 95,
+    "lv": 91,
     "r": 0,
     "rs": "",
     "x": 0
@@ -1462,17 +1462,6 @@
     "x": 0
    },
    {
-    "t": "Amylmetacresol",
-    "u": "/drugs/amylmetacresol/",
-    "l": "L5",
-    "i": "cauda equina syndrome",
-    "lt": 31,
-    "lv": 30,
-    "r": 2,
-    "rs": "Verwijderd: “Alle acht registraties zijn geldig”",
-    "x": 0
-   },
-   {
     "t": "Fentanyl",
     "u": "/drugs/fentanyl/",
     "l": "L5",
@@ -1503,6 +1492,17 @@
     "lv": 28,
     "r": 3,
     "rs": "Verwijderd: “Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de…",
+    "x": 0
+   },
+   {
+    "t": "Amylmetacresol",
+    "u": "/drugs/amylmetacresol/",
+    "l": "L5",
+    "i": "cauda equina syndrome",
+    "lt": 31,
+    "lv": 27,
+    "r": 2,
+    "rs": "Verwijderd: “Alle acht registraties zijn geldig”",
     "x": 0
    },
    {
@@ -2100,6 +2100,17 @@
     "x": 0
    },
    {
+    "t": "Haloperidol",
+    "u": "/drugs/haloperidol/",
+    "l": "L5",
+    "i": "Congenitale glycosylatiestoornis met defecte fucosylering",
+    "lt": 14,
+    "lv": 13,
+    "r": 1,
+    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "x": 0
+   },
+   {
     "t": "Levocetirizine",
     "u": "/drugs/levocetirizine/",
     "l": "L5",
@@ -2177,17 +2188,6 @@
     "x": 0
    },
    {
-    "t": "Haloperidol",
-    "u": "/drugs/haloperidol/",
-    "l": "L5",
-    "i": "Congenitale glycosylatiestoornis met defecte fucosylering",
-    "lt": 13,
-    "lv": 12,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
-    "x": 0
-   },
-   {
     "t": "Trimethoprim",
     "u": "/drugs/trimethoprim/",
     "l": "L5",
@@ -2240,6 +2240,17 @@
     "lv": 11,
     "r": 1,
     "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "x": 0
+   },
+   {
+    "t": "Prilocaine",
+    "u": "/drugs/prilocaine/",
+    "l": "L5",
+    "i": "papillary conjunctivitis",
+    "lt": 12,
+    "lv": 11,
+    "r": 2,
+    "rs": "Tabelregel RVG 115964//11015: “geldig” → “niet geregistreerd”",
     "x": 0
    },
    {
@@ -2306,17 +2317,6 @@
     "lv": 10,
     "r": 2,
     "rs": "Tabelregel RVG 108791: “geldig” → “niet geregistreerd”",
-    "x": 0
-   },
-   {
-    "t": "Prilocaine",
-    "u": "/drugs/prilocaine/",
-    "l": "L5",
-    "i": "papillary conjunctivitis",
-    "lt": 11,
-    "lv": 10,
-    "r": 2,
-    "rs": "Tabelregel RVG 115964//11015: “geldig” → “niet geregistreerd”",
     "x": 0
    },
    {

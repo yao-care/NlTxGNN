@@ -5,10 +5,10 @@ parent: Matig bewijs (L3-L4)
 nav_order: 344
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "xylometazoline"
 predicted_indications: ["nasal cavity disease"]
-description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). In Nederland, CBG-vergunningen: 99 (geldig: 97)"
+description: "Xylometazoline: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L3). In Nederland, CBG-vergunningen: 100 (geldig: 98)"
 ---
 
 # Xylometazoline
@@ -50,8 +50,8 @@ Xylometazoline is een neusdecongestivum dat oorspronkelijk wordt gebruikt bij **
 | Voorspelde nieuwe indicatie | Neusholteaandoening (nasal cavity disease) |
 | TxGNN-voorspellingsscore | 0.9991 |
 | Bewijsniveau | L3 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 97 van 99) |
-| Aantal vergunningen | 99 (geldig: 97) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 98 van 100) |
+| Aantal vergunningen | 100 (geldig: 98) |
 | Aanbevolen besluit | Hold |
 
 ---

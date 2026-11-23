@@ -5,10 +5,10 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 279
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
-description: "Prilocaine: voorspelde nieuwe indicatie Papillary conjunctivitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 10)"
+description: "Prilocaine: voorspelde nieuwe indicatie Papillary conjunctivitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 12 (geldig: 11)"
 ---
 
 # Prilocaine
@@ -52,8 +52,8 @@ Prilocaïne is een lokaal anestheticum (natriumkanaalblokker). Het TxGNN-model v
 | Voorspelde nieuwe indicatie | Papillary conjunctivitis |
 | TxGNN-voorspellingsscore | 0.9978 |
 | Bewijsniveau | L5 (beperkt: één kleine, open-label fase 2-studie; geen bevestigende RCT's) |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 10 van 11) |
-| Aantal vergunningen | 11 (geldig: 10) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 11 van 12) |
+| Aantal vergunningen | 12 (geldig: 11) |
 | Aanbevolen beslissing | Proceed with Guardrails (onderzoeksvraag) |
 
 ---

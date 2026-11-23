@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 176
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
 description: "Haloperidol: voorspelde nieuwe indicatie Congenitale glycosylatiestoornis met defecte fucosylering (congenital disorder of glycosylation with defective fucosylation) (bewijsniveau L5)."
@@ -50,8 +50,8 @@ Haloperidol is een antipsychoticum dat de dopamine-D2-receptor blokkeert. Het Tx
 | Voorspelde nieuwe indicatie | Congenitale glycosylatiestoornis met defecte fucosylering (congenital disorder of glycosylation with defective fucosylation) |
 | TxGNN-voorspellingsscore | 0.9991 |
 | Bewijsniveau | L5 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 12 van 13) |
-| Aantal vergunningen | 13 (geldig: 12) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 13 van 14) |
+| Aantal vergunningen | 14 (geldig: 13) |
 | Aanbevolen beslissing | Hold |
 
 ---

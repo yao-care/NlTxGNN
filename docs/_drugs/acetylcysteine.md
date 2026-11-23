@@ -5,10 +5,10 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 17
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-description: "Acetylcysteine: voorspelde nieuwe indicatie trombotische aandoening (thrombotic disease) (bewijsniveau L2). In Nederland, CBG-vergunningen: 52 (geldig: 52)"
+description: "Acetylcysteine: voorspelde nieuwe indicatie trombotische aandoening (thrombotic disease) (bewijsniveau L2). In Nederland, CBG-vergunningen: 53 (geldig: 52)"
 ---
 
 # Acetylcysteine
@@ -48,8 +48,8 @@ Acetylcysteïne is een slijmoplossend en antioxiderend middel dat wordt gebruikt
 | Voorspelde nieuwe indicatie | trombotische aandoening (thrombotic disease) |
 | TxGNN-voorspellingsscore | 0.9996 |
 | Bewijsniveau | L2 |
-| Marktstatus in Nederland | In de handel (geldige vergunningen: 52 van 52) |
-| Aantal vergunningen | 52 (geldig: 52) |
+| Marktstatus in Nederland | In de handel (geldige vergunningen: 52 van 53) |
+| Aantal vergunningen | 53 (geldig: 52) |
 | Aanbevolen besluit | Doorgaan met randvoorwaarden |
 
 ## Waarom is deze voorspelling redelijk?

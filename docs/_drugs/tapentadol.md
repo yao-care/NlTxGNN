@@ -77,32 +77,32 @@ Voor de hoofdvoorspelling (migraine) is geen literatuur beschikbaar. Voor de ver
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 110721 | Palexia 50 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 110722 | Palexia 75 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 110723 | Palexia 100 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 110724 | Palexia Retard 50 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 110728 | Palexia Retard 100 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 110729 | Palexia Retard 150 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 110730 | Palexia Retard 200 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 110731 | Palexia Retard 250 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 120262 | Palexia Retard 25 mg, tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 120265 | Palexia 4 mg/ml drank | TAPENTADOLHYDROCHLORIDE | Drank | Geldig |
-| RVG 120266 | Palexia 20 mg/ml drank | TAPENTADOLHYDROCHLORIDE | Drank | Geldig |
-| RVG 128166 | Tapentadol Retard Xiromed 25 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
-| RVG 128167 | Tapentadol Retard Xiromed 50 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
-| RVG 128168 | Tapentadol Retard Xiromed 100 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
-| RVG 128169 | Tapentadol Retard Xiromed 150 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
-| RVG 128170 | Tapentadol Retard Xiromed 200 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
-| RVG 128171 | Tapentadol Retard Xiromed 250 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
-| RVG 129332 | Dolten 50 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 129334 | Dolten 75 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 129335 | Dolten 100 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 110721 | Palexia 50 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Grünenthal B.V. | Geldig |
+| RVG 110722 | Palexia 75 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Grünenthal B.V. | Geldig |
+| RVG 110723 | Palexia 100 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Grünenthal B.V. | Geldig |
+| RVG 110724 | Palexia Retard 50 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Grünenthal B.V. | Geldig |
+| RVG 110728 | Palexia Retard 100 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Grünenthal B.V. | Geldig |
+| RVG 110729 | Palexia Retard 150 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Grünenthal B.V. | Geldig |
+| RVG 110730 | Palexia Retard 200 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Grünenthal B.V. | Geldig |
+| RVG 110731 | Palexia Retard 250 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | – | Geldig |
+| RVG 120262 | Palexia Retard 25 mg, tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Grünenthal B.V. | Geldig |
+| RVG 120265 | Palexia 4 mg/ml drank | TAPENTADOLHYDROCHLORIDE | Drank | Grünenthal B.V. | Geldig |
+| RVG 120266 | Palexia 20 mg/ml drank | TAPENTADOLHYDROCHLORIDE | Drank | Grünenthal B.V. | Geldig |
+| RVG 128166 | Tapentadol Retard Xiromed 25 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Medical Valley Invest AB | Geldig |
+| RVG 128167 | Tapentadol Retard Xiromed 50 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Medical Valley Invest AB | Geldig |
+| RVG 128168 | Tapentadol Retard Xiromed 100 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Medical Valley Invest AB | Geldig |
+| RVG 128169 | Tapentadol Retard Xiromed 150 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Medical Valley Invest AB | Geldig |
+| RVG 128170 | Tapentadol Retard Xiromed 200 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Medical Valley Invest AB | Geldig |
+| RVG 128171 | Tapentadol Retard Xiromed 250 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Medical Valley Invest AB | Geldig |
+| RVG 129332 | Dolten 50 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Medochemie Limited | Geldig |
+| RVG 129334 | Dolten 75 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Medochemie Limited | Geldig |
+| RVG 129335 | Dolten 100 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Medochemie Limited | Geldig |
 
 Getoond worden 20 van de 26 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

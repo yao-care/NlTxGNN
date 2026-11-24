@@ -87,21 +87,21 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 33876 | Trazodone HCl GenRx 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 33877 | Trazodone HCl GenRx 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 33878 | Trazodone HCl GenRx 150 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 109724 | Trazodon HCl Sandoz 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 109725 | Trazodon HCl Sandoz 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 111061 | Trazodon HCl Sandoz 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 119136 | Trazodon hydrochloride Accord 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 119137 | Trazodon hydrochloride Accord 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 119138 | Trazodon hydrochloride Accord 150 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 125027 | Trazodon HCl Xiromed 100 mg, filmomhulde tabletten | TRAZODONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 113007//09145 | Trazolan 100 mg, filmomhulde tabletten | TRAZODONHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 33876 | Trazodone HCl GenRx 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | GenRx B.V. | Geldig |
+| RVG 33877 | Trazodone HCl GenRx 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | GenRx B.V. | Geldig |
+| RVG 33878 | Trazodone HCl GenRx 150 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | GenRx B.V. | Geldig |
+| RVG 109724 | Trazodon HCl Sandoz 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 109725 | Trazodon HCl Sandoz 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 111061 | Trazodon HCl Sandoz 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 119136 | Trazodon hydrochloride Accord 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 119137 | Trazodon hydrochloride Accord 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 119138 | Trazodon hydrochloride Accord 150 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 125027 | Trazodon HCl Xiromed 100 mg, filmomhulde tabletten | TRAZODONHYDROCHLORIDE | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 113007//09145 | Trazolan 100 mg, filmomhulde tabletten | TRAZODONHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

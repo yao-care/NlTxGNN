@@ -84,32 +84,32 @@ Geen van deze publicaties onderzoekt direct flecainide als behandeling van beroe
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 10098 | Tambocor 100, tabletten 100 mg | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 10099 | Tambocor, injectievloeistof 10 mg/ml | FLECAÏNIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 15854 | Tambocor 50, tabletten 50 mg | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 27131 | Tambocor CR 50, capsules met gereguleerde afgifte 50 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 27132 | Tambocor CR 100, capsules met gereguleerde afgifte 100 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 27133 | Tambocor CR 150, capsules met gereguleerde afgifte 150 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 27134 | Tambocor CR 200, capsules met gereguleerde afgifte 200 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 27199 | Flecaïnideacetaat Viatris 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 27200 | Flecaïnideacetaat Viatris 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 31787 | Flecaïnideacetaat Sandoz 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 31788 | Flecaïnideacetaat Sandoz 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 34516 | Flecaïnideacetaat ratiopharm 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 110550 | Flecaïnideacetaat Aurobindo 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 110551 | Flecaïnideacetaat Aurobindo 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
-| RVG 110875 | Flecaïnideacetaat retard 50 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 110876 | Flecaïnideacetaat retard 100 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 110877 | Flecaïnideacetaat retard 150 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 110878 | Flecaïnideacetaat retard 200 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 111299 | Flecaïnideacetaat retard CF 50 mg, capsules met verlengde afgifte, hard | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 111300 | Flecaïnideacetaat retard CF 100 mg, capsules met verlengde afgifte, hard | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 10098 | Tambocor 100, tabletten 100 mg | FLECAÏNIDEACETAAT | Tablet | Viatris Healthcare B.V. | Geldig |
+| RVG 10099 | Tambocor, injectievloeistof 10 mg/ml | FLECAÏNIDEACETAAT | Oplossing voor injectie | Viatris Healthcare B.V. | Geldig |
+| RVG 15854 | Tambocor 50, tabletten 50 mg | FLECAÏNIDEACETAAT | Tablet | Viatris Healthcare B.V. | Geldig |
+| RVG 27131 | Tambocor CR 50, capsules met gereguleerde afgifte 50 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Viatris Healthcare B.V. | Geldig |
+| RVG 27132 | Tambocor CR 100, capsules met gereguleerde afgifte 100 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Viatris Healthcare B.V. | Geldig |
+| RVG 27133 | Tambocor CR 150, capsules met gereguleerde afgifte 150 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Viatris Healthcare B.V. | Geldig |
+| RVG 27134 | Tambocor CR 200, capsules met gereguleerde afgifte 200 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Viatris Healthcare B.V. | Geldig |
+| RVG 27199 | Flecaïnideacetaat Viatris 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Viatris Limited | Geldig |
+| RVG 27200 | Flecaïnideacetaat Viatris 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Viatris Limited | Geldig |
+| RVG 31787 | Flecaïnideacetaat Sandoz 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Sandoz B.V. | Geldig |
+| RVG 31788 | Flecaïnideacetaat Sandoz 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Sandoz B.V. | Geldig |
+| RVG 34516 | Flecaïnideacetaat ratiopharm 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | ratiopharm GmbH | Geldig |
+| RVG 110550 | Flecaïnideacetaat Aurobindo 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 110551 | Flecaïnideacetaat Aurobindo 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 110875 | Flecaïnideacetaat retard 50 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Teva Nederland B.V. | Geldig |
+| RVG 110876 | Flecaïnideacetaat retard 100 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Teva Nederland B.V. | Geldig |
+| RVG 110877 | Flecaïnideacetaat retard 150 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Teva Nederland B.V. | Geldig |
+| RVG 110878 | Flecaïnideacetaat retard 200 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Teva Nederland B.V. | Geldig |
+| RVG 111299 | Flecaïnideacetaat retard CF 50 mg, capsules met verlengde afgifte, hard | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Centrafarm B.V. | Geldig |
+| RVG 111300 | Flecaïnideacetaat retard CF 100 mg, capsules met verlengde afgifte, hard | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Centrafarm B.V. | Geldig |
 
 Getoond worden 20 van de 33 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

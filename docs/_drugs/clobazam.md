@@ -83,21 +83,21 @@ De marktstatus volgens de lokale gegevens is "In de handel".
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 09600 | Frisium 10, tabletten 10 mg | CLOBAZAM | Tablet | Geldig |
-| RVG 09601 | Frisium 20, tabletten 20 mg | CLOBAZAM | Tablet | Geldig |
-| RVG 126114 | Epaclob 1 mg/ml, suspensie voor oraal gebruik | CLOBAZAM | Suspensie voor oraal gebruik | Geldig |
-| RVG 126115 | Epaclob 2 mg/ml, suspensie voor oraal gebruik | CLOBAZAM | Suspensie voor oraal gebruik | Geldig |
-| RVG 126160 | Clobazam Essential Pharmaceuticals 1 mg/ml, suspensie voor oraal gebruik | CLOBAZAM | Suspensie voor oraal gebruik | Geldig |
-| RVG 127539 | Clobazam Sandoz tablet 10 mg, tabletten | CLOBAZAM | Tablet | Geldig |
-| RVG 129895 | Clobazam Aurobindo 10 mg, tabletten | CLOBAZAM | Tablet | Geldig |
-| RVG 129896 | Clobazam Aurobindo 20 mg, tabletten | CLOBAZAM | Tablet | Geldig |
-| RVG 133355 | Clobazam Burk 10 mg, tabletten | CLOBAZAM | Tablet | Geldig |
-| RVG 133356 | Clobazam Burk 20 mg, tabletten | CLOBAZAM | Tablet | Geldig |
-| RVG 109861 | Clobazam Sandoz 10 mg, tabletten | CLOBAZAM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 09600 | Frisium 10, tabletten 10 mg | CLOBAZAM | Tablet | Atnahs Pharma Netherlands B.V. | Geldig |
+| RVG 09601 | Frisium 20, tabletten 20 mg | CLOBAZAM | Tablet | Atnahs Pharma Netherlands B.V. | Geldig |
+| RVG 126114 | Epaclob 1 mg/ml, suspensie voor oraal gebruik | CLOBAZAM | Suspensie voor oraal gebruik | Ethypharm | Geldig |
+| RVG 126115 | Epaclob 2 mg/ml, suspensie voor oraal gebruik | CLOBAZAM | Suspensie voor oraal gebruik | Ethypharm | Geldig |
+| RVG 126160 | Clobazam Essential Pharmaceuticals 1 mg/ml, suspensie voor oraal gebruik | CLOBAZAM | Suspensie voor oraal gebruik | Essential Pharmaceuticals Limited | Geldig |
+| RVG 127539 | Clobazam Sandoz tablet 10 mg, tabletten | CLOBAZAM | Tablet | Sandoz B.V. | Geldig |
+| RVG 129895 | Clobazam Aurobindo 10 mg, tabletten | CLOBAZAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 129896 | Clobazam Aurobindo 20 mg, tabletten | CLOBAZAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 133355 | Clobazam Burk 10 mg, tabletten | CLOBAZAM | Tablet | Brown & Burk IR Limited | Geldig |
+| RVG 133356 | Clobazam Burk 20 mg, tabletten | CLOBAZAM | Tablet | Brown & Burk IR Limited | Geldig |
+| RVG 109861 | Clobazam Sandoz 10 mg, tabletten | CLOBAZAM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

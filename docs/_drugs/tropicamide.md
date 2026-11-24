@@ -102,20 +102,20 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 01777 | Monofree Tropicamide 0,5%, oogdruppels 5 mg/ml | TROPICAMIDE | Oogdruppels, oplossing | Geldig |
-| RVG 10166 | Minims Tropicamide 5 mg/ml, oogdruppels, oplossing | TROPICAMIDE | Oogdruppels, oplossing | Geldig |
-| RVG 10167 | Minims Tropicamide 10 mg/ml, oogdruppels, oplossing | TROPICAMIDE | Oogdruppels, oplossing | Geldig |
-| RVG 56688 | Tropicamide 0,5% m/v, oogdruppels | TROPICAMIDE | Oogdruppels, oplossing | Geldig |
-| RVG 33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
-| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
-| RVG 132181//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
-| RVG 135130//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
-| RVG 136928//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
-| RVG 136929//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 01777 | Monofree Tropicamide 0,5%, oogdruppels 5 mg/ml | TROPICAMIDE | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 10166 | Minims Tropicamide 5 mg/ml, oogdruppels, oplossing | TROPICAMIDE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 10167 | Minims Tropicamide 10 mg/ml, oogdruppels, oplossing | TROPICAMIDE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 56688 | Tropicamide 0,5% m/v, oogdruppels | TROPICAMIDE | Oogdruppels, oplossing | – | Geldig |
+| RVG 33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Laboratoires Théa | Geldig |
+| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Laboratoires Théa | Geldig |
+| RVG 132181//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Euro Registratie Collectief B.V. | Geldig |
+| RVG 135130//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Euro Registratie Collectief b.v. | Geldig |
+| RVG 136928//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | BModesto B.V. | Geldig |
+| RVG 136929//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | BModesto B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

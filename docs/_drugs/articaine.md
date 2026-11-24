@@ -82,23 +82,23 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 08182 | Ultracain D-S, injectievloeistof | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 08183 | Ultracain D-S forte, injectievloeistof | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 13674 | Septanest N 40 mg/ml + 5 microgram/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 13675 | Septanest SP 40 mg/ml + 10 microgram/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 27863 | Ubistesin 4% articaine met 1/200 000 adrenaline, oplossing voor injectie | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 27864 | Ubistesin 4% articaine met 1/100 000 adrenaline, oplossing voor injectie | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 102889 | LONCARTI 40/0,005 mg/ml oplossing voor injectie, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 102892 | LONCARTI 40/0,01 mg/ml oplossing voor injectie, oplossing voor injectie | ARTICAÏNEHYDROCHLORIDE, ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 103658 | CITOCARTIN 40/0,005 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 103660 | CITOCARTIN 40/0,01 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 125660//13675 | Septanest SP 40 mg/ml + 10 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 130042 | Topicainol 40 mg/ml + 5 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 130043 | Topicainol Forte 40 mg/ml + 10 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 08182 | Ultracain D-S, injectievloeistof | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | SEPTODONT NV-SA | Geldig |
+| RVG 08183 | Ultracain D-S forte, injectievloeistof | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | SEPTODONT NV-SA | Geldig |
+| RVG 13674 | Septanest N 40 mg/ml + 5 microgram/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | SEPTODONT NV-SA | Geldig |
+| RVG 13675 | Septanest SP 40 mg/ml + 10 microgram/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | SEPTODONT NV-SA | Geldig |
+| RVG 27863 | Ubistesin 4% articaine met 1/200 000 adrenaline, oplossing voor injectie | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Pierrel S.p.A. | Geldig |
+| RVG 27864 | Ubistesin 4% articaine met 1/100 000 adrenaline, oplossing voor injectie | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Pierrel S.p.A. | Geldig |
+| RVG 102889 | LONCARTI 40/0,005 mg/ml oplossing voor injectie, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Laboratorios Inibsa, S.A. | Geldig |
+| RVG 102892 | LONCARTI 40/0,01 mg/ml oplossing voor injectie, oplossing voor injectie | ARTICAÏNEHYDROCHLORIDE, ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | – | Geldig |
+| RVG 103658 | CITOCARTIN 40/0,005 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | MOLTENI DENTAL srl | Geldig |
+| RVG 103660 | CITOCARTIN 40/0,01 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | – | Geldig |
+| RVG 125660//13675 | Septanest SP 40 mg/ml + 10 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | BModesto B.V. | Geldig |
+| RVG 130042 | Topicainol 40 mg/ml + 5 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Ioulia & Irini Tseti Pharmaceutical Laboratories SA (Distin… | Geldig |
+| RVG 130043 | Topicainol Forte 40 mg/ml + 10 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Ioulia & Irini Tseti Pharmaceutical Laboratories SA (Distin… | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

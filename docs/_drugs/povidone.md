@@ -80,13 +80,13 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 10513 | PROTAGENS 2%, oogdruppels oplossing | POVIDON K 25 (E 1201) | Oogdruppels, oplossing | Geldig |
-| RVG 19305 | Oculotect unidose, oogdruppels 50 mg/ml | POVIDON K 25 (E 1201) | Oogdruppels, oplossing | Geldig |
-| RVG 119116//19305 | Oculotect unidose 50 mg/ml, oogdruppels | POVIDON K 25 (E 1201) | Oogdruppels, oplossing | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 10513 | PROTAGENS 2%, oogdruppels oplossing | POVIDON K 25 (E 1201) | Oogdruppels, oplossing | Alcon Nederland B.V. | Geldig |
+| RVG 19305 | Oculotect unidose, oogdruppels 50 mg/ml | POVIDON K 25 (E 1201) | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 119116//19305 | Oculotect unidose 50 mg/ml, oogdruppels | POVIDON K 25 (E 1201) | Oogdruppels, oplossing | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

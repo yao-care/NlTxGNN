@@ -74,32 +74,32 @@ Er is geen publicatie gevonden die sertraline direct bij schizoïde persoonlijkh
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 16292 | Zoloft 50, filmomhulde tabletten 50 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 24641 | Zoloft 20 mg/ml, concentraat voor oplossing voor oraal gebruik | SERTRALINEHYDROCHLORIDE | Vloeistof voor oraal gebruik | Geldig |
-| RVG 28403 | Asentra 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 28404 | Asentra 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 30288 | Sertraline SUN 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 31054 | Sertraline Sandoz 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 31529 | Sertraline Krka 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 31530 | Sertraline Krka 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 32678 | Sertraline Mylan 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 32679 | Sertraline Mylan 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 33643 | Sertraline Aurobindo 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 33644 | Sertraline Aurobindo 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 105254 | Zoloft 25, filmomhulde tabletten 25 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 105255 | Zoloft 100, filmomhulde tabletten 100 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 105381 | Sertraline Viatris 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 105382 | Sertraline Viatris 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 105383 | Sertraline Viatris 20 mg/ml, concentraat voor oplossing voor oraal gebruik | SERTRALINEHYDROCHLORIDE | Vloeistof voor oraal gebruik | Geldig |
-| RVG 106062 | Sertraline Viatris 25 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 116631 | Sertraline Accord 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 116632 | Sertraline Accord 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 16292 | Zoloft 50, filmomhulde tabletten 50 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 24641 | Zoloft 20 mg/ml, concentraat voor oplossing voor oraal gebruik | SERTRALINEHYDROCHLORIDE | Vloeistof voor oraal gebruik | Viatris Healthcare Limited | Geldig |
+| RVG 28403 | Asentra 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 28404 | Asentra 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 30288 | Sertraline SUN 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 31054 | Sertraline Sandoz 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 31529 | Sertraline Krka 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 31530 | Sertraline Krka 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 32678 | Sertraline Mylan 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 32679 | Sertraline Mylan 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 33643 | Sertraline Aurobindo 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 33644 | Sertraline Aurobindo 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 105254 | Zoloft 25, filmomhulde tabletten 25 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 105255 | Zoloft 100, filmomhulde tabletten 100 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 105381 | Sertraline Viatris 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 105382 | Sertraline Viatris 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 105383 | Sertraline Viatris 20 mg/ml, concentraat voor oplossing voor oraal gebruik | SERTRALINEHYDROCHLORIDE | Vloeistof voor oraal gebruik | Viatris Limited | Geldig |
+| RVG 106062 | Sertraline Viatris 25 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 116631 | Sertraline Accord 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 116632 | Sertraline Accord 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
 
 Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

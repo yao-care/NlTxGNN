@@ -91,23 +91,23 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | Geldig |
-| RVG 122756//21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | Geldig |
-| RVG 136394//21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | Geldig |
-| RVG 25073 | NuvaRing 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 105733 | Circlet 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 118957 | Etonogestrel/Ethinylestradiol Xiromed 0,120 mg/0,015 mg per 24 uur, hulpmiddel… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 118961 | Etonogestrel/Ethinylestradiol Leon Farma 0,120 mg/0,015 mg per 24 uur, hulpmidd… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 118992 | DONGARING 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 118993 | Nillho 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 118994 | Ornibel 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 118995 | Etonogestrel/Ethinylestradiol Sandoz 0,120 mg/0,015 mg per 24 uur, hulpmiddel v… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 118996 | Etonogestrel/Ethinylestradiol Exeltis 0,120 mg/0,015 mg per 24 uur, hulpmiddel… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 106801 | Implanon, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 122756//21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | Euro Registratie Collectief B.V. | Geldig |
+| RVG 136394//21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | BModesto B.V. | Geldig |
+| RVG 25073 | NuvaRing 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 105733 | Circlet 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 118957 | Etonogestrel/Ethinylestradiol Xiromed 0,120 mg/0,015 mg per 24 uur, hulpmiddel… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Medical Valley Invest AB | Geldig |
+| RVG 118961 | Etonogestrel/Ethinylestradiol Leon Farma 0,120 mg/0,015 mg per 24 uur, hulpmidd… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Laboratorios Leon Farma, S.A. | Geldig |
+| RVG 118992 | DONGARING 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Laboratorios Leon Farma, S.A. | Geldig |
+| RVG 118993 | Nillho 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Laboratorios Leon Farma, S.A. | Geldig |
+| RVG 118994 | Ornibel 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Medical Valley Invest AB | Geldig |
+| RVG 118995 | Etonogestrel/Ethinylestradiol Sandoz 0,120 mg/0,015 mg per 24 uur, hulpmiddel v… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Sandoz B.V. | Geldig |
+| RVG 118996 | Etonogestrel/Ethinylestradiol Exeltis 0,120 mg/0,015 mg per 24 uur, hulpmiddel… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Exeltis Healthcare S.L | Geldig |
+| RVG 106801 | Implanon, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

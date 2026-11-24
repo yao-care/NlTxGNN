@@ -97,32 +97,32 @@ Voor de bredere context bij twaalfvingerige-darmzweer zijn bovendien meerdere RC
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/09/515 | CONTROLOC Control 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| EU/1/09/516 | SOMAC Control 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| EU/1/09/517 | Pantozol Control 20 mg maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 18300 | Pantozol 40, maagsapresistente tabletten 40 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 22084 | Pantozol i.v., poeder voor oplossing voor injectie 40 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Geldig |
-| RVG 23513 | Pantozol 20, maagsapresistente tabletten 20 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33650 | Pantoprazol 1A Pharma 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33651 | Pantoprazol 1A Pharma 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33652 | Pantoprazol Sandoz OTC 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33653 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33654 | Pantoprazol Sandoz 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33655 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33657 | Pantoprazol Sandoz 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33658 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 33902 | Pantoprazol Sandoz injectie 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Geldig |
-| RVG 33903 | Pantoprazol Sandoz injectie 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Geldig |
-| RVG 34884 | Pantoprazol CF 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 102490 | Pantoprazol SUN 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Geldig |
-| RVG 104919 | Pantoprazol Teva 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
-| RVG 104920 | Pantoprazol Teva 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/09/515 | CONTROLOC Control 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Takeda GmbH | Geldig |
+| EU/1/09/516 | SOMAC Control 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Takeda GmbH | Geldig |
+| EU/1/09/517 | Pantozol Control 20 mg maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Takeda GmbH | Geldig |
+| RVG 18300 | Pantozol 40, maagsapresistente tabletten 40 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Takeda Nederland B.V. | Geldig |
+| RVG 22084 | Pantozol i.v., poeder voor oplossing voor injectie 40 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Takeda Nederland B.V. | Geldig |
+| RVG 23513 | Pantozol 20, maagsapresistente tabletten 20 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Takeda Nederland B.V. | Geldig |
+| RVG 33650 | Pantoprazol 1A Pharma 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | 1A Pharma GmbH | Geldig |
+| RVG 33651 | Pantoprazol 1A Pharma 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | 1A Pharma GmbH | Geldig |
+| RVG 33652 | Pantoprazol Sandoz OTC 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Sandoz B.V. | Geldig |
+| RVG 33653 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Sandoz B.V. | Geldig |
+| RVG 33654 | Pantoprazol Sandoz 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Sandoz B.V. | Geldig |
+| RVG 33655 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Sandoz B.V. | Geldig |
+| RVG 33657 | Pantoprazol Sandoz 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Sandoz B.V. | Geldig |
+| RVG 33658 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Sandoz B.V. | Geldig |
+| RVG 33902 | Pantoprazol Sandoz injectie 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 33903 | Pantoprazol Sandoz injectie 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 34884 | Pantoprazol CF 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Centrafarm B.V. | Geldig |
+| RVG 102490 | Pantoprazol SUN 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 104919 | Pantoprazol Teva 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Teva Nederland B.V. | Geldig |
+| RVG 104920 | Pantoprazol Teva 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Teva Nederland B.V. | Geldig |
 
 Getoond worden 20 van de 50 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

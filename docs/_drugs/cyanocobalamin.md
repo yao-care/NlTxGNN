@@ -84,14 +84,14 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 50822 | Cyanocobalamine CF 1 mg/ml, injectievloeistof | CYANOCOBALAMINE | Oplossing voor injectie | Geldig |
-| RVG 09077 | Soluvit N, poeder voor oplossing voor intraveneuze infusie | BIOTINE, CYANOCOBALAMINE, FOLIUMZUUR, NATRIUMASCORBAAT (E 301), NICOTINAMIDE, P… | Poeder voor oplossing voor infusie | Geldig |
-| RVG 15333 | Cernevit, poeder voor oplossing voor injectie of intraveneuze infusie | ASCORBINEZUUR (E 300), BIOTINE, CHOLECALCIFEROL, COCARBOXYLASE 4-WATER, CYANOCO… | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 117795//15333 | Cernevit poeder voor oplossing voor injectie of voor intraveneuze infusie | COCARBOXYLASE 4-WATER, BIOTINE, CYANOCOBALAMINE, RIBOFLAVINE NATRIUMFOSFAAT 2-W… | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 50822 | Cyanocobalamine CF 1 mg/ml, injectievloeistof | CYANOCOBALAMINE | Oplossing voor injectie | Centrafarm B.V. | Geldig |
+| RVG 09077 | Soluvit N, poeder voor oplossing voor intraveneuze infusie | BIOTINE, CYANOCOBALAMINE, FOLIUMZUUR, NATRIUMASCORBAAT (E 301), NICOTINAMIDE, P… | Poeder voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 15333 | Cernevit, poeder voor oplossing voor injectie of intraveneuze infusie | ASCORBINEZUUR (E 300), BIOTINE, CHOLECALCIFEROL, COCARBOXYLASE 4-WATER, CYANOCO… | Poeder voor oplossing voor injectie of infusie | Baxter B.V. | Geldig |
+| RVG 117795//15333 | Cernevit poeder voor oplossing voor injectie of voor intraveneuze infusie | COCARBOXYLASE 4-WATER, BIOTINE, CYANOCOBALAMINE, RIBOFLAVINE NATRIUMFOSFAAT 2-W… | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

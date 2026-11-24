@@ -101,32 +101,32 @@ De onderstaande publicaties gaan over migraine en triptanen in het algemeen. Gee
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 31917 | Zomig-2,5, filmomhulde tabletten 2,5 mg | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 31918 | Zomig-5, filmomhulde tabletten 5 mg | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 31919 | Zomig ZIP-2,5, orodispergeerbare tabletten 2,5 mg | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 31920 | Zomig ZIP-5, orodispergeerbare tabletten 5 mg | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 101894 | Zolmitriptan Aurobindo Disper 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 106551 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 106554 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 106555 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 106556 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 106557 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 106558 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 106559 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 106560 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 106561 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 106562 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 106564 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 106565 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
-| RVG 107118 | Zolmitriptan Jubilant 2,5 mg filmomhulde tablet | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 107120 | Zolmitriptan Jubilant 5 mg filmomhulde tablet | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
-| RVG 107124 | Zolmitriptan Jubilant 2,5 mg orodispergeerbare tablet | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 31917 | Zomig-2,5, filmomhulde tabletten 2,5 mg | ZOLMITRIPTAN | Filmomhulde tablet | Grünenthal B.V. | Geldig |
+| RVG 31918 | Zomig-5, filmomhulde tabletten 5 mg | ZOLMITRIPTAN | Filmomhulde tablet | Grünenthal B.V. | Geldig |
+| RVG 31919 | Zomig ZIP-2,5, orodispergeerbare tabletten 2,5 mg | ZOLMITRIPTAN | Orodispergeerbare tablet | Grünenthal B.V. | Geldig |
+| RVG 31920 | Zomig ZIP-5, orodispergeerbare tabletten 5 mg | ZOLMITRIPTAN | Orodispergeerbare tablet | Grünenthal B.V. | Geldig |
+| RVG 101894 | Zolmitriptan Aurobindo Disper 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 106551 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106554 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 106555 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106556 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 106557 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106558 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106559 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 106560 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 106561 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106562 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106564 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 106565 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 107118 | Zolmitriptan Jubilant 2,5 mg filmomhulde tablet | ZOLMITRIPTAN | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
+| RVG 107120 | Zolmitriptan Jubilant 5 mg filmomhulde tablet | ZOLMITRIPTAN | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
+| RVG 107124 | Zolmitriptan Jubilant 2,5 mg orodispergeerbare tablet | ZOLMITRIPTAN | Orodispergeerbare tablet | Jubilant Pharmaceuticals N.V. | Geldig |
 
 Getoond worden 20 van de 28 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

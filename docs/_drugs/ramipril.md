@@ -90,32 +90,32 @@ Alleen de publicatie met directe relevantie is opgenomen; de overige gevonden pu
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28001 | Ramipril Sandoz 1,25, tabletten 1,25 mg | RAMIPRIL | Tablet | Geldig |
-| RVG 28002 | Ramipril Sandoz 2,5, tabletten 2,5 mg | RAMIPRIL | Tablet | Geldig |
-| RVG 28003 | Ramipril Sandoz 5, tabletten 5 mg | RAMIPRIL | Tablet | Geldig |
-| RVG 28004 | Ramipril Sandoz 10, tabletten 10 mg | RAMIPRIL | Tablet | Geldig |
-| RVG 30968 | Ramipril Mylan 1,25 mg, tabletten | RAMIPRIL | Tablet | Geldig |
-| RVG 30969 | Ramipril Mylan 2,5 mg, tabletten | RAMIPRIL | Tablet | Geldig |
-| RVG 30970 | Ramipril Mylan 5 mg, tabletten | RAMIPRIL | Tablet | Geldig |
-| RVG 30971 | Ramipril Mylan 10 mg, tabletten | RAMIPRIL | Tablet | Geldig |
-| RVG 34096 | Ramipril Brillpharma 1,25 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 34097 | Ramipril Brillpharma 2,5 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 34098 | Ramipril Brillpharma 5 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 34099 | Ramipril Brillpharma 10 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 103807 | Ramipril Aurobindo 5 mg, tabletten | RAMIPRIL | Tablet | Geldig |
-| RVG 103808 | Ramipril Aurobindo 10 mg, tabletten | RAMIPRIL | Tablet | Geldig |
-| RVG 105268 | Ramipril Aurobindo 1,25 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 105271 | Ramipril Aurobindo 2,5 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 110566 | Ramipril Accord 1,25 mg, capsule hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 110567 | Ramipril Accord 2,5 mg, capsule hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 110568 | Ramipril Accord 5 mg, capsule hard | RAMIPRIL | Capsule, hard | Geldig |
-| RVG 110569 | Ramipril Accord 10 mg, capsule hard | RAMIPRIL | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28001 | Ramipril Sandoz 1,25, tabletten 1,25 mg | RAMIPRIL | Tablet | Sandoz B.V. | Geldig |
+| RVG 28002 | Ramipril Sandoz 2,5, tabletten 2,5 mg | RAMIPRIL | Tablet | Sandoz B.V. | Geldig |
+| RVG 28003 | Ramipril Sandoz 5, tabletten 5 mg | RAMIPRIL | Tablet | Sandoz B.V. | Geldig |
+| RVG 28004 | Ramipril Sandoz 10, tabletten 10 mg | RAMIPRIL | Tablet | Sandoz B.V. | Geldig |
+| RVG 30968 | Ramipril Mylan 1,25 mg, tabletten | RAMIPRIL | Tablet | Mylan B.V. | Geldig |
+| RVG 30969 | Ramipril Mylan 2,5 mg, tabletten | RAMIPRIL | Tablet | Mylan B.V. | Geldig |
+| RVG 30970 | Ramipril Mylan 5 mg, tabletten | RAMIPRIL | Tablet | Mylan B.V. | Geldig |
+| RVG 30971 | Ramipril Mylan 10 mg, tabletten | RAMIPRIL | Tablet | Mylan B.V. | Geldig |
+| RVG 34096 | Ramipril Brillpharma 1,25 mg capsules, hard | RAMIPRIL | Capsule, hard | Brillpharma (Ireland) Limited | Geldig |
+| RVG 34097 | Ramipril Brillpharma 2,5 mg capsules, hard | RAMIPRIL | Capsule, hard | Brillpharma (Ireland) Limited | Geldig |
+| RVG 34098 | Ramipril Brillpharma 5 mg capsules, hard | RAMIPRIL | Capsule, hard | Brillpharma (Ireland) Limited | Geldig |
+| RVG 34099 | Ramipril Brillpharma 10 mg capsules, hard | RAMIPRIL | Capsule, hard | Brillpharma (Ireland) Limited | Geldig |
+| RVG 103807 | Ramipril Aurobindo 5 mg, tabletten | RAMIPRIL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 103808 | Ramipril Aurobindo 10 mg, tabletten | RAMIPRIL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 105268 | Ramipril Aurobindo 1,25 mg capsules, hard | RAMIPRIL | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 105271 | Ramipril Aurobindo 2,5 mg capsules, hard | RAMIPRIL | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 110566 | Ramipril Accord 1,25 mg, capsule hard | RAMIPRIL | Capsule, hard | Accord Healthcare B.V. | Geldig |
+| RVG 110567 | Ramipril Accord 2,5 mg, capsule hard | RAMIPRIL | Capsule, hard | Accord Healthcare B.V. | Geldig |
+| RVG 110568 | Ramipril Accord 5 mg, capsule hard | RAMIPRIL | Capsule, hard | Accord Healthcare B.V. | Geldig |
+| RVG 110569 | Ramipril Accord 10 mg, capsule hard | RAMIPRIL | Capsule, hard | Accord Healthcare B.V. | Geldig |
 
 Getoond worden 20 van de 30 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

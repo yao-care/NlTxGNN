@@ -77,14 +77,14 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 00278 | Orgametril, 5 mg tabletten | LYNESTRENOL | Tablet | Geldig |
-| RVG 06443 | Exluton, tabletten 0,5 mg | LYNESTRENOL | Tablet | Geldig |
-| RVG 128454//00278 | Orgametril 5 mg, tabletten | LYNESTRENOL | Tablet | Geldig |
-| RVG 118686//00278 | Orgametril 5 mg, tabletten | LYNESTRENOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 00278 | Orgametril, 5 mg tabletten | LYNESTRENOL | Tablet | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 06443 | Exluton, tabletten 0,5 mg | LYNESTRENOL | Tablet | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 128454//00278 | Orgametril 5 mg, tabletten | LYNESTRENOL | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 118686//00278 | Orgametril 5 mg, tabletten | LYNESTRENOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

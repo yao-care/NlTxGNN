@@ -84,20 +84,20 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 08543 | Vepesid 100 mg, capsules, zacht | ETOPOSIDE | Capsule, zacht | Geldig |
-| RVG 10375 | Vepesid 50 mg, capsules, zacht | ETOPOSIDE | Capsule, zacht | Geldig |
-| RVG 16010 | Toposin 20 mg/ml, concentraat voor oplossing voor intraveneuze infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 16307 | Eposin, concentraat voor oplossing voor infusie 20 mg/ml | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 110921 | Etoposide Fresenius Kabi 20 mg/ml, concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 113482 | Etoposide Accord 20 mg/ml, concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 125732 | Etoposide Hikma 20 mg/ml concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 128540//08543 | Vepesid 100 mg capsules, zacht | ETOPOSIDE | Capsule, zacht | Geldig |
-| RVG 131742//08543 | Vepesid 100 mg capsules, zacht | ETOPOSIDE | Capsule, zacht | Geldig |
-| RVG 119839//10375 | Vepesid 50 mg, capsules, zacht | ETOPOSIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 08543 | Vepesid 100 mg, capsules, zacht | ETOPOSIDE | Capsule, zacht | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 10375 | Vepesid 50 mg, capsules, zacht | ETOPOSIDE | Capsule, zacht | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 16010 | Toposin 20 mg/ml, concentraat voor oplossing voor intraveneuze infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Teva B.V. | Geldig |
+| RVG 16307 | Eposin, concentraat voor oplossing voor infusie 20 mg/ml | ETOPOSIDE | Concentraat voor oplossing voor infusie | Pharmachemie B.V. | Geldig |
+| RVG 110921 | Etoposide Fresenius Kabi 20 mg/ml, concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113482 | Etoposide Accord 20 mg/ml, concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Accord Healthcare B.V. | Geldig |
+| RVG 125732 | Etoposide Hikma 20 mg/ml concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 128540//08543 | Vepesid 100 mg capsules, zacht | ETOPOSIDE | Capsule, zacht | Eureco-Pharma B.V. | Geldig |
+| RVG 131742//08543 | Vepesid 100 mg capsules, zacht | ETOPOSIDE | Capsule, zacht | Orifarm A/S | Geldig |
+| RVG 119839//10375 | Vepesid 50 mg, capsules, zacht | ETOPOSIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

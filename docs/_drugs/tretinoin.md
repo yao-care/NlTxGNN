@@ -90,17 +90,17 @@ Voor reumatoïde nodulose is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 20455 | Vesanoid, zachte capsules 10 mg | TRETINOINE | Capsule, zacht | Geldig |
-| RVG 127621//20455 | Vesanoid, zachte capsules 10 mg | TRETINOINE | Capsule, zacht | Geldig |
-| RVG 109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | TRETINOINE, CLINDAMYCINEDIWATERSTOFFOSFAAT | Gel | Geldig |
-| RVG 123881//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Geldig |
-| RVG 136056//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Geldig |
-| RVG 136567//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Geldig |
-| RVG 101711//20455 | Vesanoid, capsules 10 mg | TRETINOINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 20455 | Vesanoid, zachte capsules 10 mg | TRETINOINE | Capsule, zacht | Cheplapharm Arzneimittel GmbH | Geldig |
+| RVG 127621//20455 | Vesanoid, zachte capsules 10 mg | TRETINOINE | Capsule, zacht | Eureco-Pharma B.V. | Geldig |
+| RVG 109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | TRETINOINE, CLINDAMYCINEDIWATERSTOFFOSFAAT | Gel | – | Geldig |
+| RVG 123881//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 136056//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 136567//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Euro Registratie Collectief B.V. | Geldig |
+| RVG 101711//20455 | Vesanoid, capsules 10 mg | TRETINOINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

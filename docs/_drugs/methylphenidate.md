@@ -87,32 +87,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor faciodigitogenitaa
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/24/1907 | Tuzulby 30 mg kauwtabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Kauwtablet | Geldig |
-| RVG 03957 | Ritalin, tabletten 10 mg | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
-| RVG 27252 | Methylfenidaathydrochloride Teva 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
-| RVG 27253 | Methylfenidaat HCl 1A Pharma 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
-| RVG 28073 | Concerta 18 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 28074 | Concerta 36 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 28075 | Concerta 54 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 33227 | Equasym XL 10 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 33228 | Equasym XL 20 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 33229 | Equasym XL 30 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 34024 | Medikinet 5 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
-| RVG 34025 | Medikinet 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
-| RVG 34026 | Medikinet 20 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
-| RVG 34027 | Medikinet CR 10 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 34028 | Medikinet CR 20 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 34029 | Medikinet CR 30 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 34030 | Medikinet CR 40 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 101739 | Concerta 27 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 108026 | Medikinet CR 5 mg, capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 111228 | Equasym XL 40 mg, capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/24/1907 | Tuzulby 30 mg kauwtabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Kauwtablet | Neuraxpharm Pharmaceuticals, S.L | Geldig |
+| RVG 03957 | Ritalin, tabletten 10 mg | METHYLFENIDAATHYDROCHLORIDE | Tablet | InfectoPharm Arzneimittel und Consilium GmbH | Geldig |
+| RVG 27252 | Methylfenidaathydrochloride Teva 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Teva B.V. | Geldig |
+| RVG 27253 | Methylfenidaat HCl 1A Pharma 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | 1A Pharma GmbH | Geldig |
+| RVG 28073 | Concerta 18 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Janssen-Cilag B.V. | Geldig |
+| RVG 28074 | Concerta 36 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Janssen-Cilag B.V. | Geldig |
+| RVG 28075 | Concerta 54 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Janssen-Cilag B.V. | Geldig |
+| RVG 33227 | Equasym XL 10 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Takeda Pharmaceuticals International AG Ireland Branch | Geldig |
+| RVG 33228 | Equasym XL 20 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Takeda Pharmaceuticals International AG Ireland Branch | Geldig |
+| RVG 33229 | Equasym XL 30 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Takeda Pharmaceuticals International AG Ireland Branch | Geldig |
+| RVG 34024 | Medikinet 5 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 34025 | Medikinet 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 34026 | Medikinet 20 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 34027 | Medikinet CR 10 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 34028 | Medikinet CR 20 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 34029 | Medikinet CR 30 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 34030 | Medikinet CR 40 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 101739 | Concerta 27 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Janssen-Cilag B.V. | Geldig |
+| RVG 108026 | Medikinet CR 5 mg, capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 111228 | Equasym XL 40 mg, capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Takeda Pharmaceuticals International AG Ireland Branch | Geldig |
 
 Getoond worden 20 van de 105 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

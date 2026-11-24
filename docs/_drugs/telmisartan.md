@@ -82,32 +82,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/09/610 | Telmisartan Teva 80 mg tabletten | TELMISARTAN | Tablet | Geldig |
-| EU/1/10/632 | Tolura 20 mg tabletten | TELMISARTAN | Tablet | Geldig |
-| EU/1/10/639 | Telmisartan Actavis 80 mg tabletten | TELMISARTAN | Tablet | Geldig |
-| EU/1/98/089 | Pritor 20 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| EU/1/98/090 | Micardis 40 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| EU/1/98/091 | Kinzalmono 80 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 104792 | Telmisartan Xiromed 20 mg tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 104793 | Telmisartan Xiromed 40 mg tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 104794 | Telmisartan Xiromed 80 mg tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105916 | Telmisartan Sandoz 20 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105917 | Telmisartan Sandoz 40 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105918 | Telmisartan Sandoz 80 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105920 | Telmisartan-1A Pharma 20 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105923 | Telmisartan-1A Pharma 40 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105924 | Telmisartan-1A Pharma 80 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105925 | Telmisartan HEXAL 20 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105926 | Telmisartan HEXAL 40 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 105927 | Telmisartan HEXAL 80 mg, tabletten | TELMISARTAN | Tablet | Geldig |
-| RVG 106142 | Telmisartan Glenmark 20 mg, Filmomhulde Tabletten | TELMISARTAN | Filmomhulde tablet | Geldig |
-| RVG 106144 | Telmisartan Glenmark 40 mg, Filmomhulde Tabletten | TELMISARTAN | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/09/610 | Telmisartan Teva 80 mg tabletten | TELMISARTAN | Tablet | Teva B.V. | Geldig |
+| EU/1/10/632 | Tolura 20 mg tabletten | TELMISARTAN | Tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/10/639 | Telmisartan Actavis 80 mg tabletten | TELMISARTAN | Tablet | Actavis Group PTC ehf | Geldig |
+| EU/1/98/089 | Pritor 20 mg, tabletten | TELMISARTAN | Tablet | Bayer AG | Geldig |
+| EU/1/98/090 | Micardis 40 mg, tabletten | TELMISARTAN | Tablet | Boehringer Ingelheim International GmbH | Geldig |
+| EU/1/98/091 | Kinzalmono 80 mg, tabletten | TELMISARTAN | Tablet | Bayer AG | Geldig |
+| RVG 104792 | Telmisartan Xiromed 20 mg tabletten | TELMISARTAN | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 104793 | Telmisartan Xiromed 40 mg tabletten | TELMISARTAN | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 104794 | Telmisartan Xiromed 80 mg tabletten | TELMISARTAN | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 105916 | Telmisartan Sandoz 20 mg, tabletten | TELMISARTAN | Tablet | Sandoz B.V. | Geldig |
+| RVG 105917 | Telmisartan Sandoz 40 mg, tabletten | TELMISARTAN | Tablet | Sandoz B.V. | Geldig |
+| RVG 105918 | Telmisartan Sandoz 80 mg, tabletten | TELMISARTAN | Tablet | Sandoz B.V. | Geldig |
+| RVG 105920 | Telmisartan-1A Pharma 20 mg, tabletten | TELMISARTAN | Tablet | 1A Pharma GmbH | Geldig |
+| RVG 105923 | Telmisartan-1A Pharma 40 mg, tabletten | TELMISARTAN | Tablet | 1A Pharma GmbH | Geldig |
+| RVG 105924 | Telmisartan-1A Pharma 80 mg, tabletten | TELMISARTAN | Tablet | 1A Pharma GmbH | Geldig |
+| RVG 105925 | Telmisartan HEXAL 20 mg, tabletten | TELMISARTAN | Tablet | Hexal AG | Geldig |
+| RVG 105926 | Telmisartan HEXAL 40 mg, tabletten | TELMISARTAN | Tablet | Hexal AG | Geldig |
+| RVG 105927 | Telmisartan HEXAL 80 mg, tabletten | TELMISARTAN | Tablet | Hexal AG | Geldig |
+| RVG 106142 | Telmisartan Glenmark 20 mg, Filmomhulde Tabletten | TELMISARTAN | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 106144 | Telmisartan Glenmark 40 mg, Filmomhulde Tabletten | TELMISARTAN | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
 
 Getoond worden 20 van de 73 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

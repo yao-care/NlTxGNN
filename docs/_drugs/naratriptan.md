@@ -99,16 +99,16 @@ Geen van deze publicaties richt zich specifiek op migraine met hersenstamaura.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 21444 | Naramig, filmomhulde tabletten 2,5 mg | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 101278 | Naratriptan HCl 2,5 mg Teva, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 103687 | Naratriptan Sandoz 2,5 mg, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 105205 | Naratriptan CF 2,5 mg, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 106591 | Naratriptan Viatris 2,5 mg, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 106987 | Naratriptan Aurobindo 2,5 mg, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 21444 | Naramig, filmomhulde tabletten 2,5 mg | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 101278 | Naratriptan HCl 2,5 mg Teva, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 103687 | Naratriptan Sandoz 2,5 mg, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 105205 | Naratriptan CF 2,5 mg, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 106591 | Naratriptan Viatris 2,5 mg, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 106987 | Naratriptan Aurobindo 2,5 mg, filmomhulde tabletten | NARATRIPTANHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

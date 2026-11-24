@@ -90,24 +90,24 @@ Geen van de onderstaande publicaties onderzoekt bumetanide direct bij acute pulm
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06785 | Burinex 1 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 08812 | Burinex 5 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 12412 | Burinex 0,5 mg/ml, oplossing voor injectie | BUMETANIDE | Oplossing voor injectie | Geldig |
-| RVG 18088 | Burinex 2 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 23048 | Bumetanide Sandoz tablet 1, tabletten 1 mg | BUMETANIDE | Tablet | Geldig |
-| RVG 23049 | Bumetanide Sandoz tablet 5, tabletten 5 mg | BUMETANIDE | Tablet | Geldig |
-| RVG 23140 | Bumetanide CF 1 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 23141 | Bumetanide CF 5 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 23385 | Bumetanide Unichem 1 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 23386 | Bumetanide Unichem 5 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 24312 | Bumetanide Sandoz tablet 2, tabletten 2 mg | BUMETANIDE | Tablet | Geldig |
-| RVG 24313 | Bumetanide CF 2 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 24314 | Bumetanide Unichem 2 mg, tabletten | BUMETANIDE | Tablet | Geldig |
-| RVG 115707//12412 | Burinex 0,5 mg/ml, oplossing voor injectie | BUMETANIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06785 | Burinex 1 mg, tabletten | BUMETANIDE | Tablet | Karo Pharma AB | Geldig |
+| RVG 08812 | Burinex 5 mg, tabletten | BUMETANIDE | Tablet | Karo Pharma AB | Geldig |
+| RVG 12412 | Burinex 0,5 mg/ml, oplossing voor injectie | BUMETANIDE | Oplossing voor injectie | Karo Pharma AB | Geldig |
+| RVG 18088 | Burinex 2 mg, tabletten | BUMETANIDE | Tablet | Karo Pharma AB | Geldig |
+| RVG 23048 | Bumetanide Sandoz tablet 1, tabletten 1 mg | BUMETANIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 23049 | Bumetanide Sandoz tablet 5, tabletten 5 mg | BUMETANIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 23140 | Bumetanide CF 1 mg, tabletten | BUMETANIDE | Tablet | Centrafarm B.V. | Geldig |
+| RVG 23141 | Bumetanide CF 5 mg, tabletten | BUMETANIDE | Tablet | Centrafarm B.V. | Geldig |
+| RVG 23385 | Bumetanide Unichem 1 mg, tabletten | BUMETANIDE | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 23386 | Bumetanide Unichem 5 mg, tabletten | BUMETANIDE | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 24312 | Bumetanide Sandoz tablet 2, tabletten 2 mg | BUMETANIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 24313 | Bumetanide CF 2 mg, tabletten | BUMETANIDE | Tablet | Centrafarm B.V. | Geldig |
+| RVG 24314 | Bumetanide Unichem 2 mg, tabletten | BUMETANIDE | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 115707//12412 | Burinex 0,5 mg/ml, oplossing voor injectie | BUMETANIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

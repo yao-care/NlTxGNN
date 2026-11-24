@@ -84,24 +84,24 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 18356 | Casodex-50, filmomhulde tabletten 50 mg | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 33520 | Bicalutamide 50, filmomhulde tablet 50 mg | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 34228 | Bilumide 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 34467 | Bicalutamide 50 PCH, filmomhulde tabletten 50 mg | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 34468 | Bicalutamide 150 PCH, filmomhulde tabletten 150 mg | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 34712 | Bicalutamide Aurobindo 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 100334 | Bicalutamide Accord 50mg filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 102249 | Biluron 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 102251 | Biluron 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 116494 | Bicalutamide Aurobindo 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 123578 | Bicalutamide Accord 150 mg filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 131397 | Bicalutamide Eugia 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 131399 | Bicalutamide Eugia 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
-| RVG 119691//18356 | Casodex 50 mg, filmomhulde tabletten | BICALUTAMIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 18356 | Casodex-50, filmomhulde tabletten 50 mg | BICALUTAMIDE | Filmomhulde tablet | Laboratoires Juvise Pharmaceuticals | Geldig |
+| RVG 33520 | Bicalutamide 50, filmomhulde tablet 50 mg | BICALUTAMIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 34228 | Bilumide 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Bennett Pharmaceuticals S.A. | Geldig |
+| RVG 34467 | Bicalutamide 50 PCH, filmomhulde tabletten 50 mg | BICALUTAMIDE | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 34468 | Bicalutamide 150 PCH, filmomhulde tabletten 150 mg | BICALUTAMIDE | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 34712 | Bicalutamide Aurobindo 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 100334 | Bicalutamide Accord 50mg filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102249 | Biluron 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Genthon B.V. | Geldig |
+| RVG 102251 | Biluron 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Genthon B.V. | Geldig |
+| RVG 116494 | Bicalutamide Aurobindo 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 123578 | Bicalutamide Accord 150 mg filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 131397 | Bicalutamide Eugia 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 131399 | Bicalutamide Eugia 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 119691//18356 | Casodex 50 mg, filmomhulde tabletten | BICALUTAMIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

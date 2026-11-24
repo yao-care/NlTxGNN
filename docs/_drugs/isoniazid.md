@@ -94,13 +94,13 @@ Daarnaast zijn vijf publicaties gevonden (PMID 14195962, 10084173, 7505555, 1222
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 52072 | Isoniazide Costero 200 mg, tabletten | ISONIAZIDE | Tablet | Geldig |
-| RVG 15460 | Rifinah 300 mg/150 mg, filmomhulde tablet | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | Geldig |
-| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 52072 | Isoniazide Costero 200 mg, tabletten | ISONIAZIDE | Tablet | Costero B.V. | Geldig |
+| RVG 15460 | Rifinah 300 mg/150 mg, filmomhulde tablet | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | Sanofi B.V. | Geldig |
+| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

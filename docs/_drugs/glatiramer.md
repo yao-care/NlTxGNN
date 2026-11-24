@@ -84,19 +84,19 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 30086 | Copaxone 20 mg/ml voorgevulde spuit, oplossing voor injectie | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
-| RVG 113849 | Copaxone 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
-| RVG 115980 | Brabio 20 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
-| RVG 115987 | Sclerthon 20 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
-| RVG 115993 | Glatirameeracetaat Mylan 20 mg/ml, oplossing voor injectie in een voorgevulde s… | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
-| RVG 119315 | Marcyto 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
-| RVG 119319 | Glatirameeracetaat Viatris 40 mg/ml, oplossing voor injectie in een voorgevulde… | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
-| RVG 119321 | Glatirameeracetaat Zentiva 40 mg/ml, oplossing voor injectie in een voorgevulde… | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
-| RVG 119322 | Sclerthon 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 30086 | Copaxone 20 mg/ml voorgevulde spuit, oplossing voor injectie | GLATIRAMEERACETAAT | Oplossing voor injectie | Teva GmbH | Geldig |
+| RVG 113849 | Copaxone 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Teva GmbH | Geldig |
+| RVG 115980 | Brabio 20 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Synthon B.V. | Geldig |
+| RVG 115987 | Sclerthon 20 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Synthon B.V. | Geldig |
+| RVG 115993 | Glatirameeracetaat Mylan 20 mg/ml, oplossing voor injectie in een voorgevulde s… | GLATIRAMEERACETAAT | Oplossing voor injectie | – | Geldig |
+| RVG 119315 | Marcyto 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Synthon B.V. | Geldig |
+| RVG 119319 | Glatirameeracetaat Viatris 40 mg/ml, oplossing voor injectie in een voorgevulde… | GLATIRAMEERACETAAT | Oplossing voor injectie | Viatris Limited | Geldig |
+| RVG 119321 | Glatirameeracetaat Zentiva 40 mg/ml, oplossing voor injectie in een voorgevulde… | GLATIRAMEERACETAAT | Oplossing voor injectie | Zentiva k.s. | Geldig |
+| RVG 119322 | Sclerthon 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Synthon B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -70,21 +70,21 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 100957 | Toctino 10 mg, capsules, zacht | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 100962 | Toctino 30 mg, capsules, zacht | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 121497 | Alizem 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 121499 | Alitretinoïne IFC 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 121500 | Alitretinoïne IFC 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 121503 | Alipalmtin 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 121504 | Alipalmtin 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 130529//121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 130557//121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
-| RVG 119813//100962 | Toctino 30 mg, capsules, zacht | ALITRETINOÏNE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 100957 | Toctino 10 mg, capsules, zacht | ALITRETINOÏNE | Capsule, zacht | Stiefel Laboratories Legacy (Ireland) Limited, Unit 2 | Geldig |
+| RVG 100962 | Toctino 30 mg, capsules, zacht | ALITRETINOÏNE | Capsule, zacht | Stiefel Laboratories Legacy (Ireland) Limited, Unit 2 | Geldig |
+| RVG 121497 | Alizem 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Pierre Fabre Medicament | Geldig |
+| RVG 121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Pierre Fabre Medicament | Geldig |
+| RVG 121499 | Alitretinoïne IFC 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Industrial Farmaceutica Cantabria S.A. | Geldig |
+| RVG 121500 | Alitretinoïne IFC 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Industrial Farmaceutica Cantabria S.A. | Geldig |
+| RVG 121503 | Alipalmtin 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Orifarm Healthcare A/S | Geldig |
+| RVG 121504 | Alipalmtin 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Orifarm Healthcare A/S | Geldig |
+| RVG 130529//121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Euro Registratie Collectief B.V. | Geldig |
+| RVG 130557//121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Originalis B.V. | Geldig |
+| RVG 119813//100962 | Toctino 30 mg, capsules, zacht | ALITRETINOÏNE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -70,28 +70,28 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28635 | Chloortalidon Teva 12,5 mg, tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 53388 | Chloortalidon Aurobindo 25 mg, tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 125763 | Chloortalidon 12,5 mg Focus Care, tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 129595 | Chloortalidon Xiromed 12,5 mg tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 129597 | Chloortalidon Xiromed 25 mg tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 129598 | Chloortalidon Xiromed 50 mg tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 131377 | Chloortalidon Glenmark 12,5 mg tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 131381 | Chloortalidon Glenmark 25 mg tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 131382 | Chloortalidon Glenmark 50 mg tabletten | CHLOORTALIDON | Tablet | Geldig |
-| RVG 17035 | Atenolol/Chloortalidon Sandoz 50/12,5 mg, filmomhulde tabletten | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Geldig |
-| RVG 17036 | Atenolol/Chloortalidon Sandoz 100/25 mg, filmomhulde tabletten | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Geldig |
-| RVG 18617 | Atenolol/Chloortalidon Aurobindo 62,5 mg, tabletten 50/12,5 mg | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Geldig |
-| RVG 18618 | Atenolol/Chloortalidon Aurobindo 125 mg, tabletten 100/25 mg | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Geldig |
-| RVG 116373 | Edarclor 40 mg/12,5 mg, filmomhulde tabletten | AZILSARTANMEDOXOMIL KALIUM, CHLOORTALIDON | Filmomhulde tablet | Geldig |
-| RVG 116387 | Edarclor 40 mg/25 mg, filmomhulde tabletten | CHLOORTALIDON, AZILSARTANMEDOXOMIL KALIUM | Filmomhulde tablet | Geldig |
-| RVG 56899 | Chloortalidon Accord 25 mg, tabletten | CHLOORTALIDON | – | Niet geregistreerd |
-| RVG 57118 | Atenolol/Chloortalidon Mylan 50/12,5 mg, tabletten | CHLOORTALIDON, ATENOLOL | – | Niet geregistreerd |
-| RVG 57119 | Atenolol/Chloortalidon Mylan 100/25 mg, tabletten | ATENOLOL, CHLOORTALIDON | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28635 | Chloortalidon Teva 12,5 mg, tabletten | CHLOORTALIDON | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 53388 | Chloortalidon Aurobindo 25 mg, tabletten | CHLOORTALIDON | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 125763 | Chloortalidon 12,5 mg Focus Care, tabletten | CHLOORTALIDON | Tablet | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 129595 | Chloortalidon Xiromed 12,5 mg tabletten | CHLOORTALIDON | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 129597 | Chloortalidon Xiromed 25 mg tabletten | CHLOORTALIDON | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 129598 | Chloortalidon Xiromed 50 mg tabletten | CHLOORTALIDON | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 131377 | Chloortalidon Glenmark 12,5 mg tabletten | CHLOORTALIDON | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 131381 | Chloortalidon Glenmark 25 mg tabletten | CHLOORTALIDON | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 131382 | Chloortalidon Glenmark 50 mg tabletten | CHLOORTALIDON | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 17035 | Atenolol/Chloortalidon Sandoz 50/12,5 mg, filmomhulde tabletten | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 17036 | Atenolol/Chloortalidon Sandoz 100/25 mg, filmomhulde tabletten | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 18617 | Atenolol/Chloortalidon Aurobindo 62,5 mg, tabletten 50/12,5 mg | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 18618 | Atenolol/Chloortalidon Aurobindo 125 mg, tabletten 100/25 mg | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 116373 | Edarclor 40 mg/12,5 mg, filmomhulde tabletten | AZILSARTANMEDOXOMIL KALIUM, CHLOORTALIDON | Filmomhulde tablet | Takeda Pharma A/S | Geldig |
+| RVG 116387 | Edarclor 40 mg/25 mg, filmomhulde tabletten | CHLOORTALIDON, AZILSARTANMEDOXOMIL KALIUM | Filmomhulde tablet | – | Geldig |
+| RVG 56899 | Chloortalidon Accord 25 mg, tabletten | CHLOORTALIDON | – | – | Niet geregistreerd |
+| RVG 57118 | Atenolol/Chloortalidon Mylan 50/12,5 mg, tabletten | CHLOORTALIDON, ATENOLOL | – | – | Niet geregistreerd |
+| RVG 57119 | Atenolol/Chloortalidon Mylan 100/25 mg, tabletten | ATENOLOL, CHLOORTALIDON | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

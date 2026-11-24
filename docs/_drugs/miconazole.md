@@ -91,30 +91,30 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06193 | Daktarin creme 20 mg/g, creme | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 06195 | Daktarin strooipoeder 20 mg/g,strooipoeder | MICONAZOLNITRAAT | Strooipoeder | Geldig |
-| RVG 07461 | Daktarin nagellak 20 mg/ml, oplossing voor cutaan gebruik | MICONAZOL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 07490 | Daktarin gel voor oraal gebruik 20 mg/g, gel | MICONAZOL | Gel voor oraal gebruik | Geldig |
-| RVG 15382 | Miconazolnitraat Teva 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 20409 | Miconazolnitraat ratiopharm, hydrofiele creme 20 mg/g | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 22843=15382 | miconazolnitraat antischimmelcrème Sanias 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 22848=15382 | Miconazolnitraat Sandoz crème 20, hydrofiele crème 20 mg/g | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 22899=15382 | Leidapharm Antischimmelcrème Miconazolnitraat 20 mg/g, crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 23178=15382 | Miconazolnitraat Sanias 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 23604=20409 | Antischimmelcrème HTP Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 28585=15382 | Kruidvat Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 113077 | Trekpleister Antischimmelcrème miconazolnitraat 20 mg/g, crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 123225=15382 | Livsane Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 123628=15382 | Etos Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 127691=15382 | Miconazolnitraat SAM 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 133887//07461 | Daktarin nagellak 20 mg/ml, oplossing voor cutaan gebruik | MICONAZOL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 09130 | Acnecare crème, 20 mg/g + 50 mg/g, crème | BENZOYLPEROXIDE n-WATER, MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 15469 | Miconazolnitraat/Hydrocortison Teva 20/10 mg/g, hydrofiele crème | HYDROCORTISON, MICONAZOLNITRAAT | Crème | Geldig |
-| RVG 109548//07461 | Daktarin nagellak 20 mg/ml, nagellak | MICONAZOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06193 | Daktarin creme 20 mg/g, creme | MICONAZOLNITRAAT | Crème | Kenvue Netherlands B.V. | Geldig |
+| RVG 06195 | Daktarin strooipoeder 20 mg/g,strooipoeder | MICONAZOLNITRAAT | Strooipoeder | Kenvue Netherlands B.V. | Geldig |
+| RVG 07461 | Daktarin nagellak 20 mg/ml, oplossing voor cutaan gebruik | MICONAZOL | Oplossing voor cutaan gebruik | Kenvue Netherlands B.V. | Geldig |
+| RVG 07490 | Daktarin gel voor oraal gebruik 20 mg/g, gel | MICONAZOL | Gel voor oraal gebruik | Kenvue Netherlands B.V. | Geldig |
+| RVG 15382 | Miconazolnitraat Teva 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Teva B.V. | Geldig |
+| RVG 20409 | Miconazolnitraat ratiopharm, hydrofiele creme 20 mg/g | MICONAZOLNITRAAT | Crème | ratiopharm GmbH | Geldig |
+| RVG 22843=15382 | miconazolnitraat antischimmelcrème Sanias 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Aurobindo Pharma B.V. | Geldig |
+| RVG 22848=15382 | Miconazolnitraat Sandoz crème 20, hydrofiele crème 20 mg/g | MICONAZOLNITRAAT | Crème | Sandoz B.V. | Geldig |
+| RVG 22899=15382 | Leidapharm Antischimmelcrème Miconazolnitraat 20 mg/g, crème | MICONAZOLNITRAAT | Crème | Leidapharm B.V. | Geldig |
+| RVG 23178=15382 | Miconazolnitraat Sanias 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Aurobindo Pharma B.V. | Geldig |
+| RVG 23604=20409 | Antischimmelcrème HTP Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Healthypharm B.V. | Geldig |
+| RVG 28585=15382 | Kruidvat Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Marel B.V. | Geldig |
+| RVG 113077 | Trekpleister Antischimmelcrème miconazolnitraat 20 mg/g, crème | MICONAZOLNITRAAT | Crème | Marel B.V. | Geldig |
+| RVG 123225=15382 | Livsane Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Teva Nederland B.V. | Geldig |
+| RVG 123628=15382 | Etos Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Teva Nederland B.V. | Geldig |
+| RVG 127691=15382 | Miconazolnitraat SAM 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Mosadex Services B.V. | Geldig |
+| RVG 133887//07461 | Daktarin nagellak 20 mg/ml, oplossing voor cutaan gebruik | MICONAZOL | Oplossing voor cutaan gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 09130 | Acnecare crème, 20 mg/g + 50 mg/g, crème | BENZOYLPEROXIDE n-WATER, MICONAZOLNITRAAT | Crème | Louis WIDMER GmbH | Geldig |
+| RVG 15469 | Miconazolnitraat/Hydrocortison Teva 20/10 mg/g, hydrofiele crème | HYDROCORTISON, MICONAZOLNITRAAT | Crème | Teva B.V. | Geldig |
+| RVG 109548//07461 | Daktarin nagellak 20 mg/ml, nagellak | MICONAZOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

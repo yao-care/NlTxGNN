@@ -87,28 +87,28 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 33257 | Calcipotriol Nevik 50 microgram/g, zalf | CALCIPOTRIOL | Zalf | Geldig |
-| RVG 33409 | Calcipotriol 0,05 mg/g, zalf | CALCIPOTRIOL | Zalf | Geldig |
-| RVG 33410 | Calcipotriol Sandoz zalf 0,05 mg/g, zalf | CALCIPOTRIOL | Zalf | Geldig |
-| RVG 101239 | Calcipotriol Sandoz lotion 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 101240 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 27095 | Dovobet 50 microgram/0,5 mg/g zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Geldig |
-| RVG 100401 | Dovobet 50 microgram/0,5 mg/g gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Geldig |
-| RVG 112323 | Calcipotriol/Betamethason Teva 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Zalf | Geldig |
-| RVG 116941 | Calcipotriol/Betamethason Sandoz 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Geldig |
-| RVG 117172 | Enstilar 50 microgram/g + 0,5mg/g, schuim voor cutaan gebruik | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Schuim voor cutaan gebruik | Geldig |
-| RVG 117920 | Calcipotriol/Betamethason Sandoz 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Geldig |
-| RVG 126775 | Calcipotriol/Betamethason Aristo 50 microgram/g + 0,5 mg/g, gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Geldig |
-| RVG 127013 | Wynzora, 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Geldig |
-| RVG 131715 | Crysalis 50 microgram/g + 0,5 mg/g, gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Geldig |
-| RVG 133237//127013 | Wynzora 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Geldig |
-| RVG 133640//127013 | Wynzora 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Geldig |
-| RVG 136800//127013 | Winxory 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Geldig |
-| RVG 101242 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 33257 | Calcipotriol Nevik 50 microgram/g, zalf | CALCIPOTRIOL | Zalf | Svizera Europe B.V. | Geldig |
+| RVG 33409 | Calcipotriol 0,05 mg/g, zalf | CALCIPOTRIOL | Zalf | Sandoz B.V. | Geldig |
+| RVG 33410 | Calcipotriol Sandoz zalf 0,05 mg/g, zalf | CALCIPOTRIOL | Zalf | Sandoz B.V. | Geldig |
+| RVG 101239 | Calcipotriol Sandoz lotion 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | Oplossing voor cutaan gebruik | Sandoz B.V. | Geldig |
+| RVG 101240 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | Oplossing voor cutaan gebruik | Sandoz B.V. | Geldig |
+| RVG 27095 | Dovobet 50 microgram/0,5 mg/g zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | LEO Pharma A/S | Geldig |
+| RVG 100401 | Dovobet 50 microgram/0,5 mg/g gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | LEO Pharma A/S | Geldig |
+| RVG 112323 | Calcipotriol/Betamethason Teva 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Zalf | Teva Nederland B.V. | Geldig |
+| RVG 116941 | Calcipotriol/Betamethason Sandoz 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Sandoz B.V. | Geldig |
+| RVG 117172 | Enstilar 50 microgram/g + 0,5mg/g, schuim voor cutaan gebruik | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Schuim voor cutaan gebruik | LEO Pharma A/S | Geldig |
+| RVG 117920 | Calcipotriol/Betamethason Sandoz 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Sandoz B.V. | Geldig |
+| RVG 126775 | Calcipotriol/Betamethason Aristo 50 microgram/g + 0,5 mg/g, gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Aristo Pharma GmbH | Geldig |
+| RVG 127013 | Wynzora, 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Almirall S.A. | Geldig |
+| RVG 131715 | Crysalis 50 microgram/g + 0,5 mg/g, gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Laboratoires Medgen | Geldig |
+| RVG 133237//127013 | Wynzora 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 133640//127013 | Wynzora 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Euro Registratie Collectief B.V. | Geldig |
+| RVG 136800//127013 | Winxory 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 101242 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

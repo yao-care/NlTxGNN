@@ -115,19 +115,19 @@ Voor de derde voorspelling is geen literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/13/830 | Stribild 150 mg/150 mg/200 mg/245 mg filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/16/1151 | Emtricitabine/tenofovirdisoproxil Krka 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
-| EU/1/17/1182 | Emtricitabine/tenofovir disoproxil Krka d.d. 200/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
-| RVG 119677 | Emtricitabine/Tenofovirdisoproxil Glenmark 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
-| RVG 122434 | Emtricitabine/Tenofovir disoproxil Accordpharma 200 mg/245 mg filmomhulde table… | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 122437 | Emtricitabine/Tenofovirdisoproxil Amarox 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 123624 | Emtricitabine/Tenofovirdisoproxil Tillomed 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 125537 | Valdevon 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 117135 | Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten | TENOFOVIR, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/13/830 | Stribild 150 mg/150 mg/200 mg/245 mg filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Gilead Sciences Ireland UC | Geldig |
+| EU/1/16/1151 | Emtricitabine/tenofovirdisoproxil Krka 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/17/1182 | Emtricitabine/tenofovir disoproxil Krka d.d. 200/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 119677 | Emtricitabine/Tenofovirdisoproxil Glenmark 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 122434 | Emtricitabine/Tenofovir disoproxil Accordpharma 200 mg/245 mg filmomhulde table… | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 122437 | Emtricitabine/Tenofovirdisoproxil Amarox 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 123624 | Emtricitabine/Tenofovirdisoproxil Tillomed 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Tillomed Pharma GmbH | Geldig |
+| RVG 125537 | Valdevon 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Vocate Pharmaceuticals SA | Geldig |
+| RVG 117135 | Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten | TENOFOVIR, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

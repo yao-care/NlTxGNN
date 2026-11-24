@@ -97,18 +97,18 @@ De klinische onderbouwing is zwak. Er is geen fase 3-onderzoek of gerandomiseerd
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/10/633 | Topotecan Hospira 1 mg/ml, concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| EU/1/10/660 | Potactasol 1 mg/ml, poeder voor concentraat voor oplossing voor injectie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| EU/1/96/027 | Hycamtin 1,0mg, Capsule, hard | TOPOTECANHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 105701 | Topotecan Sandoz 1 mg/ml, concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 107992 | Topotecan Hikma 1 mg poeder voor concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 107993 | Topotecan Hikma 4 mg poeder voor concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 109171 | Topotecan Accord 1 mg/ml Concentraat voor Oplossing voor Infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 112402 | Topotecan Fresenius Kabi 1 mg/ml, concentraat voor oplossing voor infusie. | TOPOTECANHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/10/633 | Topotecan Hospira 1 mg/ml, concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Pfizer Europe MA EEIG | Geldig |
+| EU/1/10/660 | Potactasol 1 mg/ml, poeder voor concentraat voor oplossing voor injectie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Actavis Group PTC ehf | Geldig |
+| EU/1/96/027 | Hycamtin 1,0mg, Capsule, hard | TOPOTECANHYDROCHLORIDE | Capsule, hard | Sandoz Pharmaceuticals d.d. | Geldig |
+| RVG 105701 | Topotecan Sandoz 1 mg/ml, concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Sandoz B.V. | Geldig |
+| RVG 107992 | Topotecan Hikma 1 mg poeder voor concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 107993 | Topotecan Hikma 4 mg poeder voor concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 109171 | Topotecan Accord 1 mg/ml Concentraat voor Oplossing voor Infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Accord Healthcare B.V. | Geldig |
+| RVG 112402 | Topotecan Fresenius Kabi 1 mg/ml, concentraat voor oplossing voor infusie. | TOPOTECANHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

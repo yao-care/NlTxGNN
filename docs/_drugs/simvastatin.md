@@ -105,32 +105,32 @@ Slechts twee studies (NCT00552097 en NCT00129402) geven direct bewijs voor een s
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 13193 | Zocor 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 13194 | Zocor 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 13195 | Zocor 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 28508 | Simvastatine CF 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 28509 | Simvastatine CF 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 30104 | Simvastatine Viatris 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 30105 | Simvastatine Viatris 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 30106 | Simvastatine Viatris 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 30107 | Simvastatine Viatris 80 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 32196 | Simvastatine Sandoz 60 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 32904 | Simvastatine Aurobindo 5 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 32905 | Simvastatine Aurobindo 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 32906 | Simvastatine Aurobindo 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 32907 | Simvastatine Aurobindo 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 32908 | Simvastatine Aurobindo 80 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 33009 | Simvastatine Sandoz 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 33010 | Simvastatine Sandoz 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 33011 | Simvastatine Sandoz 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 33958 | Simvastatine 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
-| RVG 33959 | Simvastatine 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 13193 | Zocor 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 13194 | Zocor 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 13195 | Zocor 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 28508 | Simvastatine CF 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 28509 | Simvastatine CF 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 30104 | Simvastatine Viatris 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 30105 | Simvastatine Viatris 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 30106 | Simvastatine Viatris 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 30107 | Simvastatine Viatris 80 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 32196 | Simvastatine Sandoz 60 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 32904 | Simvastatine Aurobindo 5 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 32905 | Simvastatine Aurobindo 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 32906 | Simvastatine Aurobindo 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 32907 | Simvastatine Aurobindo 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 32908 | Simvastatine Aurobindo 80 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 33009 | Simvastatine Sandoz 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 33010 | Simvastatine Sandoz 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 33011 | Simvastatine Sandoz 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 33958 | Simvastatine 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | BioOrganics BV | Geldig |
+| RVG 33959 | Simvastatine 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | BioOrganics BV | Geldig |
 
 Getoond worden 20 van de 76 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

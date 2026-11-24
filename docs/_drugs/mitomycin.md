@@ -76,18 +76,18 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 109336 | Mitomycine Substipharm 20 mg, Poeder voor oplossing voor injectie of infusie en… | MITOMYCINE | Poeder voor oplossing voor injectie of infusie, O… | Geldig |
-| RVG 109591 | Mitomycine Substipharm 20 mg, Poeder en oplosmiddel voor oplossing voor intrave… | MITOMYCINE | Oplossing voor intravesicaal gebruik | Geldig |
-| RVG 114587 | Mitomycine medac 40 mg, poeder en oplosmiddel voor oplossing voor intravesicaal… | MITOMYCINE | Poeder en oplosmiddel voor oplossing voor intrave… | Geldig |
-| RVG 114595 | Mitomycine medac 20 mg, poeder en oplosmiddel voor oplossing voor intravesicaal… | MITOMYCINE | Poeder en oplosmiddel voor oplossing voor intrave… | Geldig |
-| RVG 114858 | Mitomycine Accord 2 mg, poeder voor oplossing voor injectie / infusie of intrav… | MITOMYCINE | Poeder voor oplossing voor injectie of infusie, O… | Geldig |
-| RVG 114861 | Mitomycine Accord 10 mg, poeder voor oplossing voor injectie / infusie of intra… | MITOMYCINE | Poeder voor oplossing voor injectie of infusie, O… | Geldig |
-| RVG 114862 | Mitomycine Accord 20 mg, poeder voor oplossing voor injectie / infusie of intra… | MITOMYCINE | Poeder voor oplossing voor injectie of infusie, O… | Geldig |
-| RVG 119217 | Mitomycine Accord 40 mg, poeder voor oplossing voor injectie/infusie | MITOMYCINE | Poeder voor oplossing voor injectie of infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 109336 | Mitomycine Substipharm 20 mg, Poeder voor oplossing voor injectie of infusie en… | MITOMYCINE | Poeder voor oplossing voor injectie of infusie, O… | Substipharm | Geldig |
+| RVG 109591 | Mitomycine Substipharm 20 mg, Poeder en oplosmiddel voor oplossing voor intrave… | MITOMYCINE | Oplossing voor intravesicaal gebruik | Substipharm | Geldig |
+| RVG 114587 | Mitomycine medac 40 mg, poeder en oplosmiddel voor oplossing voor intravesicaal… | MITOMYCINE | Poeder en oplosmiddel voor oplossing voor intrave… | Medac Gesellschaft für klinische Spezialpräparate mbH | Geldig |
+| RVG 114595 | Mitomycine medac 20 mg, poeder en oplosmiddel voor oplossing voor intravesicaal… | MITOMYCINE | Poeder en oplosmiddel voor oplossing voor intrave… | Medac Gesellschaft für klinische Spezialpräparate mbH | Geldig |
+| RVG 114858 | Mitomycine Accord 2 mg, poeder voor oplossing voor injectie / infusie of intrav… | MITOMYCINE | Poeder voor oplossing voor injectie of infusie, O… | Accord Healthcare B.V. | Geldig |
+| RVG 114861 | Mitomycine Accord 10 mg, poeder voor oplossing voor injectie / infusie of intra… | MITOMYCINE | Poeder voor oplossing voor injectie of infusie, O… | Accord Healthcare B.V. | Geldig |
+| RVG 114862 | Mitomycine Accord 20 mg, poeder voor oplossing voor injectie / infusie of intra… | MITOMYCINE | Poeder voor oplossing voor injectie of infusie, O… | – | Geldig |
+| RVG 119217 | Mitomycine Accord 40 mg, poeder voor oplossing voor injectie/infusie | MITOMYCINE | Poeder voor oplossing voor injectie of infusie | Accord Healthcare B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -80,17 +80,17 @@ De gevonden publicaties beschrijven de ziekte zelf, andere behandelingen of alge
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 21966 | Amiodaron HCl Sandoz 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 24101=57505 | Amiodaron HCl Mylan 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 32850 | Amiodaron HCl Hikma, 50 mg/ml oplossing voor injectie | AMIODARONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 57505 | Amiodaron HCl Mylan 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 117253 | Amiodaron HCl Aurobindo 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 121324 | Amiodaron HCl hameln 50 mg/ml, concentraat voor oplossing voor injectie/infusie | AMIODARONHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | Geldig |
-| RVG 125827 | Amiodaron HCl hameln 20 mg/ml, oplossing voor infusie | AMIODARONHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 21966 | Amiodaron HCl Sandoz 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 24101=57505 | Amiodaron HCl Mylan 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Mylan B.V. | Geldig |
+| RVG 32850 | Amiodaron HCl Hikma, 50 mg/ml oplossing voor injectie | AMIODARONHYDROCHLORIDE | Oplossing voor injectie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 57505 | Amiodaron HCl Mylan 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Mylan B.V. | Geldig |
+| RVG 117253 | Amiodaron HCl Aurobindo 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | – | Geldig |
+| RVG 121324 | Amiodaron HCl hameln 50 mg/ml, concentraat voor oplossing voor injectie/infusie | AMIODARONHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | hameln pharma gmbh | Geldig |
+| RVG 125827 | Amiodaron HCl hameln 20 mg/ml, oplossing voor infusie | AMIODARONHYDROCHLORIDE | Oplossing voor infusie | hameln pharma gmbh | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

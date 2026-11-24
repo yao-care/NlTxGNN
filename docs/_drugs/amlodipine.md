@@ -70,32 +70,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor deze aandoening.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 13348 | Norvasc 5, tabletten 5 mg | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 13349 | Norvasc 10, tabletten 10 mg | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 27579 | Amlodipine Krka 5 mg tabletten | AMLODIPINEMALEAAT | Tablet | Geldig |
-| RVG 27580 | Amlodipine Krka 10 mg tabletten | AMLODIPINEMALEAAT | Tablet | Geldig |
-| RVG 31466 | Amlober 5 mg tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31467 | Amlober 10 mg tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31468 | Amlodno 5 mg tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31469 | Amlodno 10 mg tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31487 | Amlodipine Heumann 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31488 | Amlodipine Heumann 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31805 | Amlodipine (als besilaat) ratiopharm 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31806 | Amlodipine (als besilaat) ratiopharm 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31807 | Amlodipine 5 mg ratiopharm, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31808 | Amlodipine 10 mg ratiopharm, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31809 | Amlodipine CT 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 31810 | Amlodipine CT 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 34063 | Amlodipine (als besilaat) Sandoz 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 34065 | Amlodipine (als besilaat) Sandoz 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 34592 | Amlodipine DOC Generici 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
-| RVG 34593 | Amlodipine DOC Generici 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 13348 | Norvasc 5, tabletten 5 mg | AMLODIPINEBESILAAT | Tablet | Viatris Healthcare Limited | Geldig |
+| RVG 13349 | Norvasc 10, tabletten 10 mg | AMLODIPINEBESILAAT | Tablet | Viatris Healthcare Limited | Geldig |
+| RVG 27579 | Amlodipine Krka 5 mg tabletten | AMLODIPINEMALEAAT | Tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 27580 | Amlodipine Krka 10 mg tabletten | AMLODIPINEMALEAAT | Tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 31466 | Amlober 5 mg tabletten | AMLODIPINEBESILAAT | Tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 31467 | Amlober 10 mg tabletten | AMLODIPINEBESILAAT | Tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 31468 | Amlodno 5 mg tabletten | AMLODIPINEBESILAAT | Tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 31469 | Amlodno 10 mg tabletten | AMLODIPINEBESILAAT | Tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 31487 | Amlodipine Heumann 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Heumann Pharma GmbH & Co. Generica KG | Geldig |
+| RVG 31488 | Amlodipine Heumann 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Heumann Pharma GmbH & Co. Generica KG | Geldig |
+| RVG 31805 | Amlodipine (als besilaat) ratiopharm 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | ratiopharm GmbH | Geldig |
+| RVG 31806 | Amlodipine (als besilaat) ratiopharm 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | ratiopharm GmbH | Geldig |
+| RVG 31807 | Amlodipine 5 mg ratiopharm, tabletten | AMLODIPINEBESILAAT | Tablet | ratiopharm GmbH | Geldig |
+| RVG 31808 | Amlodipine 10 mg ratiopharm, tabletten | AMLODIPINEBESILAAT | Tablet | ratiopharm GmbH | Geldig |
+| RVG 31809 | Amlodipine CT 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Teva Pharma B.V. | Geldig |
+| RVG 31810 | Amlodipine CT 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Teva Pharma B.V. | Geldig |
+| RVG 34063 | Amlodipine (als besilaat) Sandoz 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Sandoz B.V. | Geldig |
+| RVG 34065 | Amlodipine (als besilaat) Sandoz 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | Sandoz B.V. | Geldig |
+| RVG 34592 | Amlodipine DOC Generici 5 mg, tabletten | AMLODIPINEBESILAAT | Tablet | DOC Generici S.r.l. | Geldig |
+| RVG 34593 | Amlodipine DOC Generici 10 mg, tabletten | AMLODIPINEBESILAAT | Tablet | DOC Generici S.r.l. | Geldig |
 
 Getoond worden 20 van de 217 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

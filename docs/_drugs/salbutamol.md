@@ -76,32 +76,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06676 | Ventolin 5 mg/ml verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
-| RVG 07686 | Ventolin Infuus, concentraat voor oplossing voor infusie 5 mg/5 ml | SALBUTAMOLSULFAAT | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 07687 | Ventolin Injectie, oplossing voor injectie 0,5 mg/ml | SALBUTAMOLSULFAAT | Oplossing voor injectie | Geldig |
-| RVG 12587 | Ventolin 2,5 Nebules,verneveloplossing 1 mg/ml | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
-| RVG 12939 | Salbutamol 200 Cyclocaps, inhalatiepoeder (in capsules) 200 microgram | SALBUTAMOLSULFAAT | Inhalatiepoeder in harde capsule | Geldig |
-| RVG 12940 | Salbutamol 400 Cyclocaps, inhalatiepoeder (in capsules) 400 microgram | SALBUTAMOLSULFAAT | Inhalatiepoeder in harde capsule | Geldig |
-| RVG 14590 | Ventolin 5,0 Nebules, verneveloplossing 2 mg/ml | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
-| RVG 18353 | Airomir inhalator, aerosol 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
-| RVG 19496 | Ventolin Diskus 200 microgram/dosis, inhalatiepoeder, voorverdeeld | SALBUTAMOLSULFAAT | Inhalatiepoeder, voorverdeeld | Geldig |
-| RVG 21440 | Ventolin 100 Inhalator CFK-vrij, aerosol, suspensie 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
-| RVG 22393 | Airomir Autohaler, aerosol 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
-| RVG 26833 | Salbutamol Teva 100 microgram per dosis CFK-vrije inhalator, aërosol, suspensie | SALBUTAMOL | Aërosol, suspensie | Geldig |
-| RVG 26971 | Salbutamol 100 Redihaler 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
-| RVG 29458 | Salbutamol Novolizer 100 microgram, inhalatiepoeder | SALBUTAMOLSULFAAT | Inhalatiepoeder | Geldig |
-| RVG 34424 | Salbutamol Sandoz aërosol 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
-| RVG 56751 | Salbutamol Teva 5 mg/ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
-| RVG 100333 | Salamol Steri-Neb 5 mg/2,5 ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
-| RVG 127467 | Salbutamol Neutec 2,5 mg per 2,5 ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
-| RVG 131612 | Salbutamol Glenmark 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
-| RVG 134489 | Salbutamol Sandoz 100 microgram/dosis CFK-vrij, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06676 | Ventolin 5 mg/ml verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | GlaxoSmithKline B.V. | Geldig |
+| RVG 07686 | Ventolin Infuus, concentraat voor oplossing voor infusie 5 mg/5 ml | SALBUTAMOLSULFAAT | Concentraat voor oplossing voor infusie | GlaxoSmithKline B.V. | Geldig |
+| RVG 07687 | Ventolin Injectie, oplossing voor injectie 0,5 mg/ml | SALBUTAMOLSULFAAT | Oplossing voor injectie | GlaxoSmithKline B.V. | Geldig |
+| RVG 12587 | Ventolin 2,5 Nebules,verneveloplossing 1 mg/ml | SALBUTAMOLSULFAAT | Verneveloplossing | GlaxoSmithKline B.V. | Geldig |
+| RVG 12939 | Salbutamol 200 Cyclocaps, inhalatiepoeder (in capsules) 200 microgram | SALBUTAMOLSULFAAT | Inhalatiepoeder in harde capsule | Teva B.V. | Geldig |
+| RVG 12940 | Salbutamol 400 Cyclocaps, inhalatiepoeder (in capsules) 400 microgram | SALBUTAMOLSULFAAT | Inhalatiepoeder in harde capsule | Teva B.V. | Geldig |
+| RVG 14590 | Ventolin 5,0 Nebules, verneveloplossing 2 mg/ml | SALBUTAMOLSULFAAT | Verneveloplossing | GlaxoSmithKline B.V. | Geldig |
+| RVG 18353 | Airomir inhalator, aerosol 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | Teva Nederland B.V. | Geldig |
+| RVG 19496 | Ventolin Diskus 200 microgram/dosis, inhalatiepoeder, voorverdeeld | SALBUTAMOLSULFAAT | Inhalatiepoeder, voorverdeeld | GlaxoSmithKline B.V. | Geldig |
+| RVG 21440 | Ventolin 100 Inhalator CFK-vrij, aerosol, suspensie 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | GlaxoSmithKline B.V. | Geldig |
+| RVG 22393 | Airomir Autohaler, aerosol 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | Teva Nederland B.V. | Geldig |
+| RVG 26833 | Salbutamol Teva 100 microgram per dosis CFK-vrije inhalator, aërosol, suspensie | SALBUTAMOL | Aërosol, suspensie | Teva Nederland B.V. | Geldig |
+| RVG 26971 | Salbutamol 100 Redihaler 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Teva Nederland B.V. | Geldig |
+| RVG 29458 | Salbutamol Novolizer 100 microgram, inhalatiepoeder | SALBUTAMOLSULFAAT | Inhalatiepoeder | Viatris Healthcare Limited | Geldig |
+| RVG 34424 | Salbutamol Sandoz aërosol 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Sandoz B.V. | Geldig |
+| RVG 56751 | Salbutamol Teva 5 mg/ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Teva B.V. | Geldig |
+| RVG 100333 | Salamol Steri-Neb 5 mg/2,5 ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Teva Nederland B.V. | Geldig |
+| RVG 127467 | Salbutamol Neutec 2,5 mg per 2,5 ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Neutec Inhaler Ireland Limited | Geldig |
+| RVG 131612 | Salbutamol Glenmark 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 134489 | Salbutamol Sandoz 100 microgram/dosis CFK-vrij, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Sandoz B.V. | Geldig |
 
 Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

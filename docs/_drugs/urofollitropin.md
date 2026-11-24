@@ -82,16 +82,16 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 33178 | Fostimon 75 IE, poeder en oplosmiddel voor oplossing voor injectie | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 33179 | Fostimon 150 IE, poeder en oplosmiddel voor oplossing voor injectie | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 110120 | Fostimon Set 75 IE, poeder en oplosmiddel voor oplossing voor injectie in een v… | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 110121 | Fostimon Set 150 IE, poeder en oplosmiddel voor oplossing voor injectie in een… | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 111551 | FOSTIMON SET 225 IE poeder en oplosmiddel voor oplossing voor injectie in een v… | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 111552 | FOSTIMON SET 300 IE poeder en oplosmiddel voor oplossing voor injectie in voorg… | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 33178 | Fostimon 75 IE, poeder en oplosmiddel voor oplossing voor injectie | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | IBSA Farmaceutici Italia S.r.L | Geldig |
+| RVG 33179 | Fostimon 150 IE, poeder en oplosmiddel voor oplossing voor injectie | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | IBSA Farmaceutici Italia S.r.L | Geldig |
+| RVG 110120 | Fostimon Set 75 IE, poeder en oplosmiddel voor oplossing voor injectie in een v… | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | IBSA Farmaceutici Italia S.r.L | Geldig |
+| RVG 110121 | Fostimon Set 150 IE, poeder en oplosmiddel voor oplossing voor injectie in een… | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | IBSA Farmaceutici Italia S.r.L | Geldig |
+| RVG 111551 | FOSTIMON SET 225 IE poeder en oplosmiddel voor oplossing voor injectie in een v… | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | IBSA Farmaceutici Italia S.r.L | Geldig |
+| RVG 111552 | FOSTIMON SET 300 IE poeder en oplosmiddel voor oplossing voor injectie in voorg… | UROFOLLITROPINE | Poeder en oplosmiddel voor oplossing voor injectie | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -85,24 +85,24 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/11/742 | Efavirenz Teva 600 mg, filmomhulde tablet | EFAVIRENZ | Filmomhulde tablet | Geldig |
-| RVG 109766 | Efavirenz Viatris 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Geldig |
-| RVG 111314 | Efavirenz Sandoz 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Geldig |
-| RVG 113833 | Efavirenz Aurobindo 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Geldig |
-| RVG 114353 | Efavirenz Accord 600 mg filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Geldig |
-| EU/1/17/1210 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva 600-200-245 filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
-| EU/1/17/1222 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan 600 mg/200 mg/245 mg filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Geldig |
-| EU/1/17/1263 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka 600 mg/200 mg/245 mg, filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
-| RVG 118667 | Efavirenz/Emtricitabine/Tenofovirdisoproxil Teva 600/200/245 mg, filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
-| RVG 118676 | Efavirenz/Emtricitabine/Tenofovirdisoproxil ratiopharm 600/200/245 mg, filmomhu… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
-| RVG 118677 | Efavirenz/Emtricitabine/Tenofovirdisoproxil Teva 600/200/245 mg, filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
-| RVG 122988 | Efavirenz/Emtricitabine/Tenofovir disoproxil Glenmark 600 mg/200 mg/245 mg film… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 123916 | Efavirenz/ Emtricitabine/ Tenofovirdisoproxil Aurobindo 600 mg/200 mg/245 mg, f… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 117222 | Efavirenz Hetero Europe 600 mg filmomhulde tabletten | EFAVIRENZ | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/11/742 | Efavirenz Teva 600 mg, filmomhulde tablet | EFAVIRENZ | Filmomhulde tablet | Teva B.V. | Geldig |
+| RVG 109766 | Efavirenz Viatris 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 111314 | Efavirenz Sandoz 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 113833 | Efavirenz Aurobindo 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 114353 | Efavirenz Accord 600 mg filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| EU/1/17/1210 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva 600-200-245 filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Zentiva a.s. | Geldig |
+| EU/1/17/1222 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan 600 mg/200 mg/245 mg filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| EU/1/17/1263 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka 600 mg/200 mg/245 mg, filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 118667 | Efavirenz/Emtricitabine/Tenofovirdisoproxil Teva 600/200/245 mg, filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 118676 | Efavirenz/Emtricitabine/Tenofovirdisoproxil ratiopharm 600/200/245 mg, filmomhu… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | ratiopharm GmbH | Geldig |
+| RVG 118677 | Efavirenz/Emtricitabine/Tenofovirdisoproxil Teva 600/200/245 mg, filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 122988 | Efavirenz/Emtricitabine/Tenofovir disoproxil Glenmark 600 mg/200 mg/245 mg film… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 123916 | Efavirenz/ Emtricitabine/ Tenofovirdisoproxil Aurobindo 600 mg/200 mg/245 mg, f… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 117222 | Efavirenz Hetero Europe 600 mg filmomhulde tabletten | EFAVIRENZ | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

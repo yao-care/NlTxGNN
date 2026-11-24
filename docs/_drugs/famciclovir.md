@@ -84,15 +84,15 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 34066 | Famciclovir Double-e Pharma 125 mg, filmomhulde tabletten | FAMCICLOVIR | Filmomhulde tablet | Geldig |
-| RVG 34067 | Famciclovir Double-e Pharma 250 mg, filmomhulde tabletten | FAMCICLOVIR | Filmomhulde tablet | Geldig |
-| RVG 34068 | Famciclovir Double-e Pharma 500 mg, filmomhulde tabletten | FAMCICLOVIR | Filmomhulde tablet | Geldig |
-| RVG 103803 | Famciclovir Sandoz 500 mg, filmomhulde tabletten | FAMCICLOVIR | Filmomhulde tablet | Geldig |
-| RVG 110214 | Afamcivir 500 mg, filmomhulde tabletten | FAMCICLOVIR | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 34066 | Famciclovir Double-e Pharma 125 mg, filmomhulde tabletten | FAMCICLOVIR | Filmomhulde tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 34067 | Famciclovir Double-e Pharma 250 mg, filmomhulde tabletten | FAMCICLOVIR | Filmomhulde tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 34068 | Famciclovir Double-e Pharma 500 mg, filmomhulde tabletten | FAMCICLOVIR | Filmomhulde tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 103803 | Famciclovir Sandoz 500 mg, filmomhulde tabletten | FAMCICLOVIR | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 110214 | Afamcivir 500 mg, filmomhulde tabletten | FAMCICLOVIR | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

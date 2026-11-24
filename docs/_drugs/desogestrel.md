@@ -96,32 +96,32 @@ De overige gevonden publicaties zijn algemene overzichten van hormonale anticonc
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 22743 | Cerazette, 75 microgram filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
-| RVG 106016 | Desogestrel Eugia 0,075 mg, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
-| RVG 111004 | Desogestrel 0,075 mg Theramex, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
-| RVG 113562 | Zarelle 75 microgram filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
-| RVG 115890 | Delamonie 75 microgram, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
-| RVG 126421 | Desogestrel Centrafarm 0,075 mg, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
-| RVG 08859 | Marvelon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 11508 | Mercilon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 108161 | Ethinylestradiol/Desogestrel 0,02/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 108164 | Ethinylestradiol/Desogestrel 0,03/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 108170 | Ethinylestradiol/Desogestrel Xiromed 0,02/0,15 mg, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 108171 | Ethinylestradiol/Desogestrel Xiromed 0,03/0,15 mg, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 110873 | Ethinylestradiol/Desogestrel 0,03 mg/0,15 mg Focus, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 110874 | Bryoronna 28 150/30 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 112197 | Ethinylestradiol/Desogestrel 0,02 mg/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 112201 | Ethinylestradiol/Desogestrel 0,03 mg/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 112377 | Desogestrel/Ethinylestradiol Eugia 150/20 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 112378 | Desogestrel/Ethinylestradiol Eugia 150/30 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 117546 | Desogestrel/Ethinylestradiol Xiromed 0,15 mg/0,02 mg filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 117547 | Desogestrel/Ethinylestradiol Xiromed 0,15 mg/0,03 mg filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 22743 | Cerazette, 75 microgram filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 106016 | Desogestrel Eugia 0,075 mg, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 111004 | Desogestrel 0,075 mg Theramex, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Theramex Ireland Limited | Geldig |
+| RVG 113562 | Zarelle 75 microgram filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Stragen France | Geldig |
+| RVG 115890 | Delamonie 75 microgram, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | – | Geldig |
+| RVG 126421 | Desogestrel Centrafarm 0,075 mg, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 08859 | Marvelon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 11508 | Mercilon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 108161 | Ethinylestradiol/Desogestrel 0,02/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 108164 | Ethinylestradiol/Desogestrel 0,03/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 108170 | Ethinylestradiol/Desogestrel Xiromed 0,02/0,15 mg, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 108171 | Ethinylestradiol/Desogestrel Xiromed 0,03/0,15 mg, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 110873 | Ethinylestradiol/Desogestrel 0,03 mg/0,15 mg Focus, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 110874 | Bryoronna 28 150/30 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Laboratorios Leon Farma, S.A. | Geldig |
+| RVG 112197 | Ethinylestradiol/Desogestrel 0,02 mg/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 112201 | Ethinylestradiol/Desogestrel 0,03 mg/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 112377 | Desogestrel/Ethinylestradiol Eugia 150/20 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 112378 | Desogestrel/Ethinylestradiol Eugia 150/30 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 117546 | Desogestrel/Ethinylestradiol Xiromed 0,15 mg/0,02 mg filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 117547 | Desogestrel/Ethinylestradiol Xiromed 0,15 mg/0,03 mg filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
 
 Getoond worden 20 van de 22 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

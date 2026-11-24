@@ -80,17 +80,17 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 29852 | Xenazine 25, tabletten 25 mg | TETRABENAZINE | Tablet | Geldig |
-| RVG 102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Geldig |
-| RVG 117367 | Tetrabenazine SUN 12,5 mg tabletten | TETRABENAZINE | Tablet | Geldig |
-| RVG 117369 | Tetrabenazine SUN 25 mg tabletten | TETRABENAZINE | Tablet | Geldig |
-| RVG 129402//102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Geldig |
-| RVG 135867//102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Geldig |
-| RVG 136940//102458 | Tetmodis 25 mg tabletten | TETRABENAZINE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 29852 | Xenazine 25, tabletten 25 mg | TETRABENAZINE | Tablet | Bausch Health Ireland Limited | Geldig |
+| RVG 102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Walter Ritter GmbH & Co. KG | Geldig |
+| RVG 117367 | Tetrabenazine SUN 12,5 mg tabletten | TETRABENAZINE | Tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 117369 | Tetrabenazine SUN 25 mg tabletten | TETRABENAZINE | Tablet | – | Geldig |
+| RVG 129402//102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 135867//102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 136940//102458 | Tetmodis 25 mg tabletten | TETRABENAZINE | Tablet | BModesto B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

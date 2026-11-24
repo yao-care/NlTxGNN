@@ -97,32 +97,32 @@ Alleen de meest relevante publicaties zijn opgenomen. Geen enkele daarvan is een
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 14409 | Xanax 0,25, tabletten 0,25 mg | ALPRAZOLAM | Tablet | Geldig |
-| RVG 14410 | Xanax 0,5, tabletten 0,5 mg | ALPRAZOLAM | Tablet | Geldig |
-| RVG 19886 | Xanax Retard 0,5, tabletten met gereguleerde afgifte 0,5 mg | ALPRAZOLAM | Tablet met verlengde afgifte | Geldig |
-| RVG 19887 | Xanax Retard 1, tabletten met gereguleerde afgifte 1 mg | ALPRAZOLAM | Tablet met verlengde afgifte | Geldig |
-| RVG 19888 | Xanax Retard 2, tabletten met gereguleerde afgifte 2 mg | ALPRAZOLAM | Tablet met verlengde afgifte | Geldig |
-| RVG 20953 | Alprazolam Viatris 0,25 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 20954 | Alprazolam Viatris 0,5 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 26304 | Alprazolam-ratiopharm 0,25 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 26305 | Alprazolam-ratiopharm 0,5 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 26306 | Alprazolam-ratiopharm 1 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 27941 | Alprazolam Sandoz 0,25 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 27942 | Alprazolam Sandoz 0,5 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 27943 | Alprazolam Sandoz 1 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 100526 | Alprazolam Hexal 0,5 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 100531 | Alprazolam Hexal 1 mg, tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 117982 | Alprazolam Aurobindo 0,25 mg tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 117984 | Alprazolam Aurobindo 0,5 mg tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 129168 | Alprazolam Grindeks 0,25 mg tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 129169 | Alprazolam Grindeks 0,5 mg tabletten | ALPRAZOLAM | Tablet | Geldig |
-| RVG 129170 | Alprazolam Grindeks 1 mg tabletten | ALPRAZOLAM | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 14409 | Xanax 0,25, tabletten 0,25 mg | ALPRAZOLAM | Tablet | Viatris Healthcare Limited | Geldig |
+| RVG 14410 | Xanax 0,5, tabletten 0,5 mg | ALPRAZOLAM | Tablet | Viatris Healthcare Limited | Geldig |
+| RVG 19886 | Xanax Retard 0,5, tabletten met gereguleerde afgifte 0,5 mg | ALPRAZOLAM | Tablet met verlengde afgifte | Viatris Healthcare Limited | Geldig |
+| RVG 19887 | Xanax Retard 1, tabletten met gereguleerde afgifte 1 mg | ALPRAZOLAM | Tablet met verlengde afgifte | Viatris Healthcare Limited | Geldig |
+| RVG 19888 | Xanax Retard 2, tabletten met gereguleerde afgifte 2 mg | ALPRAZOLAM | Tablet met verlengde afgifte | Viatris Healthcare Limited | Geldig |
+| RVG 20953 | Alprazolam Viatris 0,25 mg, tabletten | ALPRAZOLAM | Tablet | Viatris Limited | Geldig |
+| RVG 20954 | Alprazolam Viatris 0,5 mg, tabletten | ALPRAZOLAM | Tablet | Viatris Limited | Geldig |
+| RVG 26304 | Alprazolam-ratiopharm 0,25 mg, tabletten | ALPRAZOLAM | Tablet | ratiopharm GmbH | Geldig |
+| RVG 26305 | Alprazolam-ratiopharm 0,5 mg, tabletten | ALPRAZOLAM | Tablet | ratiopharm GmbH | Geldig |
+| RVG 26306 | Alprazolam-ratiopharm 1 mg, tabletten | ALPRAZOLAM | Tablet | ratiopharm GmbH | Geldig |
+| RVG 27941 | Alprazolam Sandoz 0,25 mg, tabletten | ALPRAZOLAM | Tablet | Sandoz B.V. | Geldig |
+| RVG 27942 | Alprazolam Sandoz 0,5 mg, tabletten | ALPRAZOLAM | Tablet | Sandoz B.V. | Geldig |
+| RVG 27943 | Alprazolam Sandoz 1 mg, tabletten | ALPRAZOLAM | Tablet | Sandoz B.V. | Geldig |
+| RVG 100526 | Alprazolam Hexal 0,5 mg, tabletten | ALPRAZOLAM | Tablet | Hexal AG | Geldig |
+| RVG 100531 | Alprazolam Hexal 1 mg, tabletten | ALPRAZOLAM | Tablet | Hexal AG | Geldig |
+| RVG 117982 | Alprazolam Aurobindo 0,25 mg tabletten | ALPRAZOLAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 117984 | Alprazolam Aurobindo 0,5 mg tabletten | ALPRAZOLAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 129168 | Alprazolam Grindeks 0,25 mg tabletten | ALPRAZOLAM | Tablet | Grindeks AS | Geldig |
+| RVG 129169 | Alprazolam Grindeks 0,5 mg tabletten | ALPRAZOLAM | Tablet | Grindeks AS | Geldig |
+| RVG 129170 | Alprazolam Grindeks 1 mg tabletten | ALPRAZOLAM | Tablet | Grindeks AS | Geldig |
 
 Getoond worden 20 van de 24 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

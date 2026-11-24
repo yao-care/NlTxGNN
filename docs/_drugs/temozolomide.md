@@ -80,32 +80,32 @@ Alleen de eerste casus betreft een verwante tumor (spinaal myxopapillair ependym
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/09/605 | Temomedac 250 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| EU/1/09/606 | Temozolomide Teva 180 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| EU/1/10/615 | Temozolomide Accord 20 mg, capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| EU/1/11/697 | Temozolomide SUN 180 mg, harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| EU/1/98/096 | Temodal 180 mg, capsule hard | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 104502 | Temozolomide ratiopharm 5 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 104510 | Temozolomide ratiopharm 20 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 104511 | Temozolomide ratiopharm 100 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 104512 | Temozolomide ratiopharm 140 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 104513 | Temozolomide ratiopharm 180 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 104514 | Temozolomide ratiopharm 250 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 106603 | Ridoca 5 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 106604 | Ridoca 20 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 106607 | Ridoca 100 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 106608 | Ridoca 140 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 106609 | Ridoca 180 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 106610 | Ridoca 250 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 109653 | Temozolomide Fair-Med 5mg, Capsules harde | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 109654 | Temozolomide Fair-Med 20mg, Capsules harde | TEMOZOLOMIDE | Capsule, hard | Geldig |
-| RVG 109656 | Temozolomide Fair-Med 140mg, Capsules harde | TEMOZOLOMIDE | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/09/605 | Temomedac 250 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Medac Gesellschaft für klinische Spezialpräparate mbH | Geldig |
+| EU/1/09/606 | Temozolomide Teva 180 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | Teva B.V. | Geldig |
+| EU/1/10/615 | Temozolomide Accord 20 mg, capsules | TEMOZOLOMIDE | Capsule, hard | Accord Healthcare S.L.U. | Geldig |
+| EU/1/11/697 | Temozolomide SUN 180 mg, harde capsules | TEMOZOLOMIDE | Capsule, hard | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| EU/1/98/096 | Temodal 180 mg, capsule hard | TEMOZOLOMIDE | Capsule, hard | Merck Sharp & Dohme B.V. | Geldig |
+| RVG 104502 | Temozolomide ratiopharm 5 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | ratiopharm GmbH | Geldig |
+| RVG 104510 | Temozolomide ratiopharm 20 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | ratiopharm GmbH | Geldig |
+| RVG 104511 | Temozolomide ratiopharm 100 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | ratiopharm GmbH | Geldig |
+| RVG 104512 | Temozolomide ratiopharm 140 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | ratiopharm GmbH | Geldig |
+| RVG 104513 | Temozolomide ratiopharm 180 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | ratiopharm GmbH | Geldig |
+| RVG 104514 | Temozolomide ratiopharm 250 mg, capsules, hard | TEMOZOLOMIDE | Capsule, hard | ratiopharm GmbH | Geldig |
+| RVG 106603 | Ridoca 5 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | AENORASIS S.A. | Geldig |
+| RVG 106604 | Ridoca 20 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | AENORASIS S.A. | Geldig |
+| RVG 106607 | Ridoca 100 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | AENORASIS S.A. | Geldig |
+| RVG 106608 | Ridoca 140 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | AENORASIS S.A. | Geldig |
+| RVG 106609 | Ridoca 180 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | AENORASIS S.A. | Geldig |
+| RVG 106610 | Ridoca 250 mg harde capsules | TEMOZOLOMIDE | Capsule, hard | AENORASIS S.A. | Geldig |
+| RVG 109653 | Temozolomide Fair-Med 5mg, Capsules harde | TEMOZOLOMIDE | Capsule, hard | Fairmed Healthcare GmbH | Geldig |
+| RVG 109654 | Temozolomide Fair-Med 20mg, Capsules harde | TEMOZOLOMIDE | Capsule, hard | Fairmed Healthcare GmbH | Geldig |
+| RVG 109656 | Temozolomide Fair-Med 140mg, Capsules harde | TEMOZOLOMIDE | Capsule, hard | Fairmed Healthcare GmbH | Geldig |
 
 Getoond worden 20 van de 58 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

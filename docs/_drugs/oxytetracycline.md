@@ -82,16 +82,16 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor chronische rinosin
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 03542 | Terra-Cortril met polymyxine-B, oordruppels | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oordruppels, suspensie | Geldig |
-| RVG 03543 | Terra-Cortril met polymyxine-B, oogzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oogzalf | Geldig |
-| RVG 14873 | Terra-Cortril met polymyxine-B, oorzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oorzalf | Geldig |
-| RVG 124167//03542 | Terra-Cortril met polymyxine-B, oordruppels | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oordruppels, suspensie | Geldig |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | – | Niet geregistreerd |
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | POLYMYXINE B SULFAAT, HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 03542 | Terra-Cortril met polymyxine-B, oordruppels | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oordruppels, suspensie | Pfizer B.V. | Geldig |
+| RVG 03543 | Terra-Cortril met polymyxine-B, oogzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oogzalf | Pfizer B.V. | Geldig |
+| RVG 14873 | Terra-Cortril met polymyxine-B, oorzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oorzalf | Pfizer B.V. | Geldig |
+| RVG 124167//03542 | Terra-Cortril met polymyxine-B, oordruppels | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oordruppels, suspensie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | – | – | Niet geregistreerd |
+| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | POLYMYXINE B SULFAAT, HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -102,32 +102,32 @@ Voor de negende voorspelling (pancreatic agenesis) is één publicatie gevonden,
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 17843 | Amaryl 1 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 17844 | Amaryl 2 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 17845 | Amaryl 3 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 17846 | Amaryl 4 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 17847 | Amaryl 6 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 31974 | Glimepiride Zentiva 1 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 31975 | Glimepiride Zentiva 2 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 31976 | Glimepiride Zentiva 3 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 31977 | Glimepiride Zentiva 4 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 31978 | Glimepiride Zentiva 6 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 32745 | Glimepiride Sandoz 1, tabletten 1 mg | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 32746 | Glimepiride Sandoz 2, tabletten 2 mg | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 32747 | Glimepiride Sandoz 3, tabletten 3 mg | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 32748 | Glimepiride Sandoz 4, tabletten 4 mg | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 32773 | Glimepiride Sandoz 6 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 102007 | Glimepiride Accord 1 mg tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 102016 | Glimepiride Accord 2 mg tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 102017 | Glimepiride Accord 3 mg tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 102018 | Glimepiride Accord 4 mg tabletten | GLIMEPIRIDE | Tablet | Geldig |
-| RVG 105175 | Glimepiride CF 6 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 17843 | Amaryl 1 mg, tabletten | GLIMEPIRIDE | Tablet | Sanofi B.V. | Geldig |
+| RVG 17844 | Amaryl 2 mg, tabletten | GLIMEPIRIDE | Tablet | Sanofi B.V. | Geldig |
+| RVG 17845 | Amaryl 3 mg, tabletten | GLIMEPIRIDE | Tablet | Sanofi B.V. | Geldig |
+| RVG 17846 | Amaryl 4 mg, tabletten | GLIMEPIRIDE | Tablet | Sanofi B.V. | Geldig |
+| RVG 17847 | Amaryl 6 mg, tabletten | GLIMEPIRIDE | Tablet | Sanofi B.V. | Geldig |
+| RVG 31974 | Glimepiride Zentiva 1 mg, tabletten | GLIMEPIRIDE | Tablet | Zentiva k.s. | Geldig |
+| RVG 31975 | Glimepiride Zentiva 2 mg, tabletten | GLIMEPIRIDE | Tablet | Zentiva k.s. | Geldig |
+| RVG 31976 | Glimepiride Zentiva 3 mg, tabletten | GLIMEPIRIDE | Tablet | Zentiva k.s. | Geldig |
+| RVG 31977 | Glimepiride Zentiva 4 mg, tabletten | GLIMEPIRIDE | Tablet | Zentiva k.s. | Geldig |
+| RVG 31978 | Glimepiride Zentiva 6 mg, tabletten | GLIMEPIRIDE | Tablet | Zentiva k.s. | Geldig |
+| RVG 32745 | Glimepiride Sandoz 1, tabletten 1 mg | GLIMEPIRIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 32746 | Glimepiride Sandoz 2, tabletten 2 mg | GLIMEPIRIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 32747 | Glimepiride Sandoz 3, tabletten 3 mg | GLIMEPIRIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 32748 | Glimepiride Sandoz 4, tabletten 4 mg | GLIMEPIRIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 32773 | Glimepiride Sandoz 6 mg, tabletten | GLIMEPIRIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 102007 | Glimepiride Accord 1 mg tabletten | GLIMEPIRIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102016 | Glimepiride Accord 2 mg tabletten | GLIMEPIRIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102017 | Glimepiride Accord 3 mg tabletten | GLIMEPIRIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102018 | Glimepiride Accord 4 mg tabletten | GLIMEPIRIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 105175 | Glimepiride CF 6 mg, tabletten | GLIMEPIRIDE | Tablet | Centrafarm B.V. | Geldig |
 
 Getoond worden 20 van de 26 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

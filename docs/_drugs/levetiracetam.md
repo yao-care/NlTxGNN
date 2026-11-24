@@ -93,32 +93,32 @@ Selectie van de meest relevante publicaties (alle algemene aanvalspopulaties):
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/00/146 | Keppra 750 mg filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| EU/1/11/702 | Levetiracetam ratiopharm 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| EU/1/11/711 | Matever 100 mg/ml concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
-| EU/1/11/712 | Levetiracetam Accord 750 mg, filmomhulde tablet | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| EU/1/11/713 | Levetiracetam Actavis 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| EU/1/11/738 | Levetiracetam Actavis Group 100 mg/ml, drank | LEVETIRACETAM | Drank | Geldig |
-| EU/1/11/741 | Levetiracetam SUN 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
-| EU/1/13/889 | Levetiracetam Hospira 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 108443 | Levetiracetam 100 mg/ml Teva, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 108486 | TRUND 100mg/ml, drank | LEVETIRACETAM | Drank | Geldig |
-| RVG 108489 | Levetiracetam Sandoz 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| RVG 108491 | Levetiracetam Sandoz 500 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| RVG 108492 | Levetiracetam Sandoz 750 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| RVG 108493 | Levetiracetam Sandoz 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| RVG 108496 | Levetiracetam Sandoz 100 mg/ml, drank | LEVETIRACETAM | Drank | Geldig |
-| RVG 108505 | Levetiracetam Sandoz infuus 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 108512 | TRUND 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| RVG 108513 | TRUND 500 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| RVG 108514 | TRUND 750 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
-| RVG 108515 | TRUND 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/00/146 | Keppra 750 mg filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | UCB Pharma S.A. | Geldig |
+| EU/1/11/702 | Levetiracetam ratiopharm 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | ratiopharm GmbH | Geldig |
+| EU/1/11/711 | Matever 100 mg/ml concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Pharmathen S.A. | Geldig |
+| EU/1/11/712 | Levetiracetam Accord 750 mg, filmomhulde tablet | LEVETIRACETAM | Filmomhulde tablet | Accord Healthcare S.L.U. | Geldig |
+| EU/1/11/713 | Levetiracetam Actavis 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Actavis Group PTC ehf | Geldig |
+| EU/1/11/738 | Levetiracetam Actavis Group 100 mg/ml, drank | LEVETIRACETAM | Drank | Actavis Group PTC ehf | Geldig |
+| EU/1/11/741 | Levetiracetam SUN 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| EU/1/13/889 | Levetiracetam Hospira 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Pfizer Europe MA EEIG | Geldig |
+| RVG 108443 | Levetiracetam 100 mg/ml Teva, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Teva Nederland B.V. | Geldig |
+| RVG 108486 | TRUND 100mg/ml, drank | LEVETIRACETAM | Drank | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| RVG 108489 | Levetiracetam Sandoz 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 108491 | Levetiracetam Sandoz 500 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 108492 | Levetiracetam Sandoz 750 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 108493 | Levetiracetam Sandoz 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 108496 | Levetiracetam Sandoz 100 mg/ml, drank | LEVETIRACETAM | Drank | Sandoz B.V. | Geldig |
+| RVG 108505 | Levetiracetam Sandoz infuus 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Sandoz B.V. | Geldig |
+| RVG 108512 | TRUND 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| RVG 108513 | TRUND 500 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| RVG 108514 | TRUND 750 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| RVG 108515 | TRUND 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
 
 Getoond worden 20 van de 75 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

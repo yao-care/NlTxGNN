@@ -102,32 +102,32 @@ Selectie voor trigeminusneuralgie en de dichtstbijzijnde epilepsie-indicaties:
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 19115 | Lamictal Dispers 5 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
-| RVG 19116 | Lamictal Dispers 25 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
-| RVG 19117 | Lamictal Dispers 100 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
-| RVG 20926 | Lamictal Dispers 50 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
-| RVG 20927 | Lamictal Dispers 200 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
-| RVG 25344 | Lamictal Dispers 2 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
-| RVG 29665 | Lamotrigine CF 5 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 29666 | Lamotrigine CF 25 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 29667 | Lamotrigine CF 50 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 29668 | Lamotrigine CF 100 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 29669 | Lamotrigine CF 200 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 30302 | Lamotrigine Disper Mylan 25 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 30303 | Lamotrigine Disper Mylan 50 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 30304 | Lamotrigine Disper Mylan 100 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 30305 | Lamotrigine Disper Mylan 200 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
-| RVG 103363 | Lamictal 25 mg, tabletten | LAMOTRIGINE | Tablet | Geldig |
-| RVG 103364 | Lamictal 50 mg, tabletten | LAMOTRIGINE | Tablet | Geldig |
-| RVG 103366 | Lamictal 100 mg, tabletten | LAMOTRIGINE | Tablet | Geldig |
-| RVG 103367 | Lamictal 200 mg, tabletten | LAMOTRIGINE | Tablet | Geldig |
-| RVG 105238 | Lamotrigine Aurobindo 5 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 19115 | Lamictal Dispers 5 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 19116 | Lamictal Dispers 25 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 19117 | Lamictal Dispers 100 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 20926 | Lamictal Dispers 50 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 20927 | Lamictal Dispers 200 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 25344 | Lamictal Dispers 2 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 29665 | Lamotrigine CF 5 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Centrafarm B.V. | Geldig |
+| RVG 29666 | Lamotrigine CF 25 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Centrafarm B.V. | Geldig |
+| RVG 29667 | Lamotrigine CF 50 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Centrafarm B.V. | Geldig |
+| RVG 29668 | Lamotrigine CF 100 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Centrafarm B.V. | Geldig |
+| RVG 29669 | Lamotrigine CF 200 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Centrafarm B.V. | Geldig |
+| RVG 30302 | Lamotrigine Disper Mylan 25 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Mylan B.V. | Geldig |
+| RVG 30303 | Lamotrigine Disper Mylan 50 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Mylan B.V. | Geldig |
+| RVG 30304 | Lamotrigine Disper Mylan 100 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Mylan B.V. | Geldig |
+| RVG 30305 | Lamotrigine Disper Mylan 200 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Mylan B.V. | Geldig |
+| RVG 103363 | Lamictal 25 mg, tabletten | LAMOTRIGINE | Tablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 103364 | Lamictal 50 mg, tabletten | LAMOTRIGINE | Tablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 103366 | Lamictal 100 mg, tabletten | LAMOTRIGINE | Tablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 103367 | Lamictal 200 mg, tabletten | LAMOTRIGINE | Tablet | GlaxoSmithKline B.V. | Geldig |
+| RVG 105238 | Lamotrigine Aurobindo 5 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Aurobindo Pharma B.V. | Geldig |
 
 Getoond worden 20 van de 44 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

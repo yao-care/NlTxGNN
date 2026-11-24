@@ -85,17 +85,17 @@ De gevonden publicaties gaan over slaperigheid overdag of vermoeidheid, niet ove
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 18535 | Modiodal 100 mg tabletten | MODAFINIL | Tablet | Geldig |
-| RVG 102358 | Modafinil Emona 100 mg tabletten | MODAFINIL | Tablet | Geldig |
-| RVG 102360 | Modafinil Emona 200 mg tabletten | MODAFINIL | Tablet | Geldig |
-| RVG 105888 | Aspendos 100 mg, tabletten | MODAFINIL | Tablet | Geldig |
-| RVG 109974 | Modafinil Aurobindo 100 mg, tabletten | MODAFINIL | Tablet | Geldig |
-| RVG 115163 | Modafinil Chanelle 200 mg tabletten | MODAFINIL | Tablet | Geldig |
-| RVG 121203 | Modafinil Mylan 100 mg, tabletten | MODAFINIL | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 18535 | Modiodal 100 mg tabletten | MODAFINIL | Tablet | Neuraxpharm Pharmaceuticals, S.L | Geldig |
+| RVG 102358 | Modafinil Emona 100 mg tabletten | MODAFINIL | Tablet | Emona Biopharma d.o.o. | Geldig |
+| RVG 102360 | Modafinil Emona 200 mg tabletten | MODAFINIL | Tablet | Emona Biopharma d.o.o. | Geldig |
+| RVG 105888 | Aspendos 100 mg, tabletten | MODAFINIL | Tablet | Medochemie Limited | Geldig |
+| RVG 109974 | Modafinil Aurobindo 100 mg, tabletten | MODAFINIL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 115163 | Modafinil Chanelle 200 mg tabletten | MODAFINIL | Tablet | – | Geldig |
+| RVG 121203 | Modafinil Mylan 100 mg, tabletten | MODAFINIL | Tablet | Mylan B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

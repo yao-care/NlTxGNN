@@ -80,32 +80,32 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/16/1124 | Nordimet 7,5 mg, oplossing voor injectie in voorgevulde pen | METHOTREXAAT | Oplossing voor injectie | Geldig |
-| EU/1/17/1172 | Jylamvo 2mg/ml, drank | METHOTREXAAT | Drank | Geldig |
-| RVG 08434 | Emthexate PF 2,5 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 08435 | Emthexate PF 25 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 08785 | Methotrexaat Teva 10 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Geldig |
-| RVG 09957 | Methotrexaat Teva 2,5 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Geldig |
-| RVG 10632 | Emthexate PF 100 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 28636 | Methotrexaat Sandoz 2,5 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Geldig |
-| RVG 28638 | Methotrexaat Sandoz 10 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Geldig |
-| RVG 111355 | Methotrexaat Accord 25 mg/ml, oplossing voor injectie | METHOTREXAAT | Oplossing voor injectie | Geldig |
-| RVG 111626 | Methotrexaat Nordic 7,5 mg, oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111766 | Methotrexaat Nordic 10,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111767 | Methotrexaat Nordic 12,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111768 | Methotrexaat Nordic 15,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111769 | Methotrexaat Nordic 17,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111770 | Methotrexaat Nordic 20,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111771 | Methotrexaat Nordic 22,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111772 | Methotrexaat Nordic 25,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111962 | Metoject PEN 7,5 mg=0,15 ml oplossing voor injectie in een voorgevulde pen | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
-| RVG 111963 | Metoject PEN 10 mg=0,2 ml oplossing voor injectie in een voorgevulde pen | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/16/1124 | Nordimet 7,5 mg, oplossing voor injectie in voorgevulde pen | METHOTREXAAT | Oplossing voor injectie | Nordic Group BV | Geldig |
+| EU/1/17/1172 | Jylamvo 2mg/ml, drank | METHOTREXAAT | Drank | Oresund Pharma ApS | Geldig |
+| RVG 08434 | Emthexate PF 2,5 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Teva B.V. | Geldig |
+| RVG 08435 | Emthexate PF 25 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Teva B.V. | Geldig |
+| RVG 08785 | Methotrexaat Teva 10 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Teva B.V. | Geldig |
+| RVG 09957 | Methotrexaat Teva 2,5 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Teva B.V. | Geldig |
+| RVG 10632 | Emthexate PF 100 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Teva B.V. | Geldig |
+| RVG 28636 | Methotrexaat Sandoz 2,5 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Sandoz B.V. | Geldig |
+| RVG 28638 | Methotrexaat Sandoz 10 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Sandoz B.V. | Geldig |
+| RVG 111355 | Methotrexaat Accord 25 mg/ml, oplossing voor injectie | METHOTREXAAT | Oplossing voor injectie | Accord Healthcare B.V. | Geldig |
+| RVG 111626 | Methotrexaat Nordic 7,5 mg, oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Nordic Group B.V. | Geldig |
+| RVG 111766 | Methotrexaat Nordic 10,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Nordic Group B.V. | Geldig |
+| RVG 111767 | Methotrexaat Nordic 12,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Nordic Group B.V. | Geldig |
+| RVG 111768 | Methotrexaat Nordic 15,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Nordic Group B.V. | Geldig |
+| RVG 111769 | Methotrexaat Nordic 17,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Nordic Group B.V. | Geldig |
+| RVG 111770 | Methotrexaat Nordic 20,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Nordic Group B.V. | Geldig |
+| RVG 111771 | Methotrexaat Nordic 22,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Nordic Group B.V. | Geldig |
+| RVG 111772 | Methotrexaat Nordic 25,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Nordic Group B.V. | Geldig |
+| RVG 111962 | Metoject PEN 7,5 mg=0,15 ml oplossing voor injectie in een voorgevulde pen | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Medac Gesellschaft für klinische Spezialpräparate mbH | Geldig |
+| RVG 111963 | Metoject PEN 10 mg=0,2 ml oplossing voor injectie in een voorgevulde pen | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Medac Gesellschaft für klinische Spezialpräparate mbH | Geldig |
 
 Getoond worden 20 van de 134 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -82,18 +82,18 @@ Volgens de gegevens van het CBG-MEB is riluzol in Nederland in de handel. De hie
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/12/768 | Riluzole Zentiva 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
-| EU/1/96/010 | Rilutek 50 mg, omhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
-| RVG 106635 | Riluzol Sandoz 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
-| RVG 106639 | Riluzol Hexal 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
-| RVG 106640 | Riluzol 1A Pharma 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
-| RVG 109825 | Glentek 50mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
-| RVG 128121 | Teglutik 5 mg/ml, suspensie voor oraal gebruik | RILUZOL | Suspensie voor oraal gebruik, Suspensie voor gast… | Geldig |
-| RVG 128985 | Emylif 50 mg orodispergeerbare film | RILUZOL | Orodispergeerbare film | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/12/768 | Riluzole Zentiva 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Zentiva k.s. | Geldig |
+| EU/1/96/010 | Rilutek 50 mg, omhulde tabletten | RILUZOL | Filmomhulde tablet | Sanofi Winthrop Industrie | Geldig |
+| RVG 106635 | Riluzol Sandoz 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106639 | Riluzol Hexal 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Hexal AG | Geldig |
+| RVG 106640 | Riluzol 1A Pharma 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 109825 | Glentek 50mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | – | Geldig |
+| RVG 128121 | Teglutik 5 mg/ml, suspensie voor oraal gebruik | RILUZOL | Suspensie voor oraal gebruik, Suspensie voor gast… | Italfarmaco, S.A. | Geldig |
+| RVG 128985 | Emylif 50 mg orodispergeerbare film | RILUZOL | Orodispergeerbare film | Zambon S.p.A. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

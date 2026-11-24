@@ -100,25 +100,25 @@ De onderstaande publicaties zijn gevonden, maar geen ervan onderzoekt misoprosto
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Geldig |
-| RVG 110664 | MisoOne 400 microgram, tablet | MISOPROSTOL | Tablet | Geldig |
-| RVG 126719 | Angusta 25 microgram tabletten | MISOPROSTOL | Tablet | Geldig |
-| RVG 127663//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Geldig |
-| RVG 127993//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Geldig |
-| RVG 128682//13724 | Cytotec 200 microgram, tabletten | MISOPROSTOL | Tablet | Geldig |
-| RVG 129812//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Geldig |
-| RVG 133153 | Gyxiny 25 microgram tabletten | MISOPROSTOL | Tablet | Geldig |
-| RVG 16410 | Arthrotec 50, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Omhulde tablet | Geldig |
-| RVG 20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Omhulde tablet | Geldig |
-| RVG 106099 | Sunmedabon, Combinatieverpakking mifepriston 200 mg tablet en misoprostol 4 x 0… | MIFEPRISTON, MISOPROSTOL | Tablet | Geldig |
-| RVG 135984//20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Geldig |
-| RVG 135985//16410 | Arthrotec 50, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Geldig |
-| RVG 136667//20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Geldig |
-| RVG 113032 | Misoprostol Exelgyn 200 microgram, tabletten | MISOPROSTOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Pfizer B.V. | Geldig |
+| RVG 110664 | MisoOne 400 microgram, tablet | MISOPROSTOL | Tablet | Exelgyn | Geldig |
+| RVG 126719 | Angusta 25 microgram tabletten | MISOPROSTOL | Tablet | Norgine B.V. | Geldig |
+| RVG 127663//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 127993//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Originalis B.V. | Geldig |
+| RVG 128682//13724 | Cytotec 200 microgram, tabletten | MISOPROSTOL | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129812//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | EU-Pharma B.V. | Geldig |
+| RVG 133153 | Gyxiny 25 microgram tabletten | MISOPROSTOL | Tablet | Afyx Therapeutics A/S | Geldig |
+| RVG 16410 | Arthrotec 50, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Omhulde tablet | Pfizer B.V. | Geldig |
+| RVG 20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Omhulde tablet | Pfizer B.V. | Geldig |
+| RVG 106099 | Sunmedabon, Combinatieverpakking mifepriston 200 mg tablet en misoprostol 4 x 0… | MIFEPRISTON, MISOPROSTOL | Tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 135984//20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Euro Registratie Collectief b.v. | Geldig |
+| RVG 135985//16410 | Arthrotec 50, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Euro Registratie Collectief B.V. | Geldig |
+| RVG 136667//20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 113032 | Misoprostol Exelgyn 200 microgram, tabletten | MISOPROSTOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

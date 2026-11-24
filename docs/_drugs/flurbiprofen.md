@@ -86,21 +86,21 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 101477 | Strepfen Citroen & Honing 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
-| RVG 109114 | Strepfen Sinaasappel Suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
-| RVG 114130 | Strepfen Munt & Kers suikervrij 8,75 mg keelspray | FLURBIPROFEN | Spray voor oromucosaal gebruik | Geldig |
-| RVG 123653 | Strepfen Citroen & Honing Suikervrij 8,75 mg keelspray | FLURBIPROFEN | Spray voor oromucosaal gebruik | Geldig |
-| RVG 124484 | Strepfen met Honing- & Eucalyptussmaak suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
-| RVG 124486 | Strepfen met Honing- & Eucalyptussmaak suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
-| RVG 132543 | Kruidvat flurbiprofen citroen 8,75 mg suikervrij, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
-| RVG 133922 | Etos Flurbiprofen citroen 8,75 mg suikervrij, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
-| RVG 133923 | Flurbiprofen Healthypharm 8,75 mg sinaasappel, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
-| RVG 133924 | Flurbiprofen HTP 8,75 mg citroen, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
-| RVG 117524 | Flurbiprofen Sandoz sinaasappel suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 101477 | Strepfen Citroen & Honing 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 109114 | Strepfen Sinaasappel Suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 114130 | Strepfen Munt & Kers suikervrij 8,75 mg keelspray | FLURBIPROFEN | Spray voor oromucosaal gebruik | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 123653 | Strepfen Citroen & Honing Suikervrij 8,75 mg keelspray | FLURBIPROFEN | Spray voor oromucosaal gebruik | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 124484 | Strepfen met Honing- & Eucalyptussmaak suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 124486 | Strepfen met Honing- & Eucalyptussmaak suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 132543 | Kruidvat flurbiprofen citroen 8,75 mg suikervrij, zuigtabletten | FLURBIPROFEN | Zuigtablet | Healthypharm B.V. | Geldig |
+| RVG 133922 | Etos Flurbiprofen citroen 8,75 mg suikervrij, zuigtabletten | FLURBIPROFEN | Zuigtablet | Healthypharm B.V. | Geldig |
+| RVG 133923 | Flurbiprofen Healthypharm 8,75 mg sinaasappel, zuigtabletten | FLURBIPROFEN | Zuigtablet | Healthypharm B.V. | Geldig |
+| RVG 133924 | Flurbiprofen HTP 8,75 mg citroen, zuigtabletten | FLURBIPROFEN | Zuigtablet | Healthypharm B.V. | Geldig |
+| RVG 117524 | Flurbiprofen Sandoz sinaasappel suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

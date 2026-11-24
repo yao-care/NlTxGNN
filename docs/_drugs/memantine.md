@@ -85,32 +85,32 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/02/218 | Axura 20 mg filmomhulde tablet | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/02/219 | Ebixa 5 mg/pompbeweging, oplossing voor oraal gebruik | MEMANTINEHYDROCHLORIDE | Druppels voor oraal gebruik, oplossing | Geldig |
-| EU/1/12/799 | Memantine-Merz 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/13/820 | Marixino 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/13/824 | Nemdatine 5 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/13/827 | Memantine Mylan 10 mg, filmomhulde tablet | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/13/836 | Memantine Ratiopharm 15 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/13/880 | Memantine Accord 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112072 | Memantine Chanelle 10 mg/ml drank | MEMANTINEHYDROCHLORIDE | Drank | Geldig |
-| RVG 112073 | Memantine CF 10 mg/ml, drank | MEMANTINEHYDROCHLORIDE | Drank | Geldig |
-| RVG 112074 | Memantine Sandoz 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112079 | Memantine Sandoz 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112085 | Xapimant 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112086 | Xapimant 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112097 | Memantine Synthon 10 mg, tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112098 | Memantine Synthon 20 mg, tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112099 | Memantine Synthon 5 mg + 10 mg + 15 mg + 20 mg, tabletten | MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTI… | Filmomhulde tablet | Geldig |
-| RVG 112196 | Memantine CF 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112198 | Memantine CF 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112199 | Memantine CF 5 mg + 10 mg + 15 mg + 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTI… | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/02/218 | Axura 20 mg filmomhulde tablet | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Merz Pharmaceuticals GmbH | Geldig |
+| EU/1/02/219 | Ebixa 5 mg/pompbeweging, oplossing voor oraal gebruik | MEMANTINEHYDROCHLORIDE | Druppels voor oraal gebruik, oplossing | H. Lundbeck A/S | Geldig |
+| EU/1/12/799 | Memantine-Merz 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Merz Pharmaceuticals GmbH | Geldig |
+| EU/1/13/820 | Marixino 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/13/824 | Nemdatine 5 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Actavis Group PTC ehf | Geldig |
+| EU/1/13/827 | Memantine Mylan 10 mg, filmomhulde tablet | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| EU/1/13/836 | Memantine Ratiopharm 15 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | ratiopharm GmbH | Geldig |
+| EU/1/13/880 | Memantine Accord 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Accord Healthcare S.L.U. | Geldig |
+| RVG 112072 | Memantine Chanelle 10 mg/ml drank | MEMANTINEHYDROCHLORIDE | Drank | Chanelle Medical Unlimited Company | Geldig |
+| RVG 112073 | Memantine CF 10 mg/ml, drank | MEMANTINEHYDROCHLORIDE | Drank | Centrafarm B.V. | Geldig |
+| RVG 112074 | Memantine Sandoz 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 112079 | Memantine Sandoz 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 112085 | Xapimant 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 112086 | Xapimant 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 112097 | Memantine Synthon 10 mg, tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 112098 | Memantine Synthon 20 mg, tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 112099 | Memantine Synthon 5 mg + 10 mg + 15 mg + 20 mg, tabletten | MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTI… | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 112196 | Memantine CF 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 112198 | Memantine CF 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 112199 | Memantine CF 5 mg + 10 mg + 15 mg + 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTI… | Filmomhulde tablet | Centrafarm B.V. | Geldig |
 
 Getoond worden 20 van de 32 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

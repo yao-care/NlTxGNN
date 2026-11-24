@@ -85,15 +85,15 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Geldig |
-| RVG 19811 | Dogmatil 400, tabletten 400 mg | SULPIRIDE | Filmomhulde tablet | Geldig |
-| RVG 103957//06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Geldig |
-| RVG 129413//06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Geldig |
-| RVG 120540//06279 | Sulpiride ERC 50 mg, capsules | SULPIRIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Neuraxpharm Netherlands B.V. | Geldig |
+| RVG 19811 | Dogmatil 400, tabletten 400 mg | SULPIRIDE | Filmomhulde tablet | Neuraxpharm Netherlands B.V. | Geldig |
+| RVG 103957//06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129413//06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 120540//06279 | Sulpiride ERC 50 mg, capsules | SULPIRIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -84,32 +84,32 @@ De enige gevonden publicatie betreft een ander geneesmiddel en een preklinisch m
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 26939 | Diovan 80, 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 26940 | Diovan 160, 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 34472 | Diovan 320, 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 102762 | Valsartan 80 mg tabletten PCH, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 102764 | Valsartan 160 mg tabletten PCH, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103732 | Valsartan CF 40 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103736 | Valsartan CF 80 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103737 | Valsartan CF 160 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103738 | Valsartan CF 320 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103974 | Vagrecor 40 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103975 | Vagrecor 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103976 | Vagrecor 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103977 | Vagrecor 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103978 | Valsartan Xiromed 40 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103979 | Valsartan Xiromed 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103980 | Valsartan Xiromed 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 103981 | Valsartan Xiromed 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 104962 | Valsartan Sandoz 40 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 104965 | Valsartan Sandoz 80 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
-| RVG 104967 | Valsartan Sandoz 160 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 26939 | Diovan 80, 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Novartis Pharma B.V. | Geldig |
+| RVG 26940 | Diovan 160, 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Novartis Pharma B.V. | Geldig |
+| RVG 34472 | Diovan 320, 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Novartis Pharma B.V. | Geldig |
+| RVG 102762 | Valsartan 80 mg tabletten PCH, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 102764 | Valsartan 160 mg tabletten PCH, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 103732 | Valsartan CF 40 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 103736 | Valsartan CF 80 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 103737 | Valsartan CF 160 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 103738 | Valsartan CF 320 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 103974 | Vagrecor 40 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Laboratorios Liconsa S.A. | Geldig |
+| RVG 103975 | Vagrecor 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Laboratorios Liconsa S.A. | Geldig |
+| RVG 103976 | Vagrecor 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Laboratorios Liconsa S.A. | Geldig |
+| RVG 103977 | Vagrecor 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Laboratorios Liconsa S.A. | Geldig |
+| RVG 103978 | Valsartan Xiromed 40 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 103979 | Valsartan Xiromed 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 103980 | Valsartan Xiromed 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 103981 | Valsartan Xiromed 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 104962 | Valsartan Sandoz 40 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 104965 | Valsartan Sandoz 80 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 104967 | Valsartan Sandoz 160 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
 
 Getoond worden 20 van de 234 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -95,32 +95,32 @@ Gegevens over farmaceutische vorm en goedgekeurde indicatie ontbreken.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06945 | Imodium 2 mg harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 14220 | Loperamide HCl Teva 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 15140 | Loperamide HCl CF 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 17037 | Loperamide HCl Sandoz 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 20642=15140 | Diarreeremmer HTP loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 26866=15140 | Etos Diarreeremmer Loperamide HCI 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 28867=15140 | DA Diarreeremmende capsules Loperamide HCl 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 33724 | Imodium Instant smelttablet 2 mg orodispergeerbare tabletten | LOPERAMIDEHYDROCHLORIDE | Orodispergeerbare tablet | Geldig |
-| RVG 35307 | Diarreeremmer Loperamide HCl SAM 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 56839 | Loperamide HCl RXT 2 mg diarreeremmende capsules, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 57117 | Loperamide HCl Mylan 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 103775 | Albert Heijn Diarreeremmer Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 105036 | DA Diarreeremmende capsules Loperamide HCl 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 105493 | Diarreeremmer HTP Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121134 | Loperamide HCl Sanias 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 123064=14220 | Livsane Diarreeremmer Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 124077=14220 | Loperamide HCl Triangle Pharma 2 mg diarreeremmende capsules, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 125424 | Loritax 2 mg, lyophilisaat voor oraal gebruik | LOPERAMIDEHYDROCHLORIDE | Lyophilisaat voor oraal gebruik | Geldig |
-| RVG 125439 | Loperamide HCl Viatris 2 mg, lyophilisaat voor oraal gebruik | LOPERAMIDEHYDROCHLORIDE | Lyophilisaat voor oraal gebruik | Geldig |
-| RVG 125673 | Kruidvat diarreeremmer loperamide HCl 2 mg smelttablet, orodispergeerbare table… | LOPERAMIDEHYDROCHLORIDE | Orodispergeerbare tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06945 | Imodium 2 mg harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Kenvue Netherlands B.V. | Geldig |
+| RVG 14220 | Loperamide HCl Teva 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 15140 | Loperamide HCl CF 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Centrafarm B.V. | Geldig |
+| RVG 17037 | Loperamide HCl Sandoz 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 20642=15140 | Diarreeremmer HTP loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Healthypharm B.V. | Geldig |
+| RVG 26866=15140 | Etos Diarreeremmer Loperamide HCI 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Healthypharm B.V. | Geldig |
+| RVG 28867=15140 | DA Diarreeremmende capsules Loperamide HCl 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Nederlandse Drogisterij Service B.V. | Geldig |
+| RVG 33724 | Imodium Instant smelttablet 2 mg orodispergeerbare tabletten | LOPERAMIDEHYDROCHLORIDE | Orodispergeerbare tablet | Kenvue Netherlands B.V. | Geldig |
+| RVG 35307 | Diarreeremmer Loperamide HCl SAM 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Mosadex Services B.V. | Geldig |
+| RVG 56839 | Loperamide HCl RXT 2 mg diarreeremmende capsules, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | RXT | Geldig |
+| RVG 57117 | Loperamide HCl Mylan 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Mylan B.V. | Geldig |
+| RVG 103775 | Albert Heijn Diarreeremmer Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Healthypharm B.V. | Geldig |
+| RVG 105036 | DA Diarreeremmende capsules Loperamide HCl 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Nederlandse Drogisterij Service B.V. | Geldig |
+| RVG 105493 | Diarreeremmer HTP Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Healthypharm B.V. | Geldig |
+| RVG 121134 | Loperamide HCl Sanias 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 123064=14220 | Livsane Diarreeremmer Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 124077=14220 | Loperamide HCl Triangle Pharma 2 mg diarreeremmende capsules, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | MAE Holding B.V. | Geldig |
+| RVG 125424 | Loritax 2 mg, lyophilisaat voor oraal gebruik | LOPERAMIDEHYDROCHLORIDE | Lyophilisaat voor oraal gebruik | InstaPill B.V. | Geldig |
+| RVG 125439 | Loperamide HCl Viatris 2 mg, lyophilisaat voor oraal gebruik | LOPERAMIDEHYDROCHLORIDE | Lyophilisaat voor oraal gebruik | Viatris Limited | Geldig |
+| RVG 125673 | Kruidvat diarreeremmer loperamide HCl 2 mg smelttablet, orodispergeerbare table… | LOPERAMIDEHYDROCHLORIDE | Orodispergeerbare tablet | Marel B.V. | Geldig |
 
 Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

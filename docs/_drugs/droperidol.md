@@ -82,17 +82,17 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 107396 | Dehydrobenzperidol 0,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 120914 | Dehydrobenzperidol IV oplossing voor intraveneuze injectie 2,5 mg/ml, oplossing… | DROPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 126821 | Droperidol Kalceks 1,25 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 126822 | Droperidol Kalceks 2,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 129163 | Droperidol Hikma 2,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 131242 | Droperidol Aguettant 2,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 135854//126822 | Droperidol Eureco-Pharma 2,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 107396 | Dehydrobenzperidol 0,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | – | Geldig |
+| RVG 120914 | Dehydrobenzperidol IV oplossing voor intraveneuze injectie 2,5 mg/ml, oplossing… | DROPERIDOL | Oplossing voor injectie | Substipharm | Geldig |
+| RVG 126821 | Droperidol Kalceks 1,25 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | AS Kalceks | Geldig |
+| RVG 126822 | Droperidol Kalceks 2,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | AS Kalceks | Geldig |
+| RVG 129163 | Droperidol Hikma 2,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 131242 | Droperidol Aguettant 2,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Laboratoire Aguettant | Geldig |
+| RVG 135854//126822 | Droperidol Eureco-Pharma 2,5 mg/ml oplossing voor injectie | DROPERIDOL | Oplossing voor injectie | Eureco-Pharma B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -92,20 +92,20 @@ De overige drie opgehaalde publicaties zijn indirect. Ze gaan over bipolaire II-
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 23696 | Fluoxetine Viatris 20 mg, capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 24467 | Fluoxetine 20 PCH, capsules 20 mg | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 24609 | Fluoxetine CF 20, dispergeerbare tabletten 20 mg | FLUOXETINEHYDROCHLORIDE | Dispergeerbare tablet | Geldig |
-| RVG 30007 | Fluoxetine Sandoz 20 mg, capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 117874 | Fluoxetine Aurobindo 20 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 132386 | Fluoxetine Prolepha 10 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 132387 | Fluoxetine Prolepha 30 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 132388 | Fluoxetine Prolepha 40 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 132389 | Fluoxetine Prolepha 60 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 118221 | Fluoxetine Amdipharm 60 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 23696 | Fluoxetine Viatris 20 mg, capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Viatris Limited | Geldig |
+| RVG 24467 | Fluoxetine 20 PCH, capsules 20 mg | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Pharmachemie B.V. | Geldig |
+| RVG 24609 | Fluoxetine CF 20, dispergeerbare tabletten 20 mg | FLUOXETINEHYDROCHLORIDE | Dispergeerbare tablet | Centrafarm B.V. | Geldig |
+| RVG 30007 | Fluoxetine Sandoz 20 mg, capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 117874 | Fluoxetine Aurobindo 20 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 132386 | Fluoxetine Prolepha 10 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Prolepha Research B.V. | Geldig |
+| RVG 132387 | Fluoxetine Prolepha 30 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Prolepha Research B.V. | Geldig |
+| RVG 132388 | Fluoxetine Prolepha 40 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Prolepha Research B.V. | Geldig |
+| RVG 132389 | Fluoxetine Prolepha 60 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | Capsule, hard | Prolepha Research B.V. | Geldig |
+| RVG 118221 | Fluoxetine Amdipharm 60 mg, harde capsules | FLUOXETINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

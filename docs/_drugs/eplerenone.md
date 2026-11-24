@@ -85,32 +85,32 @@ Geen van onderstaande publicaties onderzoekt eplerenon direct bij pulmonale hype
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 29963 | Inspra 25, filmomhulde tabletten 25 mg | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 29964 | Inspra 50, filmomhulde tabletten 50 mg | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 115186 | Eplerenon Teva 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 115187 | Eplerenon Teva 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 115337 | Eplerenon Viatris 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 115339 | Eplerenon Viatris 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 115712 | Eplerenon Mylan 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 115714 | Eplerenon Mylan 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 115913 | Eplerenon Accord 25 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 115915 | Eplerenon Accord 50 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 116344 | Eplerenon Synthon 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 116346 | Eplerenon Synthon 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 116749 | Eplerenon Sandoz 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 116752 | Eplerenon Sandoz 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 117773 | Eplerenon Aurobindo 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 117774 | Eplerenon Aurobindo 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 120634 | Eplerenon Krka 25 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 120636 | Eplerenon Krka 50 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 122778 | Eplerenon Vivanta 25 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
-| RVG 122779 | Eplerenon Vivanta 50 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 29963 | Inspra 25, filmomhulde tabletten 25 mg | EPLERENON | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 29964 | Inspra 50, filmomhulde tabletten 50 mg | EPLERENON | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 115186 | Eplerenon Teva 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 115187 | Eplerenon Teva 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 115337 | Eplerenon Viatris 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 115339 | Eplerenon Viatris 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 115712 | Eplerenon Mylan 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 115714 | Eplerenon Mylan 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 115913 | Eplerenon Accord 25 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 115915 | Eplerenon Accord 50 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 116344 | Eplerenon Synthon 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 116346 | Eplerenon Synthon 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 116749 | Eplerenon Sandoz 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 116752 | Eplerenon Sandoz 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 117773 | Eplerenon Aurobindo 25 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 117774 | Eplerenon Aurobindo 50 mg, filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 120634 | Eplerenon Krka 25 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 120636 | Eplerenon Krka 50 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 122778 | Eplerenon Vivanta 25 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Vivanta Generics s.r.o. | Geldig |
+| RVG 122779 | Eplerenon Vivanta 50 mg filmomhulde tabletten | EPLERENON | Filmomhulde tablet | Vivanta Generics s.r.o. | Geldig |
 
 Getoond worden 20 van de 24 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

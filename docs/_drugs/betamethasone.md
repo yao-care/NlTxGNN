@@ -72,32 +72,32 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 04520 | Betnelan zalf 1 mg/g, zalf | BETAMETHASONVALERAAT | Zalf | Geldig |
-| RVG 05399 | Celestone Chronodose, suspensie voor injectie 5,7 mg/ml | BETAMETHASON, BETAMETHASON ACETAAT, BETAMETHASON DINATRIUM FOSFAAT | Suspensie voor injectie | Geldig |
-| RVG 05650 | Betnelan vloeistof voor cutaan gebruik 1 mg/g, vloeistof voor cutaan gebruik | BETAMETHASONVALERAAT | Vloeistof voor cutaan gebruik | Geldig |
-| RVG 06650 | Diprosone crème, crème 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Crème | Geldig |
-| RVG 06864 | Diprosone zalf, zalf 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Zalf | Geldig |
-| RVG 08211 | Diprosone oplossing voor cutaan gebruik, oplossing voor cutaan gebruik 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Oplossing voor cutaan gebruik | Geldig |
-| RVG 09522 | Diprolene 0,5 mg/g zalf, zalf | BETAMETHASONDIPROPIONAAT | Zalf | Geldig |
-| RVG 13546//08211 | Diprosone 0,05% lotion, lotion 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Oplossing voor cutaan gebruik | Geldig |
-| RVG 16003 | Betamethason Teva 1 mg/g, zalf | BETAMETHASONVALERAAT | Zalf | Geldig |
-| RVG 17806 | Betnelan emulsie voor cutaan gebruik 1 mg/g, emulsie voor cutaan gebruik | BETAMETHASONVALERAAT | Emulsie voor cutaan gebruik | Geldig |
-| RVG 17955//06650 | Diprosone 0,5 mg/g créme | BETAMETHASONDIPROPIONAAT | Crème | Geldig |
-| RVG 29743//06650 | Diprosone crème 0,05%, crème 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Crème | Geldig |
-| RVG 117627 | Betamethason Xiromed 1 mg/g, oplossing voor cutaan gebruik | BETAMETHASONVALERAAT | Oplossing voor cutaan gebruik | Geldig |
-| RVG 123694//06864 | Diprosone zalf, zalf 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Zalf | Geldig |
-| RVG 129638//06650 | Diprosone 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT | Crème | Geldig |
-| RVG 09375 | Diprosalic, zalf | BETAMETHASONDIPROPIONAAT, SALICYLZUUR | Zalf | Geldig |
-| RVG 23110//09375 | Diprosalic, zalf | BETAMETHASONDIPROPIONAAT, SALICYLZUUR | Zalf | Geldig |
-| RVG 27095 | Dovobet 50 microgram/0,5 mg/g zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Geldig |
-| RVG 29629//09375 | Diprosalic, zalf | BETAMETHASONDIPROPIONAAT, SALICYLZUUR | Zalf | Geldig |
-| RVG 100401 | Dovobet 50 microgram/0,5 mg/g gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 04520 | Betnelan zalf 1 mg/g, zalf | BETAMETHASONVALERAAT | Zalf | GlaxoSmithKline B.V. | Geldig |
+| RVG 05399 | Celestone Chronodose, suspensie voor injectie 5,7 mg/ml | BETAMETHASON, BETAMETHASON ACETAAT, BETAMETHASON DINATRIUM FOSFAAT | Suspensie voor injectie | N.V. Organon | Geldig |
+| RVG 05650 | Betnelan vloeistof voor cutaan gebruik 1 mg/g, vloeistof voor cutaan gebruik | BETAMETHASONVALERAAT | Vloeistof voor cutaan gebruik | GlaxoSmithKline B.V. | Geldig |
+| RVG 06650 | Diprosone crème, crème 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Crème | N.V. Organon | Geldig |
+| RVG 06864 | Diprosone zalf, zalf 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Zalf | N.V. Organon | Geldig |
+| RVG 08211 | Diprosone oplossing voor cutaan gebruik, oplossing voor cutaan gebruik 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Oplossing voor cutaan gebruik | N.V. Organon | Geldig |
+| RVG 09522 | Diprolene 0,5 mg/g zalf, zalf | BETAMETHASONDIPROPIONAAT | Zalf | N.V. Organon | Geldig |
+| RVG 13546//08211 | Diprosone 0,05% lotion, lotion 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Oplossing voor cutaan gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 16003 | Betamethason Teva 1 mg/g, zalf | BETAMETHASONVALERAAT | Zalf | Teva Nederland B.V. | Geldig |
+| RVG 17806 | Betnelan emulsie voor cutaan gebruik 1 mg/g, emulsie voor cutaan gebruik | BETAMETHASONVALERAAT | Emulsie voor cutaan gebruik | GlaxoSmithKline B.V. | Geldig |
+| RVG 17955//06650 | Diprosone 0,5 mg/g créme | BETAMETHASONDIPROPIONAAT | Crème | Euro Registratie Collectief B.V. | Geldig |
+| RVG 29743//06650 | Diprosone crème 0,05%, crème 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Crème | EU-Pharma B.V. | Geldig |
+| RVG 117627 | Betamethason Xiromed 1 mg/g, oplossing voor cutaan gebruik | BETAMETHASONVALERAAT | Oplossing voor cutaan gebruik | Medical Valley Invest AB | Geldig |
+| RVG 123694//06864 | Diprosone zalf, zalf 0,5 mg/g | BETAMETHASONDIPROPIONAAT | Zalf | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129638//06650 | Diprosone 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT | Crème | Euro Registratie Collectief B.V. | Geldig |
+| RVG 09375 | Diprosalic, zalf | BETAMETHASONDIPROPIONAAT, SALICYLZUUR | Zalf | N.V. Organon | Geldig |
+| RVG 23110//09375 | Diprosalic, zalf | BETAMETHASONDIPROPIONAAT, SALICYLZUUR | Zalf | Euro Registratie Collectief B.V. | Geldig |
+| RVG 27095 | Dovobet 50 microgram/0,5 mg/g zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | LEO Pharma A/S | Geldig |
+| RVG 29629//09375 | Diprosalic, zalf | BETAMETHASONDIPROPIONAAT, SALICYLZUUR | Zalf | EU-Pharma B.V. | Geldig |
+| RVG 100401 | Dovobet 50 microgram/0,5 mg/g gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | LEO Pharma A/S | Geldig |
 
 Getoond worden 20 van de 31 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

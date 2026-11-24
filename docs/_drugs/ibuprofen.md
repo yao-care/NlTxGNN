@@ -72,32 +72,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/04/284 | Pedea 5 mg/ml, oplossing voor injectie | IBUPROFEN | Oplossing voor injectie | Geldig |
-| EU/1/23/1791 | Ibuprofen Gen.Orph 5 mg/ml-oplossing voor injectie | IBUPROFEN | Oplossing voor injectie | Geldig |
-| RVG 10674 | Nurofen 200 tablet, omhulde tabletten 200 mg | IBUPROFEN | Omhulde tablet | Geldig |
-| RVG 12471 | Advil, dragees 200 mg | IBUPROFEN | Omhulde tablet | Geldig |
-| RVG 13331 | Brufen Bruis, bruisgranulaat in sachets 600 mg | IBUPROFEN | Bruisgranulaat | Geldig |
-| RVG 13478 | Brufen Retard, tabletten met gereguleerde afgifte 800 mg | IBUPROFEN | Tablet met verlengde afgifte | Geldig |
-| RVG 18544 | Ibuprofen 400 mg, tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
-| RVG 18545 | Ibuprofen 600 mg, tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
-| RVG 19838 | Nurofen voor kinderen suikervrije suspensie, suspensie voor oraal gebruik 100 m… | IBUPROFEN | Suspensie voor oraal gebruik | Geldig |
-| RVG 20880 | Ibuprofen Auro 400 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
-| RVG 21902=56106 | Leidapharm Ibuprofen 200 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
-| RVG 21903=20880 | Leidapharm Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
-| RVG 22100 | Nurofen 400 tablet, omhulde tabletten 400 mg | IBUPROFEN | Filmomhulde tablet | Geldig |
-| RVG 22704=56106 | Kruidvat Ibuprofen 200 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
-| RVG 22730=20880 | Kruidvat Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
-| RVG 23679=20880 | Trekpleister Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
-| RVG 23734 | Ibuprofen 400 mg RIA, filmomhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
-| RVG 23735 | Ibuprofen 600 mg RIA, filmomhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
-| RVG 23760 | Ibuprofen HTP 200 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
-| RVG 23761 | Ibuprofen HTP 400 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/04/284 | Pedea 5 mg/ml, oplossing voor injectie | IBUPROFEN | Oplossing voor injectie | Orphan Europe SARL | Geldig |
+| EU/1/23/1791 | Ibuprofen Gen.Orph 5 mg/ml-oplossing voor injectie | IBUPROFEN | Oplossing voor injectie | Gen-Orph SaS | Geldig |
+| RVG 10674 | Nurofen 200 tablet, omhulde tabletten 200 mg | IBUPROFEN | Omhulde tablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 12471 | Advil, dragees 200 mg | IBUPROFEN | Omhulde tablet | Haleon Netherlands B.V. | Geldig |
+| RVG 13331 | Brufen Bruis, bruisgranulaat in sachets 600 mg | IBUPROFEN | Bruisgranulaat | Viatris Healthcare B.V. | Geldig |
+| RVG 13478 | Brufen Retard, tabletten met gereguleerde afgifte 800 mg | IBUPROFEN | Tablet met verlengde afgifte | Viatris Healthcare B.V. | Geldig |
+| RVG 18544 | Ibuprofen 400 mg, tabletten | IBUPROFEN | Filmomhulde tablet | GenRx B.V. | Geldig |
+| RVG 18545 | Ibuprofen 600 mg, tabletten | IBUPROFEN | Filmomhulde tablet | GenRx B.V. | Geldig |
+| RVG 19838 | Nurofen voor kinderen suikervrije suspensie, suspensie voor oraal gebruik 100 m… | IBUPROFEN | Suspensie voor oraal gebruik | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 20880 | Ibuprofen Auro 400 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 21902=56106 | Leidapharm Ibuprofen 200 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Leidapharm B.V. | Geldig |
+| RVG 21903=20880 | Leidapharm Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Leidapharm B.V. | Geldig |
+| RVG 22100 | Nurofen 400 tablet, omhulde tabletten 400 mg | IBUPROFEN | Filmomhulde tablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 22704=56106 | Kruidvat Ibuprofen 200 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Marel B.V. | Geldig |
+| RVG 22730=20880 | Kruidvat Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Marel B.V. | Geldig |
+| RVG 23679=20880 | Trekpleister Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Marel B.V. | Geldig |
+| RVG 23734 | Ibuprofen 400 mg RIA, filmomhulde tabletten | IBUPROFEN | Filmomhulde tablet | RIA Generics Limited | Geldig |
+| RVG 23735 | Ibuprofen 600 mg RIA, filmomhulde tabletten | IBUPROFEN | Filmomhulde tablet | RIA Generics Limited | Geldig |
+| RVG 23760 | Ibuprofen HTP 200 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Healthypharm B.V. | Geldig |
+| RVG 23761 | Ibuprofen HTP 400 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Healthypharm B.V. | Geldig |
 
 Getoond worden 20 van de 177 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

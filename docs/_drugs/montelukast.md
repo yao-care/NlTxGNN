@@ -104,32 +104,32 @@ Let op: de verschillende vormen verschillen sterk in pathofysiologie en mogen ni
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 23164 | Singulair 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 23165 | Singulair 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 25800 | Singulair 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 100911 | Montelukast 10 mg Teva, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 100923 | Montelukast 4 mg Teva, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 100924 | Montelukast 5 mg Teva, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 102885 | Montelukast Sandoz 10 mg, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 103804 | Montelukast Sandoz kauwtablet 4 mg, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 103805 | Montelukast Sandoz kauwtablet 5 mg, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 104604 | Singulair 4 mg granulaat | MONTELUKAST NATRIUM | Granulaat | Geldig |
-| RVG 104690 | Montelukast Viatris 10 mg, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 104963 | Montelukast Glenmark 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 104974 | Montelukast Glenmark 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 104975 | Montelukast Glenmark 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 106626 | Montelukast Accord 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 106634 | Montelukast Accord 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 107185 | Montelukast Krka 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 107189 | Montelukast Krka 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
-| RVG 107190 | Montelukast Krka 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 108516 | Montelukast Accord 10 mg Filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 23164 | Singulair 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 23165 | Singulair 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | N.V. Organon | Geldig |
+| RVG 25800 | Singulair 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | N.V. Organon | Geldig |
+| RVG 100911 | Montelukast 10 mg Teva, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 100923 | Montelukast 4 mg Teva, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Teva Nederland B.V. | Geldig |
+| RVG 100924 | Montelukast 5 mg Teva, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Teva Nederland B.V. | Geldig |
+| RVG 102885 | Montelukast Sandoz 10 mg, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 103804 | Montelukast Sandoz kauwtablet 4 mg, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Sandoz B.V. | Geldig |
+| RVG 103805 | Montelukast Sandoz kauwtablet 5 mg, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Sandoz B.V. | Geldig |
+| RVG 104604 | Singulair 4 mg granulaat | MONTELUKAST NATRIUM | Granulaat | N.V. Organon | Geldig |
+| RVG 104690 | Montelukast Viatris 10 mg, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 104963 | Montelukast Glenmark 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 104974 | Montelukast Glenmark 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 104975 | Montelukast Glenmark 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 106626 | Montelukast Accord 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Accord Healthcare B.V. | Geldig |
+| RVG 106634 | Montelukast Accord 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Accord Healthcare B.V. | Geldig |
+| RVG 107185 | Montelukast Krka 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Krka d.d., Novo mesto | Geldig |
+| RVG 107189 | Montelukast Krka 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Krka d.d., Novo mesto | Geldig |
+| RVG 107190 | Montelukast Krka 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 108516 | Montelukast Accord 10 mg Filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
 
 Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -98,14 +98,14 @@ De overige gevonden publicaties gaan over andere stoffen of algemene migrainegen
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 117750 | Chloorhexidinetinctuur Fresenius Kabi, oplossing voor cutaan gebruik 5 mg/ml /7… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 117752 | Chloorhexidinetinctuur Fresenius Kabi, rood , oplossing voor cutaan gebruik 5 m… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 120279 | Chloorhexidinedigluconaat 0,5% m/v in Alcohol 70% v/v Added Pharma, oplossing v… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 123416 | Chloorhexidinedigluconaat 0,5% m/v in Alcohol 70% v/v Melita, oplossing voor cu… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 117750 | Chloorhexidinetinctuur Fresenius Kabi, oplossing voor cutaan gebruik 5 mg/ml /7… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 117752 | Chloorhexidinetinctuur Fresenius Kabi, rood , oplossing voor cutaan gebruik 5 m… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | – | Geldig |
+| RVG 120279 | Chloorhexidinedigluconaat 0,5% m/v in Alcohol 70% v/v Added Pharma, oplossing v… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Added Pharma B.V. | Geldig |
+| RVG 123416 | Chloorhexidinedigluconaat 0,5% m/v in Alcohol 70% v/v Melita, oplossing voor cu… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Melita Pharm, S.L. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

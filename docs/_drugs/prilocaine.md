@@ -98,22 +98,22 @@ Belangrijke kanttekening: vrijwel al het bewijs betreft de combinatie met lidoca
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 07820 | Citanest 10 mg/ml, oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 07821 | Citanest 20 mg/ml, oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 112995 | Prilotekal, 20 mg/ml oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| EU/1/13/881 | Fortacin 150 mg/ml + 50 mg/ml huidspray, oplossing | LIDOCAÏNE, PRILOCAÏNE | Huidspray, oplossing | Geldig |
-| RVG 07824 | Citanest 3% - Octapressine DENTAL, injectievloeistof voor perineurale toedienin… | FELYPRESSINE, PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 11015 | emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | Crème | Geldig |
-| RVG 15721 | Emla, pleister | LIDOCAÏNE, PRILOCAÏNE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 30847 | Oraqix, gel voor peri-odontaal gebruik 25 mg/g + 25 mg/g | LIDOCAÏNE, PRILOCAÏNE | Gel voor peri-odontaal gebruik | Geldig |
-| RVG 115128 | Lidocaïne/Prilocaïne Teva 25 + 25 mg/g crème | PRILOCAÏNE, LIDOCAÏNE | Crème | Geldig |
-| RVG 128718//11015 | Emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | Crème | Geldig |
-| RVG 134685 | Algyd 25 mg/25 mg pleister | LIDOCAÏNE, PRILOCAÏNE | Pleister | Geldig |
-| RVG 115964//11015 | Emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 07820 | Citanest 10 mg/ml, oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Aspen Pharma Trading Limited | Geldig |
+| RVG 07821 | Citanest 20 mg/ml, oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Aspen Pharma Trading Limited | Geldig |
+| RVG 112995 | Prilotekal, 20 mg/ml oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | – | Geldig |
+| EU/1/13/881 | Fortacin 150 mg/ml + 50 mg/ml huidspray, oplossing | LIDOCAÏNE, PRILOCAÏNE | Huidspray, oplossing | Recordati Ireland Ltd. (Co. Cork) | Geldig |
+| RVG 07824 | Citanest 3% - Octapressine DENTAL, injectievloeistof voor perineurale toedienin… | FELYPRESSINE, PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Dentsply DeTrey GmbH | Geldig |
+| RVG 11015 | emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | Crème | Aspen Pharma Trading Limited | Geldig |
+| RVG 15721 | Emla, pleister | LIDOCAÏNE, PRILOCAÏNE | Pleister voor transdermaal gebruik | Aspen Pharma Trading Limited | Geldig |
+| RVG 30847 | Oraqix, gel voor peri-odontaal gebruik 25 mg/g + 25 mg/g | LIDOCAÏNE, PRILOCAÏNE | Gel voor peri-odontaal gebruik | Dentsply DeTrey GmbH | Geldig |
+| RVG 115128 | Lidocaïne/Prilocaïne Teva 25 + 25 mg/g crème | PRILOCAÏNE, LIDOCAÏNE | Crème | – | Geldig |
+| RVG 128718//11015 | Emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | Crème | Eureco-Pharma B.V. | Geldig |
+| RVG 134685 | Algyd 25 mg/25 mg pleister | LIDOCAÏNE, PRILOCAÏNE | Pleister | Laboratoires Medgen | Geldig |
+| RVG 115964//11015 | Emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

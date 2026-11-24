@@ -70,17 +70,17 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 08285 | Rocaltrol 0,25, capsules 0,25 microgram | CALCITRIOL | Capsule, zacht | Geldig |
-| RVG 08286 | Rocaltrol 0,5, capsules 0,5 microgram | CALCITRIOL | Capsule, zacht | Geldig |
-| RVG 16330 | Silkis, zalf 3 microgram/gram | CALCITRIOL | Zalf | Geldig |
-| RVG 20778//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | Capsule, zacht | Geldig |
-| RVG 20779//08286 | Rocaltrol 0,50 microgram, capsules | CALCITRIOL | Capsule, zacht | Geldig |
-| RVG 129727//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | Capsule, zacht | Geldig |
-| RVG 112460//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 08285 | Rocaltrol 0,25, capsules 0,25 microgram | CALCITRIOL | Capsule, zacht | Atnahs Pharma Netherlands B.V. | Geldig |
+| RVG 08286 | Rocaltrol 0,5, capsules 0,5 microgram | CALCITRIOL | Capsule, zacht | Atnahs Pharma Netherlands B.V. | Geldig |
+| RVG 16330 | Silkis, zalf 3 microgram/gram | CALCITRIOL | Zalf | Galderma Benelux B.V. | Geldig |
+| RVG 20778//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | Capsule, zacht | Euro Registratie Collectief B.V. | Geldig |
+| RVG 20779//08286 | Rocaltrol 0,50 microgram, capsules | CALCITRIOL | Capsule, zacht | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129727//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | Capsule, zacht | Euro Registratie Collectief B.V. | Geldig |
+| RVG 112460//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

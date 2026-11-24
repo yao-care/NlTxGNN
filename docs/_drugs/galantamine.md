@@ -89,26 +89,26 @@ Veel van de overige opgehaalde publicaties betreffen algemene dementie- of choli
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 107501 | Galantamine Sandoz retard 8 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 107502 | Galantamine Sandoz retard 16 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 107503 | Galantamine Sandoz retard 24 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 107504 | Bergal SR 8 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 107505 | Bergal SR 16 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 107506 | Bergal SR 24 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 107647 | Galantamine Retard Viatris 8 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 107649 | Galantamine Retard Viatris 16 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 107650 | Galantamine Retard Viatris 24 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 109100 | Masparen retard 8 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 109101 | Masparen retard 16 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 109102 | Masparen retard 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 120785 | Galantamine Aurobindo Retard 8 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 120794 | Galantamine Aurobindo Retard 16 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 120795 | Galantamine Aurobindo Retard 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 109150 | Galantamine retard CF 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 107501 | Galantamine Sandoz retard 8 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Sandoz B.V. | Geldig |
+| RVG 107502 | Galantamine Sandoz retard 16 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Sandoz B.V. | Geldig |
+| RVG 107503 | Galantamine Sandoz retard 24 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Sandoz B.V. | Geldig |
+| RVG 107504 | Bergal SR 8 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Krka d.d., Novo mesto | Geldig |
+| RVG 107505 | Bergal SR 16 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Krka d.d., Novo mesto | Geldig |
+| RVG 107506 | Bergal SR 24 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Krka d.d., Novo mesto | Geldig |
+| RVG 107647 | Galantamine Retard Viatris 8 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Viatris Limited | Geldig |
+| RVG 107649 | Galantamine Retard Viatris 16 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Viatris Limited | Geldig |
+| RVG 107650 | Galantamine Retard Viatris 24 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Viatris Limited | Geldig |
+| RVG 109100 | Masparen retard 8 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Pharmathen S.A. | Geldig |
+| RVG 109101 | Masparen retard 16 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Pharmathen S.A. | Geldig |
+| RVG 109102 | Masparen retard 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Pharmathen S.A. | Geldig |
+| RVG 120785 | Galantamine Aurobindo Retard 8 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 120794 | Galantamine Aurobindo Retard 16 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 120795 | Galantamine Aurobindo Retard 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 109150 | Galantamine retard CF 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

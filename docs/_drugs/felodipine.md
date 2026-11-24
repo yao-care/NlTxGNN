@@ -72,18 +72,18 @@ Momenteel geen gerelateerde literatuur beschikbaar voor deze indicatie.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 15580 | Plendil 2,5, tabletten met verlengde afgifte 2,5 mg | FELODIPINE | Tablet met verlengde afgifte | Geldig |
-| RVG 29746 | Felodipine retard CF 5 mg, tabletten met verlengde afgifte | FELODIPINE | Tablet met verlengde afgifte | Geldig |
-| RVG 29747 | Felodipine retard CF 10 mg, tabletten met verlengde afgifte | FELODIPINE | Tablet met verlengde afgifte | Geldig |
-| RVG 29933 | Felodipine ratiopharm 5 mg, tabletten met gereguleerde afgifte | FELODIPINE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 29934 | Felodipine ratiopharm 10 mg, tabletten met gereguleerde afgifte | FELODIPINE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 30520 | Felodipine Sandoz retard 5 mg, tabletten met verlengde afgifte | FELODIPINE | Tablet met verlengde afgifte | Geldig |
-| RVG 30521 | Felodipine Sandoz retard 10 mg, tabletten met verlengde afgifte | FELODIPINE | Tablet met verlengde afgifte | Geldig |
-| RVG 119755//15580 | Plendil 2,5 mg, tabletten met verlengde afgifte | FELODIPINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 15580 | Plendil 2,5, tabletten met verlengde afgifte 2,5 mg | FELODIPINE | Tablet met verlengde afgifte | Glenwood GmbH Pharmazeutische Erzeugnisse | Geldig |
+| RVG 29746 | Felodipine retard CF 5 mg, tabletten met verlengde afgifte | FELODIPINE | Tablet met verlengde afgifte | Centrafarm B.V. | Geldig |
+| RVG 29747 | Felodipine retard CF 10 mg, tabletten met verlengde afgifte | FELODIPINE | Tablet met verlengde afgifte | Centrafarm B.V. | Geldig |
+| RVG 29933 | Felodipine ratiopharm 5 mg, tabletten met gereguleerde afgifte | FELODIPINE | Tablet met gereguleerde afgifte | ratiopharm GmbH | Geldig |
+| RVG 29934 | Felodipine ratiopharm 10 mg, tabletten met gereguleerde afgifte | FELODIPINE | Tablet met gereguleerde afgifte | ratiopharm GmbH | Geldig |
+| RVG 30520 | Felodipine Sandoz retard 5 mg, tabletten met verlengde afgifte | FELODIPINE | Tablet met verlengde afgifte | Sandoz B.V. | Geldig |
+| RVG 30521 | Felodipine Sandoz retard 10 mg, tabletten met verlengde afgifte | FELODIPINE | Tablet met verlengde afgifte | Sandoz B.V. | Geldig |
+| RVG 119755//15580 | Plendil 2,5 mg, tabletten met verlengde afgifte | FELODIPINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

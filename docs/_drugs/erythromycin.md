@@ -74,14 +74,14 @@ Deze publicatie onderzoekt de voorspelde aandoening niet rechtstreeks. Daarom is
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 01799 | Erythrocine 250 mg tabletten | ERYTROMYCINE STEARAAT | Omhulde tablet | Geldig |
-| RVG 14095 | Inderm, applicatievloeistof 1% | ERYTROMYCINE | Oplossing voor cutaan gebruik | Geldig |
-| RVG 115424//14095 | Inderm 10 mg/g, applicatievloeistof | ERYTROMYCINE | Oplossing voor cutaan gebruik | Geldig |
-| RVG 120594//14095 | Inderm, applicatievloeistof 1% | ERYTROMYCINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 01799 | Erythrocine 250 mg tabletten | ERYTROMYCINE STEARAAT | Omhulde tablet | Amdipharm Limited | Geldig |
+| RVG 14095 | Inderm, applicatievloeistof 1% | ERYTROMYCINE | Oplossing voor cutaan gebruik | Centrafarm B.V. | Geldig |
+| RVG 115424//14095 | Inderm 10 mg/g, applicatievloeistof | ERYTROMYCINE | Oplossing voor cutaan gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 120594//14095 | Inderm, applicatievloeistof 1% | ERYTROMYCINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

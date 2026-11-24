@@ -95,32 +95,32 @@ Selectie van de meest relevante publicaties voor alopecia areata (RCT en systema
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 00093 | Di-Adreson-F Aquosum 25 mg, poeder voor injectievloeistof | PREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 10169 | Minims Prednisolondinatriumfosfaat 5 mg/ml, oogdruppels, oplossing | PREDNISOLON DINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 11271 | Pred Forte 10 mg/ml, oogdruppels, suspensie | PREDNISOLONACETAAT | Oogdruppels, suspensie | Geldig |
-| RVG 14257=50969 | Prednisolon Sandoz 5, tabletten 5 mg | PREDNISOLON | Tablet | Geldig |
-| RVG 25347 | Prednisolon 30 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 33397 | Prednisolon 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 50766 | Prednisolon CF 5 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 50859 | Prednisolonnatriumsuccinaat CF 25 mg, poeder voor oplossing voor injectie | PREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor injectie | Geldig |
-| RVG 50969 | Prednisolon Teva 5 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 104785 | Prednisolon Mylan 30 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 105828 | Prednisolon Mylan 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 106136 | Prednisolon Sandoz 30 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 106140 | Prednisolon Sandoz 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 125521=33397 | Prednisolon Teva 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 125522=25347 | Prednisolon Teva 30 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 129391 | Provist-Opto 5 mg/ml, oogdruppels, oplossing | PREDNISOLON DINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 131893 | Prednisolon Auro 1 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 131894 | Prednisolon Auro 5 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 131895 | Prednisolon Auro 10 mg, tabletten | PREDNISOLON | Tablet | Geldig |
-| RVG 131896 | Prednisolon Auro 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 00093 | Di-Adreson-F Aquosum 25 mg, poeder voor injectievloeistof | PREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | ACE Pharmaceuticals B.V. | Geldig |
+| RVG 10169 | Minims Prednisolondinatriumfosfaat 5 mg/ml, oogdruppels, oplossing | PREDNISOLON DINATRIUMFOSFAAT | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 11271 | Pred Forte 10 mg/ml, oogdruppels, suspensie | PREDNISOLONACETAAT | Oogdruppels, suspensie | AbbVie B.V. | Geldig |
+| RVG 14257=50969 | Prednisolon Sandoz 5, tabletten 5 mg | PREDNISOLON | Tablet | Sandoz B.V. | Geldig |
+| RVG 25347 | Prednisolon 30 mg, tabletten | PREDNISOLON | Tablet | TioFarma B.V. | Geldig |
+| RVG 33397 | Prednisolon 20 mg, tabletten | PREDNISOLON | Tablet | Tiofarma B.V. | Geldig |
+| RVG 50766 | Prednisolon CF 5 mg, tabletten | PREDNISOLON | Tablet | Centrafarm B.V. | Geldig |
+| RVG 50859 | Prednisolonnatriumsuccinaat CF 25 mg, poeder voor oplossing voor injectie | PREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor injectie | Centrafarm B.V. | Geldig |
+| RVG 50969 | Prednisolon Teva 5 mg, tabletten | PREDNISOLON | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 104785 | Prednisolon Mylan 30 mg, tabletten | PREDNISOLON | Tablet | Mylan B.V. | Geldig |
+| RVG 105828 | Prednisolon Mylan 20 mg, tabletten | PREDNISOLON | Tablet | Mylan B.V. | Geldig |
+| RVG 106136 | Prednisolon Sandoz 30 mg, tabletten | PREDNISOLON | Tablet | Sandoz B.V. | Geldig |
+| RVG 106140 | Prednisolon Sandoz 20 mg, tabletten | PREDNISOLON | Tablet | – | Geldig |
+| RVG 125521=33397 | Prednisolon Teva 20 mg, tabletten | PREDNISOLON | Tablet | Teva B.V. | Geldig |
+| RVG 125522=25347 | Prednisolon Teva 30 mg, tabletten | PREDNISOLON | Tablet | Teva B.V. | Geldig |
+| RVG 129391 | Provist-Opto 5 mg/ml, oogdruppels, oplossing | PREDNISOLON DINATRIUMFOSFAAT | Oogdruppels, oplossing | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A | Geldig |
+| RVG 131893 | Prednisolon Auro 1 mg, tabletten | PREDNISOLON | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 131894 | Prednisolon Auro 5 mg, tabletten | PREDNISOLON | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 131895 | Prednisolon Auro 10 mg, tabletten | PREDNISOLON | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 131896 | Prednisolon Auro 20 mg, tabletten | PREDNISOLON | Tablet | Aurobindo Pharma B.V. | Geldig |
 
 Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

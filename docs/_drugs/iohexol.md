@@ -79,19 +79,19 @@ Voor insomnia is momenteel geen gerelateerde literatuur beschikbaar. Voor de twe
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 09819 | Omnipaque 240 mg I/ml, injectievloeistof | IOHEXOL | Oplossing voor injectie | Geldig |
-| RVG 09820 | Omnipaque 300 mg I/ml, injectievloeistof | IOHEXOL | Oplossing voor injectie | Geldig |
-| RVG 09821 | Omnipaque 350 mg I/ml, injectievloeistof | IOHEXOL | Oplossing voor injectie | Geldig |
-| RVG 11768 | Omnipaque 140 mg I/ml, injectievloeistof | IOHEXOL | Oplossing voor injectie | Geldig |
-| RVG 130196 | Iohexol ICG farma 647 mg/ml (300 mg jodium/ml), oplossing voor injectie | IOHEXOL | Oplossing voor injectie | Geldig |
-| RVG 130198 | Iohexol ICG farma 755 mg/ml (350 mg jodium/ml), oplossing voor injectie | IOHEXOL | Oplossing voor injectie | Geldig |
-| RVG 132878 | Iohexol ADOH 350 mg I/ml oplossing voor injectie | IOHEXOL | Oplossing voor injectie | Geldig |
-| RVG 10543 | Omnipaque 180 mg I/ml, injectievloeistof | IOHEXOL, JODIUM (MOLECULAIR) | Oplossing voor injectie | Geldig |
-| RVG 117156 | Nitigraf 350 mg I/ml, oplossing voor injectie | IOHEXOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 09819 | Omnipaque 240 mg I/ml, injectievloeistof | IOHEXOL | Oplossing voor injectie | GE Healthcare B.V. | Geldig |
+| RVG 09820 | Omnipaque 300 mg I/ml, injectievloeistof | IOHEXOL | Oplossing voor injectie | GE Healthcare B.V. | Geldig |
+| RVG 09821 | Omnipaque 350 mg I/ml, injectievloeistof | IOHEXOL | Oplossing voor injectie | GE Healthcare B.V. | Geldig |
+| RVG 11768 | Omnipaque 140 mg I/ml, injectievloeistof | IOHEXOL | Oplossing voor injectie | GE Healthcare B.V. | Geldig |
+| RVG 130196 | Iohexol ICG farma 647 mg/ml (300 mg jodium/ml), oplossing voor injectie | IOHEXOL | Oplossing voor injectie | UAB ICG Farma | Geldig |
+| RVG 130198 | Iohexol ICG farma 755 mg/ml (350 mg jodium/ml), oplossing voor injectie | IOHEXOL | Oplossing voor injectie | UAB ICG Farma | Geldig |
+| RVG 132878 | Iohexol ADOH 350 mg I/ml oplossing voor injectie | IOHEXOL | Oplossing voor injectie | ADOH B.V. | Geldig |
+| RVG 10543 | Omnipaque 180 mg I/ml, injectievloeistof | IOHEXOL, JODIUM (MOLECULAIR) | Oplossing voor injectie | GE Healthcare B.V. | Geldig |
+| RVG 117156 | Nitigraf 350 mg I/ml, oplossing voor injectie | IOHEXOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -114,32 +114,32 @@ Voor deze indicatie zijn vooral overzichtsartikelen gevonden; er zijn geen geran
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 100527 | Gemcitabine SUN 1000 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 101088 | Gemcitabine 200 mg PCH, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 101089 | Gemcitabine 1000 mg PCH, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 102546 | Gemcitabine Hikma 200 mg, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 102550 | Gemcitabine Hikma 1 g, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 106596 | Gemcitabine Sandoz 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 109019 | Gemcitabine Accord 100 mg/ml Concentraat voor Oplossing voor Infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 113984 | Gemcitabine Fresenius Kabi 38 mg/ml concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 116483 | Gemcitabine SUN 1200 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 116660 | Gemcitabine ratiopharm 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 116668 | Gemcitabine Eugia 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 117647 | Gemcitabine Koanaa 200 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 117648 | Gemcitabine Koanaa 1000 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 117781 | Gemcitabine SUN 1600 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 117782 | Gemcitabine SUN 1700 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 117784 | Gemcitabine SUN 1800 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 117785 | Gemcitabine SUN 2000 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 117786 | Gemcitabine SUN 2200 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 121182 | Gemcitabine SUN 1400 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 124450 | Gemcitabine Hikma 38 mg/ml concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 100527 | Gemcitabine SUN 1000 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 101088 | Gemcitabine 200 mg PCH, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Pharmachemie B.V. | Geldig |
+| RVG 101089 | Gemcitabine 1000 mg PCH, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Pharmachemie B.V. | Geldig |
+| RVG 102546 | Gemcitabine Hikma 200 mg, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 102550 | Gemcitabine Hikma 1 g, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 106596 | Gemcitabine Sandoz 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Sandoz B.V. | Geldig |
+| RVG 109019 | Gemcitabine Accord 100 mg/ml Concentraat voor Oplossing voor Infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Accord Healthcare B.V. | Geldig |
+| RVG 113984 | Gemcitabine Fresenius Kabi 38 mg/ml concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 116483 | Gemcitabine SUN 1200 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 116660 | Gemcitabine ratiopharm 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | ratiopharm GmbH | Geldig |
+| RVG 116668 | Gemcitabine Eugia 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 117647 | Gemcitabine Koanaa 200 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Koanaa Healthcare Spain, S.L. | Geldig |
+| RVG 117648 | Gemcitabine Koanaa 1000 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Koanaa Healthcare Spain, S.L. | Geldig |
+| RVG 117781 | Gemcitabine SUN 1600 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 117782 | Gemcitabine SUN 1700 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 117784 | Gemcitabine SUN 1800 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 117785 | Gemcitabine SUN 2000 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 117786 | Gemcitabine SUN 2200 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | – | Geldig |
+| RVG 121182 | Gemcitabine SUN 1400 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 124450 | Gemcitabine Hikma 38 mg/ml concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
 
 Getoond worden 20 van de 22 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

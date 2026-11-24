@@ -95,19 +95,19 @@ Er zijn geen gerandomiseerde gecontroleerde studies (RCT's) naar ketoconazol bij
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/14/965 | Ketoconazole Esteve, 200 mg tabletten | KETOCONAZOL | Tablet | Geldig |
-| RVG 10470 | Nizoral 20 mg/g, creme | KETOCONAZOL | Crème | Geldig |
-| RVG 22750=10470 | Ketoconazol CF 20 mg/g, crème | KETOCONAZOL | Crème | Geldig |
-| RVG 24760//10470 | Nizoral crème 20 mg/g, crème | KETOCONAZOL | Crème | Geldig |
-| RVG 25724 | Ketoconazol Aurobindo Shampoo 20 mg/g, shampoo | KETOCONAZOL | Shampoo | Geldig |
-| RVG 30871 | Ketoconazol Double-e Pharma 20 mg/g, shampoo | KETOCONAZOL | Shampoo | Geldig |
-| RVG 110800//10470 | Nizoral crème 20 mg/g, crème | KETOCONAZOL | Crème | Geldig |
-| RVG 130248//30871 | Ketoconazol ERC 20 mg/g, shampoo | KETOCONAZOL | Shampoo | Geldig |
-| RVG 119912//10470 | Ketoconazol crème Fisher 20 mg/g, crème | KETOCONAZOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/14/965 | Ketoconazole Esteve, 200 mg tabletten | KETOCONAZOL | Tablet | Esteve Pharmaceuticals S.A. | Geldig |
+| RVG 10470 | Nizoral 20 mg/g, creme | KETOCONAZOL | Crème | Centrafarm B.V. | Geldig |
+| RVG 22750=10470 | Ketoconazol CF 20 mg/g, crème | KETOCONAZOL | Crème | Centrafarm B.V. | Geldig |
+| RVG 24760//10470 | Nizoral crème 20 mg/g, crème | KETOCONAZOL | Crème | EU-Pharma B.V. | Geldig |
+| RVG 25724 | Ketoconazol Aurobindo Shampoo 20 mg/g, shampoo | KETOCONAZOL | Shampoo | Aurobindo Pharma B.V. | Geldig |
+| RVG 30871 | Ketoconazol Double-e Pharma 20 mg/g, shampoo | KETOCONAZOL | Shampoo | Double-E Pharma Limited | Geldig |
+| RVG 110800//10470 | Nizoral crème 20 mg/g, crème | KETOCONAZOL | Crème | Euro Registratie Collectief B.V. | Geldig |
+| RVG 130248//30871 | Ketoconazol ERC 20 mg/g, shampoo | KETOCONAZOL | Shampoo | Euro Registratie Collectief B.V. | Geldig |
+| RVG 119912//10470 | Ketoconazol crème Fisher 20 mg/g, crème | KETOCONAZOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

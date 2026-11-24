@@ -96,15 +96,15 @@ De overige zeven voorspellingen (o.a. WHIM-syndroom, myosclerose, acromesomele d
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 00633 | Salazopyrine zetpil, zetpillen 500 mg | SULFASALAZINE | Zetpil | Geldig |
-| RVG 05705 | Salazopyrine E.C. tablet, maagsapresistente tabletten 500 mg | SULFASALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 09645 | Sulfasalazine Teva 500 mg, maagsapresistente tabletten | SULFASALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 15007 | Sulfasalazine Mylan 500 mg, maagsapresistente tabletten | SULFASALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 57373=09645 | Sulfasalazine CF 500 mg, maagsapresistente tabletten | SULFASALAZINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 00633 | Salazopyrine zetpil, zetpillen 500 mg | SULFASALAZINE | Zetpil | Pfizer B.V. | Geldig |
+| RVG 05705 | Salazopyrine E.C. tablet, maagsapresistente tabletten 500 mg | SULFASALAZINE | Maagsapresistente tablet | Pfizer B.V. | Geldig |
+| RVG 09645 | Sulfasalazine Teva 500 mg, maagsapresistente tabletten | SULFASALAZINE | Maagsapresistente tablet | Teva Nederland B.V. | Geldig |
+| RVG 15007 | Sulfasalazine Mylan 500 mg, maagsapresistente tabletten | SULFASALAZINE | Maagsapresistente tablet | Mylan B.V. | Geldig |
+| RVG 57373=09645 | Sulfasalazine CF 500 mg, maagsapresistente tabletten | SULFASALAZINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

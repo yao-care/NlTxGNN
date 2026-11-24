@@ -88,32 +88,32 @@ Informatie over de toedieningsvorm en de goedgekeurde indicatie ontbreekt in de 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/25/1955 | Maapliv oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Geldig |
-| RVG 09570 | Vaminolact, infusievloeistof | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏNE (L-), FENYLALANIN… | Oplossing voor infusie | Geldig |
-| RVG 10289 | Vamin 18 zonder electrolyten, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏN… | Oplossing voor infusie | Geldig |
-| RVG 10914 | Nutriflex special 70/240, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE GLUTAMAAT, L-, ASPARAGINEZUUR, (L-),… | Oplossing voor infusie | Geldig |
-| RVG 12978 | Primene 10%, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Geldig |
-| RVG 15272 | Nutriflex plus 48/150, infusievloeistof, 500 ml, 1000 ml en 2000 ml | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE GLUTAMAAT, L-, ASPARAGINEZUUR, (L-),… | Oplossing voor infusie | Geldig |
-| RVG 16984 | Nutrineal PD4 met 11 g/l aminozuren, oplossing voor peritoneale dialyse | ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORIDE 2-WATER (E 509),… | Oplossing voor peritoneale dialyse | Geldig |
-| RVG 17375 | Clinimix N9 G15 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
-| RVG 17376 | Clinimix N14 G30 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
-| RVG 17377 | Clinimix N17 G35 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
-| RVG 17378 | Clinimix N14 G30, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CHLORIDE (CL-), FENYLALANINE,… | Oplossing voor infusie | Geldig |
-| RVG 19631 | Glamin, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), FENYLALANINE, (L-), GLUTAM… | Oplossing voor infusie | Geldig |
-| RVG 24228 | Aminoven 5% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
-| RVG 24229 | Aminoven 10% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
-| RVG 24230 | Aminoven 15% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
-| RVG 24292 | Kabiven, emulsie voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM… | Emulsie voor infusie | Geldig |
-| RVG 32127 | Aminomix 1 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Geldig |
-| RVG 32128 | Aminomix 2 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Geldig |
-| RVG 101688 | SmofKabiven, emulsie voor infusie | ALANINE, (L-), ARGININE, (L-), CALCIUMCHLORIDE 2-WATER (E 509), DINATRIUMGLYCER… | Emulsie voor infusie | Geldig |
-| RVG 101722 | SmofKabiven Elektrolytenvrij, emulsie voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLUCOSE 1-WATER, GLYCINE (E… | Emulsie voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/25/1955 | Maapliv oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Recordati Rare Diseases | Geldig |
+| RVG 09570 | Vaminolact, infusievloeistof | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏNE (L-), FENYLALANIN… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 10289 | Vamin 18 zonder electrolyten, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏN… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 10914 | Nutriflex special 70/240, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE GLUTAMAAT, L-, ASPARAGINEZUUR, (L-),… | Oplossing voor infusie | B. Braun Melsungen AG (Melsungen) | Geldig |
+| RVG 12978 | Primene 10%, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Baxter B.V. | Geldig |
+| RVG 15272 | Nutriflex plus 48/150, infusievloeistof, 500 ml, 1000 ml en 2000 ml | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE GLUTAMAAT, L-, ASPARAGINEZUUR, (L-),… | Oplossing voor infusie | B. Braun Melsungen AG (Melsungen) | Geldig |
+| RVG 16984 | Nutrineal PD4 met 11 g/l aminozuren, oplossing voor peritoneale dialyse | ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORIDE 2-WATER (E 509),… | Oplossing voor peritoneale dialyse | Vantive B.V. | Geldig |
+| RVG 17375 | Clinimix N9 G15 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Baxter B.V. | Geldig |
+| RVG 17376 | Clinimix N14 G30 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Baxter B.V. | Geldig |
+| RVG 17377 | Clinimix N17 G35 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Baxter B.V. | Geldig |
+| RVG 17378 | Clinimix N14 G30, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CHLORIDE (CL-), FENYLALANINE,… | Oplossing voor infusie | Baxter B.V. | Geldig |
+| RVG 19631 | Glamin, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), FENYLALANINE, (L-), GLUTAM… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 24228 | Aminoven 5% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 24229 | Aminoven 10% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 24230 | Aminoven 15% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 24292 | Kabiven, emulsie voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM… | Emulsie voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 32127 | Aminomix 1 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 32128 | Aminomix 2 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 101688 | SmofKabiven, emulsie voor infusie | ALANINE, (L-), ARGININE, (L-), CALCIUMCHLORIDE 2-WATER (E 509), DINATRIUMGLYCER… | Emulsie voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 101722 | SmofKabiven Elektrolytenvrij, emulsie voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLUCOSE 1-WATER, GLYCINE (E… | Emulsie voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
 
 Getoond worden 20 van de 56 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

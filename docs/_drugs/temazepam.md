@@ -74,17 +74,17 @@ De kandidaten die het TxGNN-model voor Temazepam voorstelt (score ≥ 0,99), zij
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 12905 | Temazepam Aurobindo 10 mg, capsules | TEMAZEPAM | Capsule, zacht | Geldig |
-| RVG 12906 | Temazepam Aurobindo 20 mg, capsules | TEMAZEPAM | Capsule, zacht | Geldig |
-| RVG 14354 | Temazepam Auro 10 mg, tabletten | TEMAZEPAM | Tablet | Geldig |
-| RVG 14355 | Temazepam Auro 20 mg, tabletten | TEMAZEPAM | Tablet | Geldig |
-| RVG 56756 | Temazepam CF 10 mg, capsules | TEMAZEPAM | Capsule, zacht | Geldig |
-| RVG 56757 | Temazepam CF 20 mg, capsules | TEMAZEPAM | Capsule, zacht | Geldig |
-| RVG 56929 | Temazepam Apotex 20 mg, capsules | TEMAZEPAM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 12905 | Temazepam Aurobindo 10 mg, capsules | TEMAZEPAM | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 12906 | Temazepam Aurobindo 20 mg, capsules | TEMAZEPAM | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 14354 | Temazepam Auro 10 mg, tabletten | TEMAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 14355 | Temazepam Auro 20 mg, tabletten | TEMAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 56756 | Temazepam CF 10 mg, capsules | TEMAZEPAM | Capsule, zacht | Centrafarm B.V. | Geldig |
+| RVG 56757 | Temazepam CF 20 mg, capsules | TEMAZEPAM | Capsule, zacht | Centrafarm B.V. | Geldig |
+| RVG 56929 | Temazepam Apotex 20 mg, capsules | TEMAZEPAM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

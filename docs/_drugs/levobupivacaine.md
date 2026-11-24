@@ -88,18 +88,18 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 113445 | Levobupivacaïne Fresenius Kabi 0,625 mg/ml, oplossing voor infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 113447 | Levobupivacaïne Fresenius Kabi 1,25 mg/ml, oplossing voor infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 113448 | Levobupivacaïne Fresenius Kabi 2,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Geldig |
-| RVG 113449 | Levobupivacaïne Fresenius Kabi 5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Geldig |
-| RVG 113450 | Levobupivacaïne Fresenius Kabi 7,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Geldig |
-| RVG 115877 | Levobupivacaïne Molteni 2,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 115878 | Levobupivacaïne Molteni 5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 115879 | Levobupivacaïne Molteni 7,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 113445 | Levobupivacaïne Fresenius Kabi 0,625 mg/ml, oplossing voor infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113447 | Levobupivacaïne Fresenius Kabi 1,25 mg/ml, oplossing voor infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113448 | Levobupivacaïne Fresenius Kabi 2,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113449 | Levobupivacaïne Fresenius Kabi 5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113450 | Levobupivacaïne Fresenius Kabi 7,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 115877 | Levobupivacaïne Molteni 2,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | L. Molteni & C. Dei Fratelli Alitti Societa Di Esercizio S.… | Geldig |
+| RVG 115878 | Levobupivacaïne Molteni 5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | L. Molteni & C. Dei Fratelli Alitti Societa Di Esercizio S.… | Geldig |
+| RVG 115879 | Levobupivacaïne Molteni 7,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -101,26 +101,26 @@ Andere voorspelde indicaties zijn minder overtuigend:
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 11549 | Diprivan-10 emulsie voor injectie of infusie, 10 mg/ml | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Geldig |
-| RVG 18473 | Diprivan-20 emulsie voor injectie of infusie, 20 mg/ml | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Geldig |
-| RVG 24720 | Propofol-Lipuro 10 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Geldig |
-| RVG 26727 | Propofol 20 mg/ml MCT/LCT Fresenius, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie | Geldig |
-| RVG 27043 | Propofol-Lipuro 20 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Geldig |
-| RVG 31762 | Propofol 10 mg/ml MCT/LCT Fresenius, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Geldig |
-| RVG 31923 | Propofol Baxter 10 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Geldig |
-| RVG 32676 | Propofol Baxter 20 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Geldig |
-| RVG 106061 | Propofol Spiva 10 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Geldig |
-| RVG 106063 | Propofol Spiva 20 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Geldig |
-| RVG 109300 | Propofol BioQ Pharma 10 mg/ml emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Geldig |
-| RVG 109303 | Propofol BioQ Pharma 20 mg/ml emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Geldig |
-| RVG 110627 | Propofol 10 mg/ml MCT/LCT Fresenius, emulsie voor injectie/infusie in een voorg… | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Geldig |
-| RVG 110811 | Propofol 20 mg/ml MCT/LCT Fresenius, emulsie voor injectie/infusie in een voorg… | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Geldig |
-| RVG 120760 | Propofol BioQ Pharma 10 mg/ml, emulsie voor infusie in toedieningssysteem | PROPOFOL | Emulsie voor infusie | Geldig |
-| RVG 114211 | Propofol Hospira 10 mg/ml emulsie voor injectie of infusie | PROPOFOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 11549 | Diprivan-10 emulsie voor injectie of infusie, 10 mg/ml | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Aspen Pharma Trading Limited | Geldig |
+| RVG 18473 | Diprivan-20 emulsie voor injectie of infusie, 20 mg/ml | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Aspen Pharma Trading Limited | Geldig |
+| RVG 24720 | Propofol-Lipuro 10 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | B. Braun Melsungen AG (Melsungen) | Geldig |
+| RVG 26727 | Propofol 20 mg/ml MCT/LCT Fresenius, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 27043 | Propofol-Lipuro 20 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | B. Braun Melsungen AG (Melsungen) | Geldig |
+| RVG 31762 | Propofol 10 mg/ml MCT/LCT Fresenius, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 31923 | Propofol Baxter 10 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Baxter B.V. | Geldig |
+| RVG 32676 | Propofol Baxter 20 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Baxter B.V. | Geldig |
+| RVG 106061 | Propofol Spiva 10 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Baxter B.V. | Geldig |
+| RVG 106063 | Propofol Spiva 20 mg/ml, emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | Baxter B.V. | Geldig |
+| RVG 109300 | Propofol BioQ Pharma 10 mg/ml emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | BioQ Pharma B.V. | Geldig |
+| RVG 109303 | Propofol BioQ Pharma 20 mg/ml emulsie voor injectie of infusie | PROPOFOL | Emulsie voor infusie, Emulsie voor injectie | BioQ Pharma B.V. | Geldig |
+| RVG 110627 | Propofol 10 mg/ml MCT/LCT Fresenius, emulsie voor injectie/infusie in een voorg… | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 110811 | Propofol 20 mg/ml MCT/LCT Fresenius, emulsie voor injectie/infusie in een voorg… | PROPOFOL | Emulsie voor injectie, Emulsie voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 120760 | Propofol BioQ Pharma 10 mg/ml, emulsie voor infusie in toedieningssysteem | PROPOFOL | Emulsie voor infusie | BioQ Pharma B.V. | Geldig |
+| RVG 114211 | Propofol Hospira 10 mg/ml emulsie voor injectie of infusie | PROPOFOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

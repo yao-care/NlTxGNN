@@ -87,32 +87,32 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/09/525 | Nimvastid 1,5 mg orodispergeerbare tablet, orodispergeerbare tablet | RIVASTIGMINEWATERSTOFTARTRAAT | Orodispergeerbare tablet | Geldig |
-| EU/1/09/585 | Rivastigmine 1A Pharma 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| EU/1/09/589 | Rivastigmine Hexal 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| EU/1/09/599 | Rivastigmine Sandoz 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| EU/1/11/693 | Rivastigmine Actavis 1,5 mg, harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| EU/1/98/066 | Exelon 6,0 mg, harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| EU/1/98/092 | Prometax 1.5 mg harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 102697 | Rivastigmine Viatris 1,5 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 102698 | Rivastigmine Viatris 3 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 102699 | Rivastigmine Viatris 4,5 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 102700 | Rivastigmine Viatris 6 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 103038 | Rivastigmine DEMO 1,5 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 103039 | Rivastigmine DEMO 3 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 103040 | Rivastigmine DEMO 4,5 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 103041 | Rivastigmine DEMO 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 103057 | Rivastigmine DEMO 2 mg/ml, drank | RIVASTIGMINEWATERSTOFTARTRAAT | Drank | Geldig |
-| RVG 103326 | Ristidic 1,5 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 103327 | Ristidic 3,0 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 103328 | Ristidic 4,5 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
-| RVG 103329 | Ristidic 6,0 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/09/525 | Nimvastid 1,5 mg orodispergeerbare tablet, orodispergeerbare tablet | RIVASTIGMINEWATERSTOFTARTRAAT | Orodispergeerbare tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/09/585 | Rivastigmine 1A Pharma 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | 1A Pharma GmbH | Geldig |
+| EU/1/09/589 | Rivastigmine Hexal 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Hexal AG | Geldig |
+| EU/1/09/599 | Rivastigmine Sandoz 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Sandoz GmbH | Geldig |
+| EU/1/11/693 | Rivastigmine Actavis 1,5 mg, harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Actavis Group PTC ehf | Geldig |
+| EU/1/98/066 | Exelon 6,0 mg, harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Novartis Europharm Limited | Geldig |
+| EU/1/98/092 | Prometax 1.5 mg harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Almirall S.A. | Geldig |
+| RVG 102697 | Rivastigmine Viatris 1,5 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Viatris Limited | Geldig |
+| RVG 102698 | Rivastigmine Viatris 3 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Viatris Limited | Geldig |
+| RVG 102699 | Rivastigmine Viatris 4,5 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Viatris Limited | Geldig |
+| RVG 102700 | Rivastigmine Viatris 6 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Viatris Limited | Geldig |
+| RVG 103038 | Rivastigmine DEMO 1,5 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Demo S.A. Pharmaceutical Industry | Geldig |
+| RVG 103039 | Rivastigmine DEMO 3 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Demo S.A. Pharmaceutical Industry | Geldig |
+| RVG 103040 | Rivastigmine DEMO 4,5 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Demo S.A. Pharmaceutical Industry | Geldig |
+| RVG 103041 | Rivastigmine DEMO 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Demo S.A. Pharmaceutical Industry | Geldig |
+| RVG 103057 | Rivastigmine DEMO 2 mg/ml, drank | RIVASTIGMINEWATERSTOFTARTRAAT | Drank | Demo S.A. Pharmaceutical Industry | Geldig |
+| RVG 103326 | Ristidic 1,5 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Bausch Health Ireland Limited | Geldig |
+| RVG 103327 | Ristidic 3,0 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Bausch Health Ireland Limited | Geldig |
+| RVG 103328 | Ristidic 4,5 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Bausch Health Ireland Limited | Geldig |
+| RVG 103329 | Ristidic 6,0 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Bausch Health Ireland Limited | Geldig |
 
 Getoond worden 20 van de 38 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

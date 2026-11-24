@@ -86,18 +86,18 @@ Er is geen gerandomiseerde studie. Het bewijs bestaat uit kleine klinische studi
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/19/1420 | Recarbrio 500 mg/500 mg/250 mg, poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER, RELEBACTAM 1-WATER | Poeder voor oplossing voor infusie | Geldig |
-| RVG 11089 | Tienam 500 mg/500 mg, poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Geldig |
-| RVG 101614 | Imipenem/Cilastatine Fresenius Kabi 500 mg/500 mg poeder voor oplossing voor in… | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Geldig |
-| RVG 102982 | Imipenem/Cilastatine Hikma 500mg/500mg poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Geldig |
-| RVG 134699 | Imipenem/Cilastatine Noridem 500 mg/500 mg poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Geldig |
-| RVG 136075//101614 | Imipenem/Cilastatine Addimed 500 mg/500 mg poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Geldig |
-| RVG 114780 | Imipenem/Cilastatine Stravencon 250mg/250mg, poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | – | Niet geregistreerd |
-| RVG 114781 | Imipenem/Cilastatine Stravencon 500mg/500mg, poeder voor oplossing voor infusie | IMIPENEM 1-WATER, CILASTATINE NATRIUM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/19/1420 | Recarbrio 500 mg/500 mg/250 mg, poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER, RELEBACTAM 1-WATER | Poeder voor oplossing voor infusie | Merck Sharp & Dohme B.V. | Geldig |
+| RVG 11089 | Tienam 500 mg/500 mg, poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Merck Sharp & Dohme B.V. | Geldig |
+| RVG 101614 | Imipenem/Cilastatine Fresenius Kabi 500 mg/500 mg poeder voor oplossing voor in… | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 102982 | Imipenem/Cilastatine Hikma 500mg/500mg poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 134699 | Imipenem/Cilastatine Noridem 500 mg/500 mg poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Noridem Enterprises Ltd | Geldig |
+| RVG 136075//101614 | Imipenem/Cilastatine Addimed 500 mg/500 mg poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | Poeder voor oplossing voor infusie | Addimed Pharma B.V. | Geldig |
+| RVG 114780 | Imipenem/Cilastatine Stravencon 250mg/250mg, poeder voor oplossing voor infusie | CILASTATINE NATRIUM, IMIPENEM 1-WATER | – | – | Niet geregistreerd |
+| RVG 114781 | Imipenem/Cilastatine Stravencon 500mg/500mg, poeder voor oplossing voor infusie | IMIPENEM 1-WATER, CILASTATINE NATRIUM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

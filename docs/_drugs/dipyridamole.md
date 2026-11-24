@@ -82,14 +82,14 @@ Volgens de lokale gegevens van het CBG-MEB zijn de onderstaande vergunningen gel
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 12620 | Persantin, injectievloeistof 5 mg/ml | DIPYRIDAMOL | Oplossing voor injectie | Geldig |
-| RVG 113461 | Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard | DIPYRIDAMOL | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 122668 | Dipyridamol Glenmark 200 mg, harde capsules met gereguleerde afgifte | DIPYRIDAMOL | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 109873 | Dipyridamol/Acetylsalicylzuur Sandoz 200/25 mg, capsules met gereguleerde afgif… | DIPYRIDAMOL, ACETYLSALICYLZUUR | Capsule met gereguleerde afgifte, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 12620 | Persantin, injectievloeistof 5 mg/ml | DIPYRIDAMOL | Oplossing voor injectie | Glenwood GmbH Pharmazeutische Erzeugnisse | Geldig |
+| RVG 113461 | Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard | DIPYRIDAMOL | Capsule met gereguleerde afgifte, hard | – | Geldig |
+| RVG 122668 | Dipyridamol Glenmark 200 mg, harde capsules met gereguleerde afgifte | DIPYRIDAMOL | Capsule met gereguleerde afgifte, hard | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 109873 | Dipyridamol/Acetylsalicylzuur Sandoz 200/25 mg, capsules met gereguleerde afgif… | DIPYRIDAMOL, ACETYLSALICYLZUUR | Capsule met gereguleerde afgifte, hard | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

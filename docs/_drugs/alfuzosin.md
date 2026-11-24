@@ -72,19 +72,19 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 31128 | Alfuzosine HCl CF 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 31635 | Alfuzosinehydrochloride 2,5 mg PCH, filmomhulde tabletten | ALFUZOSINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 32989 | Alfuzosine HCl SUN 10 mg tabletten, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 33134 | Alfuzosine HCl Sandoz retard 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 33407 | Alfuzosine HCl Retard Viatris 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 103826 | Alfuzosine HCl Aurobindo 2,5 mg, filmomhulde tabletten | ALFUZOSINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 105908 | Alfuzosine HCl Aurobindo 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 128378//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 110187//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 31128 | Alfuzosine HCl CF 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Centrafarm B.V. | Geldig |
+| RVG 31635 | Alfuzosinehydrochloride 2,5 mg PCH, filmomhulde tabletten | ALFUZOSINEHYDROCHLORIDE | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 32989 | Alfuzosine HCl SUN 10 mg tabletten, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 33134 | Alfuzosine HCl Sandoz retard 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Sandoz B.V. | Geldig |
+| RVG 33407 | Alfuzosine HCl Retard Viatris 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Viatris Limited | Geldig |
+| RVG 103826 | Alfuzosine HCl Aurobindo 2,5 mg, filmomhulde tabletten | ALFUZOSINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 105908 | Alfuzosine HCl Aurobindo 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Aurobindo Pharma B.V. | Geldig |
+| RVG 128378//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 110187//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

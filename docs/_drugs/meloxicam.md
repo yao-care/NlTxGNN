@@ -86,14 +86,14 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 100494 | Meloxicam Unichem 7,5 mg tabletten | MELOXICAM | Tablet | Geldig |
-| RVG 100512 | Meloxicam Unichem 15 mg tabletten | MELOXICAM | Tablet | Geldig |
-| RVG 107063 | Meloxicam Aurobindo 7,5 mg, tabletten | MELOXICAM | Tablet | Geldig |
-| RVG 107068 | Meloxicam Aurobindo 15 mg, tabletten | MELOXICAM | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 100494 | Meloxicam Unichem 7,5 mg tabletten | MELOXICAM | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 100512 | Meloxicam Unichem 15 mg tabletten | MELOXICAM | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 107063 | Meloxicam Aurobindo 7,5 mg, tabletten | MELOXICAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 107068 | Meloxicam Aurobindo 15 mg, tabletten | MELOXICAM | Tablet | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

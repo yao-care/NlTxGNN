@@ -80,24 +80,24 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 03185 | Haldol oplossing voor injectie 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 03186 | Haldol 2 mg/ml, drank | HALOPERIDOL | Drank | Geldig |
-| RVG 08840 | Haldol tabletten 10 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
-| RVG 55601 | Haloperidol CF 5 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
-| RVG 55776 | Haloperidol CF 1 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
-| RVG 56277 | Haloperidol Teva 1 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
-| RVG 56278 | Haloperidol Teva 5 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
-| RVG 128567//03186 | Haloperidol Eureco-Pharma 2mg/ml, drank | HALOPERIDOL | Drank | Geldig |
-| RVG 131957//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 131964//03186 | Haldol 2 mg/ml, drank | HALOPERIDOL | Drank | Geldig |
-| RVG 134702//03186 | Haloperidol ERC 2 mg/ml, drank | HALOPERIDOL | Drank | Geldig |
-| RVG 135778//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 137215//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Geldig |
-| RVG 103083//03185 | Haldol oplossing voor injectie 5 mg/ml, oplossing voor injectie | HALOPERIDOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 03185 | Haldol oplossing voor injectie 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Essential Pharma Limited | Geldig |
+| RVG 03186 | Haldol 2 mg/ml, drank | HALOPERIDOL | Drank | Essential Pharma Limited | Geldig |
+| RVG 08840 | Haldol tabletten 10 mg, tabletten | HALOPERIDOL | Tablet | Essential Pharma Limited | Geldig |
+| RVG 55601 | Haloperidol CF 5 mg, tabletten | HALOPERIDOL | Tablet | Centrafarm B.V. | Geldig |
+| RVG 55776 | Haloperidol CF 1 mg, tabletten | HALOPERIDOL | Tablet | Centrafarm B.V. | Geldig |
+| RVG 56277 | Haloperidol Teva 1 mg, tabletten | HALOPERIDOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 56278 | Haloperidol Teva 5 mg, tabletten | HALOPERIDOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 128567//03186 | Haloperidol Eureco-Pharma 2mg/ml, drank | HALOPERIDOL | Drank | Eureco-Pharma B.V. | Geldig |
+| RVG 131957//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 131964//03186 | Haldol 2 mg/ml, drank | HALOPERIDOL | Drank | Euro Registratie Collectief B.V. | Geldig |
+| RVG 134702//03186 | Haloperidol ERC 2 mg/ml, drank | HALOPERIDOL | Drank | Euro Registratie Collectief B.V. | Geldig |
+| RVG 135778//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 137215//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 103083//03185 | Haldol oplossing voor injectie 5 mg/ml, oplossing voor injectie | HALOPERIDOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

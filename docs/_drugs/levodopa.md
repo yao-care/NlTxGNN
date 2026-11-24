@@ -90,32 +90,32 @@ Het middel is in Nederland op de markt. Het goedgekeurde indicatiegebied is in d
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/19/1390 | Inbrija 33 mg inhalatiepoeder, harde capsules | LEVODOPA | Inhalatiepoeder in harde capsule | Geldig |
-| EU/1/03/260 | Stalevo 175/43.75/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| EU/1/11/706 | Levodopa/Carbidopa/Entacapone Orion 175 mg/43.75 mg/200 mg filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| EU/1/13/859 | Corbilta 200 mg/50 mg/200 mg filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| EU/1/26/2026 | Onerji (60 mg + 7,5 mg)/ml oplossing voor infusie | CARBIDOPA 1-WATER, LEVODOPA | Oplossing voor infusie | Geldig |
-| EU/1/26/2054 | Hopledo 280 mg/70 mg harde capsules met gereguleerde afgifte | CARBIDOPA 1-WATER, LEVODOPA | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 06706 | Sinemet 110, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Geldig |
-| RVG 06707 | Sinemet 275, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Geldig |
-| RVG 08475 | Madopar 62,5 mg, capsules | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Capsule, hard | Geldig |
-| RVG 08740 | Sinemet 125, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Geldig |
-| RVG 11605 | Madopar 250 mg, tabletten | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Tablet | Geldig |
-| RVG 12059 | Madopar 125 mg, tabletten | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Tablet | Geldig |
-| RVG 12489 | Madopar HBS 125 mg, capsules met gereguleerde afgifte | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 12858 | Sinemet 62,5, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Geldig |
-| RVG 13706 | Sinemet CR 250, tabletten met gereguleerde afgifte | CARBIDOPA 1-WATER, LEVODOPA | Tablet met gereguleerde afgifte | Geldig |
-| RVG 15175 | Sinemet CR 125, tabletten met gereguleerde afgifte | CARBIDOPA 1-WATER, LEVODOPA | Tablet met gereguleerde afgifte | Geldig |
-| RVG 19428 | Madopar 125 mg, dispergeerbare tabletten | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Dispergeerbare tablet | Geldig |
-| RVG 21676 | Levodopa/carbidopa Teva 100/10mg, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Geldig |
-| RVG 21677 | Levodopa/carbidopa Teva 100/25 mg, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Geldig |
-| RVG 21678 | Levodopa/carbidopa Teva 250/25 mg, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/19/1390 | Inbrija 33 mg inhalatiepoeder, harde capsules | LEVODOPA | Inhalatiepoeder in harde capsule | Merz Therapeutics GmbH | Geldig |
+| EU/1/03/260 | Stalevo 175/43.75/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Orion Corporation | Geldig |
+| EU/1/11/706 | Levodopa/Carbidopa/Entacapone Orion 175 mg/43.75 mg/200 mg filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Orion Corporation | Geldig |
+| EU/1/13/859 | Corbilta 200 mg/50 mg/200 mg filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Orion Corporation | Geldig |
+| EU/1/26/2026 | Onerji (60 mg + 7,5 mg)/ml oplossing voor infusie | CARBIDOPA 1-WATER, LEVODOPA | Oplossing voor infusie | Mitsubishi Tanabe Pharma GmbH | Geldig |
+| EU/1/26/2054 | Hopledo 280 mg/70 mg harde capsules met gereguleerde afgifte | CARBIDOPA 1-WATER, LEVODOPA | Capsule met gereguleerde afgifte, hard | Zambon S.p.A. | Geldig |
+| RVG 06706 | Sinemet 110, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | N.V. Organon | Geldig |
+| RVG 06707 | Sinemet 275, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | N.V. Organon | Geldig |
+| RVG 08475 | Madopar 62,5 mg, capsules | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Capsule, hard | Roche Nederland B.V. | Geldig |
+| RVG 08740 | Sinemet 125, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | N.V. Organon | Geldig |
+| RVG 11605 | Madopar 250 mg, tabletten | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Tablet | Roche Nederland B.V. | Geldig |
+| RVG 12059 | Madopar 125 mg, tabletten | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Tablet | Roche Nederland B.V. | Geldig |
+| RVG 12489 | Madopar HBS 125 mg, capsules met gereguleerde afgifte | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Capsule met gereguleerde afgifte, hard | Roche Nederland B.V. | Geldig |
+| RVG 12858 | Sinemet 62,5, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | N.V. Organon | Geldig |
+| RVG 13706 | Sinemet CR 250, tabletten met gereguleerde afgifte | CARBIDOPA 1-WATER, LEVODOPA | Tablet met gereguleerde afgifte | N.V. Organon | Geldig |
+| RVG 15175 | Sinemet CR 125, tabletten met gereguleerde afgifte | CARBIDOPA 1-WATER, LEVODOPA | Tablet met gereguleerde afgifte | N.V. Organon | Geldig |
+| RVG 19428 | Madopar 125 mg, dispergeerbare tabletten | BENSERAZIDEHYDROCHLORIDE, LEVODOPA | Dispergeerbare tablet | Roche Nederland B.V. | Geldig |
+| RVG 21676 | Levodopa/carbidopa Teva 100/10mg, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Teva B.V. | Geldig |
+| RVG 21677 | Levodopa/carbidopa Teva 100/25 mg, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Teva B.V. | Geldig |
+| RVG 21678 | Levodopa/carbidopa Teva 250/25 mg, tabletten | CARBIDOPA 1-WATER, LEVODOPA | Tablet | Teva B.V. | Geldig |
 
 Getoond worden 20 van de 90 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

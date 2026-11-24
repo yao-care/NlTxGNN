@@ -92,32 +92,32 @@ De onderstaande publicaties zijn algemeen van aard. Geen ervan onderzoekt oxcarb
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 24751 | Trileptal 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 24752 | Trileptal 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 33444 | Oxcarbazepine Viatris 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 33445 | Oxcarbazepine Viatris 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 33446 | Oxcarbazepine Viatris 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 106160 | Oxcarbazepine Sandoz 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 106161 | Oxcarbazepine Sandoz 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 112691//26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 112779 | Oxcarbazepine Jubilant 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 112780 | Oxcarbazepine Jubilant 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 112781 | Oxcarbazepine Jubilant 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 125037//26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 127890 | Oxcarbazepine ADOH 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 127892 | Oxcarbazepine ADOH 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 127893 | Oxcarbazepine ADOH 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 129012//24752 | Trileptal 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 131267 | Oxcarbazepine Umedica 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 131270 | Oxcarbazepine Umedica 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
-| RVG 131272 | Oxcarbazepine Umedica 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 24751 | Trileptal 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Novartis Pharma B.V. | Geldig |
+| RVG 24752 | Trileptal 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Novartis Pharma B.V. | Geldig |
+| RVG 26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Novartis Pharma B.V. | Geldig |
+| RVG 33444 | Oxcarbazepine Viatris 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 33445 | Oxcarbazepine Viatris 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 33446 | Oxcarbazepine Viatris 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 106160 | Oxcarbazepine Sandoz 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106161 | Oxcarbazepine Sandoz 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 112691//26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 112779 | Oxcarbazepine Jubilant 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
+| RVG 112780 | Oxcarbazepine Jubilant 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
+| RVG 112781 | Oxcarbazepine Jubilant 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
+| RVG 125037//26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 127890 | Oxcarbazepine ADOH 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | ADOH B.V. | Geldig |
+| RVG 127892 | Oxcarbazepine ADOH 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | ADOH B.V. | Geldig |
+| RVG 127893 | Oxcarbazepine ADOH 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | ADOH B.V. | Geldig |
+| RVG 129012//24752 | Trileptal 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 131267 | Oxcarbazepine Umedica 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Umedica Netherlands B.V. | Geldig |
+| RVG 131270 | Oxcarbazepine Umedica 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Umedica Netherlands B.V. | Geldig |
+| RVG 131272 | Oxcarbazepine Umedica 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Umedica Netherlands B.V. | Geldig |
 
 Getoond worden 20 van de 25 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -95,18 +95,18 @@ Er zijn 19 publicaties gevonden. Hieronder staan de meest relevante. Alleen de s
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 05761 | Rifampicine Sandoz 150, capsules 150 mg | RIFAMPICINE | Capsule, hard | Geldig |
-| RVG 05764 | Rifadin, capsules 150 mg | RIFAMPICINE | Capsule, hard | Geldig |
-| RVG 05765 | Rifadin, capsules 300 mg | RIFAMPICINE | Capsule, hard | Geldig |
-| RVG 05766 | Rifadin, suspensie 20 mg/ml | RIFAMPICINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 06090 | Rifampicine Sandoz 300, capsules 300 mg | RIFAMPICINE | Capsule, hard | Geldig |
-| RVG 08755 | Rifadin, poeder voor infusievloeistof 600 mg | RIFAMPICINE | Poeder en oplosmiddel voor oplossing voor infusie | Geldig |
-| RVG 15460 | Rifinah 300 mg/150 mg, filmomhulde tablet | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | Geldig |
-| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 05761 | Rifampicine Sandoz 150, capsules 150 mg | RIFAMPICINE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 05764 | Rifadin, capsules 150 mg | RIFAMPICINE | Capsule, hard | Sanofi B.V. | Geldig |
+| RVG 05765 | Rifadin, capsules 300 mg | RIFAMPICINE | Capsule, hard | Sanofi B.V. | Geldig |
+| RVG 05766 | Rifadin, suspensie 20 mg/ml | RIFAMPICINE | Suspensie voor oraal gebruik | Sanofi B.V. | Geldig |
+| RVG 06090 | Rifampicine Sandoz 300, capsules 300 mg | RIFAMPICINE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 08755 | Rifadin, poeder voor infusievloeistof 600 mg | RIFAMPICINE | Poeder en oplosmiddel voor oplossing voor infusie | Sanofi B.V. | Geldig |
+| RVG 15460 | Rifinah 300 mg/150 mg, filmomhulde tablet | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | Sanofi B.V. | Geldig |
+| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

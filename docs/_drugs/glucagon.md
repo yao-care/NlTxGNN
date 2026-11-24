@@ -97,17 +97,17 @@ Geen van deze publicaties onderzoekt glucagon zelf bij prikkelbare darmsyndroom.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/19/1406 | Baqsimi 3 mg, snuifpoeder | GLUCAGON (rDNA) | Snuifpoeder | Geldig |
-| EU/1/20/1523 | Ogluo 0,5 mg oplossing voor injectie in voorgevulde pen | GLUCAGON | Oplossing voor injectie | Geldig |
-| RVG 02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 119244//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 127547//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 132606//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 120327//02011 | GlucaGen Hypokit 1 mg Poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/19/1406 | Baqsimi 3 mg, snuifpoeder | GLUCAGON (rDNA) | Snuifpoeder | Amphastar France Pharmaceuticals | Geldig |
+| EU/1/20/1523 | Ogluo 0,5 mg oplossing voor injectie in voorgevulde pen | GLUCAGON | Oplossing voor injectie | Strongbridge Dublin Limited | Geldig |
+| RVG 02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Novo Nordisk B.V. | Geldig |
+| RVG 119244//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 127547//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 132606//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 120327//02011 | GlucaGen Hypokit 1 mg Poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

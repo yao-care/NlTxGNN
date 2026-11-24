@@ -111,32 +111,32 @@ Drie opgehaalde artikelen (PMID 38621945, 39155928, 25907932) gaan over andere m
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/06/376 | Irbesartan Zentiva 75 mg, tabletten | IRBESARTAN | Tablet | Geldig |
-| EU/1/09/576 | Irbesartan Teva 75 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| EU/1/97/046 | Aprovel 75 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| EU/1/97/049 | Karvea 150 mg, tabletten | IRBESARTAN | Tablet | Geldig |
-| RVG 101243 | Artibesan 75 mg tabletten, tabletten | IRBESARTAN | Tablet | Geldig |
-| RVG 101244 | Artibesan 150 mg tabletten, tabletten | IRBESARTAN | Tablet | Geldig |
-| RVG 101245 | Artibesan 300 mg tabletten, tabletten | IRBESARTAN | Tablet | Geldig |
-| RVG 101336 | Irbesartan SUN 75 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 101338 | Irbesartan SUN 150 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 101339 | Irbesartan SUN 300 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 101864 | Irbesartan Sandoz 75 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 101865 | Irbesartan Sandoz 150 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 101866 | Irbesartan Sandoz 300 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 102535 | Irbesartan Accord 75 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 102541 | Irbesartan Accord 150 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 102542 | Irbesartan Accord 300 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
-| RVG 104221 | Irbesartan Xiromed 75 mg, tabletten | IRBESARTAN | Tablet | Geldig |
-| RVG 104222 | Irbesartan Xiromed 150 mg, tabletten | IRBESARTAN | Tablet | Geldig |
-| RVG 104223 | Irbesartan Xiromed 300 mg, tabletten | IRBESARTAN | Tablet | Geldig |
-| RVG 104619 | Irbesartan Jubilant 75 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/06/376 | Irbesartan Zentiva 75 mg, tabletten | IRBESARTAN | Tablet | Zentiva k.s. | Geldig |
+| EU/1/09/576 | Irbesartan Teva 75 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/97/046 | Aprovel 75 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Sanofi Winthrop Industrie | Geldig |
+| EU/1/97/049 | Karvea 150 mg, tabletten | IRBESARTAN | Tablet | Sanofi Winthrop Industrie | Geldig |
+| RVG 101243 | Artibesan 75 mg tabletten, tabletten | IRBESARTAN | Tablet | Laboratorios Liconsa S.A. | Geldig |
+| RVG 101244 | Artibesan 150 mg tabletten, tabletten | IRBESARTAN | Tablet | Laboratorios Liconsa S.A. | Geldig |
+| RVG 101245 | Artibesan 300 mg tabletten, tabletten | IRBESARTAN | Tablet | Laboratorios Liconsa S.A. | Geldig |
+| RVG 101336 | Irbesartan SUN 75 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 101338 | Irbesartan SUN 150 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 101339 | Irbesartan SUN 300 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 101864 | Irbesartan Sandoz 75 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 101865 | Irbesartan Sandoz 150 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 101866 | Irbesartan Sandoz 300 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 102535 | Irbesartan Accord 75 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102541 | Irbesartan Accord 150 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102542 | Irbesartan Accord 300 mg filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 104221 | Irbesartan Xiromed 75 mg, tabletten | IRBESARTAN | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 104222 | Irbesartan Xiromed 150 mg, tabletten | IRBESARTAN | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 104223 | Irbesartan Xiromed 300 mg, tabletten | IRBESARTAN | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 104619 | Irbesartan Jubilant 75 mg, filmomhulde tabletten | IRBESARTAN | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
 
 Getoond worden 20 van de 71 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

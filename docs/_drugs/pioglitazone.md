@@ -72,21 +72,21 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor opsismodysplasie.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/00/150 | Actos 15 mg tablet, tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
-| EU/1/00/151 | Glustin 45 mg tablet, tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
-| EU/1/11/722 | Pioglitazon Accord 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
-| EU/1/12/755 | Pioglitazone Actavis 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
-| EU/1/12/756 | Glidipion 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 108655 | Pioglitazon Aurobindo 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 108656 | Pioglitazon Aurobindo 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
-| EU/1/06/354 | Competact 15 mg/850 mg, tabletten | METFORMINEHYDROCHLORIDE, PIOGLITAZONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/06/366 | Tandemact 30 mg/4 mg, tabletten | GLIMEPIRIDE, PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
-| EU/1/13/842 | Incresync 25 mg/30 mg filmomhulde tablet | ALOGLIPTINEBENZOAAT, PIOGLITAZONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 108791 | Pioglitazon Sanovel 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/00/150 | Actos 15 mg tablet, tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| EU/1/00/151 | Glustin 45 mg tablet, tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Takeda Europe R&D Centre Ltd. | Geldig |
+| EU/1/11/722 | Pioglitazon Accord 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Accord Healthcare S.L.U. | Geldig |
+| EU/1/12/755 | Pioglitazone Actavis 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Actavis Group PTC ehf | Geldig |
+| EU/1/12/756 | Glidipion 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Actavis Group PTC ehf | Geldig |
+| RVG 108655 | Pioglitazon Aurobindo 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 108656 | Pioglitazon Aurobindo 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| EU/1/06/354 | Competact 15 mg/850 mg, tabletten | METFORMINEHYDROCHLORIDE, PIOGLITAZONHYDROCHLORIDE | Filmomhulde tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| EU/1/06/366 | Tandemact 30 mg/4 mg, tabletten | GLIMEPIRIDE, PIOGLITAZONHYDROCHLORIDE | Tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| EU/1/13/842 | Incresync 25 mg/30 mg filmomhulde tablet | ALOGLIPTINEBENZOAAT, PIOGLITAZONHYDROCHLORIDE | Filmomhulde tablet | Takeda Pharma A/S | Geldig |
+| RVG 108791 | Pioglitazon Sanovel 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

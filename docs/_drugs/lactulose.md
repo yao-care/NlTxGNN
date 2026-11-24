@@ -97,17 +97,17 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 01467 | Duphalac, stroop 667 mg/ml | LACTULOSE | Stroop | Geldig |
-| RVG 19196 | Laxeerdrank Lactulose Sanias 667 mg/ml, stroop | LACTULOSE | Stroop | Geldig |
-| RVG 20869 | Duphalac lactulosesiroop, stroop 667 mg/ml | LACTULOSE | Stroop | Geldig |
-| RVG 34633 | Lactulose CCH, stroop 667 mg/ml | LACTULOSE | Stroop | Geldig |
-| RVG 102976 | Duphalac Fruit 667 mg/ml, stroop | LACTULOSE | Stroop | Geldig |
-| RVG 104843 | Lactulosesiroop Resolution 667 mg/ml Stroop | LACTULOSE | Stroop | Geldig |
-| RVG 32393 | Transulose, pasta voor oraal gebruik | LACTULOSE, PARAFFINE, VLOEIBAAR (E905), PARAFFINE, ZACHT (E 905) | Pasta voor oraal gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 01467 | Duphalac, stroop 667 mg/ml | LACTULOSE | Stroop | Abbott B.V. | Geldig |
+| RVG 19196 | Laxeerdrank Lactulose Sanias 667 mg/ml, stroop | LACTULOSE | Stroop | Aurobindo Pharma B.V. | Geldig |
+| RVG 20869 | Duphalac lactulosesiroop, stroop 667 mg/ml | LACTULOSE | Stroop | Abbott B.V. | Geldig |
+| RVG 34633 | Lactulose CCH, stroop 667 mg/ml | LACTULOSE | Stroop | Cooper Consumer Health B.V. | Geldig |
+| RVG 102976 | Duphalac Fruit 667 mg/ml, stroop | LACTULOSE | Stroop | Abbott B.V. | Geldig |
+| RVG 104843 | Lactulosesiroop Resolution 667 mg/ml Stroop | LACTULOSE | Stroop | – | Geldig |
+| RVG 32393 | Transulose, pasta voor oraal gebruik | LACTULOSE, PARAFFINE, VLOEIBAAR (E905), PARAFFINE, ZACHT (E 905) | Pasta voor oraal gebruik | Biocodex Benelux NV/SA | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

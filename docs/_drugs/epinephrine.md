@@ -104,32 +104,32 @@ Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunni
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/24/1846 | EURneffy 2 mg neusspray, oplossing in verpakking voor eenmalig gebruik | ADRENALINE | Neusspray, oplossing | Geldig |
-| RVG 31435 | Anapen, oplossing voor injectie 0,3 mg/dosis | ADRENALINE | Oplossing voor injectie | Geldig |
-| RVG 31436 | Anapen junior, oplossing voor injectie 0,15 mg/dosis | ADRENALINE | Oplossing voor injectie | Geldig |
-| RVG 32726 | EpiPen Junior 150 microgram/dosis, oplossing voor injectie in een voorgevulde p… | ADRENALINE | Oplossing voor injectie | Geldig |
-| RVG 32727 | EpiPen 300 microgram/dosis, oplossing voor injectie in een voorgevulde pen 1 mg… | ADRENALINE | Oplossing voor injectie | Geldig |
-| RVG 50812 | Adrenaline CF 1 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 106307 | Jext 150 microgram oplossing voor injectie in een voorgevulde pen | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 106309 | Jext 300 microgram oplossing voor injectie in een voorgevulde pen | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 116588 | Adrenaline Aguettant 0,1 mg/ml, oplossing voor injectie in een voorgevulde spuit | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 126367//32726 | EpiPen Junior 150 microgram/dosis, oplossing voor injectie in een voorgevulde p… | ADRENALINE | Oplossing voor injectie | Geldig |
-| RVG 127804//32727 | EpiPen 300 microgram/dosis, oplossing voor injectie in een voorgevulde pen 1 mg… | ADRENALINE | Oplossing voor injectie | Geldig |
-| RVG 128539//50812 | Adrenaline Eureco-Pharma, 1 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 129259//106309 | Jext 300 microgram, oplossing voor injectie in een voorgevulde pen | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 131022//106309 | Jext 300 microgram, oplossing voor injectie in een voorgevulde pen | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 131538//50812 | Adrenaline Medcor 1 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 132593//32726 | EpiPen junior 150 microgram/dosis, oplossing voor injectie in een voorgevulde p… | ADRENALINE | Oplossing voor injectie | Geldig |
-| RVG 132671 | Adrenaline Accord 0,1 mg/ml, oplossing voor injectie in een voorgevulde spuit | ADRENALINE | Oplossing voor injectie | Geldig |
-| RVG 133497 | EpiPen Evo 300 microgram, oplossing voor injectie in een voorgevulde pen 1 mg/ml | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 133498 | EpiPen Evo Junior 150 microgram, oplossing voor injectie in een voorgevulde pen… | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
-| RVG 134658 | Adrenaline Noridem 1 mg/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/24/1846 | EURneffy 2 mg neusspray, oplossing in verpakking voor eenmalig gebruik | ADRENALINE | Neusspray, oplossing | ALK-Abello A/S | Geldig |
+| RVG 31435 | Anapen, oplossing voor injectie 0,3 mg/dosis | ADRENALINE | Oplossing voor injectie | Bioprojet Pharma | Geldig |
+| RVG 31436 | Anapen junior, oplossing voor injectie 0,15 mg/dosis | ADRENALINE | Oplossing voor injectie | Bioprojet Pharma | Geldig |
+| RVG 32726 | EpiPen Junior 150 microgram/dosis, oplossing voor injectie in een voorgevulde p… | ADRENALINE | Oplossing voor injectie | Viatris Healthcare Limited | Geldig |
+| RVG 32727 | EpiPen 300 microgram/dosis, oplossing voor injectie in een voorgevulde pen 1 mg… | ADRENALINE | Oplossing voor injectie | Viatris Healthcare Limited | Geldig |
+| RVG 50812 | Adrenaline CF 1 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Centrafarm B.V. | Geldig |
+| RVG 106307 | Jext 150 microgram oplossing voor injectie in een voorgevulde pen | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | ALK-Abello A/S | Geldig |
+| RVG 106309 | Jext 300 microgram oplossing voor injectie in een voorgevulde pen | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | ALK-Abello A/S | Geldig |
+| RVG 116588 | Adrenaline Aguettant 0,1 mg/ml, oplossing voor injectie in een voorgevulde spuit | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Laboratoire Aguettant | Geldig |
+| RVG 126367//32726 | EpiPen Junior 150 microgram/dosis, oplossing voor injectie in een voorgevulde p… | ADRENALINE | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 127804//32727 | EpiPen 300 microgram/dosis, oplossing voor injectie in een voorgevulde pen 1 mg… | ADRENALINE | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 128539//50812 | Adrenaline Eureco-Pharma, 1 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Eureco-Pharma B.V. | Geldig |
+| RVG 129259//106309 | Jext 300 microgram, oplossing voor injectie in een voorgevulde pen | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | BModesto B.V. | Geldig |
+| RVG 131022//106309 | Jext 300 microgram, oplossing voor injectie in een voorgevulde pen | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | EU-Pharma B.V. | Geldig |
+| RVG 131538//50812 | Adrenaline Medcor 1 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 132593//32726 | EpiPen junior 150 microgram/dosis, oplossing voor injectie in een voorgevulde p… | ADRENALINE | Oplossing voor injectie | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 132671 | Adrenaline Accord 0,1 mg/ml, oplossing voor injectie in een voorgevulde spuit | ADRENALINE | Oplossing voor injectie | Accord Healthcare B.V. | Geldig |
+| RVG 133497 | EpiPen Evo 300 microgram, oplossing voor injectie in een voorgevulde pen 1 mg/ml | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Viatris Healthcare Limited | Geldig |
+| RVG 133498 | EpiPen Evo Junior 150 microgram, oplossing voor injectie in een voorgevulde pen… | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Viatris Healthcare Limited | Geldig |
+| RVG 134658 | Adrenaline Noridem 1 mg/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Noridem Enterprises Ltd | Geldig |
 
 Getoond worden 20 van de 52 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

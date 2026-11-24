@@ -87,17 +87,17 @@ De beschikbare studies ondersteunen dit niet. De twee klinische studies zijn alg
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 13066 | Monuril 3000, granulaat voor drank 3 g | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Geldig |
-| RVG 115433 | Fomicyt 40 mg/ml poeder voor oplossing voor infusie | FOSFOMYCINE DINATRIUM | Poeder voor oplossing voor infusie | Geldig |
-| RVG 121956 | Fosfomycine Sandoz 3000 mg, poeder voor drank | FOSFOMYCINE TROMETAMOL | Poeder voor drank | Geldig |
-| RVG 121957 | Fosfomycine 1A Pharma 3000 mg, poeder voor drank | FOSFOMYCINE TROMETAMOL | Poeder voor drank | Geldig |
-| RVG 124189 | Fosfomycine 3 g Focus, granulaat voor drank in sachet | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Geldig |
-| RVG 135452 | Fosfomycine Aurobindo 3000 mg, granulaat voor drank | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Geldig |
-| RVG 120135//13066 | Monuril 3000, granulaat voor drank 3 g | FOSFOMYCINE TROMETAMOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 13066 | Monuril 3000, granulaat voor drank 3 g | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Zambon Nederland B.V. | Geldig |
+| RVG 115433 | Fomicyt 40 mg/ml poeder voor oplossing voor infusie | FOSFOMYCINE DINATRIUM | Poeder voor oplossing voor infusie | InfectoPharm Arzneimittel und Consilium GmbH | Geldig |
+| RVG 121956 | Fosfomycine Sandoz 3000 mg, poeder voor drank | FOSFOMYCINE TROMETAMOL | Poeder voor drank | Sandoz B.V. | Geldig |
+| RVG 121957 | Fosfomycine 1A Pharma 3000 mg, poeder voor drank | FOSFOMYCINE TROMETAMOL | Poeder voor drank | 1A Pharma GmbH | Geldig |
+| RVG 124189 | Fosfomycine 3 g Focus, granulaat voor drank in sachet | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 135452 | Fosfomycine Aurobindo 3000 mg, granulaat voor drank | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Aurobindo Pharma B.V. | Geldig |
+| RVG 120135//13066 | Monuril 3000, granulaat voor drank 3 g | FOSFOMYCINE TROMETAMOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

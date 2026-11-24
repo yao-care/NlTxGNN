@@ -82,32 +82,32 @@ Voor bisoprolol zijn in de lokale gegevens 6 vergunningen opgenomen. De lijst hi
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 24008 | Bisoprololfumaraat 5 PCH, filmomhulde tabletten 5 mg | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 24009 | Bisoprololfumaraat 10 PCH, filmomhulde tabletten 10 mg | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 24382 | Bisoprololfumaraat ratiopharm 5 mg, tabletten | BISOPROLOLFUMARAAT | Tablet | Geldig |
-| RVG 24383 | Bisoprololfumaraat ratiopharm 10 mg, tabletten | BISOPROLOLFUMARAAT | Tablet | Geldig |
-| RVG 24503 | EMCOR DECO 2,5 mg filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 24506 | EMCOR DECO 7,5 mg filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 25042 | Bisoprololfumaraat 5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 25043 | Bisoprololfumaraat 10 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 25445 | Bisoprololfumaraat Unichem 5 mg tabletten | BISOPROLOLFUMARAAT | Tablet | Geldig |
-| RVG 25446 | Bisoprololfumaraat Unichem 10 mg tabletten | BISOPROLOLFUMARAAT | Tablet | Geldig |
-| RVG 27389 | Bisoprololfumaraat 1A Pharma 1,25 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 27390 | Bisoprololfumaraat 1A Pharma 2,5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 27391 | Bisoprololfumaraat 1A Pharma 3,75 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 27392 | Bisoprololfumaraat 1A Pharma 5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 27393 | Bisoprololfumaraat 1A Pharma 7,5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 27394 | Bisoprololfumaraat 1A Pharma 10 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 33088 | Bisoprololfumaraat 1,25 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 33089 | Bisoprololfumaraat 2,5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 33090 | Bisoprololfumaraat 3,75 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 33091 | Bisoprololfumaraat 5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 24008 | Bisoprololfumaraat 5 PCH, filmomhulde tabletten 5 mg | BISOPROLOLFUMARAAT | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 24009 | Bisoprololfumaraat 10 PCH, filmomhulde tabletten 10 mg | BISOPROLOLFUMARAAT | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 24382 | Bisoprololfumaraat ratiopharm 5 mg, tabletten | BISOPROLOLFUMARAAT | Tablet | ratiopharm GmbH | Geldig |
+| RVG 24383 | Bisoprololfumaraat ratiopharm 10 mg, tabletten | BISOPROLOLFUMARAAT | Tablet | ratiopharm GmbH | Geldig |
+| RVG 24503 | EMCOR DECO 2,5 mg filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Merck B.V. | Geldig |
+| RVG 24506 | EMCOR DECO 7,5 mg filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Merck B.V. | Geldig |
+| RVG 25042 | Bisoprololfumaraat 5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Genthon B.V. | Geldig |
+| RVG 25043 | Bisoprololfumaraat 10 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Genthon B.V. | Geldig |
+| RVG 25445 | Bisoprololfumaraat Unichem 5 mg tabletten | BISOPROLOLFUMARAAT | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 25446 | Bisoprololfumaraat Unichem 10 mg tabletten | BISOPROLOLFUMARAAT | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 27389 | Bisoprololfumaraat 1A Pharma 1,25 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 27390 | Bisoprololfumaraat 1A Pharma 2,5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 27391 | Bisoprololfumaraat 1A Pharma 3,75 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 27392 | Bisoprololfumaraat 1A Pharma 5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 27393 | Bisoprololfumaraat 1A Pharma 7,5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 27394 | Bisoprololfumaraat 1A Pharma 10 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 33088 | Bisoprololfumaraat 1,25 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Hexal AG | Geldig |
+| RVG 33089 | Bisoprololfumaraat 2,5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Hexal AG | Geldig |
+| RVG 33090 | Bisoprololfumaraat 3,75 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Hexal AG | Geldig |
+| RVG 33091 | Bisoprololfumaraat 5 mg, filmomhulde tabletten | BISOPROLOLFUMARAAT | Filmomhulde tablet | Hexal AG | Geldig |
 
 Getoond worden 20 van de 63 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

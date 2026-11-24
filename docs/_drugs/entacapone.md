@@ -72,32 +72,32 @@ Momenteel is er geen relevante literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/10/665 | Entacapone Teva 200 mg, filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Geldig |
-| EU/1/11/708 | Entacapone Orion 200 mg filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Geldig |
-| EU/1/98/081 | Comtan, 200 mg omhulde tabletten | ENTACAPONE | Filmomhulde tablet | Geldig |
-| EU/1/98/082 | Comtess, 200 mg omhulde tabletten | ENTACAPONE | Filmomhulde tablet | Geldig |
-| RVG 107812 | Entacapone Viatris 200 mg, filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Geldig |
-| RVG 110741 | Entacapone Unichem 200 mg filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Geldig |
-| RVG 111101 | Encapia 200 mg, filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Geldig |
-| EU/1/03/260 | Stalevo 175/43.75/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| EU/1/11/706 | Levodopa/Carbidopa/Entacapone Orion 175 mg/43.75 mg/200 mg filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| EU/1/13/859 | Corbilta 200 mg/50 mg/200 mg filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 114520 | Levodopa/Carbidopa/Entacapone Teva 50 mg/12.5 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 114521 | Levodopa/Carbidopa/Entacapone Teva 75 mg/18.75 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 114522 | Levodopa/Carbidopa/Entacapone Teva 100 mg/25 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 114523 | Levodopa/Carbidopa/Entacapone Teva 125 mg/31.25 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 114524 | Levodopa/Carbidopa/Entacapone Teva 150 mg/37.5 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 114526 | Levodopa/Carbidopa/Entacapone Teva 200 mg/50 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 116838 | Levodopa/Carbidopa/Entacapone Lannacher 50 mg/12,5 mg/200 mg filmomhulde tablet… | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 116839 | Levodopa/Carbidopa/Entacapone Lannacher 75 mg/18,75 mg/200 mg filmomhulde table… | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 116840 | Levodopa/Carbidopa/Entacapone Lannacher 100 mg/25 mg/200 mg filmomhulde tablett… | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
-| RVG 116841 | Levodopa/Carbidopa/Entacapone Lannacher 125 mg/31,25 mg/200 mg filmomhulde tabl… | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/10/665 | Entacapone Teva 200 mg, filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/11/708 | Entacapone Orion 200 mg filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Orion Corporation | Geldig |
+| EU/1/98/081 | Comtan, 200 mg omhulde tabletten | ENTACAPONE | Filmomhulde tablet | Orion Corporation | Geldig |
+| EU/1/98/082 | Comtess, 200 mg omhulde tabletten | ENTACAPONE | Filmomhulde tablet | Orion Corporation | Geldig |
+| RVG 107812 | Entacapone Viatris 200 mg, filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 110741 | Entacapone Unichem 200 mg filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | Unichem Laboratories Limited | Geldig |
+| RVG 111101 | Encapia 200 mg, filmomhulde tabletten | ENTACAPONE | Filmomhulde tablet | – | Geldig |
+| EU/1/03/260 | Stalevo 175/43.75/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Orion Corporation | Geldig |
+| EU/1/11/706 | Levodopa/Carbidopa/Entacapone Orion 175 mg/43.75 mg/200 mg filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Orion Corporation | Geldig |
+| EU/1/13/859 | Corbilta 200 mg/50 mg/200 mg filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Orion Corporation | Geldig |
+| RVG 114520 | Levodopa/Carbidopa/Entacapone Teva 50 mg/12.5 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 114521 | Levodopa/Carbidopa/Entacapone Teva 75 mg/18.75 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 114522 | Levodopa/Carbidopa/Entacapone Teva 100 mg/25 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 114523 | Levodopa/Carbidopa/Entacapone Teva 125 mg/31.25 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 114524 | Levodopa/Carbidopa/Entacapone Teva 150 mg/37.5 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 114526 | Levodopa/Carbidopa/Entacapone Teva 200 mg/50 mg/200 mg, filmomhulde tabletten | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 116838 | Levodopa/Carbidopa/Entacapone Lannacher 50 mg/12,5 mg/200 mg filmomhulde tablet… | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | G.L. Pharma GmbH | Geldig |
+| RVG 116839 | Levodopa/Carbidopa/Entacapone Lannacher 75 mg/18,75 mg/200 mg filmomhulde table… | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | G.L. Pharma GmbH | Geldig |
+| RVG 116840 | Levodopa/Carbidopa/Entacapone Lannacher 100 mg/25 mg/200 mg filmomhulde tablett… | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | G.L. Pharma GmbH | Geldig |
+| RVG 116841 | Levodopa/Carbidopa/Entacapone Lannacher 125 mg/31,25 mg/200 mg filmomhulde tabl… | CARBIDOPA 1-WATER, ENTACAPONE, LEVODOPA | Filmomhulde tablet | G.L. Pharma GmbH | Geldig |
 
 Getoond worden 20 van de 38 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

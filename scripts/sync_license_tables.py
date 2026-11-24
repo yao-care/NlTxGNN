@@ -9,8 +9,8 @@ CBG Geneesmiddeleninformatiebank metadata.csv；scripts/rebuild_licenses_by_ingr
 （license_adapter.sync_tables）自動同步。
 
 表的內容（全程不用 AI；文字照 CBG 原文（荷蘭文），不翻譯）：
-  | Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-  （registratiehouder 欄不放：CBG 原文的「GmbH & Co. Generica KG」會被 checker P5 當成知識圖譜縮寫 KG，2026-11-24）
+  | Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+  （Registratiehouder＝證據包 license_holder，CBG 原文；2026-11-24 第二輪加回：母目錄 checker 已豁免「GmbH … KG」公司名（295dd578））
   狀態欄：現行登記＝「Geldig」；不在 CBG 現行清單（cbg_not_listed、license_status cancelled）＝「Niet geregistreerd」（照 CBG 網站原文，
   不寫 ingetrokken／doorgehaald；字樣與 .claude/license_labels/NlTxGNN.json 相同）。
   排序：有效在前；同狀態時單方（kind=single）在前，再依登記號數字；最多 MAX_ROWS 列，超過時表下一句 SHOW（顯示 N／共 M）。
@@ -41,10 +41,10 @@ SNAP = ROOT / "snapshots" / "nl_licenses.json.gz"
 MARKET = ("Informatie over de Nederlandse markt", "Marktinformatie Nederland")  # ＝site.MARKET_SECTIONS
 BEGIN = "<!-- licenses:begin -->"
 END = "<!-- licenses:end -->"
-HEAD = ["| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |",
-        "|------|------|------|------|------|"]
+HEAD = ["| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |",
+        "|------|------|------|------|------|------|"]
 VALID, NOT_LISTED = "Geldig", "Niet geregistreerd"
-SOURCE = ("Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm "
+SOURCE = ("Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder "
           "in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer "
           "komt niet voor in de actuele Geneesmiddeleninformatiebank.")
 SHOW = "Getoond worden {n} van de {m} registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten)."
@@ -97,7 +97,7 @@ def rows_of(tf, fc=None):
         seen.add(k)
         lab = status_label(r)
         row = (f"| {k} | {cell(r.get('brand_name_zh') or r.get('brand_name_en'), 80)} | {cell(r.get('ingredients'), 80)} | "
-               f"{cell(r.get('dosage_form'), 50)} | {lab} |")
+               f"{cell(r.get('dosage_form'), 50)} | {cell(r.get('license_holder'), 60)} | {lab} |")
         keyed.append(((lab != VALID, r.get("kind") != "single", k.split()[0] if " " in k else "", _num(k), k), row))
     rows = [row for _, row in sorted(keyed)]
     return rows, max(len(rows), int(tf.get("total_matches") or 0))

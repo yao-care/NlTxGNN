@@ -92,13 +92,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 116682 | Rapibloc 300 mg poeder voor oplossing voor infusie | LANDIOLOLHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 116684 | Rapibloc 20 mg/2 ml concentraat voor oplossing voor injectie | LANDIOLOLHYDROCHLORIDE | Concentraat voor oplossing voor injectie | Geldig |
-| RVG 129861 | Landiolol Hydrochloride Orpha-Devel 300 mg poeder voor oplossing voor infusie | LANDIOLOLHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 116682 | Rapibloc 300 mg poeder voor oplossing voor infusie | LANDIOLOLHYDROCHLORIDE | Poeder voor oplossing voor infusie | Amomed Pharma GmbH | Geldig |
+| RVG 116684 | Rapibloc 20 mg/2 ml concentraat voor oplossing voor injectie | LANDIOLOLHYDROCHLORIDE | Concentraat voor oplossing voor injectie | – | Geldig |
+| RVG 129861 | Landiolol Hydrochloride Orpha-Devel 300 mg poeder voor oplossing voor infusie | LANDIOLOLHYDROCHLORIDE | Poeder voor oplossing voor infusie | Orpha Devel Handels-und Vertriebs GmbH | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

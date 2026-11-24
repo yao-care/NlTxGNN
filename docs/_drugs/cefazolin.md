@@ -87,17 +87,17 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06836 | Kefzol, poeder voor oplossing voor injectie 1 g | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 16532 | Cefazoline Mylan, poeder voor injectievloeistof 1 en 2 g | CEFAZOLINE NATRIUM, CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 132655 | Cefazoline hameln 1 g poeder voor oplossing voor injectie/infusie | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 133216 | Cefazoline Prolepha 2 g poeder voor oplossing voor injectie/infusie | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 134826 | Cefazoline Noridem 1 g poeder voor oplossing voor injectie/infusie | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 134827 | Cefazoline Noridem 2 g poeder voor oplossing voor injectie/infusie | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 57366 | Cefazoline CF, poeder voor oplossing voor injectie 500 mg en 1 g | CEFAZOLINE NATRIUM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06836 | Kefzol, poeder voor oplossing voor injectie 1 g | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie | Eurocept International B.V. | Geldig |
+| RVG 16532 | Cefazoline Mylan, poeder voor injectievloeistof 1 en 2 g | CEFAZOLINE NATRIUM, CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie | Mylan B.V. | Geldig |
+| RVG 132655 | Cefazoline hameln 1 g poeder voor oplossing voor injectie/infusie | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | hameln pharma gmbh | Geldig |
+| RVG 133216 | Cefazoline Prolepha 2 g poeder voor oplossing voor injectie/infusie | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Prolepha Research B.V. | Geldig |
+| RVG 134826 | Cefazoline Noridem 1 g poeder voor oplossing voor injectie/infusie | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Noridem Enterprises Ltd | Geldig |
+| RVG 134827 | Cefazoline Noridem 2 g poeder voor oplossing voor injectie/infusie | CEFAZOLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Noridem Enterprises Ltd | Geldig |
+| RVG 57366 | Cefazoline CF, poeder voor oplossing voor injectie 500 mg en 1 g | CEFAZOLINE NATRIUM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

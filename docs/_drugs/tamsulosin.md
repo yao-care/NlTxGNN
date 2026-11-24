@@ -84,32 +84,32 @@ Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikba
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 17931 | Omnic 0,4, capsules met gereguleerde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 29682 | Tamsulosini Hydrochloridum, capsules met gereguleerde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 30565 | Omnic Ocas 0,4, tabletten met verlengde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 32576 | Tamsulosine hydrochloride Genthon 0,4 mg, harde capsules met gereguleerde afgif… | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 32577 | Tamsulosine HCl Retard Viatris 0,4 mg, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 32583 | Tamsulijn 0,4 mg, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 32584 | Tamsulosine HCl retard 0,4 mg Teva, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 34075 | Tamsulosine HCl SUN 0,4 mg , capsules met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 103584 | Tamsulosine HCl Sandoz retard tablet 0,4 mg, filmomhulde tabletten met verlengd… | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106163 | Taluso 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106164 | Talpro 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106165 | Tamsulosine HCl Retard Viatris 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106166 | Tamsulosine HCl Krka 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106170 | Protam 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106171 | Tamagsyn 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106172 | Tamsulosine HCl ratiopharm 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106173 | Tamsulosine HCl Synthon 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 106176 | Tamsuda 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 109375 | Tamsulosine HCl Aurobindo 0,4 mg, capsules met gereguleerde afgifte, hard | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 114204 | Tamsulosine HCl Zentiva 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 17931 | Omnic 0,4, capsules met gereguleerde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Astellas Pharma Europe B.V. | Geldig |
+| RVG 29682 | Tamsulosini Hydrochloridum, capsules met gereguleerde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Astellas Pharma Europe B.V. | Geldig |
+| RVG 30565 | Omnic Ocas 0,4, tabletten met verlengde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Astellas Pharma Europe B.V. | Geldig |
+| RVG 32576 | Tamsulosine hydrochloride Genthon 0,4 mg, harde capsules met gereguleerde afgif… | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Genthon B.V. | Geldig |
+| RVG 32577 | Tamsulosine HCl Retard Viatris 0,4 mg, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Viatris Limited | Geldig |
+| RVG 32583 | Tamsulijn 0,4 mg, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Synthon B.V. | Geldig |
+| RVG 32584 | Tamsulosine HCl retard 0,4 mg Teva, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Teva Nederland B.V. | Geldig |
+| RVG 34075 | Tamsulosine HCl SUN 0,4 mg , capsules met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 103584 | Tamsulosine HCl Sandoz retard tablet 0,4 mg, filmomhulde tabletten met verlengd… | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Sandoz B.V. | Geldig |
+| RVG 106163 | Taluso 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Synthon B.V. | Geldig |
+| RVG 106164 | Talpro 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Synthon B.V. | Geldig |
+| RVG 106165 | Tamsulosine HCl Retard Viatris 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Viatris Limited | Geldig |
+| RVG 106166 | Tamsulosine HCl Krka 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Krka d.d., Novo mesto | Geldig |
+| RVG 106170 | Protam 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Synthon B.V. | Geldig |
+| RVG 106171 | Tamagsyn 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Laboratorios Alter S.A. | Geldig |
+| RVG 106172 | Tamsulosine HCl ratiopharm 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | ratiopharm GmbH | Geldig |
+| RVG 106173 | Tamsulosine HCl Synthon 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Synthon B.V. | Geldig |
+| RVG 106176 | Tamsuda 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Stada Arzneimittel AG | Geldig |
+| RVG 109375 | Tamsulosine HCl Aurobindo 0,4 mg, capsules met gereguleerde afgifte, hard | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 114204 | Tamsulosine HCl Zentiva 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Zentiva a.s. | Geldig |
 
 Getoond worden 20 van de 58 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -80,12 +80,12 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/07/436 | Isentress 100 mg, granulaat voor orale suspensie | AMMONIA (E 527), RALTEGRAVIR | Filmomhulde tablet | Geldig |
-| RVG 109655 | Temozolomide Fair-Med 100mg, Capsules harde | TEMOZOLOMIDE, AMMONIA (E 527) | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/07/436 | Isentress 100 mg, granulaat voor orale suspensie | AMMONIA (E 527), RALTEGRAVIR | Filmomhulde tablet | Merck Sharp & Dohme B.V. | Geldig |
+| RVG 109655 | Temozolomide Fair-Med 100mg, Capsules harde | TEMOZOLOMIDE, AMMONIA (E 527) | Capsule, hard | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

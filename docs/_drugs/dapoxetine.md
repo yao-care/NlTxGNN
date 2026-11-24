@@ -86,13 +86,13 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 108199 | Priligy 30 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 108200 | Priligy 60 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 136368//108199 | Priligy 30 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 108199 | Priligy 30 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | Phoenix Labs Unlimited Company | Geldig |
+| RVG 108200 | Priligy 60 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | – | Geldig |
+| RVG 136368//108199 | Priligy 30 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | BModesto B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

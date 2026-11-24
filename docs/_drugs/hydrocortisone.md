@@ -94,32 +94,32 @@ De overige gevonden publicaties betreffen vooral dierstudies, een enquête, casu
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/11/715 | Plenadren 5 mg, tablet met gereguleerde afgifte | HYDROCORTISON | Tablet met gereguleerde afgifte | Geldig |
-| EU/1/21/1549 | Efmody 10 mg, harde capsules | HYDROCORTISON | Capsule, hard | Geldig |
-| RVG 00608 | Solu-Cortef, poeder voor injectievloeistof 100 mg | HYDROCORTISONNATRIUMSUCCINAAT | Poeder voor oplossing voor injectie | Geldig |
-| RVG 05909 | Locoid oleogel, zalf 1 mg/g | HYDROCORTISONBUTYRAAT | Zalf | Geldig |
-| RVG 05910 | Locoid scalp lotion, lotion 1 mg/ml | HYDROCORTISONBUTYRAAT | Oplossing voor cutaan gebruik | Geldig |
-| RVG 05911 | Locoid crème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Geldig |
-| RVG 09344 | Locoid vetcrème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Geldig |
-| RVG 10997 | Hydrocortison Tiofarma 10 mg/g, creme | HYDROCORTISON | Crème | Geldig |
-| RVG 14871 | Solu-Cortef, poeder voor injectievloeistof 100 mg + oplosmiddel | HYDROCORTISONNATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 15680//05911 | Locoid crème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Geldig |
-| RVG 16163 | Locoid Crelo, emulsie voor cutaan gebruik 1 mg/g | HYDROCORTISONBUTYRAAT | Emulsie voor cutaan gebruik | Geldig |
-| RVG 20729 | Hydrocortison crème 10 mg/g FNA Fagron, crème | HYDROCORTISONACETAAT | Crème | Geldig |
-| RVG 23502//09344 | Locoid vetcrème 0,1%, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Geldig |
-| RVG 25186 | Hydrocortison zalf 10 mg/g, zalf | HYDROCORTISON | Zalf | Geldig |
-| RVG 33245 | Zure oordruppels met hydrocortison DMB 1% FNA, oordruppels, oplossing 10 mg/g | HYDROCORTISON | Oordruppels, oplossing | Geldig |
-| RVG 33923 | Hydrocortison-vaselinecrème DMB 1% FNA, crème 10 mg/g | HYDROCORTISONACETAAT | Crème | Geldig |
-| RVG 50730 | Hydrocortison DMB 20 mg, tabletten | HYDROCORTISON | Tablet | Geldig |
-| RVG 113408//16163 | Locoid Crelo 1 mg/g, emulsie voor cutaan gebruik | HYDROCORTISONBUTYRAAT | Emulsie voor cutaan gebruik | Geldig |
-| RVG 113530//05910 | Locoid scalp lotion 1 mg/ml, lotion | HYDROCORTISONBUTYRAAT | Oplossing voor cutaan gebruik | Geldig |
-| RVG 116462 | Softacor 3,35 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | HYDROCORTISON DINATRIUM FOSFAAT | Oogdruppels, oplossing | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/11/715 | Plenadren 5 mg, tablet met gereguleerde afgifte | HYDROCORTISON | Tablet met gereguleerde afgifte | Takeda Pharmaceuticals International AG Ireland Branch | Geldig |
+| EU/1/21/1549 | Efmody 10 mg, harde capsules | HYDROCORTISON | Capsule, hard | Immedica Pharma AB | Geldig |
+| RVG 00608 | Solu-Cortef, poeder voor injectievloeistof 100 mg | HYDROCORTISONNATRIUMSUCCINAAT | Poeder voor oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 05909 | Locoid oleogel, zalf 1 mg/g | HYDROCORTISONBUTYRAAT | Zalf | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 05910 | Locoid scalp lotion, lotion 1 mg/ml | HYDROCORTISONBUTYRAAT | Oplossing voor cutaan gebruik | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 05911 | Locoid crème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 09344 | Locoid vetcrème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 10997 | Hydrocortison Tiofarma 10 mg/g, creme | HYDROCORTISON | Crème | Tiofarma B.V. | Geldig |
+| RVG 14871 | Solu-Cortef, poeder voor injectievloeistof 100 mg + oplosmiddel | HYDROCORTISONNATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 15680//05911 | Locoid crème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Euro Registratie Collectief B.V. | Geldig |
+| RVG 16163 | Locoid Crelo, emulsie voor cutaan gebruik 1 mg/g | HYDROCORTISONBUTYRAAT | Emulsie voor cutaan gebruik | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 20729 | Hydrocortison crème 10 mg/g FNA Fagron, crème | HYDROCORTISONACETAAT | Crème | Fagron NL B.V. | Geldig |
+| RVG 23502//09344 | Locoid vetcrème 0,1%, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Euro Registratie Collectief B.V. | Geldig |
+| RVG 25186 | Hydrocortison zalf 10 mg/g, zalf | HYDROCORTISON | Zalf | Fagron NL B.V. | Geldig |
+| RVG 33245 | Zure oordruppels met hydrocortison DMB 1% FNA, oordruppels, oplossing 10 mg/g | HYDROCORTISON | Oordruppels, oplossing | Tiofarma B.V. | Geldig |
+| RVG 33923 | Hydrocortison-vaselinecrème DMB 1% FNA, crème 10 mg/g | HYDROCORTISONACETAAT | Crème | Tiofarma B.V. | Geldig |
+| RVG 50730 | Hydrocortison DMB 20 mg, tabletten | HYDROCORTISON | Tablet | Tiofarma B.V. | Geldig |
+| RVG 113408//16163 | Locoid Crelo 1 mg/g, emulsie voor cutaan gebruik | HYDROCORTISONBUTYRAAT | Emulsie voor cutaan gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 113530//05910 | Locoid scalp lotion 1 mg/ml, lotion | HYDROCORTISONBUTYRAAT | Oplossing voor cutaan gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 116462 | Softacor 3,35 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | HYDROCORTISON DINATRIUM FOSFAAT | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
 
 Getoond worden 20 van de 65 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

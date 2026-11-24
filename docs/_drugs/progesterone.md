@@ -85,28 +85,28 @@ Selectie van de meest relevante publicaties (geen enkele is een interventiestudi
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 11473 | Utrogestan, capsules 100 mg | PROGESTERON | Capsule, zacht | Geldig |
-| RVG 102442 | Lutinus 100 mg, tabletten voor vaginaal gebruik | PROGESTERON | Tablet voor vaginaal gebruik | Geldig |
-| RVG 109696//11473 | Progesteron ERC 100 mg, zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
-| RVG 114730 | Crinone 80 mg/g gel voor vaginaal gebruik | PROGESTERON | Gel voor vaginaal gebruik | Geldig |
-| RVG 116958 | Progesteron Besins 100 mg zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
-| RVG 116959 | Progesteron Besins 200 mg zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
-| RVG 118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Geldig |
-| RVG 123999 | Utrogestan 200 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule, zacht | Geldig |
-| RVG 127083 | Prolutex 25 mg, oplossing voor injectie | PROGESTERON | Oplossing voor injectie | Geldig |
-| RVG 127102 | Utrogestan 300 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule voor vaginaal gebruik, zacht | Geldig |
-| RVG 129873 | Prolutex 25 mg, oplossing voor injectie in een voorgevulde spuit | PROGESTERON | Oplossing voor injectie | Geldig |
-| RVG 133041//118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Geldig |
-| RVG 133335 | Utrogestan 400 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule voor vaginaal gebruik, zacht | Geldig |
-| RVG 134540//118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Geldig |
-| RVG 134759 | Progesteron Xiromed 100 mg zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
-| RVG 134761 | Progesteron Xiromed 200 mg zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
-| RVG 125821 | Bijuva 1 mg/100 mg zachte capsules | ESTRADIOL 0,5-WATER, PROGESTERON | Capsule, zacht | Geldig |
-| RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | PROGESTERON | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 11473 | Utrogestan, capsules 100 mg | PROGESTERON | Capsule, zacht | Besins Healthcare Netherlands B.V. | Geldig |
+| RVG 102442 | Lutinus 100 mg, tabletten voor vaginaal gebruik | PROGESTERON | Tablet voor vaginaal gebruik | Ferring B.V. | Geldig |
+| RVG 109696//11473 | Progesteron ERC 100 mg, zachte capsules | PROGESTERON | Capsule, zacht | Euro Registratie Collectief B.V. | Geldig |
+| RVG 114730 | Crinone 80 mg/g gel voor vaginaal gebruik | PROGESTERON | Gel voor vaginaal gebruik | Merck B.V. | Geldig |
+| RVG 116958 | Progesteron Besins 100 mg zachte capsules | PROGESTERON | Capsule, zacht | Besins Healthcare Netherlands B.V. | Geldig |
+| RVG 116959 | Progesteron Besins 200 mg zachte capsules | PROGESTERON | Capsule, zacht | Besins Healthcare Netherlands B.V. | Geldig |
+| RVG 118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Gedeon Richter Plc. | Geldig |
+| RVG 123999 | Utrogestan 200 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule, zacht | Besins Healthcare Netherlands B.V. | Geldig |
+| RVG 127083 | Prolutex 25 mg, oplossing voor injectie | PROGESTERON | Oplossing voor injectie | IBSA Farmaceutici Italia S.r.L | Geldig |
+| RVG 127102 | Utrogestan 300 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule voor vaginaal gebruik, zacht | Besins Healthcare Netherlands B.V. | Geldig |
+| RVG 129873 | Prolutex 25 mg, oplossing voor injectie in een voorgevulde spuit | PROGESTERON | Oplossing voor injectie | IBSA Farmaceutici Italia S.r.L | Geldig |
+| RVG 133041//118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Euro Registratie Collectief b.v. | Geldig |
+| RVG 133335 | Utrogestan 400 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule voor vaginaal gebruik, zacht | Besins Healthcare Netherlands B.V. | Geldig |
+| RVG 134540//118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 134759 | Progesteron Xiromed 100 mg zachte capsules | PROGESTERON | Capsule, zacht | Medical Valley Invest AB | Geldig |
+| RVG 134761 | Progesteron Xiromed 200 mg zachte capsules | PROGESTERON | Capsule, zacht | Medical Valley Invest AB | Geldig |
+| RVG 125821 | Bijuva 1 mg/100 mg zachte capsules | ESTRADIOL 0,5-WATER, PROGESTERON | Capsule, zacht | Theramex Ireland Limited | Geldig |
+| RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | PROGESTERON | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -86,32 +86,32 @@ Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde ind
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 00022 | Acelyn 0,05 mg, tabletten | ETHINYLESTRADIOL | Tablet | Geldig |
-| EU/1/02/223 | Evra pleister voor transdermaal gebruik, 203 microgram/24 uur + 33,9 microgram/… | ETHINYLESTRADIOL, NORELGESTROMINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 08191 | Stediril 30, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
-| RVG 08204 | Microgynon 30, 0,15 mg/0,03 mg omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
-| RVG 08205 | Microgynon 50, 0,125 mg/0,05 mg omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
-| RVG 08514 | Trinordiol, dragees | ETHINYLESTRADIOL, ETHINYLESTRADIOL, ETHINYLESTRADIOL, LEVONORGESTREL, LEVONORGE… | Omhulde tablet | Geldig |
-| RVG 08663 | Trigynon, omhulde tabletten | ETHINYLESTRADIOL, ETHINYLESTRADIOL, ETHINYLESTRADIOL, LEVONORGESTREL, LEVONORGE… | Omhulde tablet | Geldig |
-| RVG 08859 | Marvelon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 11508 | Mercilon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
-| RVG 12575 | Minulet, dragees | ETHINYLESTRADIOL, GESTODEEN | Omhulde tablet | Geldig |
-| RVG 21187 | Lovette, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Filmomhulde tablet | Geldig |
-| RVG 23827 | Yasmin, filmomhulde tabletten 0,03 mg/3 mg | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 25073 | NuvaRing 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
-| RVG 25413 | Yasmin 28, filmomhulde tabletten 0,03/3 mg | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 25414 | Ethinylestradiol / Drospirenon 0,03 mg / 3 mg Berlipharm, filmomhulde tabletten | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 29728 | Ethinylestradiol 0,035 mg /Cyproteronacetaat 2 mg, omhulde tabletten | CYPROTERONACETAAT, ETHINYLESTRADIOL | Omhulde tablet | Geldig |
-| RVG 29729 | Cyproteronacetaat/Ethinylestradiol Xiromed 2 mg/0,035 mg, omhulde tabletten | CYPROTERONACETAAT, ETHINYLESTRADIOL | Omhulde tablet | Geldig |
-| RVG 30862 | Miranova, 100 microgram/20 microgram omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
-| RVG 30863 | Microgynon 20, 100 microgram/20 microgram omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
-| RVG 34841 | Ethinylestradiol/Levonorgestrel Sandoz 0,02/0,1 mg, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 00022 | Acelyn 0,05 mg, tabletten | ETHINYLESTRADIOL | Tablet | ACE Pharmaceuticals B.V. | Geldig |
+| EU/1/02/223 | Evra pleister voor transdermaal gebruik, 203 microgram/24 uur + 33,9 microgram/… | ETHINYLESTRADIOL, NORELGESTROMINE | Pleister voor transdermaal gebruik | Gedeon Richter Plc. | Geldig |
+| RVG 08191 | Stediril 30, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Pfizer B.V. | Geldig |
+| RVG 08204 | Microgynon 30, 0,15 mg/0,03 mg omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 08205 | Microgynon 50, 0,125 mg/0,05 mg omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 08514 | Trinordiol, dragees | ETHINYLESTRADIOL, ETHINYLESTRADIOL, ETHINYLESTRADIOL, LEVONORGESTREL, LEVONORGE… | Omhulde tablet | Pfizer B.V. | Geldig |
+| RVG 08663 | Trigynon, omhulde tabletten | ETHINYLESTRADIOL, ETHINYLESTRADIOL, ETHINYLESTRADIOL, LEVONORGESTREL, LEVONORGE… | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 08859 | Marvelon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 11508 | Mercilon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 12575 | Minulet, dragees | ETHINYLESTRADIOL, GESTODEEN | Omhulde tablet | Pfizer B.V. | Geldig |
+| RVG 21187 | Lovette, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Filmomhulde tablet | Pfizer B.V. | Geldig |
+| RVG 23827 | Yasmin, filmomhulde tabletten 0,03 mg/3 mg | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Bayer B.V. | Geldig |
+| RVG 25073 | NuvaRing 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | N.V. Organon (Kloosterstraat 6) | Geldig |
+| RVG 25413 | Yasmin 28, filmomhulde tabletten 0,03/3 mg | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Bayer B.V. | Geldig |
+| RVG 25414 | Ethinylestradiol / Drospirenon 0,03 mg / 3 mg Berlipharm, filmomhulde tabletten | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Bayer B.V. | Geldig |
+| RVG 29728 | Ethinylestradiol 0,035 mg /Cyproteronacetaat 2 mg, omhulde tabletten | CYPROTERONACETAAT, ETHINYLESTRADIOL | Omhulde tablet | Stragen France | Geldig |
+| RVG 29729 | Cyproteronacetaat/Ethinylestradiol Xiromed 2 mg/0,035 mg, omhulde tabletten | CYPROTERONACETAAT, ETHINYLESTRADIOL | Omhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 30862 | Miranova, 100 microgram/20 microgram omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 30863 | Microgynon 20, 100 microgram/20 microgram omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 34841 | Ethinylestradiol/Levonorgestrel Sandoz 0,02/0,1 mg, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Sandoz B.V. | Geldig |
 
 Getoond worden 20 van de 111 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

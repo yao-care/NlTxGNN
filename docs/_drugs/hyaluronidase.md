@@ -99,12 +99,12 @@ Er is een belangrijke kanttekening: de fase 3-studies betroffen vooral de opruim
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 15180 | Hyason 150 I.E., poeder voor injectievloeistof | HYALURONIDASE (TYPE NIET GESPECIFICEERD) | Poeder voor oplossing voor injectie | Geldig |
-| RVG 114351//15180 | Hyason 150 I.E. poeder voor injectievloeistof | HYALURONIDASE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 15180 | Hyason 150 I.E., poeder voor injectievloeistof | HYALURONIDASE (TYPE NIET GESPECIFICEERD) | Poeder voor oplossing voor injectie | Esteve Pharmaceuticals GmbH | Geldig |
+| RVG 114351//15180 | Hyason 150 I.E. poeder voor injectievloeistof | HYALURONIDASE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

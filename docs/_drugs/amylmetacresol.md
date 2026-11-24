@@ -102,32 +102,32 @@ In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 04174 | Strepsils Original bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 06556 | Strepsils citroen & honing bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 10987 | Strepsils Sinaasappel & Vitamine C bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 14597 | Strepsils Cool bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 112654 | Strepsils Aardbei Suikervrij bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 113894 | Maeliloz sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
-| RVG 113895 | Maeliloz honing & citroen zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
-| RVG 116225 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol mint zuigtabletten | DICHLOORBENZYLALCOHOL, AMYLMETACRESOL | Zuigtablet | Geldig |
-| RVG 116226 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol honing & citroen zuigtablett… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 118436 | Trachsil honing & citroen zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
-| RVG 118439 | Trachsil sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
-| RVG 118468 | Bogasan sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
-| RVG 118469 | Bogasan honing & citroen zuigtabletten | DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER, AMYLMETACRESOL | Zuigtablet | Geldig |
-| RVG 118471 | Bogasil sinaasappel zuigtabletten | LIDOCAINEHYDROCHLORIDE 1-WATER, AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 118472 | Bogasil honing & citroen zuigtabletten | AMYLMETACRESOL, LIDOCAINEHYDROCHLORIDE 1-WATER, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 118474 | Vicks Farinex sinaasappel keelzuigtabletten, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
-| RVG 118475 | Vicks Farinex honing & citroen keelzuigtabletten, zuigtabletten | DICHLOORBENZYLALCOHOL, AMYLMETACRESOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
-| RVG 120834 | RXT Amylmetacresol - dichloorbenzylalcohol 0,6/1,2 mg keelpijntabletten honing… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 121648 | Etos Amylmetacresol Plus Dichloorbenzylalcohol Suikervrij, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
-| RVG 122775 | Albert Heijn Amylmetacresol - Dichloorbenzylalcohol 0,6/1,2 mg Honing & citroen… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 04174 | Strepsils Original bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 06556 | Strepsils citroen & honing bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 10987 | Strepsils Sinaasappel & Vitamine C bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 14597 | Strepsils Cool bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 112654 | Strepsils Aardbei Suikervrij bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Reckitt Benckiser Healthcare B.V. | Geldig |
+| RVG 113894 | Maeliloz sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | MAE Holding B.V. | Geldig |
+| RVG 113895 | Maeliloz honing & citroen zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | MAE Holding B.V. | Geldig |
+| RVG 116225 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol mint zuigtabletten | DICHLOORBENZYLALCOHOL, AMYLMETACRESOL | Zuigtablet | – | Geldig |
+| RVG 116226 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol honing & citroen zuigtablett… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | MAE Holding B.V. | Geldig |
+| RVG 118436 | Trachsil honing & citroen zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Teva B.V. | Geldig |
+| RVG 118439 | Trachsil sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Teva B.V. | Geldig |
+| RVG 118468 | Bogasan sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | MAE Holding B.V. | Geldig |
+| RVG 118469 | Bogasan honing & citroen zuigtabletten | DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER, AMYLMETACRESOL | Zuigtablet | – | Geldig |
+| RVG 118471 | Bogasil sinaasappel zuigtabletten | LIDOCAINEHYDROCHLORIDE 1-WATER, AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | – | Geldig |
+| RVG 118472 | Bogasil honing & citroen zuigtabletten | AMYLMETACRESOL, LIDOCAINEHYDROCHLORIDE 1-WATER, DICHLOORBENZYLALCOHOL | Zuigtablet | – | Geldig |
+| RVG 118474 | Vicks Farinex sinaasappel keelzuigtabletten, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | – | Geldig |
+| RVG 118475 | Vicks Farinex honing & citroen keelzuigtabletten, zuigtabletten | DICHLOORBENZYLALCOHOL, AMYLMETACRESOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | – | Geldig |
+| RVG 120834 | RXT Amylmetacresol - dichloorbenzylalcohol 0,6/1,2 mg keelpijntabletten honing… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | RXT | Geldig |
+| RVG 121648 | Etos Amylmetacresol Plus Dichloorbenzylalcohol Suikervrij, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Teva Nederland B.V. | Geldig |
+| RVG 122775 | Albert Heijn Amylmetacresol - Dichloorbenzylalcohol 0,6/1,2 mg Honing & citroen… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Teva Nederland B.V. | Geldig |
 
 Getoond worden 20 van de 31 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

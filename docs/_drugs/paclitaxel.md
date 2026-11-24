@@ -104,21 +104,21 @@ Er zijn 44 studies gevonden. Hieronder staan de 10 meest relevante: gerandomisee
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/07/428 | Abraxane 5 mg/ml, lyofilisaat voor suspensie voor injectie | PACLITAXEL | – | Geldig |
-| EU/1/18/1317 | Pazenir 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
-| EU/1/23/1778 | Naveruclif 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
-| EU/1/24/1835 | Apexelsin 5 mg/ml poeder voor dispersie voor infusie. | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
-| RVG 30113 | Paclitaxin, concentraat voor oplossing voor infusie 6 mg/ml | PACLITAXEL | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 34659 | Paclitaxel Eugia 6 mg/ml, concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 101863 | Paclitaxel Fresenius Kabi 6 mg/ml concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 102965 | Paclitaxel Accord 6 mg/ml concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 129035 | Bugvi 5mg/ml, poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
-| RVG 129037 | Abutrax 5mg/ml, poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
-| RVG 133489 | Apacross 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/07/428 | Abraxane 5 mg/ml, lyofilisaat voor suspensie voor injectie | PACLITAXEL | – | Bristol-Myers Squibb Pharma EEIG | Geldig |
+| EU/1/18/1317 | Pazenir 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | ratiopharm GmbH | Geldig |
+| EU/1/23/1778 | Naveruclif 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Accord Healthcare S.L.U. | Geldig |
+| EU/1/24/1835 | Apexelsin 5 mg/ml poeder voor dispersie voor infusie. | PACLITAXEL | Poeder voor dispersie voor infusie | Whiteoak Pharmaceutical B.V. | Geldig |
+| RVG 30113 | Paclitaxin, concentraat voor oplossing voor infusie 6 mg/ml | PACLITAXEL | Concentraat voor oplossing voor infusie | Pharmachemie B.V. | Geldig |
+| RVG 34659 | Paclitaxel Eugia 6 mg/ml, concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 101863 | Paclitaxel Fresenius Kabi 6 mg/ml concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 102965 | Paclitaxel Accord 6 mg/ml concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | – | Geldig |
+| RVG 129035 | Bugvi 5mg/ml, poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Stada Arzneimittel AG | Geldig |
+| RVG 129037 | Abutrax 5mg/ml, poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Stada Arzneimittel AG | Geldig |
+| RVG 133489 | Apacross 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Seacross Pharma (Europe) Limited | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

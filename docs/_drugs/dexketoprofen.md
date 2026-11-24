@@ -74,17 +74,17 @@ Deze studie onderzoekt peesontsteking niet als aparte aandoening, dus zij onders
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 22082 | Stadium 25 mg, omhulde tabletten | DEXKETOPROFEN-TROMETAMOL (1:1) | Filmomhulde tablet | Geldig |
-| RVG 28295 | Stadium 50 mg/2 ml, oplossing voor injectie/infusie | DEXKETOPROFEN-TROMETAMOL (1:1) | Oplossing voor injectie of infusie | Geldig |
-| RVG 108128 | Stadium 25 mg granulaat voor drank | DEXKETOPROFEN-TROMETAMOL (1:1) | Granulaat voor drank | Geldig |
-| RVG 119873 | Stadium 25 mg drank in sachet | DEXKETOPROFEN-TROMETAMOL (1:1) | Drank | Geldig |
-| RVG 116795 | SKUDEXA 75 mg/25 mg, filmomhulde tabletten | DEXKETOPROFEN-TROMETAMOL (1:1), TRAMADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 120924 | Skudexa 75 mg/25 mg granulaat voor drank in sachet | DEXKETOPROFEN-TROMETAMOL (1:1), TRAMADOLHYDROCHLORIDE | Granulaat voor drank | Geldig |
-| RVG 108131 | Enantyum 25 mg granulaat voor drank | DEXKETOPROFEN-TROMETAMOL (1:1) | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 22082 | Stadium 25 mg, omhulde tabletten | DEXKETOPROFEN-TROMETAMOL (1:1) | Filmomhulde tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 28295 | Stadium 50 mg/2 ml, oplossing voor injectie/infusie | DEXKETOPROFEN-TROMETAMOL (1:1) | Oplossing voor injectie of infusie | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 108128 | Stadium 25 mg granulaat voor drank | DEXKETOPROFEN-TROMETAMOL (1:1) | Granulaat voor drank | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 119873 | Stadium 25 mg drank in sachet | DEXKETOPROFEN-TROMETAMOL (1:1) | Drank | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 116795 | SKUDEXA 75 mg/25 mg, filmomhulde tabletten | DEXKETOPROFEN-TROMETAMOL (1:1), TRAMADOLHYDROCHLORIDE | Filmomhulde tablet | – | Geldig |
+| RVG 120924 | Skudexa 75 mg/25 mg granulaat voor drank in sachet | DEXKETOPROFEN-TROMETAMOL (1:1), TRAMADOLHYDROCHLORIDE | Granulaat voor drank | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 108131 | Enantyum 25 mg granulaat voor drank | DEXKETOPROFEN-TROMETAMOL (1:1) | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

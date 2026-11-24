@@ -70,32 +70,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 11985 | Diclofenacnatrium Teva 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
-| RVG 11986 | Diclofenacnatrium Teva 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
-| RVG 12800 | Naclof, oogdruppels 1 mg/ml | DICLOFENAC NATRIUM | Oogdruppels, oplossing | Geldig |
-| RVG 13244 | Voltaren K 25 mg, omhulde tabletten | DICLOFENAC KALIUM | Omhulde tablet | Geldig |
-| RVG 16273 | Diclofenacnatrium Aurobindo 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
-| RVG 16274 | Diclofenacnatrium Aurobindo 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
-| RVG 16275 | Diclofenacnatrium Aurobindo Retard 100 mg, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM | Tablet met verlengde afgifte | Geldig |
-| RVG 16276 | Diclofenacnatrium Aurobindo 25 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
-| RVG 16277 | Diclofenacnatrium Aurobindo 50 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
-| RVG 16278 | Diclofenacnatrium Aurobindo 100 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
-| RVG 16483 | Naclof Unidose, oogdruppels 1 mg/ml | DICLOFENAC NATRIUM | Oogdruppels, oplossing | Geldig |
-| RVG 17256 | Diclofenac Na CF 25 mg/ml, oplossing voor injectie, 3 ml | DICLOFENAC NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 17257 | Diclofenac Na CF 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
-| RVG 17258 | Diclofenac Na CF 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
-| RVG 17260 | Diclofenac Na zetpil CF 50 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
-| RVG 17261 | Diclofenac Na zetpil CF 100 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
-| RVG 20982 | Voltaren K 12,5 mg, filmomhulde tabletten | DICLOFENAC KALIUM | Filmomhulde tablet | Geldig |
-| RVG 22690 | Diclofenacnatrium Aurobindo Retard 75 mg, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM | Tablet met verlengde afgifte | Geldig |
-| RVG 31377 | Voltaren Emulgel 1.16 % gel, gel 11.6 mg/g | DICLOFENAC DIETHYLAMINE | Gel | Geldig |
-| RVG 31532 | Eminocs 50 mg/ml, drank | DICLOFENAC KALIUM | Drank | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 11985 | Diclofenacnatrium Teva 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Teva Nederland B.V. | Geldig |
+| RVG 11986 | Diclofenacnatrium Teva 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Teva Nederland B.V. | Geldig |
+| RVG 12800 | Naclof, oogdruppels 1 mg/ml | DICLOFENAC NATRIUM | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 13244 | Voltaren K 25 mg, omhulde tabletten | DICLOFENAC KALIUM | Omhulde tablet | Haleon Netherlands B.V. | Geldig |
+| RVG 16273 | Diclofenacnatrium Aurobindo 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 16274 | Diclofenacnatrium Aurobindo 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 16275 | Diclofenacnatrium Aurobindo Retard 100 mg, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM | Tablet met verlengde afgifte | Aurobindo Pharma B.V. | Geldig |
+| RVG 16276 | Diclofenacnatrium Aurobindo 25 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Aurobindo Pharma B.V. | Geldig |
+| RVG 16277 | Diclofenacnatrium Aurobindo 50 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Aurobindo Pharma B.V. | Geldig |
+| RVG 16278 | Diclofenacnatrium Aurobindo 100 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Aurobindo Pharma B.V. | Geldig |
+| RVG 16483 | Naclof Unidose, oogdruppels 1 mg/ml | DICLOFENAC NATRIUM | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 17256 | Diclofenac Na CF 25 mg/ml, oplossing voor injectie, 3 ml | DICLOFENAC NATRIUM | Oplossing voor injectie | Centrafarm B.V. | Geldig |
+| RVG 17257 | Diclofenac Na CF 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Centrafarm B.V. | Geldig |
+| RVG 17258 | Diclofenac Na CF 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Centrafarm B.V. | Geldig |
+| RVG 17260 | Diclofenac Na zetpil CF 50 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Centrafarm B.V. | Geldig |
+| RVG 17261 | Diclofenac Na zetpil CF 100 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Centrafarm B.V. | Geldig |
+| RVG 20982 | Voltaren K 12,5 mg, filmomhulde tabletten | DICLOFENAC KALIUM | Filmomhulde tablet | Haleon Netherlands B.V. | Geldig |
+| RVG 22690 | Diclofenacnatrium Aurobindo Retard 75 mg, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM | Tablet met verlengde afgifte | Aurobindo Pharma B.V. | Geldig |
+| RVG 31377 | Voltaren Emulgel 1.16 % gel, gel 11.6 mg/g | DICLOFENAC DIETHYLAMINE | Gel | Haleon Netherlands B.V. | Geldig |
+| RVG 31532 | Eminocs 50 mg/ml, drank | DICLOFENAC KALIUM | Drank | Dymalife Pharmaceutical S.r.l. | Geldig |
 
 Getoond worden 20 van de 69 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

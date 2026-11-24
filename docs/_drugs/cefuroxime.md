@@ -80,30 +80,30 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor hyperamylasemie.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 20588 | Cefuroxim Hikma 750 mg poeder voor oplossing voor injectie of infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 20590 | Cefuroxim Hikma 1500 mg poeder voor oplossing voor injectie of infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 26702 | Cefuroximaxetil 125, omhulde tabletten 125 mg | CEFUROXIMAXETIL | Omhulde tablet | Geldig |
-| RVG 26703 | Cefuroximaxetil 250, omhulde tabletten 250 mg | CEFUROXIMAXETIL | Omhulde tablet | Geldig |
-| RVG 26704 | Cefuroximaxetil 500, omhulde tabletten 500 mg | CEFUROXIMAXETIL | Omhulde tablet | Geldig |
-| RVG 28712 | Cefuroximnatrium Sandoz injectie 250 mg, poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 28713 | Cefuroximnatrium Sandoz injectie 750 mg, poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 28714 | Cefuroximnatrium Sandoz injectie 1500 mg, poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 35182 | Cefuroxim Fresenius Kabi 750 mg, poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 35183 | Cefuroxim Fresenius Kabi 1500 mg, poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 35184 | Cefuroxim Fresenius Kabi 1500 mg, poeder voor oplossing voor infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
-| RVG 109659 | Aprokam 50 mg poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 116888 | Cefuroxim SUN 250 mg, filmomhulde tabletten | CEFUROXIMAXETIL | Filmomhulde tablet | Geldig |
-| RVG 116889 | Cefuroxim SUN 500 mg, filmomhulde tabletten | CEFUROXIMAXETIL | Filmomhulde tablet | Geldig |
-| RVG 117330 | Ximaract 50 mg, poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 123564//13227 | Zinnat 500 mg filmomhulde tabletten | CEFUROXIMAXETIL | Filmomhulde tablet | Geldig |
-| RVG 123581//13226 | Zinnat 250 mg filmomhulde tabletten | CEFUROXIMAXETIL | Filmomhulde tablet | Geldig |
-| RVG 134155 | Cefuroxim Navamedic 250 mg poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 134156 | Cefuroxim Navamedic 750 mg poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 134157 | Cefuroxim Navamedic 1500 mg poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 20588 | Cefuroxim Hikma 750 mg poeder voor oplossing voor injectie of infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 20590 | Cefuroxim Hikma 1500 mg poeder voor oplossing voor injectie of infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 26702 | Cefuroximaxetil 125, omhulde tabletten 125 mg | CEFUROXIMAXETIL | Omhulde tablet | Sandoz B.V. | Geldig |
+| RVG 26703 | Cefuroximaxetil 250, omhulde tabletten 250 mg | CEFUROXIMAXETIL | Omhulde tablet | Sandoz B.V. | Geldig |
+| RVG 26704 | Cefuroximaxetil 500, omhulde tabletten 500 mg | CEFUROXIMAXETIL | Omhulde tablet | Sandoz B.V. | Geldig |
+| RVG 28712 | Cefuroximnatrium Sandoz injectie 250 mg, poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 28713 | Cefuroximnatrium Sandoz injectie 750 mg, poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 28714 | Cefuroximnatrium Sandoz injectie 1500 mg, poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 35182 | Cefuroxim Fresenius Kabi 750 mg, poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 35183 | Cefuroxim Fresenius Kabi 1500 mg, poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 35184 | Cefuroxim Fresenius Kabi 1500 mg, poeder voor oplossing voor infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 109659 | Aprokam 50 mg poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | Laboratoires Théa | Geldig |
+| RVG 116888 | Cefuroxim SUN 250 mg, filmomhulde tabletten | CEFUROXIMAXETIL | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 116889 | Cefuroxim SUN 500 mg, filmomhulde tabletten | CEFUROXIMAXETIL | Filmomhulde tablet | – | Geldig |
+| RVG 117330 | Ximaract 50 mg, poeder voor oplossing voor injectie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie | – | Geldig |
+| RVG 123564//13227 | Zinnat 500 mg filmomhulde tabletten | CEFUROXIMAXETIL | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 123581//13226 | Zinnat 250 mg filmomhulde tabletten | CEFUROXIMAXETIL | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 134155 | Cefuroxim Navamedic 250 mg poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Navamedic ASA | Geldig |
+| RVG 134156 | Cefuroxim Navamedic 750 mg poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Navamedic ASA | Geldig |
+| RVG 134157 | Cefuroxim Navamedic 1500 mg poeder voor oplossing voor injectie/infusie | CEFUROXIM NATRIUM | Poeder voor oplossing voor injectie of infusie | Navamedic ASA | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

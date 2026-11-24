@@ -88,32 +88,32 @@ De marktstatus is **In de handel**.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/04/276 | Abilify 15 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| EU/1/13/882 | Abilify Maintena 300 mg poeder en oplosmiddel voor suspensie voor injectie met… | ARIPIPRAZOL 1-WATER | Poeder en oplosmiddel voor suspensie voor injecti… | Geldig |
-| EU/1/15/1005 | Aripiprazole Mylan Pharma 30 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| EU/1/15/1009 | Aripiprazole Zentiva 5 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| EU/1/15/1029 | Aripiprazol Sandoz 15 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| EU/1/15/1045 | Aripiprazol Accord 15 mg tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| RVG 115581 | Aribit ODT 10 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
-| RVG 115582 | Aribit ODT 15 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
-| RVG 115583 | Aribit ODT 30 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
-| RVG 115588 | Aripiprazol Sandoz 10 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
-| RVG 115589 | Aripiprazol Sandoz 15 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
-| RVG 115590 | Aripiprazol Sandoz 30 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
-| RVG 115594 | Aripiprazol Amarox 5 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| RVG 115595 | Aripiprazol Amarox 10 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| RVG 115596 | Aripiprazol Amarox 15 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| RVG 115597 | Aripiprazol Amarox 20 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| RVG 115598 | Aripiprazol Amarox 30 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| RVG 115599 | Aripiprazol Teva 10 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| RVG 115600 | Aripiprazol Teva 15 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
-| RVG 115602 | Aripiprazol Teva 30 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/04/276 | Abilify 15 mg, tabletten | ARIPIPRAZOL | Tablet | Otsuka Pharmaceutical Netherlands B.V. | Geldig |
+| EU/1/13/882 | Abilify Maintena 300 mg poeder en oplosmiddel voor suspensie voor injectie met… | ARIPIPRAZOL 1-WATER | Poeder en oplosmiddel voor suspensie voor injecti… | Otsuka Pharmaceutical Netherlands B.V. | Geldig |
+| EU/1/15/1005 | Aripiprazole Mylan Pharma 30 mg, tabletten | ARIPIPRAZOL | Tablet | Mylan Pharmaceuticals Limited | Geldig |
+| EU/1/15/1009 | Aripiprazole Zentiva 5 mg, tabletten | ARIPIPRAZOL | Tablet | Zentiva k.s. | Geldig |
+| EU/1/15/1029 | Aripiprazol Sandoz 15 mg, tabletten | ARIPIPRAZOL | Tablet | Sandoz GmbH | Geldig |
+| EU/1/15/1045 | Aripiprazol Accord 15 mg tabletten | ARIPIPRAZOL | Tablet | Accord Healthcare S.L.U. | Geldig |
+| RVG 115581 | Aribit ODT 10 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Zaklady Farmaceutyczne Polpharma SA | Geldig |
+| RVG 115582 | Aribit ODT 15 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Zaklady Farmaceutyczne Polpharma SA | Geldig |
+| RVG 115583 | Aribit ODT 30 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Zaklady Farmaceutyczne Polpharma SA | Geldig |
+| RVG 115588 | Aripiprazol Sandoz 10 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 115589 | Aripiprazol Sandoz 15 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 115590 | Aripiprazol Sandoz 30 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 115594 | Aripiprazol Amarox 5 mg, tabletten | ARIPIPRAZOL | Tablet | Amarox Pharma B.V. | Geldig |
+| RVG 115595 | Aripiprazol Amarox 10 mg, tabletten | ARIPIPRAZOL | Tablet | Amarox Pharma B.V. | Geldig |
+| RVG 115596 | Aripiprazol Amarox 15 mg, tabletten | ARIPIPRAZOL | Tablet | Amarox Pharma B.V. | Geldig |
+| RVG 115597 | Aripiprazol Amarox 20 mg, tabletten | ARIPIPRAZOL | Tablet | Amarox Pharma B.V. | Geldig |
+| RVG 115598 | Aripiprazol Amarox 30 mg, tabletten | ARIPIPRAZOL | Tablet | Amarox Pharma B.V. | Geldig |
+| RVG 115599 | Aripiprazol Teva 10 mg, tabletten | ARIPIPRAZOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 115600 | Aripiprazol Teva 15 mg, tabletten | ARIPIPRAZOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 115602 | Aripiprazol Teva 30 mg, tabletten | ARIPIPRAZOL | Tablet | Teva Nederland B.V. | Geldig |
 
 Getoond worden 20 van de 69 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

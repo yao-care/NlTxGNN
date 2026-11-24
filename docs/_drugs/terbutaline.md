@@ -94,13 +94,13 @@ Geen van deze publicaties onderzoekt respiratoire malformatie als ziekte direct.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | TERBUTALINESULFAAT | Inhalatiepoeder | Geldig |
-| RVG 15959 | Bricanyl 250 Turbuhaler, inhalatiepoeder 250 microgram/dosis | TERBUTALINESULFAAT | Inhalatiepoeder | Geldig |
-| RVG 114188//12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | TERBUTALINESULFAAT | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | TERBUTALINESULFAAT | Inhalatiepoeder | AstraZeneca B.V | Geldig |
+| RVG 15959 | Bricanyl 250 Turbuhaler, inhalatiepoeder 250 microgram/dosis | TERBUTALINESULFAAT | Inhalatiepoeder | AstraZeneca B.V | Geldig |
+| RVG 114188//12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | TERBUTALINESULFAAT | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

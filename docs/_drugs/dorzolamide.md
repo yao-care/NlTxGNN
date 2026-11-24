@@ -70,32 +70,32 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 17618 | TRUSOPT 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 32633 | TRUSOPT conserveermiddelvrij, oogdruppels, oplossing in flacon voor eenmalig ge… | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 101854 | Dorzolamide Viatris 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 105562 | Dorzolamide Aurobindo 20 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 109493 | Dorzostill 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 123865 | Trusmono conserveermiddelvrij 20 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 126313 | Dorzolamide Brown & Burk zonder conserveermiddel 20 mg/ml oogdruppels, oplossin… | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 131908 | Odyral 20 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 22871 | COSOPT 20 mg/ml + 5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 33660 | COSOPT CONSERVEERMIDDELVRIJ, oogdruppels, oplossing in verpakking voor eenmalig… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 105541 | Dorzolamide/Timolol Aurobindo 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 105655 | Dorzolamide/Timolol Viatris 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 112681 | Dualkopt 20 mg/ml + 5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 120482 | Dorzolamide + Timolol Stulln 20 mg/ml + 5 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 120553 | Dorzolamide + Timolol Stulln zonder conserveermiddel 20 mg/ml + 5 mg/ml oogdrup… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 120935 | COSOPT Multidose conserveermiddelvrij 20 mg/ml + 5 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 131746 | Odyrtim 20 mg/ml + 5 mg/ml oogdruppels, oplossing in verpakking voor eenmalig g… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 135045 | Dorzolamide/Timolol Sandoz 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
-| RVG 118454//17618 | TRUSOPT 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | – | Niet geregistreerd |
-| RVG 116218//33660 | Cosopt conserveermiddelvrij, oogdruppels, oplossing, flacon voor eenmalig gebru… | TIMOLOLMALEAAT, DORZOLAMIDEHYDROCHLORIDE, NATRIUMHYDROXIDE (E 524) | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 17618 | TRUSOPT 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Santen Oy | Geldig |
+| RVG 32633 | TRUSOPT conserveermiddelvrij, oogdruppels, oplossing in flacon voor eenmalig ge… | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Santen Oy | Geldig |
+| RVG 101854 | Dorzolamide Viatris 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Viatris Limited | Geldig |
+| RVG 105562 | Dorzolamide Aurobindo 20 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Aurobindo Pharma B.V. | Geldig |
+| RVG 109493 | Dorzostill 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Bruschettini s.r.l. | Geldig |
+| RVG 123865 | Trusmono conserveermiddelvrij 20 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Rockmed Pharma B.V. | Geldig |
+| RVG 126313 | Dorzolamide Brown & Burk zonder conserveermiddel 20 mg/ml oogdruppels, oplossin… | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Brown & Burk IR Limited | Geldig |
+| RVG 131908 | Odyral 20 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A. | Geldig |
+| RVG 22871 | COSOPT 20 mg/ml + 5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Santen Oy | Geldig |
+| RVG 33660 | COSOPT CONSERVEERMIDDELVRIJ, oogdruppels, oplossing in verpakking voor eenmalig… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Santen Oy | Geldig |
+| RVG 105541 | Dorzolamide/Timolol Aurobindo 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Aurobindo Pharma B.V. | Geldig |
+| RVG 105655 | Dorzolamide/Timolol Viatris 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Viatris Limited | Geldig |
+| RVG 112681 | Dualkopt 20 mg/ml + 5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 120482 | Dorzolamide + Timolol Stulln 20 mg/ml + 5 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Pharma Stulln GmbH | Geldig |
+| RVG 120553 | Dorzolamide + Timolol Stulln zonder conserveermiddel 20 mg/ml + 5 mg/ml oogdrup… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Pharma Stulln GmbH | Geldig |
+| RVG 120935 | COSOPT Multidose conserveermiddelvrij 20 mg/ml + 5 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Santen Oy | Geldig |
+| RVG 131746 | Odyrtim 20 mg/ml + 5 mg/ml oogdruppels, oplossing in verpakking voor eenmalig g… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A | Geldig |
+| RVG 135045 | Dorzolamide/Timolol Sandoz 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Sandoz B.V. | Geldig |
+| RVG 118454//17618 | TRUSOPT 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | – | – | Niet geregistreerd |
+| RVG 116218//33660 | Cosopt conserveermiddelvrij, oogdruppels, oplossing, flacon voor eenmalig gebru… | TIMOLOLMALEAAT, DORZOLAMIDEHYDROCHLORIDE, NATRIUMHYDROXIDE (E 524) | – | – | Niet geregistreerd |
 
 Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -50,17 +50,17 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | Geldig |
-| RVG 134230//112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | Geldig |
-| RVG 115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | Inhalatieoplossing | Geldig |
-| RVG 115529 | Yanimo Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | Inhalatieoplossing | Geldig |
-| RVG 120292//115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | TIOTROPIUMBROMIDE 1-WATER, OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | Geldig |
-| RVG 119377//112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | – | Niet geregistreerd |
-| RVG 119583//115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | Boehringer Ingelheim International GmbH | Geldig |
+| RVG 134230//112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | Inhalatieoplossing | Boehringer Ingelheim International GmbH | Geldig |
+| RVG 115529 | Yanimo Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | Inhalatieoplossing | Boehringer Ingelheim International GmbH | Geldig |
+| RVG 120292//115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | TIOTROPIUMBROMIDE 1-WATER, OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | – | Geldig |
+| RVG 119377//112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | – | – | Niet geregistreerd |
+| RVG 119583//115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

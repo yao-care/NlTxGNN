@@ -91,20 +91,20 @@ De tabel toont de meest relevante publicaties (10 gevonden; ongerelateerde artik
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 53369 | Oxazepam Aurobindo 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 53370 | Oxazepam Aurobindo 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 55581 | Oxazepam Accord 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 55582 | Oxazepam Accord 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 55791 | Oxazepam Teva 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 55829 | Oxazepam Teva 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 55928 | Oxazepam CF 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 55969 | Oxazepam CF 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 131119 | Oxazepam Auro 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
-| RVG 131120 | Oxazepam Auro 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 53369 | Oxazepam Aurobindo 10 mg, tabletten | OXAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 53370 | Oxazepam Aurobindo 50 mg, tabletten | OXAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 55581 | Oxazepam Accord 10 mg, tabletten | OXAZEPAM | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 55582 | Oxazepam Accord 50 mg, tabletten | OXAZEPAM | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 55791 | Oxazepam Teva 50 mg, tabletten | OXAZEPAM | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 55829 | Oxazepam Teva 10 mg, tabletten | OXAZEPAM | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 55928 | Oxazepam CF 10 mg, tabletten | OXAZEPAM | Tablet | Centrafarm B.V. | Geldig |
+| RVG 55969 | Oxazepam CF 50 mg, tabletten | OXAZEPAM | Tablet | – | Geldig |
+| RVG 131119 | Oxazepam Auro 10 mg, tabletten | OXAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 131120 | Oxazepam Auro 50 mg, tabletten | OXAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

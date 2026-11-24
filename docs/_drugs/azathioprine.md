@@ -70,23 +70,23 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/21/1557 | Jayempi 10 mg/ml, orale suspensie | AZATHIOPRINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 10467 | Azathioprine Teva 50 mg, tabletten | AZATHIOPRINE | Tablet | Geldig |
-| RVG 24581 | Azathioprine 1A Pharma 25 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 24582 | Azathioprine 1A Pharma 50 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 24721 | Azathioprine Viatris 25 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 24722 | Azathioprine Viatris 50 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 27562 | Azathioprine Sandoz 25, filmomhulde tabletten 25 mg | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 27563 | Azathioprine Sandoz 50, filmomhulde tabletten 50 mg | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 27564 | Azathioprine 25 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 27565 | Azathioprine 50 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 108782 | Azathioprine CF 25 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 108784 | Azathioprine CF 50 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Geldig |
-| RVG 113802 | Azafalk 50 mg filmomhulde tabletten | AZATHIOPRINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/21/1557 | Jayempi 10 mg/ml, orale suspensie | AZATHIOPRINE | Suspensie voor oraal gebruik | Lipomed GmbH | Geldig |
+| RVG 10467 | Azathioprine Teva 50 mg, tabletten | AZATHIOPRINE | Tablet | Teva B.V. | Geldig |
+| RVG 24581 | Azathioprine 1A Pharma 25 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 24582 | Azathioprine 1A Pharma 50 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 24721 | Azathioprine Viatris 25 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 24722 | Azathioprine Viatris 50 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 27562 | Azathioprine Sandoz 25, filmomhulde tabletten 25 mg | AZATHIOPRINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 27563 | Azathioprine Sandoz 50, filmomhulde tabletten 50 mg | AZATHIOPRINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 27564 | Azathioprine 25 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Hexal AG | Geldig |
+| RVG 27565 | Azathioprine 50 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Hexal AG | Geldig |
+| RVG 108782 | Azathioprine CF 25 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 108784 | Azathioprine CF 50 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 113802 | Azafalk 50 mg filmomhulde tabletten | AZATHIOPRINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

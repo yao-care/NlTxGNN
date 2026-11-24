@@ -86,21 +86,21 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 11192 | Carnitene, 200 mg/ml oplossing voor injectie | LEVOCARNITINE | Oplossing voor injectie | Geldig |
-| RVG 11193 | Carnitene, 100 mg/ml drank | LEVOCARNITINE | Drank | Geldig |
-| RVG 11194 | Carnitene, 330 mg tabletten | LEVOCARNITINE | Tablet | Geldig |
-| RVG 31637 | Nefrocarnit 1000 mg/5 ml Injectievloeistof, oplossing voor injectie 200 mg/ml | LEVOCARNITINE | Oplossing voor injectie | Geldig |
-| RVG 100232//11193 | Levocarnitine, drank 1 g/10 ml | LEVOCARNITINE | Drank | Geldig |
-| RVG 102436//11193 | Levocarnitine ERC drank 1 g/10 ml, drank | LEVOCARNITINE | Drank | Geldig |
-| RVG 125461 | Carneus 1 g/10 ml drank | LEVOCARNITINE | Drank | Geldig |
-| RVG 125509//11192 | Levocarnitine Eureco-Pharma 200 mg/ml, oplossing voor injectie (1 g/5 ml) | LEVOCARNITINE | Oplossing voor injectie | Geldig |
-| RVG 127084//11193 | Levocarnitine Eureco-Pharma 100 mg/ml, drank | LEVOCARNITINE | Drank | Geldig |
-| RVG 129568//11192 | Levocarnitine ERC 200 mg/ml, oplossing voor injectie | LEVOCARNITINE | Oplossing voor injectie | Geldig |
-| RVG 133937 | Levocarnitine Expharma 330 mg, filmomhulde tabletten | LEVOCARNITINE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 11192 | Carnitene, 200 mg/ml oplossing voor injectie | LEVOCARNITINE | Oplossing voor injectie | Alfasigma Nederland B.V. | Geldig |
+| RVG 11193 | Carnitene, 100 mg/ml drank | LEVOCARNITINE | Drank | Alfasigma Nederland B.V. | Geldig |
+| RVG 11194 | Carnitene, 330 mg tabletten | LEVOCARNITINE | Tablet | Alfasigma Nederland B.V. | Geldig |
+| RVG 31637 | Nefrocarnit 1000 mg/5 ml Injectievloeistof, oplossing voor injectie 200 mg/ml | LEVOCARNITINE | Oplossing voor injectie | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 100232//11193 | Levocarnitine, drank 1 g/10 ml | LEVOCARNITINE | Drank | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 102436//11193 | Levocarnitine ERC drank 1 g/10 ml, drank | LEVOCARNITINE | Drank | – | Geldig |
+| RVG 125461 | Carneus 1 g/10 ml drank | LEVOCARNITINE | Drank | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A. | Geldig |
+| RVG 125509//11192 | Levocarnitine Eureco-Pharma 200 mg/ml, oplossing voor injectie (1 g/5 ml) | LEVOCARNITINE | Oplossing voor injectie | Eureco-Pharma B.V. | Geldig |
+| RVG 127084//11193 | Levocarnitine Eureco-Pharma 100 mg/ml, drank | LEVOCARNITINE | Drank | Eureco-Pharma B.V. | Geldig |
+| RVG 129568//11192 | Levocarnitine ERC 200 mg/ml, oplossing voor injectie | LEVOCARNITINE | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 133937 | Levocarnitine Expharma 330 mg, filmomhulde tabletten | LEVOCARNITINE | Filmomhulde tablet | ExtractumPharma Zrt. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

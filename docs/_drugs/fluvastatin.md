@@ -88,20 +88,20 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
-| RVG 34405 | Fluvastatine Sandoz 20 mg, harde capsules | FLUVASTATINE NATRIUM | Capsule, hard | Geldig |
-| RVG 34406 | Fluvastatine Sandoz 40 mg, harde capsules | FLUVASTATINE NATRIUM | Capsule, hard | Geldig |
-| RVG 34892 | Fluvastatine 20 mg PCH, capsules | FLUVASTATINE NATRIUM | Capsule, hard | Geldig |
-| RVG 34893 | Fluvastatine 40 mg PCH, capsules | FLUVASTATINE NATRIUM | Capsule, hard | Geldig |
-| RVG 35265 | Fluvastatine Retard Viatris 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
-| RVG 35306 | Fluvastatine Aurobindo SR 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
-| RVG 109965 | Fluvastatine Accord 80 mg tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
-| RVG 126567//25187 | Lescol XL 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
-| RVG 119599//25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | FLUVASTATINE NATRIUM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Ethyx Pharmaceuticals | Geldig |
+| RVG 34405 | Fluvastatine Sandoz 20 mg, harde capsules | FLUVASTATINE NATRIUM | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 34406 | Fluvastatine Sandoz 40 mg, harde capsules | FLUVASTATINE NATRIUM | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 34892 | Fluvastatine 20 mg PCH, capsules | FLUVASTATINE NATRIUM | Capsule, hard | Pharmachemie B.V. | Geldig |
+| RVG 34893 | Fluvastatine 40 mg PCH, capsules | FLUVASTATINE NATRIUM | Capsule, hard | Pharmachemie B.V. | Geldig |
+| RVG 35265 | Fluvastatine Retard Viatris 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Viatris Limited | Geldig |
+| RVG 35306 | Fluvastatine Aurobindo SR 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Aurobindo Pharma B.V. | Geldig |
+| RVG 109965 | Fluvastatine Accord 80 mg tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Accord Healthcare B.V. | Geldig |
+| RVG 126567//25187 | Lescol XL 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Euro Registratie Collectief B.V. | Geldig |
+| RVG 119599//25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | FLUVASTATINE NATRIUM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

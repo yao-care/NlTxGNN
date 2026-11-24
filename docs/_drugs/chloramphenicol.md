@@ -89,14 +89,14 @@ Geen van deze studies toont aan dat chloramfenicol een therapeutisch effect heef
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 10164 | Minims Chlooramfenicol 5 mg/ml oogdruppels, oplossing | CHLOORAMFENICOL | Oogdruppels, oplossing | Geldig |
-| RVG 17418 | Chlooramfenicol-POS 1%, oogzalf 10 mg/g | CHLOORAMFENICOL | Oogzalf | Geldig |
-| RVG 56086 | Chlooramfenicol 5 mg/ml Teva, oogdruppels | CHLOORAMFENICOL | Oogdruppels, oplossing | Geldig |
-| RVG 57557 | Chlooramfenicol Teva 10 mg/g, oogzalf | CHLOORAMFENICOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 10164 | Minims Chlooramfenicol 5 mg/ml oogdruppels, oplossing | CHLOORAMFENICOL | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 17418 | Chlooramfenicol-POS 1%, oogzalf 10 mg/g | CHLOORAMFENICOL | Oogzalf | URSAPHARM Benelux B.V. | Geldig |
+| RVG 56086 | Chlooramfenicol 5 mg/ml Teva, oogdruppels | CHLOORAMFENICOL | Oogdruppels, oplossing | Teva Nederland B.V. | Geldig |
+| RVG 57557 | Chlooramfenicol Teva 10 mg/g, oogzalf | CHLOORAMFENICOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -75,32 +75,32 @@ Geen van beide studies onderzocht desloratadine bij mensen met de voorspelde aan
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/00/157 | Azomyr 5 mg filmomhulde tabletten, omhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| EU/1/00/160 | Aerius 5 mg, filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| EU/1/00/161 | Neoclarityn 0,5 mg/ml, drank | DESLORATADINE | Drank | Geldig |
-| EU/1/11/732 | Desloratadine Teva 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| EU/1/11/739 | Dasselta 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| EU/1/11/745 | Desloratadine Actavis 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| EU/1/11/746 | Desloratadine ratiopharm 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| RVG 109194 | Desloratadine Glenmark 5mg tabletten | DESLORATADINE | Tablet | Geldig |
-| RVG 109201 | Desloratadine Sandoz 5 mg, filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| RVG 109202 | Desloratadine Sandoz 0,5 mg/ml, drank | DESLORATADINE | Drank | Geldig |
-| RVG 109205 | Desloratadine CF 0,5 mg/ml, drank | DESLORATADINE | Drank | Geldig |
-| RVG 109206 | Desloratadine Smelttablet 2,5 mg Rivopharm orodispergeerbare tabletten | DESLORATADINE | Orodispergeerbare tablet | Geldig |
-| RVG 109207 | Desloratadine Smelttablet 5 mg Rivopharm, orodispergeerbare tabletten | DESLORATADINE | Orodispergeerbare tablet | Geldig |
-| RVG 109515 | Desloratadine Viatris 5 mg, filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| RVG 110902 | Desloratadine Double-e Pharma 0,5 mg/ml, drank | DESLORATADINE | Drank | Geldig |
-| RVG 119598 | Desloratadine Aurobindo 5 mg, filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| RVG 122908 | Desloratadine Double-e Pharma 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
-| RVG 125540 | Desloratadine 2,5 mg Focus, orodispergeerbare tabletten | DESLORATADINE | Orodispergeerbare tablet | Geldig |
-| RVG 125541 | Desloratadine 5 mg Focus, orodispergeerbare tabletten | DESLORATADINE | Orodispergeerbare tablet | Geldig |
-| RVG 127416 | Desloratadine Accord 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/00/157 | Azomyr 5 mg filmomhulde tabletten, omhulde tabletten | DESLORATADINE | Filmomhulde tablet | N.V. Organon | Geldig |
+| EU/1/00/160 | Aerius 5 mg, filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | N.V. Organon | Geldig |
+| EU/1/00/161 | Neoclarityn 0,5 mg/ml, drank | DESLORATADINE | Drank | N.V. Organon (Kloosterstraat 6) | Geldig |
+| EU/1/11/732 | Desloratadine Teva 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/11/739 | Dasselta 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/11/745 | Desloratadine Actavis 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Actavis Group PTC ehf | Geldig |
+| EU/1/11/746 | Desloratadine ratiopharm 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | ratiopharm GmbH | Geldig |
+| RVG 109194 | Desloratadine Glenmark 5mg tabletten | DESLORATADINE | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 109201 | Desloratadine Sandoz 5 mg, filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 109202 | Desloratadine Sandoz 0,5 mg/ml, drank | DESLORATADINE | Drank | Sandoz B.V. | Geldig |
+| RVG 109205 | Desloratadine CF 0,5 mg/ml, drank | DESLORATADINE | Drank | Centrafarm B.V. | Geldig |
+| RVG 109206 | Desloratadine Smelttablet 2,5 mg Rivopharm orodispergeerbare tabletten | DESLORATADINE | Orodispergeerbare tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 109207 | Desloratadine Smelttablet 5 mg Rivopharm, orodispergeerbare tabletten | DESLORATADINE | Orodispergeerbare tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 109515 | Desloratadine Viatris 5 mg, filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 110902 | Desloratadine Double-e Pharma 0,5 mg/ml, drank | DESLORATADINE | Drank | Double-E Pharma Ltd. | Geldig |
+| RVG 119598 | Desloratadine Aurobindo 5 mg, filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 122908 | Desloratadine Double-e Pharma 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 125540 | Desloratadine 2,5 mg Focus, orodispergeerbare tabletten | DESLORATADINE | Orodispergeerbare tablet | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 125541 | Desloratadine 5 mg Focus, orodispergeerbare tabletten | DESLORATADINE | Orodispergeerbare tablet | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 127416 | Desloratadine Accord 5 mg filmomhulde tabletten | DESLORATADINE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
 
 Getoond worden 20 van de 22 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

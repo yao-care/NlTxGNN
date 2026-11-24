@@ -90,20 +90,20 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 102202 | Vigamox 5 mg/ml oogdruppels, oplossing | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 113080 | Moxifloxacine Fresenius Kabi 400mg/250ml oplossing voor infusie | MOXIFLOXACINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 113376 | Moxifloxacine Teva 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 116180 | Moxifloxacine Sandoz 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 117979 | Moxifloxacine Aurobindo 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118540 | Moxifloxacine VIOSER 400 mg/250 ml oplossing voor infusie | MOXIFLOXACINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
-| RVG 121751 | Erelan 400 mg filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 123145 | Moxifloxacine MSN 400 mg filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 126651 | Moxifloxacine Stulln 5 mg/ml oogdruppels, oplossing | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 126652 | Moxifloxacine Stulln zonder conserveermiddel 5 mg/ml, oogdruppels, oplossing in… | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 102202 | Vigamox 5 mg/ml oogdruppels, oplossing | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Novartis Pharma B.V. | Geldig |
+| RVG 113080 | Moxifloxacine Fresenius Kabi 400mg/250ml oplossing voor infusie | MOXIFLOXACINEHYDROCHLORIDE | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113376 | Moxifloxacine Teva 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 116180 | Moxifloxacine Sandoz 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 117979 | Moxifloxacine Aurobindo 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 118540 | Moxifloxacine VIOSER 400 mg/250 ml oplossing voor infusie | MOXIFLOXACINEHYDROCHLORIDE | Oplossing voor infusie | – | Geldig |
+| RVG 121751 | Erelan 400 mg filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Medochemie Limited | Geldig |
+| RVG 123145 | Moxifloxacine MSN 400 mg filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Vivanta Generics s.r.o. | Geldig |
+| RVG 126651 | Moxifloxacine Stulln 5 mg/ml oogdruppels, oplossing | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Pharma Stulln GmbH | Geldig |
+| RVG 126652 | Moxifloxacine Stulln zonder conserveermiddel 5 mg/ml, oogdruppels, oplossing in… | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Pharma Stulln GmbH | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

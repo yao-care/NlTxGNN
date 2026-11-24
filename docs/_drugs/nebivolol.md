@@ -89,32 +89,32 @@ Ter informatie: voor de derde voorspelde indicatie (pulmonale hypertensie) zijn 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 18849 | Nebilet 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 19317 | Hypoloc tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 27817 | Nebiloc tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 27818 | Lobivon tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 33452 | Nebilet 1,25 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 33885 | Nebivolol CF 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 34388 | Nebilet 10 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 34556 | Nebivolol Sandoz 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 101610 | Nebivolol Glenmark 2,5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 101615 | Nebivolol Glenmark 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 102513 | Nebivolol Teva 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 111041 | Nebivolol Stada 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 119975 | Nebivolol Aurobindo 2,5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 119978 | Nebivolol Aurobindo 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 123723 | Nebivolol ARX 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 127007 | Nebivolol Accord 2,5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 127010 | Nebivolol Accord 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 35172 | Lobiretic 5 mg/12,5 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 35173 | Lobiretic 5 mg/25 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 35174 | Hyporetic 5 mg/12,5 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 18849 | Nebilet 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 19317 | Hypoloc tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 27817 | Nebiloc tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 27818 | Lobivon tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 33452 | Nebilet 1,25 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 33885 | Nebivolol CF 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Centrafarm B.V. | Geldig |
+| RVG 34388 | Nebilet 10 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 34556 | Nebivolol Sandoz 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 101610 | Nebivolol Glenmark 2,5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 101615 | Nebivolol Glenmark 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 102513 | Nebivolol Teva 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 111041 | Nebivolol Stada 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | – | Geldig |
+| RVG 119975 | Nebivolol Aurobindo 2,5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 119978 | Nebivolol Aurobindo 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 123723 | Nebivolol ARX 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Amarox Pharma B.V. | Geldig |
+| RVG 127007 | Nebivolol Accord 2,5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 127010 | Nebivolol Accord 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 35172 | Lobiretic 5 mg/12,5 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 35173 | Lobiretic 5 mg/25 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Menarini International Operations Luxembourg S.A. | Geldig |
+| RVG 35174 | Hyporetic 5 mg/12,5 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Menarini International Operations Luxembourg S.A. | Geldig |
 
 Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

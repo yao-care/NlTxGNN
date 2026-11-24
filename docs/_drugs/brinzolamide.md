@@ -74,32 +74,32 @@ Het TxGNN-model (score ≥ 0,99) leverde voor Brinzolamide kandidaten op, maar a
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/00/129 | AZOPT 10 mg/ml oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 112027 | Brinzolamide Pharmathen 10 mg/ml oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 112028 | Brinzo-Vision 10 mg/ml oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 112792 | Brizadopt 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 112793 | Optilamid 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 113375 | Brinzolamide Sandoz 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 113971 | Brinzolamide Teva 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 114558 | Brinzolamide Mylan 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 133953 | Brinzolamide Sandoz 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| EU/1/08/482 | Azarga 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Geldig |
-| EU/1/14/933 | SIMBRINZA 10 mg/ml + 2 mg/ml oogdruppels, suspensie | BRIMONIDINETARTRAAT, BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 122414 | Brinzolamide/Timolol CF 10 mg/ml + 5 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Geldig |
-| RVG 125380 | Brinzolamide/Timolol Accord 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Geldig |
-| RVG 125392 | Brinzolamide/Timolol Viatris 10+5 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Geldig |
-| RVG 129013 | Blizomit 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Geldig |
-| RVG 129017 | Brinzolamide/Timolol Xiromed 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Geldig |
-| RVG 130295 | Brinzolamide/Brimonidine Xiromed 10 mg/ml + 2 mg/ml oogdruppels, suspensie | BRIMONIDINETARTRAAT, BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 132148 | Brinzolamide/Brimonidine Blumont 10 mg/mL + 2 mg/mL oogdruppels, suspensie | BRIMONIDINETARTRAAT, BRINZOLAMIDE | Oogdruppels, suspensie | Geldig |
-| RVG 133815 | Brinzolamide/Timolol Blumont 10 mg/ml + 5 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Geldig |
-| RVG 133927 | Aicybet 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/00/129 | AZOPT 10 mg/ml oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Novartis Europharm Limited | Geldig |
+| RVG 112027 | Brinzolamide Pharmathen 10 mg/ml oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Pharmathen S.A. | Geldig |
+| RVG 112028 | Brinzo-Vision 10 mg/ml oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | OmniVision GmbH | Geldig |
+| RVG 112792 | Brizadopt 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 112793 | Optilamid 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Pharmaceutical Works Polpharma S.A. | Geldig |
+| RVG 113375 | Brinzolamide Sandoz 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Sandoz B.V. | Geldig |
+| RVG 113971 | Brinzolamide Teva 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Teva Nederland B.V. | Geldig |
+| RVG 114558 | Brinzolamide Mylan 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | – | Geldig |
+| RVG 133953 | Brinzolamide Sandoz 10 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE | Oogdruppels, suspensie | Sandoz B.V. | Geldig |
+| EU/1/08/482 | Azarga 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Novartis Europharm Limited | Geldig |
+| EU/1/14/933 | SIMBRINZA 10 mg/ml + 2 mg/ml oogdruppels, suspensie | BRIMONIDINETARTRAAT, BRINZOLAMIDE | Oogdruppels, suspensie | Novartis Europharm Limited | Geldig |
+| RVG 122414 | Brinzolamide/Timolol CF 10 mg/ml + 5 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Centrafarm B.V. | Geldig |
+| RVG 125380 | Brinzolamide/Timolol Accord 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Accord Healthcare B.V. | Geldig |
+| RVG 125392 | Brinzolamide/Timolol Viatris 10+5 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Viatris Limited | Geldig |
+| RVG 129013 | Blizomit 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | NTC Srl | Geldig |
+| RVG 129017 | Brinzolamide/Timolol Xiromed 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Medical Valley Invest AB | Geldig |
+| RVG 130295 | Brinzolamide/Brimonidine Xiromed 10 mg/ml + 2 mg/ml oogdruppels, suspensie | BRIMONIDINETARTRAAT, BRINZOLAMIDE | Oogdruppels, suspensie | Medical Valley Invest AB | Geldig |
+| RVG 132148 | Brinzolamide/Brimonidine Blumont 10 mg/mL + 2 mg/mL oogdruppels, suspensie | BRIMONIDINETARTRAAT, BRINZOLAMIDE | Oogdruppels, suspensie | Blumont Ofta Trading Limited | Geldig |
+| RVG 133815 | Brinzolamide/Timolol Blumont 10 mg/ml + 5 mg/ml, oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | Blumont Ofta Trading Limited | Geldig |
+| RVG 133927 | Aicybet 10 mg/ml + 5 mg/ml oogdruppels, suspensie | BRINZOLAMIDE, TIMOLOLMALEAAT | Oogdruppels, suspensie | OmniVision GmbH | Geldig |
 
 Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

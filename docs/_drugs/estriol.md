@@ -81,18 +81,18 @@ Alleen de eerste twee publicaties zijn direct relevant. De overige vier zijn his
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 08977 | Synapause-E3 1 mg/g, crème voor vaginaal gebruik | ESTRIOL | Crème voor vaginaal gebruik | Geldig |
-| RVG 08978 | Synapause-E3 0,5 mg, ovules | ESTRIOL | Ovule | Geldig |
-| RVG 09969 | Synapause-E3 1 mg, tabletten | ESTRIOL | Tablet | Geldig |
-| RVG 09970 | Synapause-E3 2 mg, tabletten | ESTRIOL | Tablet | Geldig |
-| RVG 30193//08978 | Synapause-E3 0,5 mg, ovules | ESTRIOL | Ovule | Geldig |
-| RVG 119018 | Blissel 50 microgram/g, gel voor vaginaal gebruik | ESTRIOL | Gel voor vaginaal gebruik | Geldig |
-| RVG 121712 | Estriol DR. KADE 0,03 mg ovules | ESTRIOL | Ovule | Geldig |
-| RVG 120453//08977 | Synapause-E3 1 mg/g, vaginale creme | ESTRIOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 08977 | Synapause-E3 1 mg/g, crème voor vaginaal gebruik | ESTRIOL | Crème voor vaginaal gebruik | Aspen Pharma Trading Limited | Geldig |
+| RVG 08978 | Synapause-E3 0,5 mg, ovules | ESTRIOL | Ovule | Aspen Pharma Trading Limited | Geldig |
+| RVG 09969 | Synapause-E3 1 mg, tabletten | ESTRIOL | Tablet | Aspen Pharma Trading Limited | Geldig |
+| RVG 09970 | Synapause-E3 2 mg, tabletten | ESTRIOL | Tablet | Aspen Pharma Trading Limited | Geldig |
+| RVG 30193//08978 | Synapause-E3 0,5 mg, ovules | ESTRIOL | Ovule | Euro Registratie Collectief B.V. | Geldig |
+| RVG 119018 | Blissel 50 microgram/g, gel voor vaginaal gebruik | ESTRIOL | Gel voor vaginaal gebruik | Italfarmaco, S.A. | Geldig |
+| RVG 121712 | Estriol DR. KADE 0,03 mg ovules | ESTRIOL | Ovule | Dr. Kade Pharmazeutische fabrik GMBH | Geldig |
+| RVG 120453//08977 | Synapause-E3 1 mg/g, vaginale creme | ESTRIOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

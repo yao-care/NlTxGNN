@@ -98,32 +98,32 @@ Voor de hoogst gerangschikte voorspelling (Ambras-type hypertrichosis) is moment
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/02/237 | CIALIS, filmomhulde tabletten 10 mg | TADALAFIL | Filmomhulde tablet | Geldig |
-| EU/1/08/476 | Adcirca 2 mg/ml orale suspensie | TADALAFIL | Suspensie voor oraal gebruik | Geldig |
-| EU/1/14/961 | Tadalafil Mylan 5 mg filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| EU/1/16/1153 | Talmanco 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| EU/1/17/1177 | Tadalafil Lilly 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 114629 | ZENAVIL 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 114632 | ZENAVIL 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 114633 | ZENAVIL 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 114748 | Tadalafil 20 mg Teva, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 114750 | Tadalafil Teva 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 114751 | Tadalafil Teva 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 114752 | Tadalafil Teva 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 116968 | Tadalafil Aurobindo 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 116969 | Tadalafil Aurobindo 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 116970 | Tadalafil Aurobindo 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 117128 | Tadalafil Accord 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 117129 | Tadalafil Accord 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 117130 | Tadalafil Accord 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 118129 | Tadalafil Sandoz 2,5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
-| RVG 118131 | Tadalafil Sandoz 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/02/237 | CIALIS, filmomhulde tabletten 10 mg | TADALAFIL | Filmomhulde tablet | Eli Lilly Nederland B.V. | Geldig |
+| EU/1/08/476 | Adcirca 2 mg/ml orale suspensie | TADALAFIL | Suspensie voor oraal gebruik | Eli Lilly Nederland B.V. | Geldig |
+| EU/1/14/961 | Tadalafil Mylan 5 mg filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| EU/1/16/1153 | Talmanco 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Viatris Limited | Geldig |
+| EU/1/17/1177 | Tadalafil Lilly 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Eli Lilly Nederland B.V. | Geldig |
+| RVG 114629 | ZENAVIL 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Medochemie Limited | Geldig |
+| RVG 114632 | ZENAVIL 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Medochemie Limited | Geldig |
+| RVG 114633 | ZENAVIL 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Medochemie Limited | Geldig |
+| RVG 114748 | Tadalafil 20 mg Teva, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 114750 | Tadalafil Teva 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 114751 | Tadalafil Teva 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 114752 | Tadalafil Teva 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 116968 | Tadalafil Aurobindo 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 116969 | Tadalafil Aurobindo 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 116970 | Tadalafil Aurobindo 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 117128 | Tadalafil Accord 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 117129 | Tadalafil Accord 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 117130 | Tadalafil Accord 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 118129 | Tadalafil Sandoz 2,5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 118131 | Tadalafil Sandoz 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Sandoz B.V. | Geldig |
 
 Getoond worden 20 van de 91 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

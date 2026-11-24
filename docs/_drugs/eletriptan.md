@@ -70,20 +70,20 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 26578 | Relpax 20, filmomhulde tabletten 20 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 112571 | Eletriptan Viatris 20 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 112572 | Eletriptan Viatris 40 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 114825 | ELETRIPTAN Biogaran 20 mg filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 114826 | ELETRIPTAN Biogaran 40 mg filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 121865 | Eletriptan Aurobindo 40 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 128113//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 131997//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
-| RVG 120564//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 26578 | Relpax 20, filmomhulde tabletten 20 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 112571 | Eletriptan Viatris 20 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 112572 | Eletriptan Viatris 40 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 114825 | ELETRIPTAN Biogaran 20 mg filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Biogaran | Geldig |
+| RVG 114826 | ELETRIPTAN Biogaran 40 mg filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Biogaran | Geldig |
+| RVG 121865 | Eletriptan Aurobindo 40 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 128113//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 131997//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 120564//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

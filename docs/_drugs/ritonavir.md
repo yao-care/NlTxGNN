@@ -84,18 +84,18 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/17/1242 | Ritonavir Viatris 100 mg, filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | Geldig |
-| EU/1/96/016 | Norvir 100 mg poeder voor orale suspensie | RITONAVIR | Poeder voor orale suspensie | Geldig |
-| RVG 115126 | Ritonavir Accord 100 mg filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | Geldig |
-| RVG 115127 | Ritonavir Sandoz 100 mg, filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | Geldig |
-| EU/1/01/172 | Kaletra 200 mg/50 mg filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
-| EU/1/15/1067 | Lopinavir/Ritonavir Viatris 100 mg/25 mg, filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
-| EU/1/22/1625 | Paxlovid 150 mg filmomhulde tabletten (PF-12345678) en 100 mg filmomhulde table… | NIRMATRELVIR, RITONAVIR | Filmomhulde tablet | Geldig |
-| RVG 114962 | Lopinavir/Ritonavir Accord 200 mg/50 mg filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/17/1242 | Ritonavir Viatris 100 mg, filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | Viatris Limited | Geldig |
+| EU/1/96/016 | Norvir 100 mg poeder voor orale suspensie | RITONAVIR | Poeder voor orale suspensie | AbbVie Deutschland GmbH & Co. KG | Geldig |
+| RVG 115126 | Ritonavir Accord 100 mg filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 115127 | Ritonavir Sandoz 100 mg, filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | – | Geldig |
+| EU/1/01/172 | Kaletra 200 mg/50 mg filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | AbbVie Deutschland GmbH & Co. KG | Geldig |
+| EU/1/15/1067 | Lopinavir/Ritonavir Viatris 100 mg/25 mg, filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Viatris Limited | Geldig |
+| EU/1/22/1625 | Paxlovid 150 mg filmomhulde tabletten (PF-12345678) en 100 mg filmomhulde table… | NIRMATRELVIR, RITONAVIR | Filmomhulde tablet | Pfizer Europe MA EEIG | Geldig |
+| RVG 114962 | Lopinavir/Ritonavir Accord 200 mg/50 mg filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

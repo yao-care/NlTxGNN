@@ -89,32 +89,32 @@ Geen van onderstaande publicaties onderzoekt pregabaline bij tendinitis zelf. He
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/04/279 | Lyrica 150 mg orodispergeerbare tablet | PREGABALINE | Orodispergeerbare tablet | Geldig |
-| EU/1/14/916 | Pregabalin Viatris Pharma 25 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| EU/1/15/1011 | Pregabaline Sandoz 25 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| EU/1/15/1021 | Pregabaline Zentiva 150 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| EU/1/15/1027 | Pregabalin Accord 150 mg, hard capsules | PREGABALINE | Capsule, hard | Geldig |
-| EU/1/15/997 | Pregabaline Viatris 200 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| EU/1/15/998 | Pregabaline Mylan Pharma 75 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115800 | Pregabaline Amarox 25 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115801 | Pregabaline Amarox 50 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115802 | Pregabaline Amarox 75 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115803 | Pregabaline Amarox 100 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115804 | Pregabaline Amarox 150 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115805 | Pregabaline Amarox 200 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115806 | Pregabaline Amarox 225 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115807 | Pregabaline Amarox 300 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115813 | Pregamid 25 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115814 | Pregamid 50 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115815 | Pregamid 75 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115816 | Pregamid 100 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
-| RVG 115817 | Pregamid 150 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/04/279 | Lyrica 150 mg orodispergeerbare tablet | PREGABALINE | Orodispergeerbare tablet | Upjohn EESV | Geldig |
+| EU/1/14/916 | Pregabalin Viatris Pharma 25 mg harde capsules | PREGABALINE | Capsule, hard | Viatris Healthcare Limited | Geldig |
+| EU/1/15/1011 | Pregabaline Sandoz 25 mg harde capsules | PREGABALINE | Capsule, hard | Sandoz GmbH | Geldig |
+| EU/1/15/1021 | Pregabaline Zentiva 150 mg harde capsules | PREGABALINE | Capsule, hard | Zentiva k.s. | Geldig |
+| EU/1/15/1027 | Pregabalin Accord 150 mg, hard capsules | PREGABALINE | Capsule, hard | Accord Healthcare S.L.U. | Geldig |
+| EU/1/15/997 | Pregabaline Viatris 200 mg, harde capsules | PREGABALINE | Capsule, hard | Viatris Limited | Geldig |
+| EU/1/15/998 | Pregabaline Mylan Pharma 75 mg, harde capsules | PREGABALINE | Capsule, hard | Mylan S.A.S | Geldig |
+| RVG 115800 | Pregabaline Amarox 25 mg, harde capsules | PREGABALINE | Capsule, hard | Amarox Pharma B.V. | Geldig |
+| RVG 115801 | Pregabaline Amarox 50 mg, harde capsules | PREGABALINE | Capsule, hard | Amarox Pharma B.V. | Geldig |
+| RVG 115802 | Pregabaline Amarox 75 mg, harde capsules | PREGABALINE | Capsule, hard | Amarox Pharma B.V. | Geldig |
+| RVG 115803 | Pregabaline Amarox 100 mg, harde capsules | PREGABALINE | Capsule, hard | Amarox Pharma B.V. | Geldig |
+| RVG 115804 | Pregabaline Amarox 150 mg, harde capsules | PREGABALINE | Capsule, hard | Amarox Pharma B.V. | Geldig |
+| RVG 115805 | Pregabaline Amarox 200 mg, harde capsules | PREGABALINE | Capsule, hard | Amarox Pharma B.V. | Geldig |
+| RVG 115806 | Pregabaline Amarox 225 mg, harde capsules | PREGABALINE | Capsule, hard | Amarox Pharma B.V. | Geldig |
+| RVG 115807 | Pregabaline Amarox 300 mg, harde capsules | PREGABALINE | Capsule, hard | Amarox Pharma B.V. | Geldig |
+| RVG 115813 | Pregamid 25 mg harde capsules | PREGABALINE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 115814 | Pregamid 50 mg harde capsules | PREGABALINE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 115815 | Pregamid 75 mg harde capsules | PREGABALINE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 115816 | Pregamid 100 mg harde capsules | PREGABALINE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 115817 | Pregamid 150 mg harde capsules | PREGABALINE | Capsule, hard | G.L. Pharma GmbH | Geldig |
 
 Getoond worden 20 van de 110 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -84,32 +84,32 @@ Er is geen publicatie die de voorspelde aandoening zelf rechtstreeks onderzoekt.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 08868 | Minrin 4 microgram/ml oplossing voor injectie | DESMOPRESSINEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 12624 | Minrin 0,1 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Geldig |
-| RVG 12625 | Minrin 0,2 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Geldig |
-| RVG 13958 | Minrin 0,1 mg/ml neusspray, neusspray | DESMOPRESSINEACETAAT | Neusspray, oplossing | Geldig |
-| RVG 16174 | Octostim 15 microgram/ml oplossing voor injectie | DESMOPRESSINEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 16175 | Octostim 1,5 mg/ml neusspray | DESMOPRESSINEACETAAT | Neusspray, oplossing | Geldig |
-| RVG 24110 | Desmopressine-acetaat Sandoz neusspray 0,1 mg/ml, neusspray, oplossing | DESMOPRESSINEACETAAT 1-WATER | Neusspray, oplossing | Geldig |
-| RVG 30506 | Desmopressine-acetaat Mylan 0,1 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Geldig |
-| RVG 30507 | Desmopressine-acetaat Mylan 0,2 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Geldig |
-| RVG 30855 | Minrin Melt 60 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Geldig |
-| RVG 30856 | Minrin Melt 120 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Geldig |
-| RVG 30857 | Minrin Melt 240 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Geldig |
-| RVG 32002 | Desmopressine-acetaat Teva 0,1 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Geldig |
-| RVG 32003 | Desmopressine-acetaat Teva 0,2 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Geldig |
-| RVG 32841 | Desmopressine-acetaat Sandoz 0,1 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Geldig |
-| RVG 32842 | Desmopressine-acetaat Sandoz 0,2 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Geldig |
-| RVG 33078 | Desmopressine-acetaat Neusspray Aspire 0,1 mg/ml, neusspray, oplossing | DESMOPRESSINEACETAAT 3-WATER | Neusspray, oplossing | Geldig |
-| RVG 116910 | Desmopressine Melt Ferring 60 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Geldig |
-| RVG 116911 | Desmopressine Melt Ferring 120 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Geldig |
-| RVG 116912 | Desmopressine Melt Ferring 240 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 08868 | Minrin 4 microgram/ml oplossing voor injectie | DESMOPRESSINEACETAAT | Oplossing voor injectie | Ferring B.V. | Geldig |
+| RVG 12624 | Minrin 0,1 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Ferring B.V. | Geldig |
+| RVG 12625 | Minrin 0,2 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Ferring B.V. | Geldig |
+| RVG 13958 | Minrin 0,1 mg/ml neusspray, neusspray | DESMOPRESSINEACETAAT | Neusspray, oplossing | Ferring B.V. | Geldig |
+| RVG 16174 | Octostim 15 microgram/ml oplossing voor injectie | DESMOPRESSINEACETAAT | Oplossing voor injectie | Ferring B.V. | Geldig |
+| RVG 16175 | Octostim 1,5 mg/ml neusspray | DESMOPRESSINEACETAAT | Neusspray, oplossing | Ferring B.V. | Geldig |
+| RVG 24110 | Desmopressine-acetaat Sandoz neusspray 0,1 mg/ml, neusspray, oplossing | DESMOPRESSINEACETAAT 1-WATER | Neusspray, oplossing | Sandoz B.V. | Geldig |
+| RVG 30506 | Desmopressine-acetaat Mylan 0,1 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Mylan B.V. | Geldig |
+| RVG 30507 | Desmopressine-acetaat Mylan 0,2 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Mylan B.V. | Geldig |
+| RVG 30855 | Minrin Melt 60 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Ferring B.V. | Geldig |
+| RVG 30856 | Minrin Melt 120 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Ferring B.V. | Geldig |
+| RVG 30857 | Minrin Melt 240 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Ferring B.V. | Geldig |
+| RVG 32002 | Desmopressine-acetaat Teva 0,1 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Teva Pharma B.V. | Geldig |
+| RVG 32003 | Desmopressine-acetaat Teva 0,2 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Teva Pharma B.V. | Geldig |
+| RVG 32841 | Desmopressine-acetaat Sandoz 0,1 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Sandoz B.V. | Geldig |
+| RVG 32842 | Desmopressine-acetaat Sandoz 0,2 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Sandoz B.V. | Geldig |
+| RVG 33078 | Desmopressine-acetaat Neusspray Aspire 0,1 mg/ml, neusspray, oplossing | DESMOPRESSINEACETAAT 3-WATER | Neusspray, oplossing | Aspire Pharma (Malta) Limited | Geldig |
+| RVG 116910 | Desmopressine Melt Ferring 60 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Ferring B.V. | Geldig |
+| RVG 116911 | Desmopressine Melt Ferring 120 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Ferring B.V. | Geldig |
+| RVG 116912 | Desmopressine Melt Ferring 240 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Ferring B.V. | Geldig |
 
 Getoond worden 20 van de 41 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -87,32 +87,32 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 18444 | Otrivin XylometazolineHCl Menthol 1 mg/ml neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
-| RVG 18445 | Otrivin XylometazolineHCl Menthol 1 mg/ml neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 21065 | Otrivin XylometazolineHCl Care 0,5 mg/ml neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 21066 | Otrivin XylometazolineHCl Care 1 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 21774 | Otrivin XylometazolineHCl conserveermiddelvrij Menthol 1 mg/ml neusspray, oplos… | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 23967 | Otrivin XylometazolineHCl 0,5 mg/ml Neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
-| RVG 23968 | Otrivin XylometazolineHCl 0,5 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 23969 | Otrivin XylometazolineHCl 1 mg/ml Neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 23970 | Otrivin XylometazolineHCl 1 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 32867 | Xylometazoline HCl neusspray 1 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 100748 | Albert Heijn Neusdruppels Xylometazoline HCl 1 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
-| RVG 100749 | Albert Heijn Kinderneusspray Xylometazoline HCl 0,5 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 100751 | Albert Heijn Neusspray Xylometazoline HCl 1 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 101210 | Kinderneusspray Xylometazoline HCl SAM 0,5 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 101212 | Neusspray Xylometazoline HCl SAM 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 101726 | Neusdruppels HTP Xylometazoline HCl 1,0 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
-| RVG 103451 | Xelf Xylometazoline HCl 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
-| RVG 105480 | DA Neusdruppels Xylometazoline HCl 1,0 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
-| RVG 105485 | DA Neusspray Xylometazoline HCl 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 105489 | Etos Neusdruppels Xylometazoline HCl 1 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 18444 | Otrivin XylometazolineHCl Menthol 1 mg/ml neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 18445 | Otrivin XylometazolineHCl Menthol 1 mg/ml neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 21065 | Otrivin XylometazolineHCl Care 0,5 mg/ml neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 21066 | Otrivin XylometazolineHCl Care 1 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 21774 | Otrivin XylometazolineHCl conserveermiddelvrij Menthol 1 mg/ml neusspray, oplos… | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 23967 | Otrivin XylometazolineHCl 0,5 mg/ml Neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 23968 | Otrivin XylometazolineHCl 0,5 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 23969 | Otrivin XylometazolineHCl 1 mg/ml Neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 23970 | Otrivin XylometazolineHCl 1 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Haleon Netherlands B.V. | Geldig |
+| RVG 32867 | Xylometazoline HCl neusspray 1 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Basic Pharma Manufacturing B.V. | Geldig |
+| RVG 100748 | Albert Heijn Neusdruppels Xylometazoline HCl 1 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Healthypharm B.V. | Geldig |
+| RVG 100749 | Albert Heijn Kinderneusspray Xylometazoline HCl 0,5 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Healthypharm B.V. | Geldig |
+| RVG 100751 | Albert Heijn Neusspray Xylometazoline HCl 1 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Healthypharm B.V. | Geldig |
+| RVG 101210 | Kinderneusspray Xylometazoline HCl SAM 0,5 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Mosadex Services B.V. | Geldig |
+| RVG 101212 | Neusspray Xylometazoline HCl SAM 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Mosadex Services B.V. | Geldig |
+| RVG 101726 | Neusdruppels HTP Xylometazoline HCl 1,0 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Healthypharm B.V. | Geldig |
+| RVG 103451 | Xelf Xylometazoline HCl 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Basic Pharma Manufacturing B.V. | Geldig |
+| RVG 105480 | DA Neusdruppels Xylometazoline HCl 1,0 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Nederlandse Drogisterij Service B.V. | Geldig |
+| RVG 105485 | DA Neusspray Xylometazoline HCl 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Nederlandse Drogisterij Service B.V. | Geldig |
+| RVG 105489 | Etos Neusdruppels Xylometazoline HCl 1 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Healthypharm B.V. | Geldig |
 
 Getoond worden 20 van de 100 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

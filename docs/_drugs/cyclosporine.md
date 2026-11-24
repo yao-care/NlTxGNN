@@ -74,27 +74,27 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/15/990 | IKERVIS 1 mg/ml oogdruppels, emulsie | CICLOSPORINE | Oogdruppels, emulsie | Geldig |
-| EU/1/17/1219 | Verkazia 1 mg/mL oogdruppels, emulsie | CICLOSPORINE | Oogdruppels, emulsie | Geldig |
-| EU/1/24/1857 | Vevizye 1 mg/ml oogdruppels, oplossing | CICLOSPORINE | Oogdruppels, oplossing | Geldig |
-| RVG 09846 | Sandimmune, concentraat voor oplossing voor intraveneuze infusie 50 mg/ml | CICLOSPORINE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 17495 | Neoral 25 mg, capsules | CICLOSPORINE | Capsule, zacht | Geldig |
-| RVG 17496 | Neoral 100 mg, capsules | CICLOSPORINE | Capsule, zacht | Geldig |
-| RVG 17497 | Neoral 100 mg/ml, drank | CICLOSPORINE | Drank | Geldig |
-| RVG 34432 | Ciclosporine Aurobindo 25 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Geldig |
-| RVG 34433 | Ciclosporine Aurobindo 50 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Geldig |
-| RVG 34434 | Ciclosporine Aurobindo 100 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Geldig |
-| RVG 34435 | Ciclosporine Teva 25 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Geldig |
-| RVG 34437 | Ciclosporine Teva 100 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Geldig |
-| RVG 124937//17497 | Neoral 100 mg/ml, drank | CICLOSPORINE | Drank | Geldig |
-| RVG 129251//17497 | Neoral 100 mg/ml, drank | CICLOSPORINE | Drank | Geldig |
-| RVG 130664 | Cequa 0,9 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | CICLOSPORINE | Oogdruppels, oplossing | Geldig |
-| RVG 132200//17497 | Neoral 100 mg/ml, drank | CICLOSPORINE | Drank | Geldig |
-| RVG 111632 | Ciqorin 100 mg, capsules, zacht | CICLOSPORINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/15/990 | IKERVIS 1 mg/ml oogdruppels, emulsie | CICLOSPORINE | Oogdruppels, emulsie | Santen Oy | Geldig |
+| EU/1/17/1219 | Verkazia 1 mg/mL oogdruppels, emulsie | CICLOSPORINE | Oogdruppels, emulsie | Santen Oy | Geldig |
+| EU/1/24/1857 | Vevizye 1 mg/ml oogdruppels, oplossing | CICLOSPORINE | Oogdruppels, oplossing | Laboratoires Thea S.A.S. | Geldig |
+| RVG 09846 | Sandimmune, concentraat voor oplossing voor intraveneuze infusie 50 mg/ml | CICLOSPORINE | Concentraat voor oplossing voor infusie | Novartis Pharma B.V. | Geldig |
+| RVG 17495 | Neoral 25 mg, capsules | CICLOSPORINE | Capsule, zacht | Novartis Pharma B.V. | Geldig |
+| RVG 17496 | Neoral 100 mg, capsules | CICLOSPORINE | Capsule, zacht | Novartis Pharma B.V. | Geldig |
+| RVG 17497 | Neoral 100 mg/ml, drank | CICLOSPORINE | Drank | Novartis Pharma B.V. | Geldig |
+| RVG 34432 | Ciclosporine Aurobindo 25 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 34433 | Ciclosporine Aurobindo 50 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 34434 | Ciclosporine Aurobindo 100 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 34435 | Ciclosporine Teva 25 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Teva B.V. | Geldig |
+| RVG 34437 | Ciclosporine Teva 100 mg, zachte capsules | CICLOSPORINE | Capsule, zacht | Teva B.V. | Geldig |
+| RVG 124937//17497 | Neoral 100 mg/ml, drank | CICLOSPORINE | Drank | Originalis B.V. | Geldig |
+| RVG 129251//17497 | Neoral 100 mg/ml, drank | CICLOSPORINE | Drank | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 130664 | Cequa 0,9 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | CICLOSPORINE | Oogdruppels, oplossing | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 132200//17497 | Neoral 100 mg/ml, drank | CICLOSPORINE | Drank | Euro Registratie Collectief b.v. | Geldig |
+| RVG 111632 | Ciqorin 100 mg, capsules, zacht | CICLOSPORINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

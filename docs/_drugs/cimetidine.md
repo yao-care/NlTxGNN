@@ -81,14 +81,14 @@ Geen van de publicaties betreft een gecontroleerde studie naar cimetidine als be
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 24021 | Cimetidine Accord 200 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Geldig |
-| RVG 24022 | Cimetidine Accord 400 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Geldig |
-| RVG 24023 | Cimetidine Accord 800 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Geldig |
-| RVG 56339 | Cimetidine CF 400 mg, tabletten | CIMETIDINE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 24021 | Cimetidine Accord 200 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 24022 | Cimetidine Accord 400 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 24023 | Cimetidine Accord 800 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 56339 | Cimetidine CF 400 mg, tabletten | CIMETIDINE | Filmomhulde tablet | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

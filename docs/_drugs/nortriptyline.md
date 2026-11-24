@@ -96,32 +96,32 @@ Alleen titels en korte samenvattingen zijn beoordeeld; omvang en resultaten van 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 03285 | Nortrilen 10 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 03286 | Nortrilen 25 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 11407 | Nortrilen 50 mg, Filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 29213//03286 | Nortrilen 25, tabletten 25 mg | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 30336//03286 | Nortrilen 25 mg, tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 116782 | Nortriptyline Milstein 50 mg, tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 120984 | Nortriptyline Glenmark 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 120985 | Nortriptyline Glenmark 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 120986 | Nortriptyline Glenmark 50 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 121857 | Nortriptyline Viatris 10 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 121858 | Nortriptyline Viatris 25 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 122151 | Nortriptyline Viatris 50 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 126748 | Nortriptyline BB 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 126749 | Nortriptyline BB 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 126750 | Nortriptyline BB 50 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 127406 | Nortriptyline Double-e Pharma 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 127407 | Nortriptyline Double-e Pharma 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 132490 | Nortriptyline RIA 10 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 132491 | Nortriptyline RIA 25 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 132492 | Nortriptyline RIA 50 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 03285 | Nortrilen 10 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Lundbeck B.V. | Geldig |
+| RVG 03286 | Nortrilen 25 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Lundbeck B.V. | Geldig |
+| RVG 11407 | Nortrilen 50 mg, Filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Lundbeck B.V. | Geldig |
+| RVG 29213//03286 | Nortrilen 25, tabletten 25 mg | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 30336//03286 | Nortrilen 25 mg, tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | EU-Pharma B.V. | Geldig |
+| RVG 116782 | Nortriptyline Milstein 50 mg, tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Milstein C.V. | Geldig |
+| RVG 120984 | Nortriptyline Glenmark 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 120985 | Nortriptyline Glenmark 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 120986 | Nortriptyline Glenmark 50 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 121857 | Nortriptyline Viatris 10 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 121858 | Nortriptyline Viatris 25 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 122151 | Nortriptyline Viatris 50 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 126748 | Nortriptyline BB 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Brown & Burk IR Limited | Geldig |
+| RVG 126749 | Nortriptyline BB 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Brown & Burk IR Limited | Geldig |
+| RVG 126750 | Nortriptyline BB 50 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Brown & Burk IR Limited | Geldig |
+| RVG 127406 | Nortriptyline Double-e Pharma 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Double-E Pharma Limited | Geldig |
+| RVG 127407 | Nortriptyline Double-e Pharma 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Double-E Pharma Limited | Geldig |
+| RVG 132490 | Nortriptyline RIA 10 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | RIA Generics Limited | Geldig |
+| RVG 132491 | Nortriptyline RIA 25 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | RIA Generics Limited | Geldig |
+| RVG 132492 | Nortriptyline RIA 50 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | RIA Generics Limited | Geldig |
 
 Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

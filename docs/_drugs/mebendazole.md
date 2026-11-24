@@ -82,23 +82,23 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 19111 | Mebendazol anti-wormtabletten Sanias 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 20655=57042 | Wormkuurtabletten HTP mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 21941=19111 | Leidapharm anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Geldig |
-| RVG 26752=19111 | Kruidvat anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Geldig |
-| RVG 27088=57042 | Etos Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 28813=57042 | DA Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 28830=19111 | Trekpleister anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Geldig |
-| RVG 57042 | Mebendazol CF 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 100258 | Mebendazol SAM 100 mg wormkuurtabletten, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 108851 | Mebendazol Teva 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 111026 | Livsane Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 114283 | DA Anti-Wormtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
-| RVG 126097=57042 | Kruidvat wormkuurtabletten mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 19111 | Mebendazol anti-wormtabletten Sanias 100 mg, tabletten | MEBENDAZOL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 20655=57042 | Wormkuurtabletten HTP mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Healthypharm B.V. | Geldig |
+| RVG 21941=19111 | Leidapharm anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Leidapharm B.V. | Geldig |
+| RVG 26752=19111 | Kruidvat anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Marel B.V. | Geldig |
+| RVG 27088=57042 | Etos Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Healthypharm B.V. | Geldig |
+| RVG 28813=57042 | DA Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Nederlandse Drogisterij Service B.V. | Geldig |
+| RVG 28830=19111 | Trekpleister anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Marel B.V. | Geldig |
+| RVG 57042 | Mebendazol CF 100 mg, tabletten | MEBENDAZOL | Tablet | Centrafarm B.V. | Geldig |
+| RVG 100258 | Mebendazol SAM 100 mg wormkuurtabletten, tabletten | MEBENDAZOL | Tablet | Mosadex Services B.V. | Geldig |
+| RVG 108851 | Mebendazol Teva 100 mg, tabletten | MEBENDAZOL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 111026 | Livsane Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Healthypharm B.V. | Geldig |
+| RVG 114283 | DA Anti-Wormtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | – | Geldig |
+| RVG 126097=57042 | Kruidvat wormkuurtabletten mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Healthypharm B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

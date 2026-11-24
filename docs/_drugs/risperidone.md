@@ -72,32 +72,32 @@ De lokale gegevens bevatten één registratie, die geldig is. De marktstatus is 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/21/1621 | Okedi 75mg, poeder en oplosmiddel voor suspensie voor injectie met verlengde af… | RISPERIDON | Poeder en oplosmiddel voor suspensie voor injecti… | Geldig |
-| RVG 16096 | Risperdal 1 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 16097 | Risperdal 2 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 16098 | Risperdal 3 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 16099 | Risperdal 4 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 19127 | Risperdal 1 mg/ml drank | RISPERIDON | Drank | Geldig |
-| RVG 22714 | Risperdal 0,5 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 27178 | Risperdal Consta 25 mg, poeder en oplosmiddel voor suspensie voor injectie met… | RISPERIDON | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 27179 | Risperdal Consta 37,5 mg, poeder en oplosmiddel voor suspensie voor injectie me… | RISPERIDON | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 27180 | Risperdal Consta 50 mg, poeder en oplosmiddel voor suspensie voor injectie met… | RISPERIDON | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 30898 | Risperidon G.L. 1 mg filmomhulde tabletten, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 30899 | Risperidon G.L. 2 mg filmomhulde tabletten, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 30900 | Risperidon G.L. 3 mg filmomhulde tabletten, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 30901 | Risperidon G.L. 4 mg filmomhulde tabletten, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 30913 | Risperidon CF 0,50 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 30914 | Risperidon CF 1 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 30915 | Risperidon CF 2 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 30916 | Risperidon CF 3 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 30917 | Risperidon CF 4 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Geldig |
-| RVG 31887 | Risperidon disper STADA 0,5 mg, orodispergeerbare tabletten | RISPERIDON | Orodispergeerbare tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/21/1621 | Okedi 75mg, poeder en oplosmiddel voor suspensie voor injectie met verlengde af… | RISPERIDON | Poeder en oplosmiddel voor suspensie voor injecti… | Laboratorios Farmaceuticos Rovi, S.A. | Geldig |
+| RVG 16096 | Risperdal 1 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Janssen-Cilag B.V. | Geldig |
+| RVG 16097 | Risperdal 2 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Janssen-Cilag B.V. | Geldig |
+| RVG 16098 | Risperdal 3 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Janssen-Cilag B.V. | Geldig |
+| RVG 16099 | Risperdal 4 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Janssen-Cilag B.V. | Geldig |
+| RVG 19127 | Risperdal 1 mg/ml drank | RISPERIDON | Drank | Janssen-Cilag B.V. | Geldig |
+| RVG 22714 | Risperdal 0,5 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Janssen-Cilag B.V. | Geldig |
+| RVG 27178 | Risperdal Consta 25 mg, poeder en oplosmiddel voor suspensie voor injectie met… | RISPERIDON | Poeder en oplosmiddel voor suspensie voor injectie | Janssen-Cilag B.V. | Geldig |
+| RVG 27179 | Risperdal Consta 37,5 mg, poeder en oplosmiddel voor suspensie voor injectie me… | RISPERIDON | Poeder en oplosmiddel voor suspensie voor injectie | Janssen-Cilag B.V. | Geldig |
+| RVG 27180 | Risperdal Consta 50 mg, poeder en oplosmiddel voor suspensie voor injectie met… | RISPERIDON | Poeder en oplosmiddel voor suspensie voor injectie | Janssen-Cilag B.V. | Geldig |
+| RVG 30898 | Risperidon G.L. 1 mg filmomhulde tabletten, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | G.L. Pharma GmbH | Geldig |
+| RVG 30899 | Risperidon G.L. 2 mg filmomhulde tabletten, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | G.L. Pharma GmbH | Geldig |
+| RVG 30900 | Risperidon G.L. 3 mg filmomhulde tabletten, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | G.L. Pharma GmbH | Geldig |
+| RVG 30901 | Risperidon G.L. 4 mg filmomhulde tabletten, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | G.L. Pharma GmbH | Geldig |
+| RVG 30913 | Risperidon CF 0,50 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 30914 | Risperidon CF 1 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 30915 | Risperidon CF 2 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 30916 | Risperidon CF 3 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 30917 | Risperidon CF 4 mg, filmomhulde tabletten | RISPERIDON | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 31887 | Risperidon disper STADA 0,5 mg, orodispergeerbare tabletten | RISPERIDON | Orodispergeerbare tablet | Stada Arzneimittel AG | Geldig |
 
 Getoond worden 20 van de 56 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

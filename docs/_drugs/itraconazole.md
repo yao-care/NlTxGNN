@@ -105,16 +105,16 @@ Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28430 | Itraconazol CF 100 mg capsules, capsule hard | ITRACONAZOL | Capsule, hard | Geldig |
-| RVG 28431 | Itraconazol Viatris 100 mg, harde capsules | ITRACONAZOL | Capsule, hard | Geldig |
-| RVG 107049 | Itraconazol Aurobindo 100 mg, capsules, hard | ITRACONAZOL | Capsule, hard | Geldig |
-| RVG 123155//21024 | Trisporal O.S. 10 mg/ml, drank | ITRACONAZOL | Drank | Geldig |
-| RVG 128247 | Itraconazol 10 mg/ml Focus Care, drank | ITRACONAZOL | Drank | Geldig |
-| RVG 133677 | Itraconazol Ascend 100 mg, harde capsules | ITRACONAZOL | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28430 | Itraconazol CF 100 mg capsules, capsule hard | ITRACONAZOL | Capsule, hard | Centrafarm B.V. | Geldig |
+| RVG 28431 | Itraconazol Viatris 100 mg, harde capsules | ITRACONAZOL | Capsule, hard | Viatris Limited | Geldig |
+| RVG 107049 | Itraconazol Aurobindo 100 mg, capsules, hard | ITRACONAZOL | Capsule, hard | – | Geldig |
+| RVG 123155//21024 | Trisporal O.S. 10 mg/ml, drank | ITRACONAZOL | Drank | Euro Registratie Collectief B.V. | Geldig |
+| RVG 128247 | Itraconazol 10 mg/ml Focus Care, drank | ITRACONAZOL | Drank | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 133677 | Itraconazol Ascend 100 mg, harde capsules | ITRACONAZOL | Capsule, hard | Ascend GmbH | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

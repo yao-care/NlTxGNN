@@ -98,15 +98,15 @@ Er is geen gerandomiseerde studie gevonden die fludarabine zelf bij myeloom onde
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 16849 | Fludara, poeder voor oplossing voor injectie of infusie 50 mg/flacon | FLUDARABINEFOSFAAT | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 26919 | Fludara 10 mg, filmomhulde tabletten | FLUDARABINEFOSFAAT | Filmomhulde tablet | Geldig |
-| RVG 33255 | Fludarabinefosfaat - PCH 25 mg/ml, concentraat voor oplossing voor injectie/inf… | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor infusie, Concentr… | Geldig |
-| RVG 34839 | Fludarabine Sandoz 25 mg/ml, concentraat voor oplossing voor injectie of infusie | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor injectie of infus… | Geldig |
-| RVG 114133 | Fludarabinefosfaat Accord 25 mg/ml, concentraat voor oplossing voor injectie of… | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor injectie of infus… | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 16849 | Fludara, poeder voor oplossing voor injectie of infusie 50 mg/flacon | FLUDARABINEFOSFAAT | Poeder voor oplossing voor injectie of infusie | Sanofi B.V. | Geldig |
+| RVG 26919 | Fludara 10 mg, filmomhulde tabletten | FLUDARABINEFOSFAAT | Filmomhulde tablet | Sanofi B.V. | Geldig |
+| RVG 33255 | Fludarabinefosfaat - PCH 25 mg/ml, concentraat voor oplossing voor injectie/inf… | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor infusie, Concentr… | Pharmachemie B.V. | Geldig |
+| RVG 34839 | Fludarabine Sandoz 25 mg/ml, concentraat voor oplossing voor injectie of infusie | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor injectie of infus… | Sandoz B.V. | Geldig |
+| RVG 114133 | Fludarabinefosfaat Accord 25 mg/ml, concentraat voor oplossing voor injectie of… | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor injectie of infus… | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

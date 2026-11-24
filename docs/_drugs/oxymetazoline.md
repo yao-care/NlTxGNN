@@ -78,20 +78,20 @@ Slechts twee publicaties (1998 en 1996) zijn direct relevant; de overige noemen 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 05859 | Vicks Sinex met doseerpomp 0,5 mg/ml, neusspray, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 22718 | Nasivin zonder conserveermiddel 0,5 mg/ml doseerspray, neusspray | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 26124 | Nasivin zonder conserveermiddelen 0,25 mg/ml doseerspray, neusspray | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 29857 | Nasivin zonder conserveermiddelen 0,1 mg/ml, neusdruppels, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
-| RVG 107438 | Afrin 0,5 mg/ml neusspray, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 107439 | Afrin 0,5 mg/ml neusspray, oplossing met menthol | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 107440 | Afrin 0,5 mg/ml neusspray, oplossing met glycerol | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 107441 | Afrin 0,5 mg/ml neusspray, oplossing met kamille | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
-| RVG 120414//25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | OXYMETAZOLINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 05859 | Vicks Sinex met doseerpomp 0,5 mg/ml, neusspray, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Procter & Gamble Nederland B.V. | Geldig |
+| RVG 22718 | Nasivin zonder conserveermiddel 0,5 mg/ml doseerspray, neusspray | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | P&G Health Germany GmbH | Geldig |
+| RVG 25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Procter & Gamble Nederland B.V. | Geldig |
+| RVG 26124 | Nasivin zonder conserveermiddelen 0,25 mg/ml doseerspray, neusspray | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | P&G Health Germany GmbH | Geldig |
+| RVG 29857 | Nasivin zonder conserveermiddelen 0,1 mg/ml, neusdruppels, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | P&G Health Germany GmbH | Geldig |
+| RVG 107438 | Afrin 0,5 mg/ml neusspray, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Bayer B.V. | Geldig |
+| RVG 107439 | Afrin 0,5 mg/ml neusspray, oplossing met menthol | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Bayer B.V. | Geldig |
+| RVG 107440 | Afrin 0,5 mg/ml neusspray, oplossing met glycerol | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Bayer B.V. | Geldig |
+| RVG 107441 | Afrin 0,5 mg/ml neusspray, oplossing met kamille | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Bayer B.V. | Geldig |
+| RVG 120414//25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | OXYMETAZOLINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -80,12 +80,12 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 08322 | Urispas, omhulde tabletten 200 mg | FLAVOXAATHYDROCHLORIDE | Omhulde tablet | Geldig |
-| RVG 117414//08322 | Urispas, omhulde tabletten 200 mg | FLAVOXAATHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 08322 | Urispas, omhulde tabletten 200 mg | FLAVOXAATHYDROCHLORIDE | Omhulde tablet | Recordati Ireland Ltd. (Co. Cork) | Geldig |
+| RVG 117414//08322 | Urispas, omhulde tabletten 200 mg | FLAVOXAATHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

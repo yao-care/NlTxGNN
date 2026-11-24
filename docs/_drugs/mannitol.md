@@ -82,17 +82,17 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/12/760 | Bronchitol 40 mg inhalatiepoeder, harde capsules | MANNITOL (D-) (E 421) | Inhalatiepoeder in harde capsule | Geldig |
-| RVG 31795 | Mannitol 10%, oplossing voor infusie | MANNITOL (D-) (E 421) | Oplossing voor infusie | Geldig |
-| RVG 34641 | Osmohale, inhalatiepoeder in harde capsules | MANNITOL (D-) (E 421), MANNITOL (D-) (E 421), MANNITOL (D-) (E 421), MANNITOL (… | Inhalatiepoeder in harde capsule | Geldig |
-| RVG 106414 | Mannitol 15 %, oplossing voor infusie 150 g/l | MANNITOL (D-) (E 421) | Oplossing voor infusie | Geldig |
-| RVG 12801 | Custodiol, oplossing voor cardioplegie | CALCIUMCHLORIDE 2-WATER (E 509), HISTIDINE, (L-), HISTIDINEMONOHYDROCHLORIDE 1-… | Oplossing voor cardioplegie | Geldig |
-| RVG 122358 | Custodiol Köhler oplossing voor cardioplegie/bewaaroplossing voor organen | CALCIUM (Ca2+), CALCIUMCHLORIDE 2-WATER (E 509), CHLORIDE (CL-), HISTIDINE, (L-… | Bewaaroplossing voor organen, Oplossing voor card… | Geldig |
-| RVG 108589 | Venlafaxine 37,5 mg Focus, tabletten met verlengde afgifte | MANNITOL (D-) (E 421), VENLAFAXINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/12/760 | Bronchitol 40 mg inhalatiepoeder, harde capsules | MANNITOL (D-) (E 421) | Inhalatiepoeder in harde capsule | Pharmaxis Europe Limited | Geldig |
+| RVG 31795 | Mannitol 10%, oplossing voor infusie | MANNITOL (D-) (E 421) | Oplossing voor infusie | Baxter B.V. | Geldig |
+| RVG 34641 | Osmohale, inhalatiepoeder in harde capsules | MANNITOL (D-) (E 421), MANNITOL (D-) (E 421), MANNITOL (D-) (E 421), MANNITOL (… | Inhalatiepoeder in harde capsule | Pharmaxis Europe Limited | Geldig |
+| RVG 106414 | Mannitol 15 %, oplossing voor infusie 150 g/l | MANNITOL (D-) (E 421) | Oplossing voor infusie | – | Geldig |
+| RVG 12801 | Custodiol, oplossing voor cardioplegie | CALCIUMCHLORIDE 2-WATER (E 509), HISTIDINE, (L-), HISTIDINEMONOHYDROCHLORIDE 1-… | Oplossing voor cardioplegie | Dr. Franz Kohler Chemie GmbH | Geldig |
+| RVG 122358 | Custodiol Köhler oplossing voor cardioplegie/bewaaroplossing voor organen | CALCIUM (Ca2+), CALCIUMCHLORIDE 2-WATER (E 509), CHLORIDE (CL-), HISTIDINE, (L-… | Bewaaroplossing voor organen, Oplossing voor card… | Dr. Franz Kohler Chemie GmbH | Geldig |
+| RVG 108589 | Venlafaxine 37,5 mg Focus, tabletten met verlengde afgifte | MANNITOL (D-) (E 421), VENLAFAXINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

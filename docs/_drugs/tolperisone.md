@@ -87,15 +87,15 @@ Voor andere voorspelde indicaties zijn enkele publicaties gekoppeld, maar die le
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 115493 | Tolpermyo 50 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 115494 | Tolpermyo 150 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 123253//115494 | Tolperison ERC 150 mg, filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 123254//115493 | Tolperison ERC 50 mg, filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118806//115493 | Tolperison Will Pharma 50 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 115493 | Tolpermyo 50 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Will-Pharma B.V. | Geldig |
+| RVG 115494 | Tolpermyo 150 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Will Pharma B.V. | Geldig |
+| RVG 123253//115494 | Tolperison ERC 150 mg, filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 123254//115493 | Tolperison ERC 50 mg, filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 118806//115493 | Tolperison Will Pharma 50 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

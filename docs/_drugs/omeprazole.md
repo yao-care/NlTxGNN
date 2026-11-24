@@ -97,32 +97,32 @@ Dierstudies geven bovendien een veiligheidssignaal: zuurblokkade in combinatie m
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 12438 | Losec 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 14905 | Losec 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 16745 | Losec 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 21683 | Losec MUPS 10 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 21684 | Losec MUPS 20 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 21685 | Losec MUPS 40 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 25212 | Losecosan 10 mg, maagsapresistente tablet | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 25213 | Losecosan 20 mg, maagsapresistente tablet | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 25482 | Omeprazol Viatris 20 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 25660 | Omeprazol Distriquimica 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 25661 | Omeprazol Distriquimica 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 26015 | Omeprazol Viatris 10 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 26016 | Omeprazol Viatris 40 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 26724 | Omeprazol Aurobindo 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 29763 | Omeprazol capsules 40 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 29764 | Omeprazol capsules 20 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 29765 | Omeprazol capsules 10 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 29766 | Omeprazol Xiromed 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 29769 | Omeprazol Xiromed 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 29770 | Omeprazol Xiromed 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 12438 | Losec 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 14905 | Losec 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 16745 | Losec 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 21683 | Losec MUPS 10 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 21684 | Losec MUPS 20 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 21685 | Losec MUPS 40 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 25212 | Losecosan 10 mg, maagsapresistente tablet | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Bayer B.V. | Geldig |
+| RVG 25213 | Losecosan 20 mg, maagsapresistente tablet | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Bayer B.V. | Geldig |
+| RVG 25482 | Omeprazol Viatris 20 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Viatris Limited | Geldig |
+| RVG 25660 | Omeprazol Distriquimica 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Towa Pharmaceutical Europe, S.L. | Geldig |
+| RVG 25661 | Omeprazol Distriquimica 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Towa Pharmaceutical Europe, S.L. | Geldig |
+| RVG 26015 | Omeprazol Viatris 10 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Viatris Limited | Geldig |
+| RVG 26016 | Omeprazol Viatris 40 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Viatris Limited | Geldig |
+| RVG 26724 | Omeprazol Aurobindo 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 29763 | Omeprazol capsules 40 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Laboratorios Liconsa S.A. | Geldig |
+| RVG 29764 | Omeprazol capsules 20 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Laboratorios Liconsa S.A. | Geldig |
+| RVG 29765 | Omeprazol capsules 10 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Laboratorios Liconsa S.A. | Geldig |
+| RVG 29766 | Omeprazol Xiromed 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Medical Valley Invest AB | Geldig |
+| RVG 29769 | Omeprazol Xiromed 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Medical Valley Invest AB | Geldig |
+| RVG 29770 | Omeprazol Xiromed 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Medical Valley Invest AB | Geldig |
 
 Getoond worden 20 van de 84 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

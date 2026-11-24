@@ -80,15 +80,15 @@ Er is geen vergunningstekst over de goedgekeurde indicatie vastgelegd in de loka
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06771 | Nystatine Labaz, suspensie voor oraal gebruik 100.000 E/ml | NYSTATINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 119514//06771 | Nystatine Eureco-Pharma 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 121827 | Nystatine RPH 100.000 IE/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 124711//06771 | Nystatine ERC 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | Geldig |
-| RVG 119515//06771 | Nystatine 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06771 | Nystatine Labaz, suspensie voor oraal gebruik 100.000 E/ml | NYSTATINE | Suspensie voor oraal gebruik | Fidia Farmaceutici S.p.A. | Geldig |
+| RVG 119514//06771 | Nystatine Eureco-Pharma 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | Eureco-Pharma B.V. | Geldig |
+| RVG 121827 | Nystatine RPH 100.000 IE/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | RPH Pharmaceuticals AB | Geldig |
+| RVG 124711//06771 | Nystatine ERC 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 119515//06771 | Nystatine 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

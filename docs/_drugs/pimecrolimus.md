@@ -97,12 +97,12 @@ Resultaten van deze studie zijn niet in de gegevens opgenomen, dus de werkzaamhe
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28742 | Elidel 10 mg/g, crème | PIMECROLIMUS | Crème | Geldig |
-| RVG 118923//28742 | Elidel 10 mg/g crème | PIMECROLIMUS | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28742 | Elidel 10 mg/g, crème | PIMECROLIMUS | Crème | Viatris Healthcare Limited | Geldig |
+| RVG 118923//28742 | Elidel 10 mg/g crème | PIMECROLIMUS | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -89,17 +89,17 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 07879 | Trandate Injectie, oplossing voor injectie 5 mg/ml | LABETALOLHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 11106 | Labetalol HCl Mylan 100 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 11107 | Labetalol HCl Mylan 200 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 11108 | Labetalol HCl Mylan 400 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 116400//07879 | Trandate Injectie, 5 mg/ml oplossing voor injectie of concentraat voor oplossin… | LABETALOLHYDROCHLORIDE | Oplossing voor injectie, Concentraat voor oplossi… | Geldig |
-| RVG 117413//07879 | Trandate Injectie, oplossing voor injectie of concentraat voor oplossing voor i… | LABETALOLHYDROCHLORIDE | Oplossing voor injectie, Concentraat voor oplossi… | Geldig |
-| RVG 134811//07879 | Trandate Injectie, oplossing voor injectie 5 mg/ml | LABETALOLHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 07879 | Trandate Injectie, oplossing voor injectie 5 mg/ml | LABETALOLHYDROCHLORIDE | Oplossing voor injectie | Aspen Pharma Trading Limited | Geldig |
+| RVG 11106 | Labetalol HCl Mylan 100 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 11107 | Labetalol HCl Mylan 200 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 11108 | Labetalol HCl Mylan 400 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 116400//07879 | Trandate Injectie, 5 mg/ml oplossing voor injectie of concentraat voor oplossin… | LABETALOLHYDROCHLORIDE | Oplossing voor injectie, Concentraat voor oplossi… | Eureco-Pharma B.V. | Geldig |
+| RVG 117413//07879 | Trandate Injectie, oplossing voor injectie of concentraat voor oplossing voor i… | LABETALOLHYDROCHLORIDE | Oplossing voor injectie, Concentraat voor oplossi… | – | Geldig |
+| RVG 134811//07879 | Trandate Injectie, oplossing voor injectie 5 mg/ml | LABETALOLHYDROCHLORIDE | Oplossing voor injectie | Originalis B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

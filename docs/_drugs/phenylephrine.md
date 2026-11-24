@@ -90,25 +90,25 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 01728 | Monofree Fenylefrine HCl 5%, oogdruppels 50 mg/ml | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 09366 | Minims Fenylefrinehydrochloride 100 mg/ml, oogdruppels, oplossing | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 14872 | Minims Fenylefrinehydrochloride 25 mg/ml, oogdruppels, oplossing | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 115929 | Fenylefrine Aguettant 50 microgram/ml, oplossing voor injectie in voorgevulde s… | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 117234 | Fenylefrine Added Pharma 50 microgram/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 117236 | Fenylefrine Added Pharma 100 microgram/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 117640 | Fenylefrine Unimedic 0,1 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 119736 | Fenylefrine Unimedic 10 mg/ml, concentraat voor oplossing voor injectie/infusie | FENYLEFRINEHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | Geldig |
-| RVG 124494 | Fenylefrine Aguettant 100 microgram/ml oplossing voor injectie of infusie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
-| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER, FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Oplossing voor injectie | Geldig |
-| RVG 132181//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
-| RVG 135130//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
-| RVG 136928//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
-| RVG 136929//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 01728 | Monofree Fenylefrine HCl 5%, oogdruppels 50 mg/ml | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 09366 | Minims Fenylefrinehydrochloride 100 mg/ml, oogdruppels, oplossing | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 14872 | Minims Fenylefrinehydrochloride 25 mg/ml, oogdruppels, oplossing | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 115929 | Fenylefrine Aguettant 50 microgram/ml, oplossing voor injectie in voorgevulde s… | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Laboratoire Aguettant | Geldig |
+| RVG 117234 | Fenylefrine Added Pharma 50 microgram/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Added Pharma B.V. | Geldig |
+| RVG 117236 | Fenylefrine Added Pharma 100 microgram/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Added Pharma B.V. | Geldig |
+| RVG 117640 | Fenylefrine Unimedic 0,1 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | – | Geldig |
+| RVG 119736 | Fenylefrine Unimedic 10 mg/ml, concentraat voor oplossing voor injectie/infusie | FENYLEFRINEHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | Unimedic Pharma AB | Geldig |
+| RVG 124494 | Fenylefrine Aguettant 100 microgram/ml oplossing voor injectie of infusie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Laboratoire Aguettant | Geldig |
+| RVG 33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Laboratoires Théa | Geldig |
+| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER, FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Oplossing voor injectie | – | Geldig |
+| RVG 132181//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Euro Registratie Collectief B.V. | Geldig |
+| RVG 135130//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Euro Registratie Collectief b.v. | Geldig |
+| RVG 136928//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | BModesto B.V. | Geldig |
+| RVG 136929//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | BModesto B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

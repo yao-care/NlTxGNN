@@ -70,32 +70,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/02/205 | Lumigan 0,1 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 113250 | Bimatoprost Sandoz 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 113251 | BIMAGAN 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 113252 | Bimato-Vision 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114641 | Bimatoprost CF 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114643 | Bimatoprost CF 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114644 | Bimatoprost axunio 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114645 | Bimatoprost axunio 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114646 | Bimatoprost Sandoz 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114648 | Bimatoprost Viatris 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114650 | Bimato-Vision 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114651 | Bimagan 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 119752 | Bimatoprost Medicom 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 119753 | Bimatoprost Stulln zonder conserveermiddel 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 123465 | Ganmono conserveermiddelvrij 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 127138 | Bimatoprost Brown & Burk 0,3 mg/ml oogdruppels, oplossing, in verpakking voor e… | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 127534 | Bimeox 0,3 mg/ml oogdruppels, oplossing, in verpakking voor eenmalig gebruik | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 127608 | Bimatoprost NTC 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 128172 | Bimatoprost SDZ 0,3 mg/ml oogdruppels, oplossing, in verpakking voor eenmalig g… | BIMATOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 128173 | Bimatoprost SDZ 0,1 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/02/205 | Lumigan 0,1 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | AbbVie Deutschland GmbH & Co. KG | Geldig |
+| RVG 113250 | Bimatoprost Sandoz 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Sandoz B.V. | Geldig |
+| RVG 113251 | BIMAGAN 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | S.C. Rompharm Company S.R.L. | Geldig |
+| RVG 113252 | Bimato-Vision 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | OmniVision GmbH | Geldig |
+| RVG 114641 | Bimatoprost CF 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Centrafarm B.V. | Geldig |
+| RVG 114643 | Bimatoprost CF 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Centrafarm B.V. | Geldig |
+| RVG 114644 | Bimatoprost axunio 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | axunio Pharma GmbH | Geldig |
+| RVG 114645 | Bimatoprost axunio 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | axunio Pharma GmbH | Geldig |
+| RVG 114646 | Bimatoprost Sandoz 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Sandoz B.V. | Geldig |
+| RVG 114648 | Bimatoprost Viatris 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Viatris Limited | Geldig |
+| RVG 114650 | Bimato-Vision 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | OmniVision GmbH | Geldig |
+| RVG 114651 | Bimagan 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | S.C. Rompharm Company S.R.L. | Geldig |
+| RVG 119752 | Bimatoprost Medicom 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Medicom Healthcare Ireland Limited | Geldig |
+| RVG 119753 | Bimatoprost Stulln zonder conserveermiddel 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Pharma Stulln GmbH | Geldig |
+| RVG 123465 | Ganmono conserveermiddelvrij 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Rockmed Pharma B.V. | Geldig |
+| RVG 127138 | Bimatoprost Brown & Burk 0,3 mg/ml oogdruppels, oplossing, in verpakking voor e… | BIMATOPROST | Oogdruppels, oplossing | Brown & Burk IR Limited | Geldig |
+| RVG 127534 | Bimeox 0,3 mg/ml oogdruppels, oplossing, in verpakking voor eenmalig gebruik | BIMATOPROST | Oogdruppels, oplossing | Laboratorios SALVAT, S.A. | Geldig |
+| RVG 127608 | Bimatoprost NTC 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | NTC Srl | Geldig |
+| RVG 128172 | Bimatoprost SDZ 0,3 mg/ml oogdruppels, oplossing, in verpakking voor eenmalig g… | BIMATOPROST | Oogdruppels, oplossing | Sandoz B.V. | Geldig |
+| RVG 128173 | Bimatoprost SDZ 0,1 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Sandoz B.V. | Geldig |
 
 Getoond worden 20 van de 42 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

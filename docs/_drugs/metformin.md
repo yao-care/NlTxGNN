@@ -95,32 +95,32 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 30293 | Metformine HCl Sandoz 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 31685 | Metformine HCl Aurobindo 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 31686 | Metformine HCl Aurobindo 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 31687 | Metformine HCl Aurobindo 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 100915 | Metformine HCl Sandoz 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 100934 | Metformine HCl Sandoz 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 100935 | Metformine HCl 1A Pharma tablet 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 100936 | Metformine HCl 1A Pharma tablet 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 103638 | Metformine HCl Viatris 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 103639 | Metformine HCl Viatris 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 103640 | Metformine HCl Viatris 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 111960 | Metformine HCl 500 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 111961 | Metformine HCl 850 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 111972 | Metformine HCl 1000 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 121455 | Glucient SR 1000 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 121458 | Glucient SR 750 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 122766 | Glucient SR 500 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 123374 | Metformine HCl 1000 mg Focus, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 124743 | Metformine hydrochloride Inventia 500 mg tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 124748 | Metformine hydrochloride Inventia 750 mg tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 30293 | Metformine HCl Sandoz 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 31685 | Metformine HCl Aurobindo 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 31686 | Metformine HCl Aurobindo 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 31687 | Metformine HCl Aurobindo 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 100915 | Metformine HCl Sandoz 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 100934 | Metformine HCl Sandoz 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 100935 | Metformine HCl 1A Pharma tablet 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 100936 | Metformine HCl 1A Pharma tablet 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | 1A Pharma GmbH | Geldig |
+| RVG 103638 | Metformine HCl Viatris 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 103639 | Metformine HCl Viatris 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 103640 | Metformine HCl Viatris 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 111960 | Metformine HCl 500 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 111961 | Metformine HCl 850 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 111972 | Metformine HCl 1000 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 121455 | Glucient SR 1000 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | All-Gen Pharmaceuticals & Generics B.V. | Geldig |
+| RVG 121458 | Glucient SR 750 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | All-Gen Pharmaceuticals & Generics B.V. | Geldig |
+| RVG 122766 | Glucient SR 500 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | All-Gen Pharmaceuticals & Generics B.V. | Geldig |
+| RVG 123374 | Metformine HCl 1000 mg Focus, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 124743 | Metformine hydrochloride Inventia 500 mg tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Inventia Healthcare B.V. | Geldig |
+| RVG 124748 | Metformine hydrochloride Inventia 750 mg tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Inventia Healthcare B.V. | Geldig |
 
 Getoond worden 20 van de 123 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

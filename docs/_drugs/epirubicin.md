@@ -79,14 +79,14 @@ Marktstatus: **in de handel**. Dosisvorm en goedgekeurde indicatietekst zijn in 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 100134 | Epirubicinehydrochloride Accord 2 mg/ml oplossing voor injectie of infusie | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 101490 | Epirubicine HCl Pharmachemie 2 mg/ml, oplossing voor injectie of intraveneuze i… | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 101743 | Epirubicine Hikma 2 mg/ml, oplossing voor injectie | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 103859 | Epirubicinehydrochloride Fresenius Kabi 2 mg/ml, oplossing voor injectie of inf… | EPIRUBICINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 100134 | Epirubicinehydrochloride Accord 2 mg/ml oplossing voor injectie of infusie | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie of infusie | Accord Healthcare B.V. | Geldig |
+| RVG 101490 | Epirubicine HCl Pharmachemie 2 mg/ml, oplossing voor injectie of intraveneuze i… | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Pharmachemie B.V. | Geldig |
+| RVG 101743 | Epirubicine Hikma 2 mg/ml, oplossing voor injectie | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 103859 | Epirubicinehydrochloride Fresenius Kabi 2 mg/ml, oplossing voor injectie of inf… | EPIRUBICINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

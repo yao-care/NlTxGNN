@@ -95,27 +95,27 @@ Bij twee andere voorspelde indicaties is wel een publicatie gekoppeld, maar geen
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28341 | Stromectol 3mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 115310 | Soolantra 10 mg/g crème | IVERMECTINE | Crème | Geldig |
-| RVG 120488 | IVERMECTIN SUBSTIPHARM 3 mg Tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 122092//115310 | Soolantra 10 mg/g crème | IVERMECTINE | Crème | Geldig |
-| RVG 125185 | Ivermectine Xiromed 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 125826 | Ivergalen 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 126400 | Iverscab 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 126402 | Posela 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 128929 | Ivesk 3 mg tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 128930 | Ivermectine Teva 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 129196 | Ivermectine CF 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 131432 | Ivermectine CF 10 mg/g, crème | IVERMECTINE | Crème | Geldig |
-| RVG 131821 | Ivermectine Glenmark 3 mg tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 131907//28341 | Stromectol 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 133481 | Ivermectine Orion 3 mg tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 133954 | Ivermectine Aristo 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
-| RVG 133955 | Ivermectine Aristo 6 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28341 | Stromectol 3mg, tabletten | IVERMECTINE | Tablet | Merck Sharp & Dohme B.V. | Geldig |
+| RVG 115310 | Soolantra 10 mg/g crème | IVERMECTINE | Crème | – | Geldig |
+| RVG 120488 | IVERMECTIN SUBSTIPHARM 3 mg Tabletten | IVERMECTINE | Tablet | Substipharm | Geldig |
+| RVG 122092//115310 | Soolantra 10 mg/g crème | IVERMECTINE | Crème | Euro Registratie Collectief B.V. | Geldig |
+| RVG 125185 | Ivermectine Xiromed 3 mg, tabletten | IVERMECTINE | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 125826 | Ivergalen 3 mg, tabletten | IVERMECTINE | Tablet | Galenicum Derma S.L.U. | Geldig |
+| RVG 126400 | Iverscab 3 mg, tabletten | IVERMECTINE | Tablet | Substipharm | Geldig |
+| RVG 126402 | Posela 3 mg, tabletten | IVERMECTINE | Tablet | Substipharm | Geldig |
+| RVG 128929 | Ivesk 3 mg tabletten | IVERMECTINE | Tablet | Giuliani S.p.A. | Geldig |
+| RVG 128930 | Ivermectine Teva 3 mg, tabletten | IVERMECTINE | Tablet | Teva B.V. | Geldig |
+| RVG 129196 | Ivermectine CF 3 mg, tabletten | IVERMECTINE | Tablet | Centrafarm B.V. | Geldig |
+| RVG 131432 | Ivermectine CF 10 mg/g, crème | IVERMECTINE | Crème | Centrafarm B.V. | Geldig |
+| RVG 131821 | Ivermectine Glenmark 3 mg tabletten | IVERMECTINE | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 131907//28341 | Stromectol 3 mg, tabletten | IVERMECTINE | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 133481 | Ivermectine Orion 3 mg tabletten | IVERMECTINE | Tablet | Orion Corporation | Geldig |
+| RVG 133954 | Ivermectine Aristo 3 mg, tabletten | IVERMECTINE | Tablet | Aristo Pharma GmbH | Geldig |
+| RVG 133955 | Ivermectine Aristo 6 mg, tabletten | IVERMECTINE | Tablet | Aristo Pharma GmbH | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

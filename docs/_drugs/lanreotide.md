@@ -91,32 +91,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 119879//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 119888//26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 119889//26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 124103//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 124721 | Mytolac 90 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 127028//26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 127045//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 130678//124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 130679//124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 130727 | Lanreotide SUN 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 130728 | Lanreotide SUN 90 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 130729 | Lanreotide SUN 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 131899//124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 131901//124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 136822//26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | IPSEN Farmaceutica B.V. | Geldig |
+| RVG 26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | IPSEN Farmaceutica B.V. | Geldig |
+| RVG 26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | IPSEN Farmaceutica B.V. | Geldig |
+| RVG 119879//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 119888//26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 119889//26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 124103//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | BModesto B.V. | Geldig |
+| RVG 124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Amdipharm Limited | Geldig |
+| RVG 124721 | Mytolac 90 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Amdipharm Limited | Geldig |
+| RVG 124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Amdipharm Limited | Geldig |
+| RVG 127028//26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 127045//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 130678//124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Orifarm A/S | Geldig |
+| RVG 130679//124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Orifarm A/S | Geldig |
+| RVG 130727 | Lanreotide SUN 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 130728 | Lanreotide SUN 90 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 130729 | Lanreotide SUN 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 131899//124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Orifarm A/S | Geldig |
+| RVG 131901//124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Orifarm A/S | Geldig |
+| RVG 136822//26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Medcor Pharmaceuticals B.V. | Geldig |
 
 Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

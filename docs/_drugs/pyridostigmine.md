@@ -90,14 +90,14 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 03820 | Mestinon 10, tabletten 10 mg | PYRIDOSTIGMINEBROMIDE | Tablet | Geldig |
-| RVG 03821 | Mestinon 60, dragees 60 mg | PYRIDOSTIGMINEBROMIDE | Omhulde tablet | Geldig |
-| RVG 120454//03821 | Mestinon 60, dragees 60 mg | PYRIDOSTIGMINEBROMIDE | Omhulde tablet | Geldig |
-| RVG 116602//03821 | Mestinon 60 mg, dragee | PYRIDOSTIGMINEBROMIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 03820 | Mestinon 10, tabletten 10 mg | PYRIDOSTIGMINEBROMIDE | Tablet | Viatris Healthcare B.V. | Geldig |
+| RVG 03821 | Mestinon 60, dragees 60 mg | PYRIDOSTIGMINEBROMIDE | Omhulde tablet | Viatris Healthcare B.V. | Geldig |
+| RVG 120454//03821 | Mestinon 60, dragees 60 mg | PYRIDOSTIGMINEBROMIDE | Omhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 116602//03821 | Mestinon 60 mg, dragee | PYRIDOSTIGMINEBROMIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -76,32 +76,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 16845 | Durogesic 25 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 16846 | Durogesic 50 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 16847 | Durogesic 75 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 16848 | Durogesic 100 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 31418 | Durogesic 12 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 100316 | Fentanyl Sandoz matrixpleister 12 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 100319 | Fentanyl Sandoz matrixpleister 25 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 100320 | Fentanyl Sandoz matrixpleister 37 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 100321 | Fentanyl Sandoz matrixpleister 50 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 100322 | Fentanyl Sandoz matrixpleister 75 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 100323 | Fentanyl Sandoz matrixpleister 100 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 101901 | Fentanyl Aurobindo 25 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 101902 | Fentanyl Aurobindo 50 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 101903 | Fentanyl Aurobindo 75 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 101904 | Fentanyl Aurobindo 100 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 105070 | Fentanyl CF 12 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 105082 | Fentanyl CF 25 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 105084 | Fentanyl CF 50 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 105085 | Fentanyl CF 75 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
-| RVG 105086 | Fentanyl CF 100 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 16845 | Durogesic 25 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Lavipharm S.A. | Geldig |
+| RVG 16846 | Durogesic 50 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Lavipharm S.A. | Geldig |
+| RVG 16847 | Durogesic 75 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Lavipharm S.A. | Geldig |
+| RVG 16848 | Durogesic 100 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Lavipharm S.A. | Geldig |
+| RVG 31418 | Durogesic 12 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Lavipharm S.A. | Geldig |
+| RVG 100316 | Fentanyl Sandoz matrixpleister 12 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Sandoz B.V. | Geldig |
+| RVG 100319 | Fentanyl Sandoz matrixpleister 25 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Sandoz B.V. | Geldig |
+| RVG 100320 | Fentanyl Sandoz matrixpleister 37 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Sandoz B.V. | Geldig |
+| RVG 100321 | Fentanyl Sandoz matrixpleister 50 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Sandoz B.V. | Geldig |
+| RVG 100322 | Fentanyl Sandoz matrixpleister 75 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Sandoz B.V. | Geldig |
+| RVG 100323 | Fentanyl Sandoz matrixpleister 100 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Sandoz B.V. | Geldig |
+| RVG 101901 | Fentanyl Aurobindo 25 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Aurobindo Pharma B.V. | Geldig |
+| RVG 101902 | Fentanyl Aurobindo 50 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Aurobindo Pharma B.V. | Geldig |
+| RVG 101903 | Fentanyl Aurobindo 75 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Aurobindo Pharma B.V. | Geldig |
+| RVG 101904 | Fentanyl Aurobindo 100 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Aurobindo Pharma B.V. | Geldig |
+| RVG 105070 | Fentanyl CF 12 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Centrafarm B.V. | Geldig |
+| RVG 105082 | Fentanyl CF 25 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Centrafarm B.V. | Geldig |
+| RVG 105084 | Fentanyl CF 50 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Centrafarm B.V. | Geldig |
+| RVG 105085 | Fentanyl CF 75 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Centrafarm B.V. | Geldig |
+| RVG 105086 | Fentanyl CF 100 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Centrafarm B.V. | Geldig |
 
 Getoond worden 20 van de 31 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

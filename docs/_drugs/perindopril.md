@@ -97,32 +97,32 @@ Informatie over doseringsvorm en goedgekeurde indicatie ontbreekt in de gegevens
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 31957 | COVERSYL arg 2,5 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Geldig |
-| RVG 31958 | COVERSYL arg 5 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Geldig |
-| RVG 31959 | COVERSYL arg 10 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Geldig |
-| RVG 33331 | Perindopril tert-butylamine Teva 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 33332 | Perindopril tert-butylamine Teva 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 33698 | Perindopril tert-butylamine Glenmark 2 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 33699 | Perindopril tert-butylamine Glenmark 4 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 33700 | Perindopril tert-butylamine Glenmark 8 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 34512 | Perindopril tert-butylamine Sandoz 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 34513 | Perindopril tert-butylamine Sandoz 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 35200 | Perindopril tert-butylamine DOC Generici 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 35201 | Perindopril tert-butylamine DOC Generici 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 35208 | Perindopril tert-butylamine SUN 2 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 35209 | Perindopril tert-butylamine SUN 4 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 35210 | Perindopril tert-butylamine SUN 8 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 101126 | Perindopril tert-butylamine Teva 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 101725 | Perindopril tert-butylamine Glenmark 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 101755 | Perindopril tert-butylamine Glenmark 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 101757 | Perindopril tert-butylamine Glenmark 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
-| RVG 102219 | Perindopril tert-butylamine Sandoz 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 31957 | COVERSYL arg 2,5 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Les Laboratoires Servier | Geldig |
+| RVG 31958 | COVERSYL arg 5 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Les Laboratoires Servier | Geldig |
+| RVG 31959 | COVERSYL arg 10 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Les Laboratoires Servier | Geldig |
+| RVG 33331 | Perindopril tert-butylamine Teva 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Teva B.V. | Geldig |
+| RVG 33332 | Perindopril tert-butylamine Teva 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Teva B.V. | Geldig |
+| RVG 33698 | Perindopril tert-butylamine Glenmark 2 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 33699 | Perindopril tert-butylamine Glenmark 4 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 33700 | Perindopril tert-butylamine Glenmark 8 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 34512 | Perindopril tert-butylamine Sandoz 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Sandoz B.V. | Geldig |
+| RVG 34513 | Perindopril tert-butylamine Sandoz 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Sandoz B.V. | Geldig |
+| RVG 35200 | Perindopril tert-butylamine DOC Generici 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | DOC Generici S.r.l. | Geldig |
+| RVG 35201 | Perindopril tert-butylamine DOC Generici 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | DOC Generici S.r.l. | Geldig |
+| RVG 35208 | Perindopril tert-butylamine SUN 2 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 35209 | Perindopril tert-butylamine SUN 4 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 35210 | Perindopril tert-butylamine SUN 8 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 101126 | Perindopril tert-butylamine Teva 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Teva B.V. | Geldig |
+| RVG 101725 | Perindopril tert-butylamine Glenmark 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| RVG 101755 | Perindopril tert-butylamine Glenmark 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| RVG 101757 | Perindopril tert-butylamine Glenmark 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| RVG 102219 | Perindopril tert-butylamine Sandoz 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Sandoz B.V. | Geldig |
 
 Getoond worden 20 van de 124 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -70,15 +70,15 @@ Er is momenteel geen relevante literatuur beschikbaar over lormetazepam bij alco
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 23458 | Lormetazepam Prolepha 1 mg, tabletten | LORMETAZEPAM | Tablet | Geldig |
-| RVG 23459 | Lormetazepam Prolepha 2 mg, tabletten | LORMETAZEPAM | Tablet | Geldig |
-| RVG 24657 | Lormetazepam Aurobindo 1 mg, tabletten | LORMETAZEPAM | Tablet | Geldig |
-| RVG 24658 | Lormetazepam Aurobindo 2 mg, tabletten | LORMETAZEPAM | Tablet | Geldig |
-| RVG 118528//08606 | Noctamid 1,0 mg, tabletten | LORMETAZEPAM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 23458 | Lormetazepam Prolepha 1 mg, tabletten | LORMETAZEPAM | Tablet | Prolepha Research B.V. | Geldig |
+| RVG 23459 | Lormetazepam Prolepha 2 mg, tabletten | LORMETAZEPAM | Tablet | Prolepha Research B.V. | Geldig |
+| RVG 24657 | Lormetazepam Aurobindo 1 mg, tabletten | LORMETAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 24658 | Lormetazepam Aurobindo 2 mg, tabletten | LORMETAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 118528//08606 | Noctamid 1,0 mg, tabletten | LORMETAZEPAM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

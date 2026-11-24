@@ -76,32 +76,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 09766 | Devaron 400 IE, tabletten | CHOLECALCIFEROL, CHOLECALCIFEROL | Tablet | Geldig |
-| RVG 109397 | D-CURA 25.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | Geldig |
-| RVG 109398 | D-CURA 100.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | Geldig |
-| RVG 112986 | D-Cura 25.000 IE, harde capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, hard | Geldig |
-| RVG 112993 | D-Cura 2.400 I.E./ml druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL, CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Geldig |
-| RVG 117069 | Colecalciferol Benferol 800 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 117091 | Ben 400 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 117092 | Colecalciferol Benferol 25.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 117094 | Colecalciferol Benferol 50.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 117095 | Colecalciferol Benferol 100.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 117325//109397 | D-Cure 25.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | Geldig |
-| RVG 118130 | Colecalciferol Benferol 5.600 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 119111 | Vitamine D3 STADA 800 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 119112 | Vitamine D3 STADA 3.200 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 119113 | Vitamine D3 STADA 20.000 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 119114 | Vitamine D3 STADA 10.000 IE/ml druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Geldig |
-| RVG 119115 | Vitamine D3 STADA 25.000 IE drank | CHOLECALCIFEROL | Drank | Geldig |
-| RVG 120373 | Colecalciferol Strides 800 IE, zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
-| RVG 120818 | Thorens 10.000 IE/ml, druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Geldig |
-| RVG 120820 | Thorens 25.000 IE/ 2,5 ml drank | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 09766 | Devaron 400 IE, tabletten | CHOLECALCIFEROL, CHOLECALCIFEROL | Tablet | VEMEDIA Manufacturing B.V. | Geldig |
+| RVG 109397 | D-CURA 25.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | Laboratoires S.M.B. S.A. | Geldig |
+| RVG 109398 | D-CURA 100.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | Laboratoires S.M.B. S.A. | Geldig |
+| RVG 112986 | D-Cura 25.000 IE, harde capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, hard | Laboratoires SMB S.A. | Geldig |
+| RVG 112993 | D-Cura 2.400 I.E./ml druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL, CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Laboratoires SMB S.A. | Geldig |
+| RVG 117069 | Colecalciferol Benferol 800 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Consilient Health Limited | Geldig |
+| RVG 117091 | Ben 400 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Consilient Health Limited | Geldig |
+| RVG 117092 | Colecalciferol Benferol 25.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Consilient Health Limited | Geldig |
+| RVG 117094 | Colecalciferol Benferol 50.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Consilient Health Limited | Geldig |
+| RVG 117095 | Colecalciferol Benferol 100.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Consilient Health Limited | Geldig |
+| RVG 117325//109397 | D-Cure 25.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | EU-Pharma B.V. | Geldig |
+| RVG 118130 | Colecalciferol Benferol 5.600 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Consilient Health Limited | Geldig |
+| RVG 119111 | Vitamine D3 STADA 800 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Stada Arzneimittel AG | Geldig |
+| RVG 119112 | Vitamine D3 STADA 3.200 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Stada Arzneimittel AG | Geldig |
+| RVG 119113 | Vitamine D3 STADA 20.000 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Stada Arzneimittel AG | Geldig |
+| RVG 119114 | Vitamine D3 STADA 10.000 IE/ml druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Stada Arzneimittel AG | Geldig |
+| RVG 119115 | Vitamine D3 STADA 25.000 IE drank | CHOLECALCIFEROL | Drank | Stada Arzneimittel AG | Geldig |
+| RVG 120373 | Colecalciferol Strides 800 IE, zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Strides Pharma (Cyprus) Limited | Geldig |
+| RVG 120818 | Thorens 10.000 IE/ml, druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Abiogen Pharma S.p.A. | Geldig |
+| RVG 120820 | Thorens 25.000 IE/ 2,5 ml drank | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Abiogen Pharma S.p.A. | Geldig |
 
 Getoond worden 20 van de 167 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

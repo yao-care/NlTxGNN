@@ -111,26 +111,26 @@ Opmerking: enkele geselecteerde artikelen gaan over resistentie of andere organi
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 13510 | Trafloxal oogdruppels, oogdruppels 3mg/ml | OFLOXACINE | Oogdruppels, oplossing | Geldig |
-| RVG 13511 | Trafloxal oogzalf, oogzalf 3 mg/ml | OFLOXACINE | Oogzalf | Geldig |
-| RVG 27571 | Ofloxacine 200 PCH, filmomhulde tabletten 200 mg | OFLOXACINE | Filmomhulde tablet | Geldig |
-| RVG 27572 | Ofloxacine 400 PCH, filmomhulde tabletten 400 mg | OFLOXACINE | Filmomhulde tablet | Geldig |
-| RVG 27753 | Ofloxacine Viatris 200 mg, filmomhulde tabletten | OFLOXACINE | Filmomhulde tablet | Geldig |
-| RVG 27754 | Ofloxacine Viatris 400 mg, filmomhulde tabletten | OFLOXACINE | Filmomhulde tablet | Geldig |
-| RVG 29805 | Trafloxal E.D.O., oogdruppels 3 mg/ml, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
-| RVG 109911 | Ofloxacine Eberth 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
-| RVG 109912 | Ofloxacine Stulln Unit Dose 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
-| RVG 109913 | Ofloxacine Stulln 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
-| RVG 110894 | Ofloxacine-POS 3 mg/ml, oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
-| RVG 113360 | Ofloxacine Devatis 3 mg/ml, oogdruppels, oplossing, verpakking voor éénmalig ge… | OFLOXACINE | Oogdruppels, oplossing | Geldig |
-| RVG 113973 | Otiflox Unit Dose 1,5 mg/0,5 ml oordruppels, oplossing | OFLOXACINE | Oordruppels, oplossing | Geldig |
-| RVG 133706//13510 | Trafloxal 3 mg/ml, oogdruppels | OFLOXACINE | Oogdruppels, oplossing | Geldig |
-| RVG 134497//113973 | Ofloxacine Unit Dose Medcor, 1,5 mg/0,5 ml oordruppels, oplossing | OFLOXACINE | Oordruppels, oplossing | Geldig |
-| RVG 115765 | Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing | OFLOXACINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 13510 | Trafloxal oogdruppels, oogdruppels 3mg/ml | OFLOXACINE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 13511 | Trafloxal oogzalf, oogzalf 3 mg/ml | OFLOXACINE | Oogzalf | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 27571 | Ofloxacine 200 PCH, filmomhulde tabletten 200 mg | OFLOXACINE | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 27572 | Ofloxacine 400 PCH, filmomhulde tabletten 400 mg | OFLOXACINE | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 27753 | Ofloxacine Viatris 200 mg, filmomhulde tabletten | OFLOXACINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 27754 | Ofloxacine Viatris 400 mg, filmomhulde tabletten | OFLOXACINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 29805 | Trafloxal E.D.O., oogdruppels 3 mg/ml, oplossing | OFLOXACINE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 109911 | Ofloxacine Eberth 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Dr. Friedrich Eberth Arzneimittel GmbH | Geldig |
+| RVG 109912 | Ofloxacine Stulln Unit Dose 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Pharma Stulln GmbH | Geldig |
+| RVG 109913 | Ofloxacine Stulln 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Pharma Stulln GmbH | Geldig |
+| RVG 110894 | Ofloxacine-POS 3 mg/ml, oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | URSAPHARM Benelux B.V. | Geldig |
+| RVG 113360 | Ofloxacine Devatis 3 mg/ml, oogdruppels, oplossing, verpakking voor éénmalig ge… | OFLOXACINE | Oogdruppels, oplossing | Devatis GmbH | Geldig |
+| RVG 113973 | Otiflox Unit Dose 1,5 mg/0,5 ml oordruppels, oplossing | OFLOXACINE | Oordruppels, oplossing | Pharma Stulln GmbH | Geldig |
+| RVG 133706//13510 | Trafloxal 3 mg/ml, oogdruppels | OFLOXACINE | Oogdruppels, oplossing | Euro Registratie Collectief B.V. | Geldig |
+| RVG 134497//113973 | Ofloxacine Unit Dose Medcor, 1,5 mg/0,5 ml oordruppels, oplossing | OFLOXACINE | Oordruppels, oplossing | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 115765 | Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing | OFLOXACINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -90,29 +90,29 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 11984 | Vancocin CP 250 mg, capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 101505 | Vancomycine Sandoz 500 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 101509 | Vancomycine Sandoz 1000 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 107976 | Vancomycine Fresenius Kabi 500 mg poeder voor concentraat voor oplossing voor i… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 107977 | Vancomycine Fresenius Kabi 1000 mg poeder voor concentraat voor oplossing voor… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 110475 | Vancomycin Hikma 500 mg, Poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 110476 | Vancomycin Hikma 1000 mg, Poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 114471 | Vancomycine MIP 500 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 114472 | Vancomycine MIP 1000 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 124510 | Vancomycine Strides 125 mg harde capsules | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 124511 | Vancomycine Strides 250 mg harde capsules | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 129870//11984 | Vancomycine Eureco-Pharma 250 mg harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 132844//11984 | Vancomycine Medcor 250 mg, harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 133707//11984 | Vancomycine ERC 250 mg, harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 134734//110475 | Vancomycine Eureco-Pharma 500 mg, poeder voor concentraat voor oplossing voor i… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 134738//110476 | Vancomycine Eureco-Pharma 1000 mg, poeder voor concentraat voor oplossing voor… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 134778 | Vancomycine Noridem 500 mg poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 134779 | Vancomycine Noridem 1000 mg poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 116655 | Vancocaps 250 mg harde capsules | VANCOMYCINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 11984 | Vancocin CP 250 mg, capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Eurocept International B.V. | Geldig |
+| RVG 101505 | Vancomycine Sandoz 500 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Sandoz B.V. | Geldig |
+| RVG 101509 | Vancomycine Sandoz 1000 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Sandoz B.V. | Geldig |
+| RVG 107976 | Vancomycine Fresenius Kabi 500 mg poeder voor concentraat voor oplossing voor i… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 107977 | Vancomycine Fresenius Kabi 1000 mg poeder voor concentraat voor oplossing voor… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 110475 | Vancomycin Hikma 500 mg, Poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 110476 | Vancomycin Hikma 1000 mg, Poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 114471 | Vancomycine MIP 500 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | MIP Pharma GmbH | Geldig |
+| RVG 114472 | Vancomycine MIP 1000 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | MIP Pharma GmbH | Geldig |
+| RVG 124510 | Vancomycine Strides 125 mg harde capsules | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Strides Pharma (Cyprus) Limited | Geldig |
+| RVG 124511 | Vancomycine Strides 250 mg harde capsules | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Strides Pharma (Cyprus) Limited | Geldig |
+| RVG 129870//11984 | Vancomycine Eureco-Pharma 250 mg harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Eureco-Pharma B.V. | Geldig |
+| RVG 132844//11984 | Vancomycine Medcor 250 mg, harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 133707//11984 | Vancomycine ERC 250 mg, harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Euro Registratie Collectief B.V. | Geldig |
+| RVG 134734//110475 | Vancomycine Eureco-Pharma 500 mg, poeder voor concentraat voor oplossing voor i… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Eureco-Pharma B.V. | Geldig |
+| RVG 134738//110476 | Vancomycine Eureco-Pharma 1000 mg, poeder voor concentraat voor oplossing voor… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Eureco-Pharma B.V. | Geldig |
+| RVG 134778 | Vancomycine Noridem 500 mg poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Noridem Enterprises Ltd | Geldig |
+| RVG 134779 | Vancomycine Noridem 1000 mg poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Noridem Enterprises Ltd | Geldig |
+| RVG 116655 | Vancocaps 250 mg harde capsules | VANCOMYCINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

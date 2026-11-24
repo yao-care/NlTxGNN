@@ -99,32 +99,32 @@ De voor dit rapport samengestelde data bevatten één vergunning, die door het p
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/08/465 | Clopidogrel Zentiva 300 mg, filmomhulde tablet | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| EU/1/09/535 | Grepid 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Geldig |
-| EU/1/09/540 | Clopidogrel Teva 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| EU/1/09/553 | Zyllt 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| EU/1/09/555 | Clopidogrel TAD 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/09/556 | Clopidogrel Krka 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/09/558 | Clopidogrel BGR 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| EU/1/09/559 | Clopidogrel Taw Pharma 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/09/562 | Clopidogrel Krka d.d. 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/09/568 | Clopidogrel Viatris 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Geldig |
-| EU/1/10/651 | Clopidogrel HCS 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/14/975 | Clopidogrel ratiopharm 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| EU/1/98/069 | Plavix 300 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| EU/1/98/070 | Iscover, filmomhulde tabletten 75 mg | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| RVG 103071 | Clopidogrel (als hydrochloride) Sandoz 75 mg, filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 106384 | Clopidogrel Aurobindo 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| RVG 112752 | Clopidogrel Accord 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| RVG 117857 | Clopidogrel CF 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| RVG 127239 | Clopidogrel Amarox 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
-| RVG 127948 | Clopidogrel Xiromed 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/08/465 | Clopidogrel Zentiva 300 mg, filmomhulde tablet | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Zentiva a.s. | Geldig |
+| EU/1/09/535 | Grepid 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Pharmathen S.A. | Geldig |
+| EU/1/09/540 | Clopidogrel Teva 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/09/553 | Zyllt 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/09/555 | Clopidogrel TAD 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | TAD Pharma GmbH | Geldig |
+| EU/1/09/556 | Clopidogrel Krka 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/09/558 | Clopidogrel BGR 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Biogaran | Geldig |
+| EU/1/09/559 | Clopidogrel Taw Pharma 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Taw Pharma (Ireland) Ltd | Geldig |
+| EU/1/09/562 | Clopidogrel Krka d.d. 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/09/568 | Clopidogrel Viatris 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Viatris Limited | Geldig |
+| EU/1/10/651 | Clopidogrel HCS 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | HCS bvba | Geldig |
+| EU/1/14/975 | Clopidogrel ratiopharm 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/98/069 | Plavix 300 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Sanofi Winthrop Industrie | Geldig |
+| EU/1/98/070 | Iscover, filmomhulde tabletten 75 mg | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Sanofi Winthrop Industrie | Geldig |
+| RVG 103071 | Clopidogrel (als hydrochloride) Sandoz 75 mg, filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | – | Geldig |
+| RVG 106384 | Clopidogrel Aurobindo 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 112752 | Clopidogrel Accord 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 117857 | Clopidogrel CF 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 127239 | Clopidogrel Amarox 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 127948 | Clopidogrel Xiromed 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
 
 Getoond worden 20 van de 26 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

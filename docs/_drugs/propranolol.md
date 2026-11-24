@@ -104,25 +104,25 @@ Voor de volledigheid: bij de voorspelde indicatie met de hoogste literatuuronder
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/14/919 | HEMANGIOL 3,75 mg/ml, drank | PROPRANOLOLHYDROCHLORIDE | Drank | Geldig |
-| RVG 10216 | Propranolol HCl Teva 10 mg, tabletten | PROPRANOLOL HYDROCHLORIDE | Tablet | Geldig |
-| RVG 10217 | Propranolol HCl Teva 40 mg, tabletten | PROPRANOLOL HYDROCHLORIDE | Tablet | Geldig |
-| RVG 10218 | Propranolol HCl Teva 80 mg, tabletten | PROPRANOLOL HYDROCHLORIDE | Tablet | Geldig |
-| RVG 14353 | Propranolol HCl retard Teva 80 mg, harde capsules met gereguleerde afgifte | PROPRANOLOL HYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 55387 | Propranolol HCl Accord 10 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 55388 | Propranolol HCl Accord 40 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 55618 | Propranolol HCl CF 40 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 55880 | Propranolol HCl Accord 80 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 123341 | Propranolol HCl Aurobindo 10 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 123343 | Propranolol HCl Aurobindo 40 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 129476 | Propranolol HCl Amarox 10 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 129478 | Propranolol HCl Amarox 40 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 129479 | Propranolol HCl Amarox 80 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 57202 | Propranolol HCl ratiopharm 160 mg, capsules met gereguleerde afgifte | PROPRANOLOL HYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/14/919 | HEMANGIOL 3,75 mg/ml, drank | PROPRANOLOLHYDROCHLORIDE | Drank | Pierre Fabre Medicament | Geldig |
+| RVG 10216 | Propranolol HCl Teva 10 mg, tabletten | PROPRANOLOL HYDROCHLORIDE | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 10217 | Propranolol HCl Teva 40 mg, tabletten | PROPRANOLOL HYDROCHLORIDE | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 10218 | Propranolol HCl Teva 80 mg, tabletten | PROPRANOLOL HYDROCHLORIDE | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 14353 | Propranolol HCl retard Teva 80 mg, harde capsules met gereguleerde afgifte | PROPRANOLOL HYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Teva B.V. | Geldig |
+| RVG 55387 | Propranolol HCl Accord 10 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 55388 | Propranolol HCl Accord 40 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 55618 | Propranolol HCl CF 40 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 55880 | Propranolol HCl Accord 80 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 123341 | Propranolol HCl Aurobindo 10 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 123343 | Propranolol HCl Aurobindo 40 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 129476 | Propranolol HCl Amarox 10 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 129478 | Propranolol HCl Amarox 40 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 129479 | Propranolol HCl Amarox 80 mg, filmomhulde tabletten | PROPRANOLOL HYDROCHLORIDE | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 57202 | Propranolol HCl ratiopharm 160 mg, capsules met gereguleerde afgifte | PROPRANOLOL HYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

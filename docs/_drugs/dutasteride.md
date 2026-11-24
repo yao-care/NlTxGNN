@@ -78,27 +78,27 @@ Deze publicatie betreft niet de primair voorspelde indicatie en is slechts indir
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28317 | Avodart 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
-| RVG 32039//28317 | Avodart, zachte capsules 0,5 mg | DUTASTERIDE | Capsule, zacht | Geldig |
-| RVG 113598 | Dutasteride Teva 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
-| RVG 116317 | Dutasteride Strides 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
-| RVG 117221 | Dutasteride Xiromed 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
-| RVG 117492 | Dutasteride Sandoz 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
-| RVG 119311 | Dutasteride Aurobindo 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
-| RVG 104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 123100 | Dutasteride/Tamsulosine HCl Xiromed 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 123106 | Dutasteride/Tamsulosine HCl Viatris 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 123117 | Dutasteride/Tamsolusine HCl Aurobindo 0,5/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 123561 | Dutasteride/Tamsulosinehydrochloride Teva 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 123562 | Dutasteride/Tamsulosinehydrochloride Teva 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 126172 | Dutasteride/Tamsulosine HCl Sandoz 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 126701//104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 128295//104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 118176 | Dutasteride 0,5 mg Teva, zachte capsules | DUTASTERIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28317 | Avodart 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | GlaxoSmithKline B.V. | Geldig |
+| RVG 32039//28317 | Avodart, zachte capsules 0,5 mg | DUTASTERIDE | Capsule, zacht | Euro Registratie Collectief B.V. | Geldig |
+| RVG 113598 | Dutasteride Teva 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Teva Nederland B.V. | Geldig |
+| RVG 116317 | Dutasteride Strides 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | Strides Pharma (Cyprus) Limited | Geldig |
+| RVG 117221 | Dutasteride Xiromed 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | Medical Valley Invest AB | Geldig |
+| RVG 117492 | Dutasteride Sandoz 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Sandoz B.V. | Geldig |
+| RVG 119311 | Dutasteride Aurobindo 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | GlaxoSmithKline B.V. | Geldig |
+| RVG 123100 | Dutasteride/Tamsulosine HCl Xiromed 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Medical Valley Invest AB | Geldig |
+| RVG 123106 | Dutasteride/Tamsulosine HCl Viatris 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Viatris Limited | Geldig |
+| RVG 123117 | Dutasteride/Tamsolusine HCl Aurobindo 0,5/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 123561 | Dutasteride/Tamsulosinehydrochloride Teva 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Teva B.V. | Geldig |
+| RVG 123562 | Dutasteride/Tamsulosinehydrochloride Teva 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Teva B.V. | Geldig |
+| RVG 126172 | Dutasteride/Tamsulosine HCl Sandoz 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 126701//104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Euro Registratie Collectief B.V. | Geldig |
+| RVG 128295//104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 118176 | Dutasteride 0,5 mg Teva, zachte capsules | DUTASTERIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

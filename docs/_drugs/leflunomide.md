@@ -82,25 +82,25 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/09/604 | Leflunomide Zentiva 100 mg filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| EU/1/10/637 | Leflunomide medac 15 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| EU/1/10/654 | Leflunomide ratiopharm 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| EU/1/99/118 | Arava 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 106041 | Leflunomide CF 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 106043 | Leflunomide CF 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 106093 | Leflunomide Sandoz 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 106094 | Leflunomide Sandoz 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 106344 | Leflunomide Viatris 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 106346 | Leflunomide Viatris 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 106347 | Leflunomide Mylan 100 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 124360 | Leflunomide Tillomed 10 mg, tabletten | LEFLUNOMIDE | Tablet | Geldig |
-| RVG 124361 | Leflunomide Tillomed 20 mg, tabletten | LEFLUNOMIDE | Tablet | Geldig |
-| RVG 128231 | Leflunomide Aurobindo 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
-| RVG 128232 | Leflunomide Aurobindo 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/09/604 | Leflunomide Zentiva 100 mg filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Zentiva k.s. | Geldig |
+| EU/1/10/637 | Leflunomide medac 15 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Medac Gesellschaft für klinische Spezialpräparate mbH | Geldig |
+| EU/1/10/654 | Leflunomide ratiopharm 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | ratiopharm GmbH | Geldig |
+| EU/1/99/118 | Arava 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Sanofi-Aventis Deutschland GmbH | Geldig |
+| RVG 106041 | Leflunomide CF 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 106043 | Leflunomide CF 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 106093 | Leflunomide Sandoz 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106094 | Leflunomide Sandoz 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106344 | Leflunomide Viatris 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 106346 | Leflunomide Viatris 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 106347 | Leflunomide Mylan 100 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | – | Geldig |
+| RVG 124360 | Leflunomide Tillomed 10 mg, tabletten | LEFLUNOMIDE | Tablet | Tillomed Pharma GmbH | Geldig |
+| RVG 124361 | Leflunomide Tillomed 20 mg, tabletten | LEFLUNOMIDE | Tablet | Tillomed Pharma GmbH | Geldig |
+| RVG 128231 | Leflunomide Aurobindo 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 128232 | Leflunomide Aurobindo 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

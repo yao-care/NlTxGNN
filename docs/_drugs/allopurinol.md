@@ -85,32 +85,32 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 05431 | Zyloric 100, tabletten 100 mg | ALLOPURINOL | Tablet | Geldig |
-| RVG 06846 | Allopurinol Sandoz 100 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 07210 | Allopurinol Sandoz 300 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 07238 | Zyloric 300, tabletten 300 mg | ALLOPURINOL | Tablet | Geldig |
-| RVG 09974 | Acepurin, poeder voor infusievloeistof 1 g/100 ml | ALLOPURINOL NATRIUM | Poeder voor oplossing voor infusie | Geldig |
-| RVG 11800 | Zyloric 200, tabletten 200 mg | ALLOPURINOL | Tablet | Geldig |
-| RVG 52185 | Allopurinol Auro 100 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 57732 | Allopurinol Auro 300 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 104252 | Allopurinol 100 mg PCH, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 104257 | Allopurinol 300 mg PCH, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 120982 | Allopurinol Aurobindo 100 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 120983 | Allopurinol Aurobindo 300 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 121996 | Allopurinol Accord 100 mg tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 121997 | Allopurinol Accord 300 mg tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 125891 | Allopurinol Aristo 100 mg tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 128225 | Allopurinol Amarox 100 mg tabletten | ALLOPURINOL | Filmomhulde tablet | Geldig |
-| RVG 128227 | Allopurinol Amarox 300 mg tabletten | ALLOPURINOL | Filmomhulde tablet | Geldig |
-| RVG 129877//11800 | Zyloric 200 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 133506 | Allopurinol CF 100 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
-| RVG 133509 | Allopurinol CF 200 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 05431 | Zyloric 100, tabletten 100 mg | ALLOPURINOL | Tablet | Aspen Pharma Trading Limited | Geldig |
+| RVG 06846 | Allopurinol Sandoz 100 mg, tabletten | ALLOPURINOL | Tablet | Sandoz B.V. | Geldig |
+| RVG 07210 | Allopurinol Sandoz 300 mg, tabletten | ALLOPURINOL | Tablet | Sandoz B.V. | Geldig |
+| RVG 07238 | Zyloric 300, tabletten 300 mg | ALLOPURINOL | Tablet | Aspen Pharma Trading Limited | Geldig |
+| RVG 09974 | Acepurin, poeder voor infusievloeistof 1 g/100 ml | ALLOPURINOL NATRIUM | Poeder voor oplossing voor infusie | ACE Pharmaceuticals B.V. | Geldig |
+| RVG 11800 | Zyloric 200, tabletten 200 mg | ALLOPURINOL | Tablet | Aspen Pharma Trading Limited | Geldig |
+| RVG 52185 | Allopurinol Auro 100 mg, tabletten | ALLOPURINOL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 57732 | Allopurinol Auro 300 mg, tabletten | ALLOPURINOL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 104252 | Allopurinol 100 mg PCH, tabletten | ALLOPURINOL | Tablet | Pharmachemie B.V. | Geldig |
+| RVG 104257 | Allopurinol 300 mg PCH, tabletten | ALLOPURINOL | Tablet | Pharmachemie B.V. | Geldig |
+| RVG 120982 | Allopurinol Aurobindo 100 mg, tabletten | ALLOPURINOL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 120983 | Allopurinol Aurobindo 300 mg, tabletten | ALLOPURINOL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 121996 | Allopurinol Accord 100 mg tabletten | ALLOPURINOL | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 121997 | Allopurinol Accord 300 mg tabletten | ALLOPURINOL | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 125891 | Allopurinol Aristo 100 mg tabletten | ALLOPURINOL | Tablet | Aristo Pharma GmbH | Geldig |
+| RVG 128225 | Allopurinol Amarox 100 mg tabletten | ALLOPURINOL | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 128227 | Allopurinol Amarox 300 mg tabletten | ALLOPURINOL | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 129877//11800 | Zyloric 200 mg, tabletten | ALLOPURINOL | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 133506 | Allopurinol CF 100 mg, tabletten | ALLOPURINOL | Tablet | Centrafarm B.V. | Geldig |
+| RVG 133509 | Allopurinol CF 200 mg, tabletten | ALLOPURINOL | Tablet | Centrafarm B.V. | Geldig |
 
 Getoond worden 20 van de 24 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -94,15 +94,15 @@ Opmerking: bij de voorspelling "gevoeligheid voor migraine met of zonder aura" i
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/04/306 | Aloxi, 500 micrograms capsules, zacht | PALONOSETRONHYDROCHLORIDE | Capsule, zacht | Geldig |
-| EU/1/16/1104 | Palonosetron Accord 250 microgram oplossing voor injectie | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 117366 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 117379 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie in een voorg… | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| EU/1/15/1001 | Akynzeo 300 milligram / 500 microgram harde capsule | NETUPITANT, PALONOSETRONHYDROCHLORIDE | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/04/306 | Aloxi, 500 micrograms capsules, zacht | PALONOSETRONHYDROCHLORIDE | Capsule, zacht | Helsinn Birex Pharmaceuticals Limited | Geldig |
+| EU/1/16/1104 | Palonosetron Accord 250 microgram oplossing voor injectie | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | Accord Healthcare S.L.U. | Geldig |
+| RVG 117366 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 117379 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie in een voorg… | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | – | Geldig |
+| EU/1/15/1001 | Akynzeo 300 milligram / 500 microgram harde capsule | NETUPITANT, PALONOSETRONHYDROCHLORIDE | Capsule, hard | Helsinn Birex Pharmaceuticals Limited | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

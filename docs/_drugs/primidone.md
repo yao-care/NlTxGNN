@@ -85,13 +85,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 00379 | Mysoline, tabletten 250 mg | PRIMIDON | Tablet | Geldig |
-| RVG 125811//00379 | Mysoline tabletten 250 mg | PRIMIDON | Tablet | Geldig |
-| RVG 114828//00379 | Mysoline, tabletten 250 mg | PRIMIDON | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 00379 | Mysoline, tabletten 250 mg | PRIMIDON | Tablet | Serb S.A.S | Geldig |
+| RVG 125811//00379 | Mysoline tabletten 250 mg | PRIMIDON | Tablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 114828//00379 | Mysoline, tabletten 250 mg | PRIMIDON | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

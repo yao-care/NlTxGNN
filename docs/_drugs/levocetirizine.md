@@ -84,24 +84,24 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 26770 | Xyzal, 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 33414 | Xyzal 0,5 mg/ml drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
-| RVG 34946 | Levocetirizine diHCl 5 PCH, filmomhulde tabletten 5 mg | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 101132 | Levocetirizine diHCl Viatris 5 mg tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 101135 | Cetirmar 5 mg tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 102859 | Levocetirizine diHCL Sandoz 5 mg, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 102860 | Levocetirizine 2HCl Aurobindo 5 mg, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 109243 | Levocetirizine Krka 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 112332 | Levocetirizine dihydrochloride Ipca, 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 123258//33414 | Xyzal 0,5 mg/ml, drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
-| RVG 125328=112332 | Levocetirizine diHCl 5 mg Focus Care, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 128534//33414 | Xyzal 0,5 mg/ml drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
-| RVG 130650//26770 | Xyzal 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 120202//33414 | Levocetirizine dihydrochloride Fisher 0,5 mg/ml, drank | LEVOCETIRIZINEDIHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 26770 | Xyzal, 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | UCB Pharma B.V. | Geldig |
+| RVG 33414 | Xyzal 0,5 mg/ml drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | UCB Pharma B.V. | Geldig |
+| RVG 34946 | Levocetirizine diHCl 5 PCH, filmomhulde tabletten 5 mg | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 101132 | Levocetirizine diHCl Viatris 5 mg tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 101135 | Cetirmar 5 mg tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 102859 | Levocetirizine diHCL Sandoz 5 mg, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 102860 | Levocetirizine 2HCl Aurobindo 5 mg, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 109243 | Levocetirizine Krka 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 112332 | Levocetirizine dihydrochloride Ipca, 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Ipca Produtos Farmaceuticos Unipessoal Lda | Geldig |
+| RVG 123258//33414 | Xyzal 0,5 mg/ml, drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 125328=112332 | Levocetirizine diHCl 5 mg Focus Care, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 128534//33414 | Xyzal 0,5 mg/ml drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | Euro Registratie Collectief B.V. | Geldig |
+| RVG 130650//26770 | Xyzal 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 120202//33414 | Levocetirizine dihydrochloride Fisher 0,5 mg/ml, drank | LEVOCETIRIZINEDIHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

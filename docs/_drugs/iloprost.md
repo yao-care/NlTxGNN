@@ -70,18 +70,18 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/03/255 | Ventavis 10 microgram/ml, verneveloplossing | ILOPROST | Verneveloplossing | Geldig |
-| RVG 118323 | Iloprost Waymade 20 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST TROMETAMOL | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 118334 | Iloprost Waymade 100 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST TROMETAMOL | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 122553 | Iloprost Teva 100 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 125463 | Iloprost RAFARM 10 microgram/ml verneveloplossing | ILOPROST TROMETAMOL | Verneveloplossing | Geldig |
-| RVG 125464 | Iloprost RAFARM 20 microgram/ml verneveloplossing | ILOPROST TROMETAMOL | Verneveloplossing | Geldig |
-| RVG 126966 | Iloprost hameln 0,1 mg/ml, concentraat voor oplossing voor infusie | ILOPROST | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 120173//15696 | Ilomedine 0,1 mg/ml, concentraat voor oplossing voor infusie | ILOPROST | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/03/255 | Ventavis 10 microgram/ml, verneveloplossing | ILOPROST | Verneveloplossing | Bayer AG | Geldig |
+| RVG 118323 | Iloprost Waymade 20 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST TROMETAMOL | Concentraat voor oplossing voor infusie | Waymade B.V. | Geldig |
+| RVG 118334 | Iloprost Waymade 100 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST TROMETAMOL | Concentraat voor oplossing voor infusie | Waymade B.V. | Geldig |
+| RVG 122553 | Iloprost Teva 100 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST | Concentraat voor oplossing voor infusie | Teva B.V. | Geldig |
+| RVG 125463 | Iloprost RAFARM 10 microgram/ml verneveloplossing | ILOPROST TROMETAMOL | Verneveloplossing | Rafarm S.A. | Geldig |
+| RVG 125464 | Iloprost RAFARM 20 microgram/ml verneveloplossing | ILOPROST TROMETAMOL | Verneveloplossing | Rafarm S.A. | Geldig |
+| RVG 126966 | Iloprost hameln 0,1 mg/ml, concentraat voor oplossing voor infusie | ILOPROST | Concentraat voor oplossing voor infusie | hameln pharma gmbh | Geldig |
+| RVG 120173//15696 | Ilomedine 0,1 mg/ml, concentraat voor oplossing voor infusie | ILOPROST | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

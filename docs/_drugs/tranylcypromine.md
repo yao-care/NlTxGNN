@@ -78,22 +78,22 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 115752 | Tracydal 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 124771 | Tranylcypromine Glenmark 10 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 124772 | Tranylcypromine Glenmark 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 125926 | Tranylcypromine Double-e Pharma 10 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 127472//115752 | Tranylcypromine Medcor 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 129127 | Tranylcypromine Aristo 10 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 129128 | Tranylcypromine Aristo 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 129243//115752 | Tranylcypromine Eureco-Pharma 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 129561//115752 | Tranylcypromine BModesto 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 129984//115752 | Tranylcypromine ERC 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
-| RVG 133078 | Tranylcypromine Activase 10 mg omhulde tabletten | TRANYLCYPROMINESULFAAT | Omhulde tablet | Geldig |
-| RVG 116661 | Tranylcypromine Tiofarma 10 mg, omhulde tabletten | TRANYLCYPROMINESULFAAT | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 115752 | Tracydal 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Daleco Pharma b.v. | Geldig |
+| RVG 124771 | Tranylcypromine Glenmark 10 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 124772 | Tranylcypromine Glenmark 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 125926 | Tranylcypromine Double-e Pharma 10 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 127472//115752 | Tranylcypromine Medcor 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 129127 | Tranylcypromine Aristo 10 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Aristo Pharma GmbH | Geldig |
+| RVG 129128 | Tranylcypromine Aristo 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Aristo Pharma GmbH | Geldig |
+| RVG 129243//115752 | Tranylcypromine Eureco-Pharma 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Eureco-Pharma B.V. | Geldig |
+| RVG 129561//115752 | Tranylcypromine BModesto 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | BModesto B.V. | Geldig |
+| RVG 129984//115752 | Tranylcypromine ERC 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 133078 | Tranylcypromine Activase 10 mg omhulde tabletten | TRANYLCYPROMINESULFAAT | Omhulde tablet | Activase Pharmaceuticals Limited | Geldig |
+| RVG 116661 | Tranylcypromine Tiofarma 10 mg, omhulde tabletten | TRANYLCYPROMINESULFAAT | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

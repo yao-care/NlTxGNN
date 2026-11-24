@@ -81,18 +81,18 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 113044//16514 | Gutron 5 mg, tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 114951 | Midodrine HCl Brancaster 2,5 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 114952 | Midodrine HCl Brancaster 5 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 118685//16514 | Gutron 5 mg, tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 126366 | Midodrine HCl Brancaster 10 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 135129//16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 135186//16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 113044//16514 | Gutron 5 mg, tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 114951 | Midodrine HCl Brancaster 2,5 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Brancaster Pharma Ireland Limited | Geldig |
+| RVG 114952 | Midodrine HCl Brancaster 5 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Brancaster Pharma Ireland Limited | Geldig |
+| RVG 118685//16514 | Gutron 5 mg, tabletten | MIDODRINEHYDROCHLORIDE | Tablet | – | Geldig |
+| RVG 126366 | Midodrine HCl Brancaster 10 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Brancaster Pharma Ireland Limited | Geldig |
+| RVG 135129//16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | Originalis B.V. | Geldig |
+| RVG 135186//16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | BModesto B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

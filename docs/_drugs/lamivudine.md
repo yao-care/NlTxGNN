@@ -91,32 +91,32 @@ De hieronder genoemde publicaties zijn vrijwel allemaal preklinisch; er zijn gee
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/09/0596 | Lamivudine Teva Pharma BV, 150 mg filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
-| EU/1/09/566 | Lamivudine Teva 100 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
-| EU/1/09/596 | Lamivudine Teva Pharma BV, 300 mg filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
-| EU/1/96/015 | Epivir 300 mg, omhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| EU/1/99/114 | Zeffix 100 mg tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 110409 | Lamivudine Aurobindo 150 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 110414 | Lamivudine Aurobindo 300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 111863 | Lamivudine Accord 100 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 111864 | Lamivudine Accord 150 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 111866 | Lamivudine Accord 300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 111998 | Lamivudine Sandoz 100 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
-| RVG 111999 | Lamivudine Sandoz 150 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
-| RVG 112000 | Lamivudine Sandoz 300 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
-| EU/1/00/156 | Trizivir filmomhulde tabletten, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
-| EU/1/04/298 | Kivexa 600/300 mg, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| EU/1/14/940 | Triumeq 50 mg/600 mg/300 mg filmomhulde tabletten | ABACAVIRSULFAAT, DOLUTEGRAVIR NATRIUM, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| EU/1/18/1333 | Delstrigo - Doravirine/Lamivudine/Tenofovir Disoproxil (as fumarate) MSD 100 mg… | DORAVIRINE, LAMIVUDINE 0-WATER, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/19/1370 | Dovato 50 mg/300 mg filmomhulde tabletten | DOLUTEGRAVIR NATRIUM, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
-| EU/1/98/058 | Combivir, tabletten 150/300 mg | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
-| RVG 107779 | Lamivudine/Zidovudine Viatris 150/300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/09/0596 | Lamivudine Teva Pharma BV, 150 mg filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/09/566 | Lamivudine Teva 100 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/09/596 | Lamivudine Teva Pharma BV, 300 mg filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/96/015 | Epivir 300 mg, omhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | ViiV healthcare B.V. | Geldig |
+| EU/1/99/114 | Zeffix 100 mg tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | GlaxoSmithKline Trading Services Limited | Geldig |
+| RVG 110409 | Lamivudine Aurobindo 150 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 110414 | Lamivudine Aurobindo 300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 111863 | Lamivudine Accord 100 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 111864 | Lamivudine Accord 150 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 111866 | Lamivudine Accord 300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 111998 | Lamivudine Sandoz 100 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 111999 | Lamivudine Sandoz 150 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 112000 | Lamivudine Sandoz 300 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | – | Geldig |
+| EU/1/00/156 | Trizivir filmomhulde tabletten, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | ViiV healthcare B.V. | Geldig |
+| EU/1/04/298 | Kivexa 600/300 mg, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | ViiV healthcare B.V. | Geldig |
+| EU/1/14/940 | Triumeq 50 mg/600 mg/300 mg filmomhulde tabletten | ABACAVIRSULFAAT, DOLUTEGRAVIR NATRIUM, LAMIVUDINE 0-WATER | Filmomhulde tablet | ViiV healthcare B.V. | Geldig |
+| EU/1/18/1333 | Delstrigo - Doravirine/Lamivudine/Tenofovir Disoproxil (as fumarate) MSD 100 mg… | DORAVIRINE, LAMIVUDINE 0-WATER, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Merck Sharp & Dohme B.V. | Geldig |
+| EU/1/19/1370 | Dovato 50 mg/300 mg filmomhulde tabletten | DOLUTEGRAVIR NATRIUM, LAMIVUDINE 0-WATER | Filmomhulde tablet | ViiV healthcare B.V. | Geldig |
+| EU/1/98/058 | Combivir, tabletten 150/300 mg | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | ViiV healthcare B.V. | Geldig |
+| RVG 107779 | Lamivudine/Zidovudine Viatris 150/300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Viatris Limited | Geldig |
 
 Getoond worden 20 van de 31 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

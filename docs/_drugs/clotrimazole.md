@@ -84,32 +84,32 @@ Momenteel is er geen relevante literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06515 | Canesten skin, creme 10 mg/g | CLOTRIMAZOL | Crème | Geldig |
-| RVG 06517 | Canesten gyno tablet, tablet voor vaginaal gebruik 100 mg | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Geldig |
-| RVG 07856 | Canesten gyno crème, crème voor vaginaal gebruik 10 mg/g | CLOTRIMAZOL | Crème voor vaginaal gebruik | Geldig |
-| RVG 08933 | Canesten foot strooipoeder, strooipoeder 10 mg/g | CLOTRIMAZOL | Strooipoeder | Geldig |
-| RVG 08934 | Canesten gyno 3, tablet voor vaginaal gebruik 200 mg | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Geldig |
-| RVG 08935 | Canesten gyno 3, crème voor vaginaal gebruik 20 mg/g | CLOTRIMAZOL | Crème voor vaginaal gebruik | Geldig |
-| RVG 10051 | Canesten gyno 1 tablet, tablet voor vaginaal gebruik 500 mg | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Geldig |
-| RVG 10972 | Canesten gyno 1, crème voor vaginaal gebruik 100 mg/g | CLOTRIMAZOL | Crème voor vaginaal gebruik | Geldig |
-| RVG 13542//10051 | Canesten 1 vaginaaltablet 500 mg, vaginaaltabletten | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Geldig |
-| RVG 22476 | Clotrimazol hydrofiele crème 10 mg/g, crème | CLOTRIMAZOL | Crème | Geldig |
-| RVG 23319 | Canesten foot crème, crème 10 mg/g | CLOTRIMAZOL | Crème | Geldig |
-| RVG 105601//23319 | Canesten foot crème 10 mg/g, crème | CLOTRIMAZOL | Crème | Geldig |
-| RVG 114223 | Canesten Gyno 1 zachte capsule, capsule voor vaginaal gebruik 500 mg | CLOTRIMAZOL | Capsule voor vaginaal gebruik, zacht | Geldig |
-| RVG 121639//08935 | Canesten gyno 3, crème voor vaginaal gebruik 20 mg/g | CLOTRIMAZOL | Crème voor vaginaal gebruik | Geldig |
-| RVG 128515 | Clotrimazol Gyno Linn 10 mg/g crème voor vaginaal gebruik | CLOTRIMAZOL | Crème voor vaginaal gebruik | Geldig |
-| RVG 130479//10051 | Canesten gyno 1 tablet, tablet voor vaginaal gebruik 500 mg | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Geldig |
-| RVG 131425//114223 | Canesten Gyno 1 zachte capsule, capsule voor vaginaal gebruik 500 mg | CLOTRIMAZOL | Capsule voor vaginaal gebruik, zacht | Geldig |
-| RVG 132169 | Clotrimazol Gyno Teva 10 mg/g, crème voor vaginaal gebruik | CLOTRIMAZOL | Crème voor vaginaal gebruik | Geldig |
-| RVG 132170 | Kruidvat Clotrimazol Gyno 10 mg/g crème voor vaginaal gebruik | CLOTRIMAZOL | Crème voor vaginaal gebruik | Geldig |
-| RVG 132459 | Trekpleister Clotrimazol Gyno 10 mg/g crème voor vaginaal gebruik | CLOTRIMAZOL | Crème voor vaginaal gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06515 | Canesten skin, creme 10 mg/g | CLOTRIMAZOL | Crème | Bayer B.V. | Geldig |
+| RVG 06517 | Canesten gyno tablet, tablet voor vaginaal gebruik 100 mg | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Bayer B.V. | Geldig |
+| RVG 07856 | Canesten gyno crème, crème voor vaginaal gebruik 10 mg/g | CLOTRIMAZOL | Crème voor vaginaal gebruik | Bayer B.V. | Geldig |
+| RVG 08933 | Canesten foot strooipoeder, strooipoeder 10 mg/g | CLOTRIMAZOL | Strooipoeder | Bayer B.V. | Geldig |
+| RVG 08934 | Canesten gyno 3, tablet voor vaginaal gebruik 200 mg | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Bayer B.V. | Geldig |
+| RVG 08935 | Canesten gyno 3, crème voor vaginaal gebruik 20 mg/g | CLOTRIMAZOL | Crème voor vaginaal gebruik | Bayer B.V. | Geldig |
+| RVG 10051 | Canesten gyno 1 tablet, tablet voor vaginaal gebruik 500 mg | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Bayer B.V. | Geldig |
+| RVG 10972 | Canesten gyno 1, crème voor vaginaal gebruik 100 mg/g | CLOTRIMAZOL | Crème voor vaginaal gebruik | Bayer B.V. | Geldig |
+| RVG 13542//10051 | Canesten 1 vaginaaltablet 500 mg, vaginaaltabletten | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 22476 | Clotrimazol hydrofiele crème 10 mg/g, crème | CLOTRIMAZOL | Crème | Medcell Pharma B.V. | Geldig |
+| RVG 23319 | Canesten foot crème, crème 10 mg/g | CLOTRIMAZOL | Crème | Bayer B.V. | Geldig |
+| RVG 105601//23319 | Canesten foot crème 10 mg/g, crème | CLOTRIMAZOL | Crème | Top-Pharma B.V. | Geldig |
+| RVG 114223 | Canesten Gyno 1 zachte capsule, capsule voor vaginaal gebruik 500 mg | CLOTRIMAZOL | Capsule voor vaginaal gebruik, zacht | Bayer B.V. | Geldig |
+| RVG 121639//08935 | Canesten gyno 3, crème voor vaginaal gebruik 20 mg/g | CLOTRIMAZOL | Crème voor vaginaal gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 128515 | Clotrimazol Gyno Linn 10 mg/g crème voor vaginaal gebruik | CLOTRIMAZOL | Crème voor vaginaal gebruik | MAE Holding B.V. | Geldig |
+| RVG 130479//10051 | Canesten gyno 1 tablet, tablet voor vaginaal gebruik 500 mg | CLOTRIMAZOL | Tablet voor vaginaal gebruik | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 131425//114223 | Canesten Gyno 1 zachte capsule, capsule voor vaginaal gebruik 500 mg | CLOTRIMAZOL | Capsule voor vaginaal gebruik, zacht | Top-Pharma B.V. | Geldig |
+| RVG 132169 | Clotrimazol Gyno Teva 10 mg/g, crème voor vaginaal gebruik | CLOTRIMAZOL | Crème voor vaginaal gebruik | Teva Nederland B.V. | Geldig |
+| RVG 132170 | Kruidvat Clotrimazol Gyno 10 mg/g crème voor vaginaal gebruik | CLOTRIMAZOL | Crème voor vaginaal gebruik | MAE Holding B.V. | Geldig |
+| RVG 132459 | Trekpleister Clotrimazol Gyno 10 mg/g crème voor vaginaal gebruik | CLOTRIMAZOL | Crème voor vaginaal gebruik | MAE Holding B.V. | Geldig |
 
 Getoond worden 20 van de 25 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

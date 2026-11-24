@@ -91,17 +91,17 @@ Geen van de onderstaande publicaties onderzoekt aortamisvorming als zodanig in e
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 10041 | Prostin VR 0,5 mg/ml, concentraat voor oplossing voor infusie | ALPROSTADIL | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 109910 | Alprostadil Simple Pharma 300 microgram, crème | ALPROSTADIL | Crème | Geldig |
-| RVG 109919 | Vitaros, 300 microgram Crème | ALPROSTADIL | Crème | Geldig |
-| RVG 115134 | Vitaros 300 microgram, crème | ALPROSTADIL | Crème | Geldig |
-| RVG 115997 | Alprostadil Recordati 2 mg/g Crème | ALPROSTADIL | Crème | Geldig |
-| RVG 116002 | Alprostadil Recordati 3 mg/g Crème | ALPROSTADIL | Crème | Geldig |
-| RVG 135152 | Propedix 0,5 mg/ml concentraat voor oplossing voor infusie | ALPROSTADIL | Concentraat voor oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 10041 | Prostin VR 0,5 mg/ml, concentraat voor oplossing voor infusie | ALPROSTADIL | Concentraat voor oplossing voor infusie | Pfizer B.V. | Geldig |
+| RVG 109910 | Alprostadil Simple Pharma 300 microgram, crème | ALPROSTADIL | Crème | The Simple Pharma Company Limited | Geldig |
+| RVG 109919 | Vitaros, 300 microgram Crème | ALPROSTADIL | Crème | Androlabs Srl | Geldig |
+| RVG 115134 | Vitaros 300 microgram, crème | ALPROSTADIL | Crème | – | Geldig |
+| RVG 115997 | Alprostadil Recordati 2 mg/g Crème | ALPROSTADIL | Crème | Recordati Ireland Ltd. (Co. Cork) | Geldig |
+| RVG 116002 | Alprostadil Recordati 3 mg/g Crème | ALPROSTADIL | Crème | Recordati Ireland Ltd. (Co. Cork) | Geldig |
+| RVG 135152 | Propedix 0,5 mg/ml concentraat voor oplossing voor infusie | ALPROSTADIL | Concentraat voor oplossing voor infusie | Oresund Pharma ApS | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

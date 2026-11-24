@@ -70,13 +70,13 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 07887 | Ubretid, tabletten 5 mg | DISTIGMINEDIBROMIDE | Tablet | Geldig |
-| RVG 128191//07887 | Ubretid 5 mg tabletten | DISTIGMINEDIBROMIDE | Tablet | Geldig |
-| RVG 118766//07887 | Ubretid 5 mg, tabletten | DISTIGMINEDIBROMIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 07887 | Ubretid, tabletten 5 mg | DISTIGMINEDIBROMIDE | Tablet | Herbrand PharmaChemicals GmbH | Geldig |
+| RVG 128191//07887 | Ubretid 5 mg tabletten | DISTIGMINEDIBROMIDE | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 118766//07887 | Ubretid 5 mg, tabletten | DISTIGMINEDIBROMIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

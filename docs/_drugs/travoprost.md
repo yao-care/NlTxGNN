@@ -76,32 +76,32 @@ Voor "vaatziekte" en "hemangio-endothelioom" zijn publicaties gevonden, maar die
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/01/199 | Travatan 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| EU/1/13/905 | Izba 30 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 111940 | Travoprost Pharmathen 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 111943 | Travoprost CF 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 112011 | Travoprost Sandoz 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 112273 | Travoprost Teva 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 112274 | Travoprost ratiopharm 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114244 | TRAVAPRESS 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 114248 | Travoprost Tiefenbacher 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 115990 | Leachim 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 116772 | Vizitrav 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 125405 | Travoprost Viatris 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 131082 | Travic-Opto 40 microgram/ml oogdruppels, oplossing in verpakking voor eenmalig… | TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| EU/1/06/338 | DuoTrav 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 119283 | Travoprost Teva 40 microgram/ml + Timolol 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 119304 | Travoprost/Timolol Viatris 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 119307 | Travoprost/Timolol CF 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 120088 | FILIOP 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 120089 | Kivizidiale 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 131426 | Travitim-Opto 40 microgram/ml + 5 mg/ml oogdruppels, oplossing in een verpakkin… | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/01/199 | Travatan 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Novartis Europharm Limited | Geldig |
+| EU/1/13/905 | Izba 30 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Novartis Europharm Limited | Geldig |
+| RVG 111940 | Travoprost Pharmathen 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Pharmathen S.A. | Geldig |
+| RVG 111943 | Travoprost CF 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Centrafarm B.V. | Geldig |
+| RVG 112011 | Travoprost Sandoz 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Sandoz B.V. | Geldig |
+| RVG 112273 | Travoprost Teva 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Teva Nederland B.V. | Geldig |
+| RVG 112274 | Travoprost ratiopharm 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | ratiopharm GmbH | Geldig |
+| RVG 114244 | TRAVAPRESS 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | S.C. Rompharm Company S.R.L. | Geldig |
+| RVG 114248 | Travoprost Tiefenbacher 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Alfred E. Tiefenbacher GmbH & Co. KG | Geldig |
+| RVG 115990 | Leachim 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Alfred E. Tiefenbacher GmbH & Co. KG | Geldig |
+| RVG 116772 | Vizitrav 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | – | Geldig |
+| RVG 125405 | Travoprost Viatris 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Viatris Limited | Geldig |
+| RVG 131082 | Travic-Opto 40 microgram/ml oogdruppels, oplossing in verpakking voor eenmalig… | TRAVOPROST | Oogdruppels, oplossing | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A | Geldig |
+| EU/1/06/338 | DuoTrav 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Novartis Europharm Limited | Geldig |
+| RVG 119283 | Travoprost Teva 40 microgram/ml + Timolol 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Teva Nederland B.V. | Geldig |
+| RVG 119304 | Travoprost/Timolol Viatris 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Viatris Limited | Geldig |
+| RVG 119307 | Travoprost/Timolol CF 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Centrafarm B.V. | Geldig |
+| RVG 120088 | FILIOP 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Horus Pharma S.A.S. | Geldig |
+| RVG 120089 | Kivizidiale 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 131426 | Travitim-Opto 40 microgram/ml + 5 mg/ml oogdruppels, oplossing in een verpakkin… | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A. | Geldig |
 
 Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

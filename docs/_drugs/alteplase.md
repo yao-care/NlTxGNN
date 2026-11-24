@@ -70,18 +70,18 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 12247 | Actilyse 20 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 15228 | Actilyse 10 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 103374 | Actilyse Cathflo 2 mg, poeder voor oplossing voor injectie en infusie | ALTEPLASE | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 122903//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 123324//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 124545//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 119660//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 12247 | Actilyse 20 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Boehringer Ingelheim B.V. | Geldig |
+| RVG 12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Boehringer Ingelheim B.V. | Geldig |
+| RVG 15228 | Actilyse 10 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Boehringer Ingelheim B.V. | Geldig |
+| RVG 103374 | Actilyse Cathflo 2 mg, poeder voor oplossing voor injectie en infusie | ALTEPLASE | Poeder voor oplossing voor injectie of infusie | Boehringer Ingelheim B.V. | Geldig |
+| RVG 122903//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Originalis B.V. | Geldig |
+| RVG 123324//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Originalis B.V. | Geldig |
+| RVG 124545//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 119660//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

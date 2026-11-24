@@ -70,15 +70,15 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor Rasmussen-encefali
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | Geldig |
-| RVG 119789//05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | Geldig |
-| RVG 133662 | Amantadine HCl Renata 100 mg harde capsules | AMANTADINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 134423 | Amypha 100 mg harde capsules | AMANTADINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 134583//05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | Novartis Pharma B.V. | Geldig |
+| RVG 119789//05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | – | Geldig |
+| RVG 133662 | Amantadine HCl Renata 100 mg harde capsules | AMANTADINEHYDROCHLORIDE | Capsule, hard | Renata Pharmaceuticals (Ireland) Limited | Geldig |
+| RVG 134423 | Amypha 100 mg harde capsules | AMANTADINEHYDROCHLORIDE | Capsule, hard | Macure Pharma ApS | Geldig |
+| RVG 134583//05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | Medcor Pharmaceuticals B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

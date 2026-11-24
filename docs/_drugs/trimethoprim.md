@@ -72,22 +72,22 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28451=55722 | Trimethoprim Mylan 100 mg, tabletten | TRIMETHOPRIM | Tablet | Geldig |
-| RVG 28452=55723 | Trimethoprim Mylan 300 mg, tabletten | TRIMETHOPRIM | Tablet | Geldig |
-| RVG 55722 | Trimethoprim CF 100 mg, tabletten | TRIMETHOPRIM | Tablet | Geldig |
-| RVG 55723 | Trimethoprim CF 300 mg, tabletten | TRIMETHOPRIM | Tablet | Geldig |
-| RVG 07231 | Bactrimel, concentraat voor oplossing voor intraveneuze infusie 96 mg/ml | SULFAMETHOXAZOL, TRIMETHOPRIM | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 09044 | Polytrim, oogdruppels | POLYMYXINE B SULFAAT, TRIMETHOPRIM | Oogdruppels, oplossing | Geldig |
-| RVG 09239 | Rokiprim, oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | Geldig |
-| RVG 10550 | Co-trimoxazol Teva 200/40 mg/5 ml, suspensie voor oraal gebruik | SULFAMETHOXAZOL, TRIMETHOPRIM | Suspensie voor oraal gebruik | Geldig |
-| RVG 55505 | Co-trimoxazol CF 400 mg/80 mg, tabletten | SULFAMETHOXAZOL, TRIMETHOPRIM | Tablet | Geldig |
-| RVG 55506 | Co-trimoxazol forte CF 800 mg/160 mg, tabletten | SULFAMETHOXAZOL, TRIMETHOPRIM | Tablet | Geldig |
-| RVG 118785//09239 | Rokiprim, oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | Geldig |
-| RVG 133007//09239 | Rokiprim oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28451=55722 | Trimethoprim Mylan 100 mg, tabletten | TRIMETHOPRIM | Tablet | Mylan B.V. | Geldig |
+| RVG 28452=55723 | Trimethoprim Mylan 300 mg, tabletten | TRIMETHOPRIM | Tablet | Mylan B.V. | Geldig |
+| RVG 55722 | Trimethoprim CF 100 mg, tabletten | TRIMETHOPRIM | Tablet | Centrafarm B.V. | Geldig |
+| RVG 55723 | Trimethoprim CF 300 mg, tabletten | TRIMETHOPRIM | Tablet | – | Geldig |
+| RVG 07231 | Bactrimel, concentraat voor oplossing voor intraveneuze infusie 96 mg/ml | SULFAMETHOXAZOL, TRIMETHOPRIM | Concentraat voor oplossing voor infusie | Eumedica Pharmaceuticals GmbH | Geldig |
+| RVG 09044 | Polytrim, oogdruppels | POLYMYXINE B SULFAAT, TRIMETHOPRIM | Oogdruppels, oplossing | ACE Pharmaceuticals B.V. | Geldig |
+| RVG 09239 | Rokiprim, oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | DeVriMed B.V. | Geldig |
+| RVG 10550 | Co-trimoxazol Teva 200/40 mg/5 ml, suspensie voor oraal gebruik | SULFAMETHOXAZOL, TRIMETHOPRIM | Suspensie voor oraal gebruik | Teva B.V. | Geldig |
+| RVG 55505 | Co-trimoxazol CF 400 mg/80 mg, tabletten | SULFAMETHOXAZOL, TRIMETHOPRIM | Tablet | Centrafarm B.V. | Geldig |
+| RVG 55506 | Co-trimoxazol forte CF 800 mg/160 mg, tabletten | SULFAMETHOXAZOL, TRIMETHOPRIM | Tablet | Centrafarm B.V. | Geldig |
+| RVG 118785//09239 | Rokiprim, oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | Eureco-Pharma B.V. | Geldig |
+| RVG 133007//09239 | Rokiprim oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | ACE Pharmaceuticals B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

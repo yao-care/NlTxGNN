@@ -121,14 +121,14 @@ De literatuur over het cauda equina-syndroom beschrijft tetracaïne als **oorzaa
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 09372 | Minims Tetracainehydrochloride 5 mg/ml, oogdruppels, oplossing | TETRACAINE HYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 09373 | Minims Tetracainehydrochloride 10 mg/ml, oogdruppels, oplossing | TETRACAINE HYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 100315 | Rapydan 70 mg/70 mg medicinale pleister | LIDOCAÏNE, TETRACAÏNE | Pleister | Geldig |
-| RVG 109762 | Pliaglis 70 mg/g + 70 mg/g crème | TETRACAÏNE, LIDOCAÏNE | Crème | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 09372 | Minims Tetracainehydrochloride 5 mg/ml, oogdruppels, oplossing | TETRACAINE HYDROCHLORIDE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 09373 | Minims Tetracainehydrochloride 10 mg/ml, oogdruppels, oplossing | TETRACAINE HYDROCHLORIDE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 100315 | Rapydan 70 mg/70 mg medicinale pleister | LIDOCAÏNE, TETRACAÏNE | Pleister | Eurocept International B.V. | Geldig |
+| RVG 109762 | Pliaglis 70 mg/g + 70 mg/g crème | TETRACAÏNE, LIDOCAÏNE | Crème | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

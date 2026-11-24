@@ -72,18 +72,18 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 01363 | Lanoxin 250, tabletten 0,25 mg | DIGOXINE | Tablet | Geldig |
-| RVG 01364 | Lanoxin Injectie, oplossing voor injectie 0,5 mg=2 ml | DIGOXINE | Oplossing voor injectie | Geldig |
-| RVG 07548 | Lanoxin PG, tabletten 0,0625 mg | DIGOXINE | Tablet | Geldig |
-| RVG 08963 | Lanoxin 125, tabletten 0,125 mg | DIGOXINE | Tablet | Geldig |
-| RVG 120450//08963 | Lanoxin 125, tabletten 0,125 mg | DIGOXINE | Tablet | Geldig |
-| RVG 121000//01363 | Lanoxin 250, tabletten 0,25 mg | DIGOXINE | Tablet | Geldig |
-| RVG 126327//01364 | Digoxine Eureco-Pharma, oplossing voor injectie 0,5 mg/2 ml | DIGOXINE | Oplossing voor injectie | Geldig |
-| RVG 120674//01363 | Lanoxin 250, tabletten 0,250 mg | DIGOXINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 01363 | Lanoxin 250, tabletten 0,25 mg | DIGOXINE | Tablet | Aspen Pharma Trading Limited | Geldig |
+| RVG 01364 | Lanoxin Injectie, oplossing voor injectie 0,5 mg=2 ml | DIGOXINE | Oplossing voor injectie | Aspen Pharma Trading Limited | Geldig |
+| RVG 07548 | Lanoxin PG, tabletten 0,0625 mg | DIGOXINE | Tablet | Aspen Pharma Trading Limited | Geldig |
+| RVG 08963 | Lanoxin 125, tabletten 0,125 mg | DIGOXINE | Tablet | Aspen Pharma Trading Limited | Geldig |
+| RVG 120450//08963 | Lanoxin 125, tabletten 0,125 mg | DIGOXINE | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 121000//01363 | Lanoxin 250, tabletten 0,25 mg | DIGOXINE | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 126327//01364 | Digoxine Eureco-Pharma, oplossing voor injectie 0,5 mg/2 ml | DIGOXINE | Oplossing voor injectie | Eureco-Pharma B.V. | Geldig |
+| RVG 120674//01363 | Lanoxin 250, tabletten 0,250 mg | DIGOXINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

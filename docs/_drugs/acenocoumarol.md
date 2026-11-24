@@ -72,13 +72,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 50674 | Acenocoumarol CF 1 mg, tabletten | ACENOCOUMAROL | Tablet | Geldig |
-| RVG 128376 | Acenocoumarol Aurobindo 1 mg, tabletten | ACENOCOUMAROL | Tablet | Geldig |
-| RVG 113318 | Acenocoumarol Teva 1 mg, tabletten | ACENOCOUMAROL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 50674 | Acenocoumarol CF 1 mg, tabletten | ACENOCOUMAROL | Tablet | Centrafarm B.V. | Geldig |
+| RVG 128376 | Acenocoumarol Aurobindo 1 mg, tabletten | ACENOCOUMAROL | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 113318 | Acenocoumarol Teva 1 mg, tabletten | ACENOCOUMAROL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

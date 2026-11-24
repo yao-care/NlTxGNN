@@ -94,14 +94,14 @@ Opmerking: twee van de gevonden publicaties (over een kruidenextract en over ben
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 10623 | Flunitrazepam 1 mg Teva, tabletten | FLUNITRAZEPAM | Tablet | Geldig |
-| RVG 10624 | Flunitrazepam 2 mg Teva, tabletten | FLUNITRAZEPAM | Tablet | Geldig |
-| RVG 57032 | Flunitrazepam CF 1 mg, tabletten | FLUNITRAZEPAM | Tablet | Geldig |
-| RVG 57033 | Flunitrazepam CF 2 mg , tabletten | FLUNITRAZEPAM | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 10623 | Flunitrazepam 1 mg Teva, tabletten | FLUNITRAZEPAM | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 10624 | Flunitrazepam 2 mg Teva, tabletten | FLUNITRAZEPAM | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 57032 | Flunitrazepam CF 1 mg, tabletten | FLUNITRAZEPAM | Tablet | Centrafarm B.V. | Geldig |
+| RVG 57033 | Flunitrazepam CF 2 mg , tabletten | FLUNITRAZEPAM | Tablet | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

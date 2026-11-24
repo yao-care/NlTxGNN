@@ -99,30 +99,30 @@ Marktstatus: **in de handel**.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 100787 | Letrozol Synthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 100790 | Letrozol Synthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 100792 | Letrozol Genthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 100805 | Etruzil 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 100807 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 100809 | Letrostar 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 100811 | Letrozin 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 102441 | Letrozol Accord 2,5 mg filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 102781 | Letrozol Glenmark 2,5 mg filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 102826 | Letrozol 2,5 mg Teva, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 104036 | Letrozol Viatris 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 104924 | Letrozol Devatis 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 104929 | Letrozol Denk 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 105802 | Letrozol SUN 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 106321 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 106322 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 106323 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 111266 | Letrozol Amarox 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 133221 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
-| RVG 114435 | Letrozol 2,5 mg Focus, filmomhulde tabletten | LETROZOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 100787 | Letrozol Synthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 100790 | Letrozol Synthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 100792 | Letrozol Genthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Genthon B.V. | Geldig |
+| RVG 100805 | Etruzil 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Egis Pharmaceuticals | Geldig |
+| RVG 100807 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 100809 | Letrostar 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Maddox Pharma Swiss B.V. | Geldig |
+| RVG 100811 | Letrozin 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Meditrina Ltd, Pharmaceutical Company | Geldig |
+| RVG 102441 | Letrozol Accord 2,5 mg filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102781 | Letrozol Glenmark 2,5 mg filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| RVG 102826 | Letrozol 2,5 mg Teva, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 104036 | Letrozol Viatris 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 104924 | Letrozol Devatis 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Devatis GmbH | Geldig |
+| RVG 104929 | Letrozol Denk 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Denk Pharma GmbH & Co. KG | Geldig |
+| RVG 105802 | Letrozol SUN 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 106321 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106322 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 106323 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 111266 | Letrozol Amarox 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 133221 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 114435 | Letrozol 2,5 mg Focus, filmomhulde tabletten | LETROZOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

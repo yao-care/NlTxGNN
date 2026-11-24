@@ -88,14 +88,14 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 117928//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 126683//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 127206//11772 | Thiopentalnatrium Medcor, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Geldig |
-| RVG 127443//11772 | Thiopentalnatrium ERC 500 mg, poeder voor oplossing voor injectie | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 117928//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | – | Geldig |
+| RVG 126683//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Eureco-Pharma B.V. | Geldig |
+| RVG 127206//11772 | Thiopentalnatrium Medcor, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 127443//11772 | Thiopentalnatrium ERC 500 mg, poeder voor oplossing voor injectie | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -92,27 +92,27 @@ Ter context: voor de derde voorspelde indicatie (maagzweerziekte) zijn wel drie 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/03/270 | Kentera 3,9 mg / 24 uur, pleister voor transdermaal gebruik | OXYBUTYNINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 10528 | Dridase, stroop | OXYBUTYNINEHYDROCHLORIDE | Stroop | Geldig |
-| RVG 20796 | Oxybutyninehydrochloride Unichem 2,5 mg tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 20797 | Oxybutyninehydrochloride Unichem 5 mg tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 22822 | Oxybutynine HCl Viatris 2,5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 22823 | Oxybutynine HCl Viatris 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 23879 | Oxybutynine HCl Accord 5 mg Tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 23950 | Oxybutynine HCl Teva 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 24081 | Oxybutynine HCl Accord 2,5 mg Tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 25156 | Oxybutynine HCl Auro 2,5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 25157 | Oxybutynine HCl Auro 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 104979 | Oxybutynine HCl 2,5 mg ICC, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 104980 | Oxybutynine HCl 5 mg ICC, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 121012 | VESOLOX 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Geldig |
-| RVG 127029 | Velariq 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Geldig |
-| RVG 127448 | Oxybutynine HCl Unimedic 0,5 mg/ml, oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Geldig |
-| RVG 134221//127029 | Velariq 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/03/270 | Kentera 3,9 mg / 24 uur, pleister voor transdermaal gebruik | OXYBUTYNINE | Pleister voor transdermaal gebruik | Teva B.V. | Geldig |
+| RVG 10528 | Dridase, stroop | OXYBUTYNINEHYDROCHLORIDE | Stroop | pharmaand GmbH | Geldig |
+| RVG 20796 | Oxybutyninehydrochloride Unichem 2,5 mg tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 20797 | Oxybutyninehydrochloride Unichem 5 mg tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Unichem Laboratories Limited | Geldig |
+| RVG 22822 | Oxybutynine HCl Viatris 2,5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Viatris Limited | Geldig |
+| RVG 22823 | Oxybutynine HCl Viatris 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Viatris Limited | Geldig |
+| RVG 23879 | Oxybutynine HCl Accord 5 mg Tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 23950 | Oxybutynine HCl Teva 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 24081 | Oxybutynine HCl Accord 2,5 mg Tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 25156 | Oxybutynine HCl Auro 2,5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 25157 | Oxybutynine HCl Auro 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 104979 | Oxybutynine HCl 2,5 mg ICC, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | I.C.C. B.V. | Geldig |
+| RVG 104980 | Oxybutynine HCl 5 mg ICC, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | – | Geldig |
+| RVG 121012 | VESOLOX 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Farco-Pharma GmbH | Geldig |
+| RVG 127029 | Velariq 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Medice Arzneimittel Pütter GmbH & Co. KG | Geldig |
+| RVG 127448 | Oxybutynine HCl Unimedic 0,5 mg/ml, oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Unimedic Pharma AB | Geldig |
+| RVG 134221//127029 | Velariq 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | BModesto B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

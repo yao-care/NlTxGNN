@@ -73,16 +73,16 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 16889 | Taloxa-SUSP, 600 mg/5 ml suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | Geldig |
-| RVG 110909 | Taloxa-TABS 600 mg, tabletten | FELBAMAAT | Tablet | Geldig |
-| RVG 113640//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | Geldig |
-| RVG 119849//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | Geldig |
-| RVG 125326//110909 | Taloxa-TABS 600 mg, tabletten | FELBAMAAT | Tablet | Geldig |
-| RVG 134703//110909 | Taloxa-TABS 600 mg tabletten | FELBAMAAT | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 16889 | Taloxa-SUSP, 600 mg/5 ml suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | N.V. Organon | Geldig |
+| RVG 110909 | Taloxa-TABS 600 mg, tabletten | FELBAMAAT | Tablet | N.V. Organon | Geldig |
+| RVG 113640//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 119849//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | – | Geldig |
+| RVG 125326//110909 | Taloxa-TABS 600 mg, tabletten | FELBAMAAT | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 134703//110909 | Taloxa-TABS 600 mg tabletten | FELBAMAAT | Tablet | Medcor Pharmaceuticals B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

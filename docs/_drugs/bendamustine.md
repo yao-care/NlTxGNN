@@ -104,16 +104,16 @@ De tabel toont een selectie van de meest relevante studies bij mantelcellymfoom 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 117807 | Bendamustine HCl medac 2,5 mg/ml, poeder voor concentraat voor oplossing voor i… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 117843 | Bendamustine Accord 2,5 mg/ml poeder voor concentraat voor oplossing voor infus… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 118758 | Bendamustine HCl Glenmark 2,5 mg/ml poeder voor concentraat voor oplossing voor… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 119787 | Bendamustine Fresenius Kabi 2,5 mg/ml poeder voor concentraat voor oplossing vo… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
-| RVG 121963 | Bendamustine Baxter 2,5 mg/ml poeder voor concentraat voor oplossing voor infus… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
-| RVG 126621 | Bendamustine Accord 25 mg/ml concentraat voor oplossing voor infusie | BENDAMUSTINEHYDROCHLORIDE 1-WATER | Concentraat voor oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 117807 | Bendamustine HCl medac 2,5 mg/ml, poeder voor concentraat voor oplossing voor i… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Medac Gesellschaft für klinische Spezialpräparate mbH | Geldig |
+| RVG 117843 | Bendamustine Accord 2,5 mg/ml poeder voor concentraat voor oplossing voor infus… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Accord Healthcare B.V. | Geldig |
+| RVG 118758 | Bendamustine HCl Glenmark 2,5 mg/ml poeder voor concentraat voor oplossing voor… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 119787 | Bendamustine Fresenius Kabi 2,5 mg/ml poeder voor concentraat voor oplossing vo… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | – | Geldig |
+| RVG 121963 | Bendamustine Baxter 2,5 mg/ml poeder voor concentraat voor oplossing voor infus… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Baxter B.V. | Geldig |
+| RVG 126621 | Bendamustine Accord 25 mg/ml concentraat voor oplossing voor infusie | BENDAMUSTINEHYDROCHLORIDE 1-WATER | Concentraat voor oplossing voor infusie | Accord Healthcare B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

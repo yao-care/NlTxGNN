@@ -82,13 +82,13 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06445 | Myambutol, tabletten 400 mg | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 117584//06445 | Myambutol 400 mg, filmomhulde tabletten | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 122891//06445 | Myambutol 400 mg filmomhulde tabletten | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06445 | Myambutol, tabletten 400 mg | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | Teofarma Srl | Geldig |
+| RVG 117584//06445 | Myambutol 400 mg, filmomhulde tabletten | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | – | Geldig |
+| RVG 122891//06445 | Myambutol 400 mg filmomhulde tabletten | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | Medcor Pharmaceuticals B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

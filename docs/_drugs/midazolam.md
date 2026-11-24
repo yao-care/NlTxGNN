@@ -95,32 +95,32 @@ De overige gevonden publicaties (preklinische zolpidemstudie, casuïstiek en een
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/11/709 | Buccolam 10mg/2ml, oplossing voor oromucosaal gebruik | MIDAZOLAMHYDROCHLORIDE | Oplossing voor oromucosaal gebruik | Geldig |
-| RVG 10064 | Dormicum 5 mg/ml oplossing voor injectie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 10539 | Dormicum 15 mg, filmomhulde tabletten | MIDAZOLAMMALEAAT | Filmomhulde tablet | Geldig |
-| RVG 13027 | Dormicum 7,5 mg, filmomhulde tabletten | MIDAZOLAMMALEAAT | Filmomhulde tablet | Geldig |
-| RVG 22579 | Midazolam-hameln 1 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 22580 | Midazolam-hameln 2 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 22581 | Midazolam-hameln 5 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 22582 | Midazolam Hikma 1 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 22584 | Midazolam Hikma 5 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 22594 | Midazolam Eugia 1 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Geldig |
-| RVG 22595 | Midazolam Eugia 2 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Geldig |
-| RVG 22596 | Midazolam Eugia 5 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Geldig |
-| RVG 100470 | Midazolam Accord 1 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 100485 | Midazolam Accord 5 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 110832 | Midazolam Sandoz 1 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 110837 | Midazolam Sandoz 5 mg/ml, oplossing voor injectie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 119990 | Ozalin 2 mg/ml drank in verpakking voor eenmalig gebruik | MIDAZOLAM | Drank | Geldig |
-| RVG 124214 | Miprosed 5mg/ml drank | MIDAZOLAM | Drank | Geldig |
-| RVG 124774 | Midazolam Accord 1 mg/ml oplossing voor injectie/infusie in voorgevulde spuit | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 125603 | Midazolam Xiromed 2,5 mg oplossing voor oromucosaal gebruik | MIDAZOLAMHYDROCHLORIDE | Oplossing voor oromucosaal gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/11/709 | Buccolam 10mg/2ml, oplossing voor oromucosaal gebruik | MIDAZOLAMHYDROCHLORIDE | Oplossing voor oromucosaal gebruik | Laboratorios Lesvi S.L. | Geldig |
+| RVG 10064 | Dormicum 5 mg/ml oplossing voor injectie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 10539 | Dormicum 15 mg, filmomhulde tabletten | MIDAZOLAMMALEAAT | Filmomhulde tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 13027 | Dormicum 7,5 mg, filmomhulde tabletten | MIDAZOLAMMALEAAT | Filmomhulde tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 22579 | Midazolam-hameln 1 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | hameln pharma gmbh | Geldig |
+| RVG 22580 | Midazolam-hameln 2 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | hameln pharma gmbh | Geldig |
+| RVG 22581 | Midazolam-hameln 5 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | hameln pharma gmbh | Geldig |
+| RVG 22582 | Midazolam Hikma 1 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 22584 | Midazolam Hikma 5 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 22594 | Midazolam Eugia 1 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 22595 | Midazolam Eugia 2 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 22596 | Midazolam Eugia 5 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 100470 | Midazolam Accord 1 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Accord Healthcare B.V. | Geldig |
+| RVG 100485 | Midazolam Accord 5 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Accord Healthcare B.V. | Geldig |
+| RVG 110832 | Midazolam Sandoz 1 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Sandoz B.V. | Geldig |
+| RVG 110837 | Midazolam Sandoz 5 mg/ml, oplossing voor injectie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | – | Geldig |
+| RVG 119990 | Ozalin 2 mg/ml drank in verpakking voor eenmalig gebruik | MIDAZOLAM | Drank | Istituto Gentili S.r.l. | Geldig |
+| RVG 124214 | Miprosed 5mg/ml drank | MIDAZOLAM | Drank | Syri Pharma Limited | Geldig |
+| RVG 124774 | Midazolam Accord 1 mg/ml oplossing voor injectie/infusie in voorgevulde spuit | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Accord Healthcare B.V. | Geldig |
+| RVG 125603 | Midazolam Xiromed 2,5 mg oplossing voor oromucosaal gebruik | MIDAZOLAMHYDROCHLORIDE | Oplossing voor oromucosaal gebruik | Medical Valley Invest AB | Geldig |
 
 Getoond worden 20 van de 37 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

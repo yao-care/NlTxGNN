@@ -80,32 +80,32 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/23/1763 | Catiolanze, 50 microgram/ml oogdruppels, emulsie | LATANOPROST | Oogdruppels, emulsie | Geldig |
-| RVG 21304 | Xalatan, oogdruppels, oplossing 50 microgram/ml | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 102633 | Latanoprost Auro 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 102637 | Latanoprost 50 microgram/ml Teva, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 102638 | Latanoprost Mylan 0,05 mg/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 102640 | Exprosol 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 104079 | Latanoprost Sandoz 0,05 mg/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 106488 | Latanoxam 50 microgram/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 107918 | Latanoprost Viatris 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 110246 | Monoprost 50 microgram/ml, oogdruppels, oplossing in verpakking voor éénmalig g… | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 115290 | Xalmono 0,05 mg/ml oogdruppels, oplossing in verpakking voor éénmalig gebruik | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 115407 | Latanostad 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 115689 | Monoprost 50 microgram/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 118920 | Xalof 0,05 mg/ml oogdruppels, oplossing in verpakking voor éénmalig gebruik | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 121126 | Vizilatan 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 125924 | Latanmono conserveermiddelvrij 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 132271 | Latanoprost Stulln zonder conserveermiddel 50 microgram/ml oogdruppels, oplossi… | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 133108 | Latanoprost Blumont 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 134766 | Latanoprost CF 0,05 mg/ml, oogdruppels, oplossing in verpakking voor éénmalig g… | LATANOPROST | Oogdruppels, oplossing | Geldig |
-| RVG 134969 | Latanea 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/23/1763 | Catiolanze, 50 microgram/ml oogdruppels, emulsie | LATANOPROST | Oogdruppels, emulsie | Santen Oy | Geldig |
+| RVG 21304 | Xalatan, oogdruppels, oplossing 50 microgram/ml | LATANOPROST | Oogdruppels, oplossing | Viatris Healthcare Limited | Geldig |
+| RVG 102633 | Latanoprost Auro 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Aurobindo Pharma B.V. | Geldig |
+| RVG 102637 | Latanoprost 50 microgram/ml Teva, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Teva B.V. | Geldig |
+| RVG 102638 | Latanoprost Mylan 0,05 mg/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 102640 | Exprosol 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Stada Arzneimittel AG | Geldig |
+| RVG 104079 | Latanoprost Sandoz 0,05 mg/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Sandoz B.V. | Geldig |
+| RVG 106488 | Latanoxam 50 microgram/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Maxmind Pharmaceutical SL | Geldig |
+| RVG 107918 | Latanoprost Viatris 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Viatris Limited | Geldig |
+| RVG 110246 | Monoprost 50 microgram/ml, oogdruppels, oplossing in verpakking voor éénmalig g… | LATANOPROST | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 115290 | Xalmono 0,05 mg/ml oogdruppels, oplossing in verpakking voor éénmalig gebruik | LATANOPROST | Oogdruppels, oplossing | Genetic S.p.A. | Geldig |
+| RVG 115407 | Latanostad 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | – | Geldig |
+| RVG 115689 | Monoprost 50 microgram/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 118920 | Xalof 0,05 mg/ml oogdruppels, oplossing in verpakking voor éénmalig gebruik | LATANOPROST | Oogdruppels, oplossing | Horus Pharma S.A.S. | Geldig |
+| RVG 121126 | Vizilatan 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 125924 | Latanmono conserveermiddelvrij 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Rockmed Pharma B.V. | Geldig |
+| RVG 132271 | Latanoprost Stulln zonder conserveermiddel 50 microgram/ml oogdruppels, oplossi… | LATANOPROST | Oogdruppels, oplossing | Pharma Stulln GmbH | Geldig |
+| RVG 133108 | Latanoprost Blumont 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Blumont Ofta Trading Limited | Geldig |
+| RVG 134766 | Latanoprost CF 0,05 mg/ml, oogdruppels, oplossing in verpakking voor éénmalig g… | LATANOPROST | Oogdruppels, oplossing | Centrafarm B.V. | Geldig |
+| RVG 134969 | Latanea 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Horus Pharma S.A.S. | Geldig |
 
 Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

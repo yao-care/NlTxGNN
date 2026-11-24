@@ -74,32 +74,32 @@ Er is momenteel geen relevante literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 28357//12277 | Zoladex 3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 119234//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 119235//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 119236//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 119237//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 120093//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 125241//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 125936//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 126446//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 128711//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 129312//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 129814//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 129823//12277 | Zoladex 3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 132229//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 133091//18562 | Zoladex 10,8 mg, implantatiestaafje | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 133352//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
-| RVG 135073//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantaat | Geldig |
-| RVG 136533//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | AstraZeneca B.V | Geldig |
+| RVG 18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | AstraZeneca B.V | Geldig |
+| RVG 28357//12277 | Zoladex 3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 119234//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Originalis B.V. | Geldig |
+| RVG 119235//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Originalis B.V. | Geldig |
+| RVG 119236//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Originalis B.V. | Geldig |
+| RVG 119237//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Originalis B.V. | Geldig |
+| RVG 120093//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Orifarm A/S | Geldig |
+| RVG 125241//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 125936//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Originalis B.V. | Geldig |
+| RVG 126446//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 128711//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Orifarm A/S | Geldig |
+| RVG 129312//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 129814//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129823//12277 | Zoladex 3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 132229//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 133091//18562 | Zoladex 10,8 mg, implantatiestaafje | GOSERELINEACETAAT | Implantatietablet | BModesto B.V. | Geldig |
+| RVG 133352//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 135073//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantaat | Euro Registratie Collectief b.v. | Geldig |
+| RVG 136533//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Medcor Pharmaceuticals B.V. | Geldig |
 
 Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

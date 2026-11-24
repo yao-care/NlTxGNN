@@ -70,12 +70,12 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06636 | Tantum benzydamine HCl 30 mg/g, creme | BENZYDAMINEHYDROCHLORIDE | Crème | Geldig |
-| RVG 117651 | Benzydamine HCl Orifarm Honing/Sinaasappel, 3 mg zuigtabletten | BENZYDAMINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06636 | Tantum benzydamine HCl 30 mg/g, creme | BENZYDAMINEHYDROCHLORIDE | Crème | Remark Pharma | Geldig |
+| RVG 117651 | Benzydamine HCl Orifarm Honing/Sinaasappel, 3 mg zuigtabletten | BENZYDAMINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -94,24 +94,24 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 08426 | Lonnoten, tabletten 10 mg | MINOXIDIL | Tablet | Geldig |
-| RVG 57383 | Minoxidil, lotion 2 g/100 ml | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 118101 | Minoxidil Xiromed 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 118105 | Minoxidil Xiromed 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 122547 | Minoxidil Linn 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 122548 | Minoxidil Linn 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 126343 | Minoxidil Linn 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 126344 | HGS Minoxidil 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 126372 | Minoxidil Teva 50 mg/ml, oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 126373 | Minoxidil Teva 20 mg/ml, oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
-| RVG 128704 | Minoxidil Linn 50 mg/g schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Geldig |
-| RVG 132307 | Minoxidil Bipharma 50 mg/g, schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Geldig |
-| RVG 133888 | Minoxidil Intermed 50 mg/g schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Geldig |
-| RVG 119952//08426 | Lonnoten 10 mg, tabletten | MINOXIDIL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 08426 | Lonnoten, tabletten 10 mg | MINOXIDIL | Tablet | Pfizer B.V. | Geldig |
+| RVG 57383 | Minoxidil, lotion 2 g/100 ml | MINOXIDIL | Oplossing voor cutaan gebruik | Fagron NL B.V. | Geldig |
+| RVG 118101 | Minoxidil Xiromed 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Medical Valley Invest AB | Geldig |
+| RVG 118105 | Minoxidil Xiromed 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Medical Valley Invest AB | Geldig |
+| RVG 122547 | Minoxidil Linn 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | MAE Holding B.V. | Geldig |
+| RVG 122548 | Minoxidil Linn 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | MAE Holding B.V. | Geldig |
+| RVG 126343 | Minoxidil Linn 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | MAE Holding B.V. | Geldig |
+| RVG 126344 | HGS Minoxidil 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | MAE Holding B.V. | Geldig |
+| RVG 126372 | Minoxidil Teva 50 mg/ml, oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Teva B.V. | Geldig |
+| RVG 126373 | Minoxidil Teva 20 mg/ml, oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Teva B.V. | Geldig |
+| RVG 128704 | Minoxidil Linn 50 mg/g schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Intermed S.A. | Geldig |
+| RVG 132307 | Minoxidil Bipharma 50 mg/g, schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Bipharma B.V. | Geldig |
+| RVG 133888 | Minoxidil Intermed 50 mg/g schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Ioulia & Irini Tseti Pharmaceutical Laboratories SA (Distin… | Geldig |
+| RVG 119952//08426 | Lonnoten 10 mg, tabletten | MINOXIDIL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -93,27 +93,27 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 00238 | Flagyl, ovula 500 mg | METRONIDAZOL | Ovule | Geldig |
-| RVG 07074 | Metronidazol Aurobindo 250 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Geldig |
-| RVG 08652 | Metronidazol Aurobindo 500 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Geldig |
-| RVG 12087 | Metronidazol B. Braun 5 mg/ml oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
-| RVG 13752 | Metronidazol Aurobindo 10 mg/g, hydrofiele crème | METRONIDAZOL | Crème | Geldig |
-| RVG 14416 | Rozex 7,5 mg/g, gel | METRONIDAZOL | Gel | Geldig |
-| RVG 17393 | Metronidazol 5 mg/ml in VIAFLO, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
-| RVG 33518 | Metrosa 7,5 mg/g, gel | METRONIDAZOL | Gel | Geldig |
-| RVG 56005 | Metronidazol 5 mg/ml Fresenius, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
-| RVG 116727 | Metronidazol Hikma 5 mg/ml oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
-| RVG 120196 | Metronidazol Noridem 5 mg/ml, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
-| RVG 123350 | Metronidazol Auro 250 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Geldig |
-| RVG 123351 | Metronidazol Auro 500 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Geldig |
-| RVG 133365//00238 | Flagyl, ovula 500 mg | METRONIDAZOL | Ovule | Geldig |
-| RVG 133410//00238 | Flagyl 500 mg ovule | METRONIDAZOL | Ovule | Geldig |
-| RVG 135795 | Tryplera 140 mg/125 mg/125 mg capsules | BISMUTSUBCITRAATKALIUMHYDRAAT, METRONIDAZOL, TETRACYCLINE HYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 119834//14416 | Metronidazol Fisher 7,5 mg/g, gel | METRONIDAZOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 00238 | Flagyl, ovula 500 mg | METRONIDAZOL | Ovule | Fidia Farmaceutici S.p.A. | Geldig |
+| RVG 07074 | Metronidazol Aurobindo 250 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 08652 | Metronidazol Aurobindo 500 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 12087 | Metronidazol B. Braun 5 mg/ml oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | B. Braun Melsungen AG (Melsungen) | Geldig |
+| RVG 13752 | Metronidazol Aurobindo 10 mg/g, hydrofiele crème | METRONIDAZOL | Crème | Aurobindo Pharma B.V. | Geldig |
+| RVG 14416 | Rozex 7,5 mg/g, gel | METRONIDAZOL | Gel | Galderma Benelux B.V. | Geldig |
+| RVG 17393 | Metronidazol 5 mg/ml in VIAFLO, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Baxter B.V. | Geldig |
+| RVG 33518 | Metrosa 7,5 mg/g, gel | METRONIDAZOL | Gel | Dr. August Wolff GmbH & Co. Arzneimittel | Geldig |
+| RVG 56005 | Metronidazol 5 mg/ml Fresenius, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 116727 | Metronidazol Hikma 5 mg/ml oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 120196 | Metronidazol Noridem 5 mg/ml, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Noridem Enterprises Ltd | Geldig |
+| RVG 123350 | Metronidazol Auro 250 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 123351 | Metronidazol Auro 500 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 133365//00238 | Flagyl, ovula 500 mg | METRONIDAZOL | Ovule | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 133410//00238 | Flagyl 500 mg ovule | METRONIDAZOL | Ovule | Euro Registratie Collectief B.V. | Geldig |
+| RVG 135795 | Tryplera 140 mg/125 mg/125 mg capsules | BISMUTSUBCITRAATKALIUMHYDRAAT, METRONIDAZOL, TETRACYCLINE HYDROCHLORIDE | Capsule, hard | Laboratoires Juvise Pharmaceuticals | Geldig |
+| RVG 119834//14416 | Metronidazol Fisher 7,5 mg/g, gel | METRONIDAZOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

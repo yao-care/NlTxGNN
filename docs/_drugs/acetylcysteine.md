@@ -89,32 +89,32 @@ Het bewijs beperkt zich tot trombotische microangiopathie en immuun-trombocytope
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 09988 | Fluimucil 200 mg bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 10903 | Fluimucil 200 mg/ml Concentraat voor oplossing voor infusie | ACETYLCYSTEÏNE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 12151 | Fluimucil 600 mg bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 12777 | Acetylcysteïne Teva 200 mg, poeder voor oraal gebruik | ACETYLCYSTEÏNE | Poeder voor oraal gebruik | Geldig |
-| RVG 13521 | Acetylcysteïne Teva 600 mg, poeder voor oraal gebruik | ACETYLCYSTEÏNE | Poeder voor oraal gebruik | Geldig |
-| RVG 16493 | RXT acetylcysteïne 200 mg hoesttabletten bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 17414 | Hoestbruistabletten HTP Acetylcysteïne 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 19211=13521 | Acetylcysteïne Sanias 600 mg, poeder in sachets | ACETYLCYSTEÏNE | Poeder voor oraal gebruik | Geldig |
-| RVG 20515 | Acetylcysteïne Sandoz Bruis 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 20870 | Fluimucil 20 mg/ml Drank | ACETYLCYSTEÏNE | Drank | Geldig |
-| RVG 21020 | Acetylcysteïne Sandoz 200 mg, granulaat voor drank | ACETYLCYSTEÏNE | Granulaat voor drank | Geldig |
-| RVG 24707 | Acetylcysteine Linn 100 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 24708 | Acetylcysteine Linn 200 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 24709 | Acetylcysteine Linn 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 25068=09988 | Fluimucil 200 mg Bruis, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 25336=12151 | Fluimucil 600 Bruis, bruistabletten 600 mg | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 25408 | Fluimucil 200 mg orodispergeerbare tabletten | ACETYLCYSTEÏNE | Orodispergeerbare tablet | Geldig |
-| RVG 26415=17414 | Etos Hoest Bruistabletten Acetylcysteïne 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
-| RVG 28242=25408 | Fluimucil 200 mg Pastille, Orodispergeerbare tabletten | ACETYLCYSTEÏNE | Orodispergeerbare tablet | Geldig |
-| RVG 28428=17414 | DA Hoestbruistabletten Acetylcysteïne 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 09988 | Fluimucil 200 mg bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Zambon Nederland B.V. | Geldig |
+| RVG 10903 | Fluimucil 200 mg/ml Concentraat voor oplossing voor infusie | ACETYLCYSTEÏNE | Concentraat voor oplossing voor infusie | Zambon Nederland B.V. | Geldig |
+| RVG 12151 | Fluimucil 600 mg bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Zambon Nederland B.V. | Geldig |
+| RVG 12777 | Acetylcysteïne Teva 200 mg, poeder voor oraal gebruik | ACETYLCYSTEÏNE | Poeder voor oraal gebruik | Teva Nederland B.V. | Geldig |
+| RVG 13521 | Acetylcysteïne Teva 600 mg, poeder voor oraal gebruik | ACETYLCYSTEÏNE | Poeder voor oraal gebruik | Teva Nederland B.V. | Geldig |
+| RVG 16493 | RXT acetylcysteïne 200 mg hoesttabletten bruistabletten | ACETYLCYSTEÏNE | Bruistablet | RXT | Geldig |
+| RVG 17414 | Hoestbruistabletten HTP Acetylcysteïne 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Healthypharm B.V. | Geldig |
+| RVG 19211=13521 | Acetylcysteïne Sanias 600 mg, poeder in sachets | ACETYLCYSTEÏNE | Poeder voor oraal gebruik | Aurobindo Pharma B.V. | Geldig |
+| RVG 20515 | Acetylcysteïne Sandoz Bruis 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Sandoz B.V. | Geldig |
+| RVG 20870 | Fluimucil 20 mg/ml Drank | ACETYLCYSTEÏNE | Drank | Zambon Nederland B.V. | Geldig |
+| RVG 21020 | Acetylcysteïne Sandoz 200 mg, granulaat voor drank | ACETYLCYSTEÏNE | Granulaat voor drank | Sandoz B.V. | Geldig |
+| RVG 24707 | Acetylcysteine Linn 100 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | MAE Holding B.V. | Geldig |
+| RVG 24708 | Acetylcysteine Linn 200 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | MAE Holding B.V. | Geldig |
+| RVG 24709 | Acetylcysteine Linn 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | MAE Holding B.V. | Geldig |
+| RVG 25068=09988 | Fluimucil 200 mg Bruis, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Zambon Nederland B.V. | Geldig |
+| RVG 25336=12151 | Fluimucil 600 Bruis, bruistabletten 600 mg | ACETYLCYSTEÏNE | Bruistablet | Zambon Nederland B.V. | Geldig |
+| RVG 25408 | Fluimucil 200 mg orodispergeerbare tabletten | ACETYLCYSTEÏNE | Orodispergeerbare tablet | Zambon Nederland B.V. | Geldig |
+| RVG 26415=17414 | Etos Hoest Bruistabletten Acetylcysteïne 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Healthypharm B.V. | Geldig |
+| RVG 28242=25408 | Fluimucil 200 mg Pastille, Orodispergeerbare tabletten | ACETYLCYSTEÏNE | Orodispergeerbare tablet | Zambon Nederland B.V. | Geldig |
+| RVG 28428=17414 | DA Hoestbruistabletten Acetylcysteïne 600 mg, bruistabletten | ACETYLCYSTEÏNE | Bruistablet | Nederlandse Drogisterij Service B.V. | Geldig |
 
 Getoond worden 20 van de 53 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -88,32 +88,32 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 13010 | Zyrtec 10 mg filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 25270 | Cetirizine 2HCl Sandoz 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 26723 | Cetirizine diHCl Viatris 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 26981 | Albert Heijn Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 29225 | Allergietabletten HTP Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 29446 | Reactine 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 32486 | Cetirizine 2HCl Teva 1 mg/ml, drank | CETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
-| RVG 35017 | Cetirizine diHCl SAM 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 35129 | Kruidvat hooikoortstabletten cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 35130 | DA Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 100881 | Cetirizine diHCl Triangle Pharma 10 mg hooikoortstabletten, filmomhulde tablett… | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 100976 | RXT Cetirizine diHCl 10 mg hooikoortstabletten, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 110375 | Etos Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 111430 | Cetirizine diHCl Teva 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 115971 | Prevalin Allerstop cetirizine 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 117667 | Cetirizine diHCl Aurobindo 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 117845 | Cetirizine diHCl Sanias 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 120211//14635 | Zyrtec 1 mg/ml drank | CETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
-| RVG 124832=111430 | Livsane Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 127803=26981 | Trekpleister hooikoortstabletten cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 13010 | Zyrtec 10 mg filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | UCB Pharma B.V. | Geldig |
+| RVG 25270 | Cetirizine 2HCl Sandoz 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 26723 | Cetirizine diHCl Viatris 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 26981 | Albert Heijn Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 29225 | Allergietabletten HTP Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Healthypharm B.V. | Geldig |
+| RVG 29446 | Reactine 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Kenvue Netherlands B.V. | Geldig |
+| RVG 32486 | Cetirizine 2HCl Teva 1 mg/ml, drank | CETIRIZINEDIHYDROCHLORIDE | Drank | Teva B.V. | Geldig |
+| RVG 35017 | Cetirizine diHCl SAM 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Mosadex Services B.V. | Geldig |
+| RVG 35129 | Kruidvat hooikoortstabletten cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Healthypharm B.V. | Geldig |
+| RVG 35130 | DA Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Nederlandse Drogisterij Service B.V. | Geldig |
+| RVG 100881 | Cetirizine diHCl Triangle Pharma 10 mg hooikoortstabletten, filmomhulde tablett… | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | MAE Holding B.V. | Geldig |
+| RVG 100976 | RXT Cetirizine diHCl 10 mg hooikoortstabletten, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | RXT | Geldig |
+| RVG 110375 | Etos Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Healthypharm B.V. | Geldig |
+| RVG 111430 | Cetirizine diHCl Teva 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 115971 | Prevalin Allerstop cetirizine 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Omega Pharma Nederland B.V. | Geldig |
+| RVG 117667 | Cetirizine diHCl Aurobindo 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 117845 | Cetirizine diHCl Sanias 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 120211//14635 | Zyrtec 1 mg/ml drank | CETIRIZINEDIHYDROCHLORIDE | Drank | – | Geldig |
+| RVG 124832=111430 | Livsane Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 127803=26981 | Trekpleister hooikoortstabletten cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Healthypharm B.V. | Geldig |
 
 Getoond worden 20 van de 26 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

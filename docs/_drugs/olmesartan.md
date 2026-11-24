@@ -88,32 +88,32 @@ Het middel is momenteel op de Nederlandse markt. Gegevens over toedieningsvorm e
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28782 | Olmetec 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 28783 | Olmetec 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 28784 | Olmetec 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 115135 | Olmesartan medoxomil Glenmark 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 115136 | Olmesartan medoxomil Glenmark 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 115137 | Olmesartan medoxomil Glenmark 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 115532 | Olmesartan medoxomil Jubilant 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 115533 | Olmesartan medoxomil Jubilant 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 115534 | Olmesartan medoxomil Jubilant 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 116942 | Olmesartan Medoxomil Accord 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 116943 | Olmesartan Medoxomil Accord 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 116944 | Olmesartan Medoxomil Accord 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 117240 | Olmesartan medoxomil Sandoz 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 117248 | Olmesartan medoxomil Sandoz 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 117249 | Olmesartan medoxomil Sandoz 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 117475 | Olmesartan medoxomil Krka 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 117476 | Olmesartan medoxomil Krka 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 117477 | Olmesartan medoxomil Krka 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 118852 | Olmesartanmedoxomil Aurobindo 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
-| RVG 118853 | Olmesartanmedoxomil Aurobindo 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28782 | Olmetec 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Daiichi Sankyo Nederland B.V. | Geldig |
+| RVG 28783 | Olmetec 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Daiichi Sankyo Nederland B.V. | Geldig |
+| RVG 28784 | Olmetec 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Daiichi Sankyo Nederland B.V. | Geldig |
+| RVG 115135 | Olmesartan medoxomil Glenmark 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 115136 | Olmesartan medoxomil Glenmark 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 115137 | Olmesartan medoxomil Glenmark 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 115532 | Olmesartan medoxomil Jubilant 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
+| RVG 115533 | Olmesartan medoxomil Jubilant 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
+| RVG 115534 | Olmesartan medoxomil Jubilant 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Jubilant Pharmaceuticals N.V. | Geldig |
+| RVG 116942 | Olmesartan Medoxomil Accord 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 116943 | Olmesartan Medoxomil Accord 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 116944 | Olmesartan Medoxomil Accord 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 117240 | Olmesartan medoxomil Sandoz 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 117248 | Olmesartan medoxomil Sandoz 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 117249 | Olmesartan medoxomil Sandoz 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 117475 | Olmesartan medoxomil Krka 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 117476 | Olmesartan medoxomil Krka 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 117477 | Olmesartan medoxomil Krka 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 118852 | Olmesartanmedoxomil Aurobindo 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 118853 | Olmesartanmedoxomil Aurobindo 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
 
 Getoond worden 20 van de 126 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

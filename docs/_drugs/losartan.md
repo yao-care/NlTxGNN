@@ -85,32 +85,32 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 17617 | Cozaar 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 26791 | Cozaar 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 31868 | Kaliumlosartan Sandoz 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 31869 | Kaliumlosartan Sandoz 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 31871 | Kaliumlosartan Sandoz 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 32426 | Losartan kalium HCS 25 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 32427 | Losartan kalium HCS 50 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 32428 | Losartan kalium HCS 100 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 33624 | Losartankalium Xiromed 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 33625 | Losartankalium Xiromed 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 33626 | Losartankalium Xiromed 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 33985 | Losartankalium Mylan 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 33986 | Losartankalium Mylan 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 34188 | Losartankalium 25 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 34189 | Losartankalium 50 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 34190 | Losartankalium 100 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 34409 | Kaliumlosartan axcount 12,5 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 34410 | Kaliumlosartan axcount 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 34411 | Kaliumlosartan axcount 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
-| RVG 34412 | Kaliumlosartan axcount 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 17617 | Cozaar 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 26791 | Cozaar 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 31868 | Kaliumlosartan Sandoz 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 31869 | Kaliumlosartan Sandoz 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 31871 | Kaliumlosartan Sandoz 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 32426 | Losartan kalium HCS 25 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | HCS B.V. | Geldig |
+| RVG 32427 | Losartan kalium HCS 50 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | HCS B.V. | Geldig |
+| RVG 32428 | Losartan kalium HCS 100 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | HCS B.V. | Geldig |
+| RVG 33624 | Losartankalium Xiromed 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 33625 | Losartankalium Xiromed 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 33626 | Losartankalium Xiromed 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
+| RVG 33985 | Losartankalium Mylan 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 33986 | Losartankalium Mylan 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 34188 | Losartankalium 25 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 34189 | Losartankalium 50 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 34190 | Losartankalium 100 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 34409 | Kaliumlosartan axcount 12,5 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | axcount Generika GmbH | Geldig |
+| RVG 34410 | Kaliumlosartan axcount 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | axcount Generika GmbH | Geldig |
+| RVG 34411 | Kaliumlosartan axcount 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | axcount Generika GmbH | Geldig |
+| RVG 34412 | Kaliumlosartan axcount 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | axcount Generika GmbH | Geldig |
 
 Getoond worden 20 van de 67 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -90,32 +90,32 @@ De onderstaande publicaties zijn indirect. Geen ervan onderzoekt atomoxetine bij
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 120972 | Atofab 10 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 120973 | Atofab 18 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 120974 | Atofab 25 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 120975 | Atofab 40 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 120976 | Atofab 60 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 120977 | Atofab 80 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 120978 | Atofab 100 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121221 | Atomoxetine Teva 10 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121222 | Atomoxetine Teva 18 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121223 | Atomoxetine Teva 25 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121224 | Atomoxetine Teva 40 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121225 | Atomoxetine Teva 60 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121226 | Atomoxetine Teva 80 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121227 | Atomoxetine Teva 100 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121262 | Atomoxetine Glenmark 10 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121264 | Atomoxetine Glenmark 18 mg harde capsules | ATOMOXETINE | Capsule, hard | Geldig |
-| RVG 121270 | Atomoxetine Glenmark 25 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121271 | Atomoxetine Glenmark 40 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121272 | Atomoxetine Glenmark 60 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 121273 | Atomoxetine Glenmark 80 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 120972 | Atofab 10 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 120973 | Atofab 18 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 120974 | Atofab 25 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 120975 | Atofab 40 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 120976 | Atofab 60 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 120977 | Atofab 80 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 120978 | Atofab 100 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 121221 | Atomoxetine Teva 10 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 121222 | Atomoxetine Teva 18 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 121223 | Atomoxetine Teva 25 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 121224 | Atomoxetine Teva 40 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 121225 | Atomoxetine Teva 60 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 121226 | Atomoxetine Teva 80 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 121227 | Atomoxetine Teva 100 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 121262 | Atomoxetine Glenmark 10 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 121264 | Atomoxetine Glenmark 18 mg harde capsules | ATOMOXETINE | Capsule, hard | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 121270 | Atomoxetine Glenmark 25 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 121271 | Atomoxetine Glenmark 40 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 121272 | Atomoxetine Glenmark 60 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 121273 | Atomoxetine Glenmark 80 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Glenmark Arzneimittel GmbH | Geldig |
 
 Getoond worden 20 van de 43 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

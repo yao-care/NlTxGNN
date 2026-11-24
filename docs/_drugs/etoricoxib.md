@@ -84,32 +84,32 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 27705 | Arcoxia 60 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 27706 | Arcoxia 90 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 27707 | Arcoxia 120 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 34279 | Arcoxia 30 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 114108 | Etoricoxib Sandoz 30 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 114109 | Etoricoxib Sandoz 60 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 114110 | Etoricoxib Sandoz 90 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 114111 | Etoricoxib Sandoz 120 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 115514 | Etoricoxib Viatris 30 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 115515 | Etoricoxib Viatris 60 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 115516 | Etoricoxib Viatris 90 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 115517 | Etoricoxib Viatris 120 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 115901 | Etoricoxib Teva 30 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 115904 | Etoricoxib Teva 60 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 115905 | Etoricoxib Teva 90 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 115906 | Etoricoxib Teva 120 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 116018 | Ecoxyton 30 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 116019 | Ecoxyton 60 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 116020 | Ecoxyton 90 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
-| RVG 116021 | Ecoxyton 120 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 27705 | Arcoxia 60 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 27706 | Arcoxia 90 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 27707 | Arcoxia 120 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 34279 | Arcoxia 30 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 114108 | Etoricoxib Sandoz 30 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 114109 | Etoricoxib Sandoz 60 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 114110 | Etoricoxib Sandoz 90 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 114111 | Etoricoxib Sandoz 120 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 115514 | Etoricoxib Viatris 30 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 115515 | Etoricoxib Viatris 60 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 115516 | Etoricoxib Viatris 90 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 115517 | Etoricoxib Viatris 120 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 115901 | Etoricoxib Teva 30 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 115904 | Etoricoxib Teva 60 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 115905 | Etoricoxib Teva 90 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 115906 | Etoricoxib Teva 120 mg, filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 116018 | Ecoxyton 30 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 116019 | Ecoxyton 60 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 116020 | Ecoxyton 90 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 116021 | Ecoxyton 120 mg filmomhulde tabletten | ETORICOXIB | Filmomhulde tablet | Synthon B.V. | Geldig |
 
 Getoond worden 20 van de 47 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

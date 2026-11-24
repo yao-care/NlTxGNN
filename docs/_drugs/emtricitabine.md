@@ -86,32 +86,32 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/03/261 | Emtriva 10 mg/ml, drank | EMTRICITABINE | Drank | Geldig |
-| EU/1/04/305 | Truvada 200 mg/245 mg, filmomhulde tablet | EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/11/737 | Eviplera 200 mg/25 mg/245 mg, filmomhulde tabletten | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/13/830 | Stribild 150 mg/150 mg/200 mg/245 mg filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/15/1061 | Genvoya 90 mg/90 mg/120 mg/6 mg, filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/16/1099 | Descovy 200 mg/10 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/16/1112 | Odefsey 200 mg/25 mg/25 mg filmomhulde tabletten | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/16/1133 | Emtricitabine/Tenofovirdisoproxil Mylan 200 mg/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Geldig |
-| EU/1/16/1148 | Emtricitabine/Tenofovirdisoproxil Zentiva 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
-| EU/1/16/1151 | Emtricitabine/tenofovirdisoproxil Krka 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
-| EU/1/17/1182 | Emtricitabine/tenofovir disoproxil Krka d.d. 200/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
-| EU/1/17/1210 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva 600-200-245 filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
-| EU/1/17/1222 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan 600 mg/200 mg/245 mg filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Geldig |
-| EU/1/17/1225 | Symtuza 675 mg/150 mg/200 mg/10 mg filmomhulde tabletten | COBICISTAT, DARUNAVIRETHANOLAAT, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/17/1263 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka 600 mg/200 mg/245 mg, filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
-| EU/1/18/1289 | Biktarvy 30 mg/120 mg/15 mg filmomhulde tabletten | BICTEGRAVIRNATRIUM, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/25/1952 | Emtricitabine/tenofoviralafenamide Viatris 200 mg/10 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
-| EU/1/25/1966 | Emtricitabine/rilpivirine/tenofoviralafenamide Viatris 200 mg/25 mg/25 mg filmo… | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRALAFENAMIDEMONOFUMARAAT | Filmomhulde tablet | Geldig |
-| RVG 117050 | Emtricitabine/Tenofovirdisoproxil Teva 200mg/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
-| RVG 117310 | Emtricitabine/Tenofovirdisoproxil DOC Generici, 200 mg/245 mg filmomhulde table… | EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/03/261 | Emtriva 10 mg/ml, drank | EMTRICITABINE | Drank | Gilead Sciences Ireland UC | Geldig |
+| EU/1/04/305 | Truvada 200 mg/245 mg, filmomhulde tablet | EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Gilead Sciences Ireland UC | Geldig |
+| EU/1/11/737 | Eviplera 200 mg/25 mg/245 mg, filmomhulde tabletten | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Gilead Sciences Ireland UC | Geldig |
+| EU/1/13/830 | Stribild 150 mg/150 mg/200 mg/245 mg filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Gilead Sciences Ireland UC | Geldig |
+| EU/1/15/1061 | Genvoya 90 mg/90 mg/120 mg/6 mg, filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Gilead Sciences Ireland UC | Geldig |
+| EU/1/16/1099 | Descovy 200 mg/10 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Gilead Sciences Ireland UC | Geldig |
+| EU/1/16/1112 | Odefsey 200 mg/25 mg/25 mg filmomhulde tabletten | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Gilead Sciences Ireland UC | Geldig |
+| EU/1/16/1133 | Emtricitabine/Tenofovirdisoproxil Mylan 200 mg/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| EU/1/16/1148 | Emtricitabine/Tenofovirdisoproxil Zentiva 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Zentiva k.s. | Geldig |
+| EU/1/16/1151 | Emtricitabine/tenofovirdisoproxil Krka 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/17/1182 | Emtricitabine/tenofovir disoproxil Krka d.d. 200/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/17/1210 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva 600-200-245 filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Zentiva a.s. | Geldig |
+| EU/1/17/1222 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan 600 mg/200 mg/245 mg filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| EU/1/17/1225 | Symtuza 675 mg/150 mg/200 mg/10 mg filmomhulde tabletten | COBICISTAT, DARUNAVIRETHANOLAAT, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Janssen-Cilag International NV | Geldig |
+| EU/1/17/1263 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka 600 mg/200 mg/245 mg, filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/18/1289 | Biktarvy 30 mg/120 mg/15 mg filmomhulde tabletten | BICTEGRAVIRNATRIUM, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Gilead Sciences Ireland UC | Geldig |
+| EU/1/25/1952 | Emtricitabine/tenofoviralafenamide Viatris 200 mg/10 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Viatris Limited | Geldig |
+| EU/1/25/1966 | Emtricitabine/rilpivirine/tenofoviralafenamide Viatris 200 mg/25 mg/25 mg filmo… | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRALAFENAMIDEMONOFUMARAAT | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 117050 | Emtricitabine/Tenofovirdisoproxil Teva 200mg/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 117310 | Emtricitabine/Tenofovirdisoproxil DOC Generici, 200 mg/245 mg filmomhulde table… | EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
 
 Getoond worden 20 van de 42 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

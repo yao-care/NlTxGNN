@@ -96,22 +96,22 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/12/766 | Sancuso 3,1 mg/24 uur, pleister voor Transdermaal gebruik | GRANISETRON | Pleister voor transdermaal gebruik | Geldig |
-| RVG 16285 | Kytril 1 mg tabletten, omhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 19203 | Kytril 2 mg tabletten, omhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 30753 | Granisetron Viatris 1 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 30754 | Granisetron Viatris 2 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 34915 | Granisetron Hikma, oplossing voor injectie, 1 mg/ml | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 100089 | Granisetron-hameln 1 mg/ml, concentraat voor oplossing voor injectie of infusie | GRANISETRONHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | Geldig |
-| RVG 102042 | Granisetron Fresenius Kabi 1 mg/ml oplossing voor injectie | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 103030 | Granisetron Aurobindo 1 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 103031 | Granisetron Aurobindo 2 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 103103 | Granisetron Hikma, concentraat voor oplossing voor infusie, 1 mg/ml | GRANISETRONHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 113483 | Granisetron Claris 1 mg/ml, oplossing voor injectie | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/12/766 | Sancuso 3,1 mg/24 uur, pleister voor Transdermaal gebruik | GRANISETRON | Pleister voor transdermaal gebruik | Grunenthal GmbH | Geldig |
+| RVG 16285 | Kytril 1 mg tabletten, omhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Atnahs Pharma Netherlands B.V. | Geldig |
+| RVG 19203 | Kytril 2 mg tabletten, omhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Atnahs Pharma Netherlands B.V. | Geldig |
+| RVG 30753 | Granisetron Viatris 1 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 30754 | Granisetron Viatris 2 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 34915 | Granisetron Hikma, oplossing voor injectie, 1 mg/ml | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 100089 | Granisetron-hameln 1 mg/ml, concentraat voor oplossing voor injectie of infusie | GRANISETRONHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | hameln pharma gmbh | Geldig |
+| RVG 102042 | Granisetron Fresenius Kabi 1 mg/ml oplossing voor injectie | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 103030 | Granisetron Aurobindo 1 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 103031 | Granisetron Aurobindo 2 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 103103 | Granisetron Hikma, concentraat voor oplossing voor infusie, 1 mg/ml | GRANISETRONHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 113483 | Granisetron Claris 1 mg/ml, oplossing voor injectie | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

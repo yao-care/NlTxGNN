@@ -93,32 +93,32 @@ Er zijn geen RCT's. De gevonden publicaties zijn vooral reviews, bijwerkingenrap
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 10115 | Salofalk zetpil 250, zetpillen 250 mg | MESALAZINE | Zetpil | Geldig |
-| RVG 11469 | Salofalk 4 g/60 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Geldig |
-| RVG 11737 | Asacol 400 tablet, maagsapresistente tabletten 400 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 11782 | Pentasa 1g/100 ml, suspensie voor rectaal gebruik | MESALAZINE | Suspensie voor rectaal gebruik | Geldig |
-| RVG 11836 | Salofalk zetpil 500, zetpillen 500 mg | MESALAZINE | Zetpil | Geldig |
-| RVG 12144 | Salofalk 500, maagsapresistente tabletten 500 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 14797 | Pentasa 500 mg, tabletten met verlengde afgifte | MESALAZINE | Tablet met verlengde afgifte | Geldig |
-| RVG 15064 | Pentasa 1 g zetpillen | MESALAZINE | Zetpil | Geldig |
-| RVG 15393 | Salofalk 2 g/30 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Geldig |
-| RVG 15845 | Salofalk 2 g/60 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Geldig |
-| RVG 18636 | Asacol 800 tablet, maagsapresistente tabletten 800 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 18706 | Pentasa Compact 1 g, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Geldig |
-| RVG 24112 | Mesalazine Aurobindo 500 mg, zetpillen | MESALAZINE | Zetpil | Geldig |
-| RVG 26915 | Mesalazine Sandoz tablet EC 250, maagsapresistente tabletten 250 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 26916 | Mesalazine Sandoz tablet EC 500, maagsapresistente tabletten 500 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 27071 | Mesalazine Aurobindo EC 250 mg, maagsapresistente tabletten | MESALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 27072 | Mesalazine Aurobindo EC 500 mg, maagsapresistente tabletten | MESALAZINE | Maagsapresistente tablet | Geldig |
-| RVG 28130 | Salofalk 500 mg Granu-Stix, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Geldig |
-| RVG 28131 | Salofalk 1000 mg Granu-Stix, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Geldig |
-| RVG 28179 | Salofalk Schuim 1 g/dosis, schuim voor rectaal gebruik | MESALAZINE | Schuim voor rectaal gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 10115 | Salofalk zetpil 250, zetpillen 250 mg | MESALAZINE | Zetpil | Dr. Falk Pharma Benelux B.V. | Geldig |
+| RVG 11469 | Salofalk 4 g/60 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Dr. Falk Pharma Benelux B.V. | Geldig |
+| RVG 11737 | Asacol 400 tablet, maagsapresistente tabletten 400 mg | MESALAZINE | Maagsapresistente tablet | pharmaand GmbH | Geldig |
+| RVG 11782 | Pentasa 1g/100 ml, suspensie voor rectaal gebruik | MESALAZINE | Suspensie voor rectaal gebruik | Ferring B.V. | Geldig |
+| RVG 11836 | Salofalk zetpil 500, zetpillen 500 mg | MESALAZINE | Zetpil | Dr. Falk Pharma Benelux B.V. | Geldig |
+| RVG 12144 | Salofalk 500, maagsapresistente tabletten 500 mg | MESALAZINE | Maagsapresistente tablet | Dr. Falk Pharma Benelux B.V. | Geldig |
+| RVG 14797 | Pentasa 500 mg, tabletten met verlengde afgifte | MESALAZINE | Tablet met verlengde afgifte | Ferring B.V. | Geldig |
+| RVG 15064 | Pentasa 1 g zetpillen | MESALAZINE | Zetpil | Ferring B.V. | Geldig |
+| RVG 15393 | Salofalk 2 g/30 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Dr. Falk Pharma Benelux B.V. | Geldig |
+| RVG 15845 | Salofalk 2 g/60 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Dr. Falk Pharma Benelux B.V. | Geldig |
+| RVG 18636 | Asacol 800 tablet, maagsapresistente tabletten 800 mg | MESALAZINE | Maagsapresistente tablet | pharmaand GmbH | Geldig |
+| RVG 18706 | Pentasa Compact 1 g, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Ferring B.V. | Geldig |
+| RVG 24112 | Mesalazine Aurobindo 500 mg, zetpillen | MESALAZINE | Zetpil | Aurobindo Pharma B.V. | Geldig |
+| RVG 26915 | Mesalazine Sandoz tablet EC 250, maagsapresistente tabletten 250 mg | MESALAZINE | Maagsapresistente tablet | Sandoz B.V. | Geldig |
+| RVG 26916 | Mesalazine Sandoz tablet EC 500, maagsapresistente tabletten 500 mg | MESALAZINE | Maagsapresistente tablet | Sandoz B.V. | Geldig |
+| RVG 27071 | Mesalazine Aurobindo EC 250 mg, maagsapresistente tabletten | MESALAZINE | Maagsapresistente tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 27072 | Mesalazine Aurobindo EC 500 mg, maagsapresistente tabletten | MESALAZINE | Maagsapresistente tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 28130 | Salofalk 500 mg Granu-Stix, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Dr. Falk Pharma GmbH | Geldig |
+| RVG 28131 | Salofalk 1000 mg Granu-Stix, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Dr. Falk Pharma GmbH | Geldig |
+| RVG 28179 | Salofalk Schuim 1 g/dosis, schuim voor rectaal gebruik | MESALAZINE | Schuim voor rectaal gebruik | Dr. Falk Pharma GmbH | Geldig |
 
 Getoond worden 20 van de 78 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

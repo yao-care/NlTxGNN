@@ -88,19 +88,19 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06870 | Rivotril tabletten 0,5 mg, tabletten | CLONAZEPAM | Tablet | Geldig |
-| RVG 06871 | Rivotril tabletten 2 mg , tabletten | CLONAZEPAM | Tablet | Geldig |
-| RVG 06872 | Rivotril druppels, druppels voor oraal gebruik, oplossing 2,5 mg/ml | CLONAZEPAM | Druppels voor oraal gebruik, oplossing | Geldig |
-| RVG 06873 | Rivotril concentraat voor oplossing voor injectie, concentraat voor oplossing v… | CLONAZEPAM | Concentraat voor oplossing voor injectie | Geldig |
-| RVG 129008 | Clonazepam TZF 0,5 mg, tabletten | CLONAZEPAM | Tablet | Geldig |
-| RVG 129009 | Clonazepam TZF 2 mg, tabletten | CLONAZEPAM | Tablet | Geldig |
-| RVG 131093 | Clonazepam Double-e Pharma 0,5 mg tabletten | CLONAZEPAM | Tablet | Geldig |
-| RVG 131094 | Clonazepam Double-e Pharma 2 mg tabletten | CLONAZEPAM | Tablet | Geldig |
-| RVG 109867 | Clonazepam Sandoz 2 mg, tabletten | CLONAZEPAM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06870 | Rivotril tabletten 0,5 mg, tabletten | CLONAZEPAM | Tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 06871 | Rivotril tabletten 2 mg , tabletten | CLONAZEPAM | Tablet | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 06872 | Rivotril druppels, druppels voor oraal gebruik, oplossing 2,5 mg/ml | CLONAZEPAM | Druppels voor oraal gebruik, oplossing | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 06873 | Rivotril concentraat voor oplossing voor injectie, concentraat voor oplossing v… | CLONAZEPAM | Concentraat voor oplossing voor injectie | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 129008 | Clonazepam TZF 0,5 mg, tabletten | CLONAZEPAM | Tablet | Tarchominskie Zaklady Farmaceutyczne Polfa S.A. | Geldig |
+| RVG 129009 | Clonazepam TZF 2 mg, tabletten | CLONAZEPAM | Tablet | Tarchominskie Zaklady Farmaceutyczne Polfa S.A. | Geldig |
+| RVG 131093 | Clonazepam Double-e Pharma 0,5 mg tabletten | CLONAZEPAM | Tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 131094 | Clonazepam Double-e Pharma 2 mg tabletten | CLONAZEPAM | Tablet | Double-E Pharma Ltd. | Geldig |
+| RVG 109867 | Clonazepam Sandoz 2 mg, tabletten | CLONAZEPAM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

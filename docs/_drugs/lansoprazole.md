@@ -86,15 +86,15 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 32791 | Lansoprazol Viatris 15 mg, maagsapresistente capsules | LANSOPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 32792 | Lansoprazol Viatris 30 mg, maagsapresistente capsules | LANSOPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 100105 | Lansoprazol Aurobindo 15 mg, maagsapresistente capsules | LANSOPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 100115 | Lansoprazol Aurobindo 30 mg, maagsapresistente capsules | LANSOPRAZOL | Maagsapresistente capsule, hard | Geldig |
-| RVG 114236 | Lansoprazol Teva 30 mg, maagsapresistente capsules, hard | LANSOPRAZOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 32791 | Lansoprazol Viatris 15 mg, maagsapresistente capsules | LANSOPRAZOL | Maagsapresistente capsule, hard | Viatris Limited | Geldig |
+| RVG 32792 | Lansoprazol Viatris 30 mg, maagsapresistente capsules | LANSOPRAZOL | Maagsapresistente capsule, hard | Viatris Limited | Geldig |
+| RVG 100105 | Lansoprazol Aurobindo 15 mg, maagsapresistente capsules | LANSOPRAZOL | Maagsapresistente capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 100115 | Lansoprazol Aurobindo 30 mg, maagsapresistente capsules | LANSOPRAZOL | Maagsapresistente capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 114236 | Lansoprazol Teva 30 mg, maagsapresistente capsules, hard | LANSOPRAZOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

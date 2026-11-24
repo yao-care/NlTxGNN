@@ -98,32 +98,32 @@ Meerdere systematische reviews en netwerk-meta-analyses bespreken bupropion als 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 24160 | Zyban, tabletten met verlengde afgifte 150 mg | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 25041 | Zyntabac, tabletten met verlengde afgifte 150 mg | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 33668 | Wellbutrin XR 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 33669 | Wellbutrin XR 300 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 33670 | Elontril 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 33671 | Elontril 300 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 114387 | Bupropion HCl Sandoz retard 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 114395 | Bupropion HCl Sandoz retard 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 121288 | Bupropion HCl Accord 300 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 122815 | Bupropion HCl Neuraxpharm 300 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 123072 | Bupropion HCl retard Teva 300 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 123739 | Bupropion HCl retard Teva 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 123777 | Bupropion HCl retard Teva 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 127105 | Bupropion HCL 150 mg Focus Care, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 128464 | Bupropion HCl Accord 150 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 128679 | Bupropion HCl Sandoz retard 300 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 128681 | Bupropion HCl Sandoz retard 300 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 129673//33668 | Wellbutrin XR 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 129949//24160 | Zyban, tabletten met verlengde afgifte 150 mg | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 132357 | Bupropion HCl SUN 150 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 24160 | Zyban, tabletten met verlengde afgifte 150 mg | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | GlaxoSmithKline B.V. | Geldig |
+| RVG 25041 | Zyntabac, tabletten met verlengde afgifte 150 mg | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | GlaxoSmithKline B.V. | Geldig |
+| RVG 33668 | Wellbutrin XR 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | GlaxoSmithKline B.V. | Geldig |
+| RVG 33669 | Wellbutrin XR 300 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | GlaxoSmithKline B.V. | Geldig |
+| RVG 33670 | Elontril 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | GlaxoSmithKline B.V. | Geldig |
+| RVG 33671 | Elontril 300 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | GlaxoSmithKline B.V. | Geldig |
+| RVG 114387 | Bupropion HCl Sandoz retard 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Sandoz B.V. | Geldig |
+| RVG 114395 | Bupropion HCl Sandoz retard 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Sandoz B.V. | Geldig |
+| RVG 121288 | Bupropion HCl Accord 300 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Accord Healthcare B.V. | Geldig |
+| RVG 122815 | Bupropion HCl Neuraxpharm 300 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | neuraxpharm Arzneimittel GmbH | Geldig |
+| RVG 123072 | Bupropion HCl retard Teva 300 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Teva B.V. | Geldig |
+| RVG 123739 | Bupropion HCl retard Teva 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Teva B.V. | Geldig |
+| RVG 123777 | Bupropion HCl retard Teva 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Teva B.V. | Geldig |
+| RVG 127105 | Bupropion HCL 150 mg Focus Care, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 128464 | Bupropion HCl Accord 150 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Accord Healthcare B.V. | Geldig |
+| RVG 128679 | Bupropion HCl Sandoz retard 300 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Sandoz B.V. | Geldig |
+| RVG 128681 | Bupropion HCl Sandoz retard 300 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Sandoz B.V. | Geldig |
+| RVG 129673//33668 | Wellbutrin XR 150 mg, tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129949//24160 | Zyban, tabletten met verlengde afgifte 150 mg | BUPROPIONHYDROCHLORIDE | Tablet met verlengde afgifte | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 132357 | Bupropion HCl SUN 150 mg tabletten met gereguleerde afgifte | BUPROPIONHYDROCHLORIDE | Tablet met gereguleerde afgifte | Sun Pharmaceutical Industries Europe B.V. | Geldig |
 
 Getoond worden 20 van de 27 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

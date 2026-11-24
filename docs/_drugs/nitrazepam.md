@@ -98,12 +98,12 @@ Hieronder staat een selectie van de meest relevante publicaties. Merk op dat het
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 50283 | Nitrazepam Auro 5 mg, tabletten | NITRAZEPAM | Tablet | Geldig |
-| RVG 56702 | Nitrazepam CF 5 mg, tabletten | NITRAZEPAM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 50283 | Nitrazepam Auro 5 mg, tabletten | NITRAZEPAM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 56702 | Nitrazepam CF 5 mg, tabletten | NITRAZEPAM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

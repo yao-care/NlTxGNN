@@ -72,32 +72,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 11217 | Amoxicilline capsules Mylan 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
-| RVG 16913 | Amoxicilline Aurobindo 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
-| RVG 26684 | Amoxicilline Sandoz disper 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
-| RVG 26685 | Amoxicilline Sandoz disper 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
-| RVG 26686 | Amoxicilline Sandoz disper 1000 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
-| RVG 29702 | Amoxicilline Sandoz 125 mg/5 ml, poeder voor orale suspensie | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Geldig |
-| RVG 29703 | Amoxicilline Sandoz Forte 250 mg/5 ml, poeder voor orale suspensie | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Geldig |
-| RVG 55123 | Amoxicilline RIA 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
-| RVG 56827 | Amoxicilline dispers RIA 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
-| RVG 56828 | Amoxicilline dispers RIA 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
-| RVG 57303 | Amoxicilline forte suikervrij 250 mg/5 ml Focus Care, poeder voor orale suspens… | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Geldig |
-| RVG 57326 | Amoxicilline CF, poeder voor oplossing voor injectie of infusie 125, 250, 500 m… | AMOXICILLINE NATRIUM, AMOXICILLINE NATRIUM, AMOXICILLINE NATRIUM, AMOXICILLINE… | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 106883 | Amoxicilline Eugia 250 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 106884 | Amoxicilline Eugia 500 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 106885 | Amoxicilline Eugia 1000 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 112292 | Amoxicilline Centrient 500 mg capsules, hard | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
-| RVG 115066 | Amoxicilline Centrient 500 mg, capsules, hard | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
-| RVG 116364 | Amoxicilline Centrient 1000 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
-| RVG 116365 | Amoxicilline Centrient 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
-| RVG 116366 | Amoxicilline Centrient 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 11217 | Amoxicilline capsules Mylan 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | Mylan B.V. | Geldig |
+| RVG 16913 | Amoxicilline Aurobindo 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 26684 | Amoxicilline Sandoz disper 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 26685 | Amoxicilline Sandoz disper 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 26686 | Amoxicilline Sandoz disper 1000 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Sandoz B.V. | Geldig |
+| RVG 29702 | Amoxicilline Sandoz 125 mg/5 ml, poeder voor orale suspensie | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Sandoz B.V. | Geldig |
+| RVG 29703 | Amoxicilline Sandoz Forte 250 mg/5 ml, poeder voor orale suspensie | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Sandoz B.V. | Geldig |
+| RVG 55123 | Amoxicilline RIA 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | RIA Generics Limited | Geldig |
+| RVG 56827 | Amoxicilline dispers RIA 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | RIA Generics Limited | Geldig |
+| RVG 56828 | Amoxicilline dispers RIA 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | RIA Generics Limited | Geldig |
+| RVG 57303 | Amoxicilline forte suikervrij 250 mg/5 ml Focus Care, poeder voor orale suspens… | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 57326 | Amoxicilline CF, poeder voor oplossing voor injectie of infusie 125, 250, 500 m… | AMOXICILLINE NATRIUM, AMOXICILLINE NATRIUM, AMOXICILLINE NATRIUM, AMOXICILLINE… | Poeder voor oplossing voor injectie of infusie | Centrafarm B.V. | Geldig |
+| RVG 106883 | Amoxicilline Eugia 250 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 106884 | Amoxicilline Eugia 500 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 106885 | Amoxicilline Eugia 1000 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 112292 | Amoxicilline Centrient 500 mg capsules, hard | AMOXICILLINE 3-WATER | Capsule, hard | Centrient Pharmaceuticals Netherlands B.V. | Geldig |
+| RVG 115066 | Amoxicilline Centrient 500 mg, capsules, hard | AMOXICILLINE 3-WATER | Capsule, hard | Centrient Pharmaceuticals Netherlands B.V. | Geldig |
+| RVG 116364 | Amoxicilline Centrient 1000 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Centrient Pharmaceuticals Netherlands B.V. | Geldig |
+| RVG 116365 | Amoxicilline Centrient 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Centrient Pharmaceuticals Netherlands B.V. | Geldig |
+| RVG 116366 | Amoxicilline Centrient 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Centrient Pharmaceuticals Netherlands B.V. | Geldig |
 
 Getoond worden 20 van de 98 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

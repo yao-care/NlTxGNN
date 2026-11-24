@@ -109,16 +109,16 @@ Voor reumatoïde nodulose is slechts één algemeen overzichtsartikel gevonden (
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 21813 | Indometacine Aurobindo 25 mg, capsules | INDOMETACINE | Capsule, hard | Geldig |
-| RVG 21814 | Indometacine Aurobindo 50 mg, capsules | INDOMETACINE | Capsule, hard | Geldig |
-| RVG 55652 | Indometacine CF 25 mg, capsules | INDOMETACINE | Capsule, hard | Geldig |
-| RVG 55712 | Indometacine zetpil CF 100 mg, zetpillen | INDOMETACINE | Zetpil | Geldig |
-| RVG 55879 | Indometacine zetpil CF 50 mg, zetpillen | INDOMETACINE | Zetpil | Geldig |
-| RVG 57631 | Indometacine Apotex 50 mg, capsules | INDOMETACINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 21813 | Indometacine Aurobindo 25 mg, capsules | INDOMETACINE | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 21814 | Indometacine Aurobindo 50 mg, capsules | INDOMETACINE | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 55652 | Indometacine CF 25 mg, capsules | INDOMETACINE | Capsule, hard | Centrafarm B.V. | Geldig |
+| RVG 55712 | Indometacine zetpil CF 100 mg, zetpillen | INDOMETACINE | Zetpil | Centrafarm B.V. | Geldig |
+| RVG 55879 | Indometacine zetpil CF 50 mg, zetpillen | INDOMETACINE | Zetpil | Centrafarm B.V. | Geldig |
+| RVG 57631 | Indometacine Apotex 50 mg, capsules | INDOMETACINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

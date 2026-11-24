@@ -95,16 +95,16 @@ Voor *extrahepatisch galwegrhabdomyosarcoom* en *leversarcoom* is alleen indirec
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06292 | Efudix, creme 50 mg/g | FLUOROURACIL | Crème | Geldig |
-| RVG 100701 | Fluorouracil Accord 50 mg/ml, oplossing voor injectie of infusie | FLUOROURACIL | Oplossing voor injectie of infusie | Geldig |
-| RVG 123084 | Tolak 40 mg/g crème | FLUOROURACIL | Crème | Geldig |
-| RVG 123870//06292 | Efudix, crème 50 mg/g | FLUOROURACIL | Crème | Geldig |
-| RVG 133366//06292 | Efudix crème, 50 mg/g | FLUOROURACIL | Crème | Geldig |
-| RVG 118637//06292 | Efudix 50 mg/g, crème | FLUOROURACIL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06292 | Efudix, creme 50 mg/g | FLUOROURACIL | Crème | Viatris Healthcare B.V. | Geldig |
+| RVG 100701 | Fluorouracil Accord 50 mg/ml, oplossing voor injectie of infusie | FLUOROURACIL | Oplossing voor injectie of infusie | Accord Healthcare B.V. | Geldig |
+| RVG 123084 | Tolak 40 mg/g crème | FLUOROURACIL | Crème | Pierre Fabre Medicament | Geldig |
+| RVG 123870//06292 | Efudix, crème 50 mg/g | FLUOROURACIL | Crème | Euro Registratie Collectief B.V. | Geldig |
+| RVG 133366//06292 | Efudix crème, 50 mg/g | FLUOROURACIL | Crème | BModesto B.V. | Geldig |
+| RVG 118637//06292 | Efudix 50 mg/g, crème | FLUOROURACIL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

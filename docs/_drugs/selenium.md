@@ -78,20 +78,20 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 16517 | Peditrace, concentraat voor infusievloeistof | DINATRIUMSELENIET 0-WATER, FLUORIDE (F-), JODIDE (I-), KALIUMJODIDE, KOPER (Cu2… | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 113147 | Kidiamix G10% Start, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM (C… | Oplossing voor infusie | Geldig |
-| RVG 113152 | Kidiamix G10%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM (C… | Oplossing voor infusie | Geldig |
-| RVG 113263 | Kidiamix G15%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Geldig |
-| RVG 113264 | Kidiamix G20%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Geldig |
-| RVG 113265 | Kidiamix G25%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Geldig |
-| RVG 117396 | Nutryelt, concentraat voor oplossing voor infusie | FERRODIGLUCONAAT 0-WATER, SELENIUM (SE4+), ZINKDIGLUCONAAT 0-WATER, CHROOMTRICH… | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 118027 | JUNYELT concentraat voor oplossing voor infusie | DINATRIUMSELENIET 0-WATER, JODIDE (I-), KALIUMJODIDE, KOPER (Cu2+), KOPERDIGLUC… | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 129368 | Kidtrayze concentraat voor oplossing voor infusie | DINATRIUMSELENIET 0-WATER, JODIDE (I-), KALIUMJODIDE, KOPER (Cu2+), KOPERDICHLO… | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 133394 | Tracusup concentraat voor oplossing voor infusie | CHROOM (Cr3+), CHROOMTRICHLORIDE 6-WATER, DINATRIUMSELENIET 5-WATER, FERRITRICH… | Concentraat voor oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 16517 | Peditrace, concentraat voor infusievloeistof | DINATRIUMSELENIET 0-WATER, FLUORIDE (F-), JODIDE (I-), KALIUMJODIDE, KOPER (Cu2… | Concentraat voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113147 | Kidiamix G10% Start, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM (C… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113152 | Kidiamix G10%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM (C… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113263 | Kidiamix G15%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113264 | Kidiamix G20%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 113265 | Kidiamix G25%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 117396 | Nutryelt, concentraat voor oplossing voor infusie | FERRODIGLUCONAAT 0-WATER, SELENIUM (SE4+), ZINKDIGLUCONAAT 0-WATER, CHROOMTRICH… | Concentraat voor oplossing voor infusie | – | Geldig |
+| RVG 118027 | JUNYELT concentraat voor oplossing voor infusie | DINATRIUMSELENIET 0-WATER, JODIDE (I-), KALIUMJODIDE, KOPER (Cu2+), KOPERDIGLUC… | Concentraat voor oplossing voor infusie | Laboratoire Aguettant | Geldig |
+| RVG 129368 | Kidtrayze concentraat voor oplossing voor infusie | DINATRIUMSELENIET 0-WATER, JODIDE (I-), KALIUMJODIDE, KOPER (Cu2+), KOPERDICHLO… | Concentraat voor oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 133394 | Tracusup concentraat voor oplossing voor infusie | CHROOM (Cr3+), CHROOMTRICHLORIDE 6-WATER, DINATRIUMSELENIET 5-WATER, FERRITRICH… | Concentraat voor oplossing voor infusie | B. Braun Melsungen AG (Melsungen) | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

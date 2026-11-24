@@ -82,15 +82,15 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06851 | CYCLOGYL 1% oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 09358 | Minims Cyclopentolaathydrochloride 5 mg/ml, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 09359 | Minims Cyclopentolaathydrochloride 10 mg/ml, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
-| RVG 135471 | CATMYD 5 mg/ml, oogdruppels, oplossing, in verpakking voor eenmalig gebruik | CYCLOPENTOLAATHYDROCHLORIDE | Oordruppels, oplossing | Geldig |
-| RVG 108488//06851 | Cyclogyl, 1%, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06851 | CYCLOGYL 1% oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Alcon Nederland B.V. | Geldig |
+| RVG 09358 | Minims Cyclopentolaathydrochloride 5 mg/ml, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 09359 | Minims Cyclopentolaathydrochloride 10 mg/ml, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Bausch + Lomb Ireland Limited | Geldig |
+| RVG 135471 | CATMYD 5 mg/ml, oogdruppels, oplossing, in verpakking voor eenmalig gebruik | CYCLOPENTOLAATHYDROCHLORIDE | Oordruppels, oplossing | Laboratoires Doliage Developpement | Geldig |
+| RVG 108488//06851 | Cyclogyl, 1%, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

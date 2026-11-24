@@ -97,18 +97,18 @@ Acitretine is bovendien sterk teratogeen en heeft een lange uitwasperiode (bij a
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 13103 | Neotigason 10 mg, capsules | ACITRETINE | Capsule, hard | Geldig |
-| RVG 13104 | Neotigason 25 mg, capsules | ACITRETINE | Capsule, hard | Geldig |
-| RVG 24561//13103 | Neotigason 10 mg, capsules | ACITRETINE | Capsule, hard | Geldig |
-| RVG 107057 | Acitretine IFC 10 mg, capsules | ACITRETINE | Capsule, hard | Geldig |
-| RVG 107058 | Acitretine IFC 25 mg, capsules | ACITRETINE | Capsule, hard | Geldig |
-| RVG 107065 | Acitretine CF 10 mg, capsules | ACITRETINE | Capsule, hard | Geldig |
-| RVG 107066 | Acitretine CF 25 mg, capsules | ACITRETINE | Capsule, hard | Geldig |
-| RVG 119746//13103 | Neotigason 10 mg, capsules | ACITRETINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 13103 | Neotigason 10 mg, capsules | ACITRETINE | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 13104 | Neotigason 25 mg, capsules | ACITRETINE | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 24561//13103 | Neotigason 10 mg, capsules | ACITRETINE | Capsule, hard | Euro Registratie Collectief B.V. | Geldig |
+| RVG 107057 | Acitretine IFC 10 mg, capsules | ACITRETINE | Capsule, hard | Industrial Farmaceutica Cantabria S.A. | Geldig |
+| RVG 107058 | Acitretine IFC 25 mg, capsules | ACITRETINE | Capsule, hard | Industrial Farmaceutica Cantabria S.A. | Geldig |
+| RVG 107065 | Acitretine CF 10 mg, capsules | ACITRETINE | Capsule, hard | Centrafarm B.V. | Geldig |
+| RVG 107066 | Acitretine CF 25 mg, capsules | ACITRETINE | Capsule, hard | Centrafarm B.V. | Geldig |
+| RVG 119746//13103 | Neotigason 10 mg, capsules | ACITRETINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

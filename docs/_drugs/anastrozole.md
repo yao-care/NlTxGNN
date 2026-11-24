@@ -70,23 +70,23 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 19123 | Arimidex, filmomhulde tabletten 1 mg | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 34003 | Anastrozol Synthon 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 34004 | Anastrozol ratiopharm 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 34008 | Anastrozol Viatris 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 34013 | Egistrozol 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 34014 | Zolzyn 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 34021 | Strakir 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 34122 | Anastrozol 1 PCH, filmomhulde tabletten 1 mg | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 103523 | Anastrozol Devatis 1 mg filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 105752 | Anastrozol SUN 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 106400 | Anastrozol Accord 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 111265 | Anastrozol Amarox 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Geldig |
-| RVG 114432 | Anastrozol 1 mg Focus, filmomhulde tabletten | ANASTROZOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 19123 | Arimidex, filmomhulde tabletten 1 mg | ANASTROZOL | Filmomhulde tablet | Laboratoires Juvise Pharmaceuticals | Geldig |
+| RVG 34003 | Anastrozol Synthon 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 34004 | Anastrozol ratiopharm 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | ratiopharm GmbH | Geldig |
+| RVG 34008 | Anastrozol Viatris 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 34013 | Egistrozol 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Egis Pharmaceuticals Plc | Geldig |
+| RVG 34014 | Zolzyn 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Lannacher Heilmittel GmbH | Geldig |
+| RVG 34021 | Strakir 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Genthon B.V. | Geldig |
+| RVG 34122 | Anastrozol 1 PCH, filmomhulde tabletten 1 mg | ANASTROZOL | Filmomhulde tablet | Pharmachemie B.V. | Geldig |
+| RVG 103523 | Anastrozol Devatis 1 mg filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Devatis GmbH | Geldig |
+| RVG 105752 | Anastrozol SUN 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 106400 | Anastrozol Accord 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 111265 | Anastrozol Amarox 1 mg, filmomhulde tabletten | ANASTROZOL | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 114432 | Anastrozol 1 mg Focus, filmomhulde tabletten | ANASTROZOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -94,28 +94,28 @@ Er zijn 9 publicaties gevonden. Geen daarvan onderzoekt baclofen bij ADHD.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06347 | Lioresal 10, tabletten 10 mg | BACLOFEN | Tablet | Geldig |
-| RVG 09086 | Lioresal 5, tabletten 5 mg | BACLOFEN | Tablet | Geldig |
-| RVG 12153 | Baclofen Mylan 10 mg, tabletten | BACLOFEN | Tablet | Geldig |
-| RVG 12154 | Baclofen Mylan 25 mg, tabletten | BACLOFEN | Tablet | Geldig |
-| RVG 21618 | Baclofen Aurobindo 10 mg, tabletten | BACLOFEN | Tablet | Geldig |
-| RVG 114568 | Gablofen 0,05 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
-| RVG 114570 | Gablofen 0,5 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
-| RVG 114571 | Gablofen 1 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
-| RVG 114572 | Gablofen 2 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
-| RVG 115222 | Gablofen 0,5 mg/ml, oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
-| RVG 115223 | Gablofen 1 mg/ml, oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
-| RVG 115224 | Gablofen 2 mg/ml oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
-| RVG 120888 | Baclofen Sintetica Intrathecaal 0,05 mg/ml oplossing voor injectie | BACLOFEN | Oplossing voor injectie | Geldig |
-| RVG 120889 | Baclofen Sintetica Intrathecaal 0,5 mg/ml oplossing voor infusie | BACLOFEN | Oplossing voor infusie | Geldig |
-| RVG 120890 | Baclofen Sintetica Intrathecaal 2 mg/ml oplossing voor infusie | BACLOFEN | Oplossing voor infusie | Geldig |
-| RVG 124488 | Baclofen Xiromed 10 mg, tabletten | BACLOFEN | Tablet | Geldig |
-| RVG 124493 | Baclofen Xiromed 25 mg, tabletten | BACLOFEN | Tablet | Geldig |
-| RVG 131867 | Leodizcol 1 mg/ml, drank | BACLOFEN | Drank | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06347 | Lioresal 10, tabletten 10 mg | BACLOFEN | Tablet | Novartis Pharma B.V. | Geldig |
+| RVG 09086 | Lioresal 5, tabletten 5 mg | BACLOFEN | Tablet | Novartis Pharma B.V. | Geldig |
+| RVG 12153 | Baclofen Mylan 10 mg, tabletten | BACLOFEN | Tablet | Mylan B.V. | Geldig |
+| RVG 12154 | Baclofen Mylan 25 mg, tabletten | BACLOFEN | Tablet | Mylan B.V. | Geldig |
+| RVG 21618 | Baclofen Aurobindo 10 mg, tabletten | BACLOFEN | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 114568 | Gablofen 0,05 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Piramal Critical Care B.V. | Geldig |
+| RVG 114570 | Gablofen 0,5 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Piramal Critical Care B.V. | Geldig |
+| RVG 114571 | Gablofen 1 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Piramal Critical Care B.V. | Geldig |
+| RVG 114572 | Gablofen 2 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Piramal Critical Care B.V. | Geldig |
+| RVG 115222 | Gablofen 0,5 mg/ml, oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | Piramal Critical Care B.V. | Geldig |
+| RVG 115223 | Gablofen 1 mg/ml, oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | Piramal Critical Care B.V. | Geldig |
+| RVG 115224 | Gablofen 2 mg/ml oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | – | Geldig |
+| RVG 120888 | Baclofen Sintetica Intrathecaal 0,05 mg/ml oplossing voor injectie | BACLOFEN | Oplossing voor injectie | Sintetica GmbH | Geldig |
+| RVG 120889 | Baclofen Sintetica Intrathecaal 0,5 mg/ml oplossing voor infusie | BACLOFEN | Oplossing voor infusie | Sintetica GmbH | Geldig |
+| RVG 120890 | Baclofen Sintetica Intrathecaal 2 mg/ml oplossing voor infusie | BACLOFEN | Oplossing voor infusie | Sintetica GmbH | Geldig |
+| RVG 124488 | Baclofen Xiromed 10 mg, tabletten | BACLOFEN | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 124493 | Baclofen Xiromed 25 mg, tabletten | BACLOFEN | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 131867 | Leodizcol 1 mg/ml, drank | BACLOFEN | Drank | Essential Pharma Limited | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

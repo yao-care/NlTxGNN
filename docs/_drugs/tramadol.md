@@ -83,32 +83,32 @@ Het middel is op de markt. Voor deze vergunningen is geen indicatietekst of toed
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 15510 | Tramal 100, injectievloeistof 100 mg/2 ml | TRAMADOLHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 15513 | Tramal, druppels voor oraal gebruik, oplossing 100 mg/ml | TRAMADOLHYDROCHLORIDE | Druppels voor oraal gebruik, oplossing | Geldig |
-| RVG 18941 | Tramadolhydrochloride capsules, capsules 50 mg | TRAMADOLHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 21682 | Tramadol HCl Nevik 50 mg, capsules | TRAMADOLHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 21690 | Tramadol HCl Sandoz capsule 50 mg, capsules | TRAMADOLHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 22325 | Tramadol HCl Retard Viatris 50 mg, harde capsules met verlengde afgifte | TRAMADOLHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 22326 | Tramadol HCl Retard Viatris 100 mg, harde capsules met verlengde afgifte | TRAMADOLHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 22327 | Tramadol HCl Retard Viatris 150 mg, harde capsules met verlengde afgifte | TRAMADOLHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 22328 | Tramadol HCl Retard Viatris 200 mg, harde capsules met verlengde afgifte | TRAMADOLHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 23527 | Tramadol HCl Sandoz bruis 50 mg, bruistabletten | TRAMADOLHYDROCHLORIDE | Bruistablet | Geldig |
-| RVG 25693 | Tramadol HCl Sandoz retard 100, tabletten met verlengde afgifte 100 mg | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 25694 | Tramadol HCl Sandoz retard 150, tabletten met verlengde afgifte 150 mg | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 25695 | Tramadol HCl Sandoz retard 200, tabletten met verlengde afgifte 200 mg | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 27163 | Tramadol HCl capsule CF 50 mg, capsules | TRAMADOLHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 27165 | Tramadol HCl druppels CF 100 mg/ml, druppels voor orale toediening | TRAMADOLHYDROCHLORIDE | Druppels voor oraal gebruik, oplossing | Geldig |
-| RVG 27166 | Tramadol HCl zetpil CF 100 mg, zetpillen | TRAMADOLHYDROCHLORIDE | Zetpil | Geldig |
-| RVG 30562 | Tramadol HCL Duiven retard 100 mg, tabletten met gereguleerde afgifte | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 30563 | Tramadol HCL Duiven retard 150 mg, tabletten met gereguleerde afgifte | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 30564 | Tramadol HCL Duiven retard 200 mg, tabletten met gereguleerde afgifte | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
-| RVG 30577 | Tramadol HCL Duiven retard 100 mg, tabletten met gereguleerde afgifte | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 15510 | Tramal 100, injectievloeistof 100 mg/2 ml | TRAMADOLHYDROCHLORIDE | Oplossing voor injectie | Grünenthal B.V. | Geldig |
+| RVG 15513 | Tramal, druppels voor oraal gebruik, oplossing 100 mg/ml | TRAMADOLHYDROCHLORIDE | Druppels voor oraal gebruik, oplossing | Grünenthal B.V. | Geldig |
+| RVG 18941 | Tramadolhydrochloride capsules, capsules 50 mg | TRAMADOLHYDROCHLORIDE | Capsule, hard | Mylan B.V. | Geldig |
+| RVG 21682 | Tramadol HCl Nevik 50 mg, capsules | TRAMADOLHYDROCHLORIDE | Capsule, hard | Svizera Europe B.V. | Geldig |
+| RVG 21690 | Tramadol HCl Sandoz capsule 50 mg, capsules | TRAMADOLHYDROCHLORIDE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 22325 | Tramadol HCl Retard Viatris 50 mg, harde capsules met verlengde afgifte | TRAMADOLHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Viatris Limited | Geldig |
+| RVG 22326 | Tramadol HCl Retard Viatris 100 mg, harde capsules met verlengde afgifte | TRAMADOLHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Viatris Limited | Geldig |
+| RVG 22327 | Tramadol HCl Retard Viatris 150 mg, harde capsules met verlengde afgifte | TRAMADOLHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Viatris Limited | Geldig |
+| RVG 22328 | Tramadol HCl Retard Viatris 200 mg, harde capsules met verlengde afgifte | TRAMADOLHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Viatris Limited | Geldig |
+| RVG 23527 | Tramadol HCl Sandoz bruis 50 mg, bruistabletten | TRAMADOLHYDROCHLORIDE | Bruistablet | Sandoz B.V. | Geldig |
+| RVG 25693 | Tramadol HCl Sandoz retard 100, tabletten met verlengde afgifte 100 mg | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Sandoz B.V. | Geldig |
+| RVG 25694 | Tramadol HCl Sandoz retard 150, tabletten met verlengde afgifte 150 mg | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Sandoz B.V. | Geldig |
+| RVG 25695 | Tramadol HCl Sandoz retard 200, tabletten met verlengde afgifte 200 mg | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Sandoz B.V. | Geldig |
+| RVG 27163 | Tramadol HCl capsule CF 50 mg, capsules | TRAMADOLHYDROCHLORIDE | Capsule, hard | Centrafarm B.V. | Geldig |
+| RVG 27165 | Tramadol HCl druppels CF 100 mg/ml, druppels voor orale toediening | TRAMADOLHYDROCHLORIDE | Druppels voor oraal gebruik, oplossing | Centrafarm B.V. | Geldig |
+| RVG 27166 | Tramadol HCl zetpil CF 100 mg, zetpillen | TRAMADOLHYDROCHLORIDE | Zetpil | Centrafarm B.V. | Geldig |
+| RVG 30562 | Tramadol HCL Duiven retard 100 mg, tabletten met gereguleerde afgifte | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | I.C.C. B.V. | Geldig |
+| RVG 30563 | Tramadol HCL Duiven retard 150 mg, tabletten met gereguleerde afgifte | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | I.C.C. B.V. | Geldig |
+| RVG 30564 | Tramadol HCL Duiven retard 200 mg, tabletten met gereguleerde afgifte | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | I.C.C. B.V. | Geldig |
+| RVG 30577 | Tramadol HCL Duiven retard 100 mg, tabletten met gereguleerde afgifte | TRAMADOLHYDROCHLORIDE | Tablet met verlengde afgifte | I.C.C. B.V. | Geldig |
 
 Getoond worden 20 van de 54 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

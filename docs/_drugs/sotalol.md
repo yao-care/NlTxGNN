@@ -103,19 +103,19 @@ Geen van deze publicaties toont direct aan dat sotalol beroerte voorkomt.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 17705 | Sotalol HCl Sandoz 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 17706 | Sotalol HCl Sandoz 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 19579 | Sotalol HCl Viatris 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 19580 | Sotalol HCl Viatris 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 20329 | Sotalol HCl 80 mg Focus, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 117148 | Sotalol HCl Tiofarma 40 mg/4 ml, oplossing voor injectie | SOTALOLHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 119823 | Sotalol HCl Aurobindo 40 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 119825 | Sotalol HCl Aurobindo 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
-| RVG 119826 | Sotalol HCl Aurobindo 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 17705 | Sotalol HCl Sandoz 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 17706 | Sotalol HCl Sandoz 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 19579 | Sotalol HCl Viatris 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Viatris Limited | Geldig |
+| RVG 19580 | Sotalol HCl Viatris 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Viatris Limited | Geldig |
+| RVG 20329 | Sotalol HCl 80 mg Focus, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 117148 | Sotalol HCl Tiofarma 40 mg/4 ml, oplossing voor injectie | SOTALOLHYDROCHLORIDE | Oplossing voor injectie | – | Geldig |
+| RVG 119823 | Sotalol HCl Aurobindo 40 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 119825 | Sotalol HCl Aurobindo 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 119826 | Sotalol HCl Aurobindo 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -75,32 +75,32 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 34508 | Methadon HCl Tiofarma 5 mg, tablet | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 104280 | Methadon HCl Tiofarma 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 104281 | Methadon HCl Tiofarma 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 104483 | Methadon HCl Tiofarma 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 105797 | Methadon HCl Sandoz 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 108677 | Methadon HCl Sandoz 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 108682 | Methadon HCl Sandoz 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 111803 | Eptadone Drank Suikervrij 5 mg/ml | METHADONHYDROCHLORIDE | Drank | Geldig |
-| RVG 111804 | Eptadone Drank Suikervrij 10 mg/ml | METHADONHYDROCHLORIDE | Drank | Geldig |
-| RVG 114400 | Methadon HCl Aurobindo 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 114404 | Methadon HCl Aurobindo 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 114405 | Methadon HCl Aurobindo 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 114406 | Methadon HCl Aurobindo 40 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 114407 | Methadon HCl Aurobindo 50 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 117368 | Methadon HCl Tiofarma 20 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 117370 | Methadon HCl Tiofarma 40 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 117371 | Methadon HCl Tiofarma 80 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 118669 | Methadon HCl Aurobindo 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 118670 | Methadon HCl Aurobindo 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
-| RVG 118671 | Methadon HCl Aurobindo 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 34508 | Methadon HCl Tiofarma 5 mg, tablet | METHADONHYDROCHLORIDE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 104280 | Methadon HCl Tiofarma 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 104281 | Methadon HCl Tiofarma 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 104483 | Methadon HCl Tiofarma 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 105797 | Methadon HCl Sandoz 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 108677 | Methadon HCl Sandoz 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 108682 | Methadon HCl Sandoz 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 111803 | Eptadone Drank Suikervrij 5 mg/ml | METHADONHYDROCHLORIDE | Drank | L. Molteni & C. Dei Fratelli Alitti Societa Di Esercizio S.… | Geldig |
+| RVG 111804 | Eptadone Drank Suikervrij 10 mg/ml | METHADONHYDROCHLORIDE | Drank | L. Molteni & C. Dei Fratelli Alitti Societa Di Esercizio S.… | Geldig |
+| RVG 114400 | Methadon HCl Aurobindo 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 114404 | Methadon HCl Aurobindo 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 114405 | Methadon HCl Aurobindo 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 114406 | Methadon HCl Aurobindo 40 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 114407 | Methadon HCl Aurobindo 50 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 117368 | Methadon HCl Tiofarma 20 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 117370 | Methadon HCl Tiofarma 40 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 117371 | Methadon HCl Tiofarma 80 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 118669 | Methadon HCl Aurobindo 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 118670 | Methadon HCl Aurobindo 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 118671 | Methadon HCl Aurobindo 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
 
 Getoond worden 20 van de 29 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

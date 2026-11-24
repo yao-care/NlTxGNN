@@ -82,32 +82,32 @@ Volgens de gegevens van het CBG-MEB zijn alle 4 vergunningen geldig. De vergunni
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/10/638 | Ozurdex 700 microgram, intravitreaal implantaat in applicator | DEXAMETHASON | Intravitreaal implant in applicator | Geldig |
-| EU/1/15/1053 | Neofordex 40 mg, tablet | DEXAMETHASONACETAAT 0-WATER | Tablet | Geldig |
-| RVG 18658 | Monofree Dexamethason 1 mg/ml, oogdruppels, oplossing in verpakking voor éénmal… | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 22679 | Dexa-POS, oogdruppels 1 mg/ml | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 29754 | Dexamethason Teva 4 mg, tabletten | DEXAMETHASON | Tablet | Geldig |
-| RVG 52990 | Dexamethason CF 0,5 mg, tabletten | DEXAMETHASON | Tablet | Geldig |
-| RVG 55091 | Dexamethason CF 20 mg/ml, injectievloeistof | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie | Geldig |
-| RVG 56080 | Dexamethason Teva 1,5 mg, tabletten | DEXAMETHASON | Tablet | Geldig |
-| RVG 107717 | Dexamethason CF 4 mg/ml, oplossing voor injectie | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie | Geldig |
-| RVG 123370//18658 | Monofree Dexamethason 1 mg/ml, oogdruppels, oplossing in verpakking voor éénmal… | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 125117 | Dexamethasonfosfaat hameln 4 mg/ml oplossing voor injectie | DEXAMETHASON, DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie | Geldig |
-| RVG 125622 | Dexmono conserveermiddelvrij 1 mg/ml, oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 126062 | Etacortilen 1,5 mg/ml oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 127623 | Dexamethasonfosfaat Kalceks 4 mg/ml oplossing voor injectie/infusie | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie of infusie | Geldig |
-| RVG 127834 | Dexamethason Activase 0,5 mg, tabletten | DEXAMETHASON | Tablet | Geldig |
-| RVG 127835 | Dexamethason Activase 2 mg tabletten | DEXAMETHASON | Tablet | Geldig |
-| RVG 128198 | Axium-Opto 1mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 128244 | Dexanova 1 mg/ml oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
-| RVG 128653 | Dexamethason Medochemie 4 mg/ml, oplossing voor injectie/infusie | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie of infusie | Geldig |
-| RVG 129844 | Dexamethasonfosfaat Accord 4 mg/ml oplossing voor injectie/infusie | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie of infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/10/638 | Ozurdex 700 microgram, intravitreaal implantaat in applicator | DEXAMETHASON | Intravitreaal implant in applicator | AbbVie Deutschland GmbH & Co. KG | Geldig |
+| EU/1/15/1053 | Neofordex 40 mg, tablet | DEXAMETHASONACETAAT 0-WATER | Tablet | Laboratoires CTRS | Geldig |
+| RVG 18658 | Monofree Dexamethason 1 mg/ml, oogdruppels, oplossing in verpakking voor éénmal… | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Laboratoires Théa | Geldig |
+| RVG 22679 | Dexa-POS, oogdruppels 1 mg/ml | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | URSAPHARM Benelux B.V. | Geldig |
+| RVG 29754 | Dexamethason Teva 4 mg, tabletten | DEXAMETHASON | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 52990 | Dexamethason CF 0,5 mg, tabletten | DEXAMETHASON | Tablet | Centrafarm B.V. | Geldig |
+| RVG 55091 | Dexamethason CF 20 mg/ml, injectievloeistof | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie | Centrafarm B.V. | Geldig |
+| RVG 56080 | Dexamethason Teva 1,5 mg, tabletten | DEXAMETHASON | Tablet | – | Geldig |
+| RVG 107717 | Dexamethason CF 4 mg/ml, oplossing voor injectie | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie | Centrafarm B.V. | Geldig |
+| RVG 123370//18658 | Monofree Dexamethason 1 mg/ml, oogdruppels, oplossing in verpakking voor éénmal… | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | BModesto B.V. | Geldig |
+| RVG 125117 | Dexamethasonfosfaat hameln 4 mg/ml oplossing voor injectie | DEXAMETHASON, DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie | hameln pharma gmbh | Geldig |
+| RVG 125622 | Dexmono conserveermiddelvrij 1 mg/ml, oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Rockmed Pharma B.V. | Geldig |
+| RVG 126062 | Etacortilen 1,5 mg/ml oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | SIFI SpA | Geldig |
+| RVG 127623 | Dexamethasonfosfaat Kalceks 4 mg/ml oplossing voor injectie/infusie | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie of infusie | AS Kalceks | Geldig |
+| RVG 127834 | Dexamethason Activase 0,5 mg, tabletten | DEXAMETHASON | Tablet | Activase Pharmaceuticals Limited | Geldig |
+| RVG 127835 | Dexamethason Activase 2 mg tabletten | DEXAMETHASON | Tablet | Activase Pharmaceuticals Limited | Geldig |
+| RVG 128198 | Axium-Opto 1mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A | Geldig |
+| RVG 128244 | Dexanova 1 mg/ml oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT | Oogdruppels, oplossing | Pharmaselect International Beteiligungs GmbH | Geldig |
+| RVG 128653 | Dexamethason Medochemie 4 mg/ml, oplossing voor injectie/infusie | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie of infusie | Medochemie Limited | Geldig |
+| RVG 129844 | Dexamethasonfosfaat Accord 4 mg/ml oplossing voor injectie/infusie | DEXAMETHASONDINATRIUMFOSFAAT | Oplossing voor injectie of infusie | Accord Healthcare B.V. | Geldig |
 
 Getoond worden 20 van de 40 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -85,17 +85,17 @@ Er is momenteel geen relevante literatuur beschikbaar die aan deze voorspelling 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/00/141 | Myocet liposomaal 50 mg poeder, dispersie en oplosmiddel voor concentraat voor… | DOXORUBICINEHYDROCHLORIDE | – | Geldig |
-| EU/1/22/1629 | Zolsketil pegylated liposomal 2 mg/ml concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| EU/1/96/011 | Caelyx, 2 mg/ml concentraat voor oplossing voor intraveneuze infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 102758 | Doxorubicine hydrochloride 2 mg/ml PCH, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 103617 | Doxorubicine Accord 2 mg/ml concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 109099 | Doxorubicine HCl Eugia 2 mg/ml, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 113860 | Doxorubicine HCl Hikma 2 mg/ml, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/00/141 | Myocet liposomaal 50 mg poeder, dispersie en oplosmiddel voor concentraat voor… | DOXORUBICINEHYDROCHLORIDE | – | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| EU/1/22/1629 | Zolsketil pegylated liposomal 2 mg/ml concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Accord Healthcare S.L.U. | Geldig |
+| EU/1/96/011 | Caelyx, 2 mg/ml concentraat voor oplossing voor intraveneuze infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Baxter Holding B.V. | Geldig |
+| RVG 102758 | Doxorubicine hydrochloride 2 mg/ml PCH, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Pharmachemie B.V. | Geldig |
+| RVG 103617 | Doxorubicine Accord 2 mg/ml concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Accord Healthcare B.V. | Geldig |
+| RVG 109099 | Doxorubicine HCl Eugia 2 mg/ml, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Eugia Pharma (Malta) Limited | Geldig |
+| RVG 113860 | Doxorubicine HCl Hikma 2 mg/ml, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -74,12 +74,12 @@ De kandidaten die het TxGNN-model voor Betaxolol voorstelt, zijn allemaal al bek
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 15337 | Betoptic S, oogdruppels (suspensie) 2,5 mg/ml | BETAXOLOLHYDROCHLORIDE | Oogdruppels, suspensie | Geldig |
-| RVG 116531//11307 | Betoptic, oogdruppels, oplossing 5 mg/ml | BETAXOLOLHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 15337 | Betoptic S, oogdruppels (suspensie) 2,5 mg/ml | BETAXOLOLHYDROCHLORIDE | Oogdruppels, suspensie | Immedica Pharma AB | Geldig |
+| RVG 116531//11307 | Betoptic, oogdruppels, oplossing 5 mg/ml | BETAXOLOLHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

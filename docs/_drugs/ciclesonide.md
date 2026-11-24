@@ -98,22 +98,22 @@ Voor atopisch eczeem is momenteel geen gerelateerde literatuur beschikbaar. Voor
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 31632 | Alvesco 80 Inhalator, aërosol, oplossing 80 microgram/dosis | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 31633 | Alvesco 160 Inhalator, aërosol, oplossing 160 microgram/dosis | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 109558//31633 | Alvesco Inhalator 160 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 117352//31632 | Alvesco Inhalator 80 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 129120 | Ciclesonide ACE 80 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 129122 | Ciclesonide ACE 160 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 129123 | Ciclesonide ACE 320 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 130307 | Ciclesonide Sandoz Inhalator 80 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 130308 | Ciclesonide Sandoz Inhalator 160 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 131303 | Ciclesonide Glenmark 80 microgram /dosis aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 131304 | Ciclesonide Glenmark 160 microgram /dosis aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Geldig |
-| RVG 119131//31633 | Alvesco 160 inhalator, aërosol, oplossing 160 microgram/dosis | CICLESONIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 31632 | Alvesco 80 Inhalator, aërosol, oplossing 80 microgram/dosis | CICLESONIDE | Aërosol, oplossing | Azurity Pharmaceuticals Ireland Limited | Geldig |
+| RVG 31633 | Alvesco 160 Inhalator, aërosol, oplossing 160 microgram/dosis | CICLESONIDE | Aërosol, oplossing | Azurity Pharmaceuticals Ireland Limited | Geldig |
+| RVG 109558//31633 | Alvesco Inhalator 160 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Euro Registratie Collectief B.V. | Geldig |
+| RVG 117352//31632 | Alvesco Inhalator 80 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129120 | Ciclesonide ACE 80 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | ACE Pharmaceuticals B.V. | Geldig |
+| RVG 129122 | Ciclesonide ACE 160 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | ACE Pharmaceuticals B.V. | Geldig |
+| RVG 129123 | Ciclesonide ACE 320 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | ACE Pharmaceuticals B.V. | Geldig |
+| RVG 130307 | Ciclesonide Sandoz Inhalator 80 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Sandoz B.V. | Geldig |
+| RVG 130308 | Ciclesonide Sandoz Inhalator 160 microgram/dosis, aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Sandoz B.V. | Geldig |
+| RVG 131303 | Ciclesonide Glenmark 80 microgram /dosis aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 131304 | Ciclesonide Glenmark 160 microgram /dosis aërosol, oplossing | CICLESONIDE | Aërosol, oplossing | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 119131//31633 | Alvesco 160 inhalator, aërosol, oplossing 160 microgram/dosis | CICLESONIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

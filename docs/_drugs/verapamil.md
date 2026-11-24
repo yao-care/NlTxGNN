@@ -111,30 +111,30 @@ Voor de voorspelling "maligne renovasculaire hypertensie" (rang 3) zijn twee pub
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 12102 | Isoptin SR 240, tabletten met gereguleerde afgifte 240 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 15481 | Isoptin SR 120, tabletten met gereguleerde afgifte 120 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 15853 | Isoptin SR 180, tabletten met gereguleerde afgifte 180 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 18013 | Verapamil HCl Sandoz 40 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 18014 | Verapamil HCl Sandoz 80 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 18015 | Verapamil HCl Sandoz 120 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 18016 | Verapamil HCl Sandoz retard 120 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 19936 | Verapamil HCl Sandoz retard 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 21976=18016 | Verapamil HCl retard Teva 120 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 21977=19936 | Verapamil HCl retard Teva 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 24174 | Verapamil HCl Dexcel 240 SR, tabletten met gereguleerde afgifte 240 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 26239=24174 | Verapamil HCl Aurobindo Retard 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 56335 | Verapamil HCl CF 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 131207//56335 | Verapamil HCI Eureco-Pharma 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 131448//56335 | Verapamil HCl Medulent 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 16830 | Tarka 180 mg/2 mg, capsules met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 22638 | Tarka 180 mg/2 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 29700 | Tarka 240 mg/4 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 31430 | Tarka 240 mg/2 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 57532 | Verapamil HCl Apotex 120 mg, omhulde tabletten | VERAPAMILHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 12102 | Isoptin SR 240, tabletten met gereguleerde afgifte 240 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Viatris Healthcare B.V. | Geldig |
+| RVG 15481 | Isoptin SR 120, tabletten met gereguleerde afgifte 120 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Viatris Healthcare B.V. | Geldig |
+| RVG 15853 | Isoptin SR 180, tabletten met gereguleerde afgifte 180 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Viatris Healthcare B.V. | Geldig |
+| RVG 18013 | Verapamil HCl Sandoz 40 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 18014 | Verapamil HCl Sandoz 80 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 18015 | Verapamil HCl Sandoz 120 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 18016 | Verapamil HCl Sandoz retard 120 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Sandoz B.V. | Geldig |
+| RVG 19936 | Verapamil HCl Sandoz retard 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Sandoz B.V. | Geldig |
+| RVG 21976=18016 | Verapamil HCl retard Teva 120 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Teva Nederland B.V. | Geldig |
+| RVG 21977=19936 | Verapamil HCl retard Teva 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Teva Nederland B.V. | Geldig |
+| RVG 24174 | Verapamil HCl Dexcel 240 SR, tabletten met gereguleerde afgifte 240 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Dexcel Pharma GmbH | Geldig |
+| RVG 26239=24174 | Verapamil HCl Aurobindo Retard 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Aurobindo Pharma B.V. | Geldig |
+| RVG 56335 | Verapamil HCl CF 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Centrafarm B.V. | Geldig |
+| RVG 131207//56335 | Verapamil HCI Eureco-Pharma 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Eureco-Pharma B.V. | Geldig |
+| RVG 131448//56335 | Verapamil HCl Medulent 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Medulent B.V. | Geldig |
+| RVG 16830 | Tarka 180 mg/2 mg, capsules met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Viatris Healthcare Limited | Geldig |
+| RVG 22638 | Tarka 180 mg/2 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Viatris Healthcare Limited | Geldig |
+| RVG 29700 | Tarka 240 mg/4 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Viatris Healthcare Limited | Geldig |
+| RVG 31430 | Tarka 240 mg/2 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Viatris Healthcare Limited | Geldig |
+| RVG 57532 | Verapamil HCl Apotex 120 mg, omhulde tabletten | VERAPAMILHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -95,27 +95,27 @@ Daarnaast is de PACE-studie (NCT02403687) gevonden, maar die richt zich op topic
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 10036 | Sirdalud 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 10037 | Sirdalud 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 31642 | Tizanidine Teva 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 31643 | Tizanidine Teva 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 126352 | Tizagelan 2 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 126353 | Tizagelan 4 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 130118 | Tizanidine 2 mg Focus Care, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 130119 | Tizanidine 4 mg Focus Care, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 130553 | Tizagelan 6 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 131476 | Chordyna 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 131477 | Chordyna 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 132753//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
-| RVG 133361 | Tizanidine Ascend 2 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 133363 | Tizanidine Ascend 4 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 133364 | Tizanidine Ascend 6 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 117382//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 10036 | Sirdalud 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 10037 | Sirdalud 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Sandoz B.V. | Geldig |
+| RVG 12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Sandoz B.V. | Geldig |
+| RVG 31642 | Tizanidine Teva 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 31643 | Tizanidine Teva 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 126352 | Tizagelan 2 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | G.L. Pharma GmbH | Geldig |
+| RVG 126353 | Tizagelan 4 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | G.L. Pharma GmbH | Geldig |
+| RVG 130118 | Tizanidine 2 mg Focus Care, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 130119 | Tizanidine 4 mg Focus Care, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Focus Care Pharmaceuticals B.V. | Geldig |
+| RVG 130553 | Tizagelan 6 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | G.L. Pharma GmbH | Geldig |
+| RVG 131476 | Chordyna 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Bausch Health Ireland Limited | Geldig |
+| RVG 131477 | Chordyna 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Bausch Health Ireland Limited | Geldig |
+| RVG 132753//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Euro Registratie Collectief B.V. | Geldig |
+| RVG 133361 | Tizanidine Ascend 2 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Ascend GmbH | Geldig |
+| RVG 133363 | Tizanidine Ascend 4 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Ascend GmbH | Geldig |
+| RVG 133364 | Tizanidine Ascend 6 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Ascend GmbH | Geldig |
+| RVG 117382//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -70,16 +70,16 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 15375 | Dostinex, tabletten 0,5 mg | CABERGOLINE | Tablet | Geldig |
-| RVG 34176 | Cabergoline 0,5 PCH, tabletten 0,5 mg | CABERGOLINE | Tablet | Geldig |
-| RVG 128298//15375 | Dostinex, tabletten 0,5 mg | CABERGOLINE | Tablet | Geldig |
-| RVG 129447 | Cabergoline Aurobindo 0,5 mg, tabletten | CABERGOLINE | Tablet | Geldig |
-| RVG 131086 | Cabergoline Renata, tabletten 0,5 mg | CABERGOLINE | Tablet | Geldig |
-| RVG 105105 | Cabergoline Sandoz tablet 0,5 mg, tabletten | CABERGOLINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 15375 | Dostinex, tabletten 0,5 mg | CABERGOLINE | Tablet | Pfizer B.V. | Geldig |
+| RVG 34176 | Cabergoline 0,5 PCH, tabletten 0,5 mg | CABERGOLINE | Tablet | Pharmachemie B.V. | Geldig |
+| RVG 128298//15375 | Dostinex, tabletten 0,5 mg | CABERGOLINE | Tablet | Originalis B.V. | Geldig |
+| RVG 129447 | Cabergoline Aurobindo 0,5 mg, tabletten | CABERGOLINE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 131086 | Cabergoline Renata, tabletten 0,5 mg | CABERGOLINE | Tablet | Renata Pharmaceuticals (Ireland) Limited | Geldig |
+| RVG 105105 | Cabergoline Sandoz tablet 0,5 mg, tabletten | CABERGOLINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

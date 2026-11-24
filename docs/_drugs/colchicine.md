@@ -87,27 +87,27 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/26/2048 | Colchicine AGEPHA Pharma 0,5 mg tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 21347 | Colchicine Tiofarma 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 34100 | Colchicine Teva 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 103726 | Colchicine Mylan 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 105820 | Colchicine Sandoz 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 107614 | Colchicine CF 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 115060 | Colchicine Tiofarma 1 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 121364 | Colchicine Ria 0.5 mg tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 121365 | Colchicine Ria 1 mg tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 126243 | Colchicine DMB 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 126245 | Colchicine DMB 1 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 127055 | Colchicine DMB 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 127056 | Colchicine DMB 1 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 127592 | Colchicine Strides 0,5 mg tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 129579 | Colchicine Indoco 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 129718 | Colchicine Auro 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
-| RVG 132800 | Gloricard 0,5 mg tabletten | COLCHICINE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/26/2048 | Colchicine AGEPHA Pharma 0,5 mg tabletten | COLCHICINE | Tablet | Agepha Pharma s.r.o. | Geldig |
+| RVG 21347 | Colchicine Tiofarma 0,5 mg, tabletten | COLCHICINE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 34100 | Colchicine Teva 0,5 mg, tabletten | COLCHICINE | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 103726 | Colchicine Mylan 0,5 mg, tabletten | COLCHICINE | Tablet | Mylan B.V. | Geldig |
+| RVG 105820 | Colchicine Sandoz 0,5 mg, tabletten | COLCHICINE | Tablet | Sandoz B.V. | Geldig |
+| RVG 107614 | Colchicine CF 0,5 mg, tabletten | COLCHICINE | Tablet | Centrafarm B.V. | Geldig |
+| RVG 115060 | Colchicine Tiofarma 1 mg, tabletten | COLCHICINE | Tablet | – | Geldig |
+| RVG 121364 | Colchicine Ria 0.5 mg tabletten | COLCHICINE | Tablet | RIA Generics Limited | Geldig |
+| RVG 121365 | Colchicine Ria 1 mg tabletten | COLCHICINE | Tablet | RIA Generics Limited | Geldig |
+| RVG 126243 | Colchicine DMB 0,5 mg, tabletten | COLCHICINE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 126245 | Colchicine DMB 1 mg, tabletten | COLCHICINE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 127055 | Colchicine DMB 0,5 mg, tabletten | COLCHICINE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 127056 | Colchicine DMB 1 mg, tabletten | COLCHICINE | Tablet | Tiofarma B.V. | Geldig |
+| RVG 127592 | Colchicine Strides 0,5 mg tabletten | COLCHICINE | Tablet | Strides Pharma (Cyprus) Limited | Geldig |
+| RVG 129579 | Colchicine Indoco 0,5 mg, tabletten | COLCHICINE | Tablet | Indoco Remedies Czech s.r.o. | Geldig |
+| RVG 129718 | Colchicine Auro 0,5 mg, tabletten | COLCHICINE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 132800 | Gloricard 0,5 mg tabletten | COLCHICINE | Tablet | Tiofarma B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

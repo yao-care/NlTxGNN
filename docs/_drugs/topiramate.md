@@ -91,32 +91,32 @@ Voor trigeminuszenuwneoplasma is momenteel geen gerelateerde literatuur beschikb
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 24165 | Topamax 25 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 24167 | Topamax 100 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 24168 | Topamax 200 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 25836 | Topamax Sprinkle 15 mg, harde capsules | TOPIRAMAAT | Capsule, hard | Geldig |
-| RVG 25837 | Topamax Sprinkle 25 mg, harde capsules | TOPIRAMAAT | Capsule, hard | Geldig |
-| RVG 25838 | Topamax Sprinkle 50 mg, harde capsules | TOPIRAMAAT | Capsule, hard | Geldig |
-| RVG 33204 | Topiramaat DOC Generici 25 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33205 | Topiramaat DOC Generici 50 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33206 | Topiramaat DOC Generici 100 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33207 | Topiramaat DOC Generici 200 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33418 | Topiramaat Viatris 25 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33419 | Topiramaat Viatris 50 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33420 | Topiramaat Viatris 100 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33421 | Topiramaat Viatris 200 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33976 | Topiramaat Sandoz tablet 25 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 33977 | Topiramaat Sandoz tablet 100 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 102978 | Topiramaat Accord 25 mg filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 102979 | Topiramaat Accord 50 mg filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 102980 | Topiramaat Accord 100 mg filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
-| RVG 102981 | Topiramaat Accord 200 mg filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 24165 | Topamax 25 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Janssen-Cilag B.V. | Geldig |
+| RVG 24167 | Topamax 100 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Janssen-Cilag B.V. | Geldig |
+| RVG 24168 | Topamax 200 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Janssen-Cilag B.V. | Geldig |
+| RVG 25836 | Topamax Sprinkle 15 mg, harde capsules | TOPIRAMAAT | Capsule, hard | Janssen-Cilag B.V. | Geldig |
+| RVG 25837 | Topamax Sprinkle 25 mg, harde capsules | TOPIRAMAAT | Capsule, hard | Janssen-Cilag B.V. | Geldig |
+| RVG 25838 | Topamax Sprinkle 50 mg, harde capsules | TOPIRAMAAT | Capsule, hard | Janssen-Cilag B.V. | Geldig |
+| RVG 33204 | Topiramaat DOC Generici 25 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
+| RVG 33205 | Topiramaat DOC Generici 50 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
+| RVG 33206 | Topiramaat DOC Generici 100 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
+| RVG 33207 | Topiramaat DOC Generici 200 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
+| RVG 33418 | Topiramaat Viatris 25 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 33419 | Topiramaat Viatris 50 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 33420 | Topiramaat Viatris 100 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 33421 | Topiramaat Viatris 200 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 33976 | Topiramaat Sandoz tablet 25 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 33977 | Topiramaat Sandoz tablet 100 mg, filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 102978 | Topiramaat Accord 25 mg filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102979 | Topiramaat Accord 50 mg filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102980 | Topiramaat Accord 100 mg filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 102981 | Topiramaat Accord 200 mg filmomhulde tabletten | TOPIRAMAAT | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
 
 Getoond worden 20 van de 40 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

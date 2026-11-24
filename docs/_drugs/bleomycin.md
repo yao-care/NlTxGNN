@@ -72,13 +72,13 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 105676 | Bleomedac, poeder voor oplossing voor injectie 15000 IU (Ph. Eur.) | BLEOMYCINESULFAAT, BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie | Geldig |
-| RVG 114717//105676 | Bleomycine 15000 IU (Ph. Eur.) Eureco-Pharma, poeder voor oplossing voor inject… | BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie | Geldig |
-| RVG 117383 | Bleomycine Accord 15000 IE Poeder voor oplossing voor injectie/infusie | BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie of infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 105676 | Bleomedac, poeder voor oplossing voor injectie 15000 IU (Ph. Eur.) | BLEOMYCINESULFAAT, BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie | Medac Gesellschaft für klinische Spezialpräparate mbH | Geldig |
+| RVG 114717//105676 | Bleomycine 15000 IU (Ph. Eur.) Eureco-Pharma, poeder voor oplossing voor inject… | BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie | – | Geldig |
+| RVG 117383 | Bleomycine Accord 15000 IE Poeder voor oplossing voor injectie/infusie | BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie of infusie | Accord Healthcare B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

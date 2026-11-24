@@ -86,13 +86,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/07/401 | Alli 60 mg, harde capsules | ORLISTAT | Capsule, hard | Geldig |
-| EU/1/98/071 | Xenical, capsules 120 mg | ORLISTAT | Capsule, hard | Geldig |
-| RVG 105761 | Orlistat Sandoz 120 mg, harde capsules | ORLISTAT | Capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/07/401 | Alli 60 mg, harde capsules | ORLISTAT | Capsule, hard | GlaxoSmithKline Dungarvan Limited | Geldig |
+| EU/1/98/071 | Xenical, capsules 120 mg | ORLISTAT | Capsule, hard | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 105761 | Orlistat Sandoz 120 mg, harde capsules | ORLISTAT | Capsule, hard | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

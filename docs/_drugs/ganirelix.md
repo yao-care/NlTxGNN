@@ -85,15 +85,15 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/00/130 | Orgalutran, 0,25 mg/0,5 ml oplossing voor injectie | GANIRELIXACETAAT | Oplossing voor injectie | Geldig |
-| EU/1/22/1658 | Ganirelix Gedeon Richter 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde… | GANIRELIXACETAAT | Oplossing voor injectie | Geldig |
-| RVG 111978 | Fyremadel, 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde spuit | GANIRELIXDIACETAAT | Oplossing voor injectie | Geldig |
-| RVG 129745 | Ganirelix Theramex 0,25 mg/0,5 ml, oplossing voor injectie in een voorgevulde s… | GANIRELIXACETAAT | Oplossing voor injectie | Geldig |
-| RVG 130194 | Ganirelix Fagron 0,25 mg/0,5 ml, oplossing voor injectie in een voorgevulde spu… | GANIRELIXACETAAT | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/00/130 | Orgalutran, 0,25 mg/0,5 ml oplossing voor injectie | GANIRELIXACETAAT | Oplossing voor injectie | N.V. Organon (Kloosterstraat 6) | Geldig |
+| EU/1/22/1658 | Ganirelix Gedeon Richter 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde… | GANIRELIXACETAAT | Oplossing voor injectie | Gedeon Richter Plc. | Geldig |
+| RVG 111978 | Fyremadel, 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde spuit | GANIRELIXDIACETAAT | Oplossing voor injectie | – | Geldig |
+| RVG 129745 | Ganirelix Theramex 0,25 mg/0,5 ml, oplossing voor injectie in een voorgevulde s… | GANIRELIXACETAAT | Oplossing voor injectie | Theramex Ireland Limited | Geldig |
+| RVG 130194 | Ganirelix Fagron 0,25 mg/0,5 ml, oplossing voor injectie in een voorgevulde spu… | GANIRELIXACETAAT | Oplossing voor injectie | Fagron Nederland B.V. | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

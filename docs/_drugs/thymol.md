@@ -82,13 +82,13 @@ Ter context: voor de achtste voorspelling (stoornis in de fucoglycaansynthese) z
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 03088 | Vicks Vaporub, zalf voor inhalatiedamp | EUCALYPTUSOLIE, KAMFER, (D,L-Vorm), LEVOMENTHOL, TERPENTIJNOLIE, Gerectificeerd… | Zalf voor inhalatiedamp | Geldig |
-| RVG 129750//03088 | Vicks Vaporub, zalf voor inhalatiedamp | EUCALYPTUSOLIE, KAMFER, (D,L-Vorm), LEVOMENTHOL, TERPENTIJNOLIE, Gerectificeerd… | Zalf voor inhalatiedamp | Geldig |
-| RVG 120425//03088 | Vicks Vaporub, zalf voor inhalatiedamp | THYMOL, KAMFER, (D,L-VORM), TERPENTIJNOLIE, GERECTIFICEERD, EUCALYPTUSOLIE, LEV… | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 03088 | Vicks Vaporub, zalf voor inhalatiedamp | EUCALYPTUSOLIE, KAMFER, (D,L-Vorm), LEVOMENTHOL, TERPENTIJNOLIE, Gerectificeerd… | Zalf voor inhalatiedamp | Procter & Gamble Nederland B.V. | Geldig |
+| RVG 129750//03088 | Vicks Vaporub, zalf voor inhalatiedamp | EUCALYPTUSOLIE, KAMFER, (D,L-Vorm), LEVOMENTHOL, TERPENTIJNOLIE, Gerectificeerd… | Zalf voor inhalatiedamp | Top-Pharma B.V. | Geldig |
+| RVG 120425//03088 | Vicks Vaporub, zalf voor inhalatiedamp | THYMOL, KAMFER, (D,L-VORM), TERPENTIJNOLIE, GERECTIFICEERD, EUCALYPTUSOLIE, LEV… | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

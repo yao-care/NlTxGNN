@@ -80,30 +80,30 @@ Geen van de onderstaande publicaties onderzoekt dienogest als behandeling van am
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 104058 | Visanne 2 mg, tabletten | DIENOGEST | Tablet | Geldig |
-| RVG 122385 | Tubanis 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
-| RVG 122386 | Endodien 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
-| RVG 122487 | Zafrilla 2 mg tabletten | DIENOGEST | Tablet | Geldig |
-| RVG 122556 | Dienogest Stragen 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
-| RVG 122572 | Dimetrum 2 mg tabletten | DIENOGEST | Tablet | Geldig |
-| RVG 123003 | Dienosis 2 mg tabletten | DIENOGEST | Tablet | Geldig |
-| RVG 130377 | Dienogest Bailleul 2 mg tabletten | DIENOGEST | Tablet | Geldig |
-| RVG 131205//122556 | Dienogest Medcor 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
-| RVG 136883//122556 | Dienogest Medcor 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
-| RVG 24830 | Climodien 2 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Geldig |
-| RVG 26285 | Lafamme 2 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Geldig |
-| RVG 30401 | Climodien 1 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Geldig |
-| RVG 32405 | Lafamme 1 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Geldig |
-| RVG 101491 | Qlaira filmomhulde tabletten | DIENOGEST, DIENOGEST, ESTRADIOLVALERAAT, ESTRADIOLVALERAAT, ESTRADIOLVALERAAT,… | Filmomhulde tablet | Geldig |
-| RVG 113667 | Estradiol Valeraat 1 mg / Dienogest 2 mg Laboratorios León Farma, filmomhulde t… | DIENOGEST, ESTRADIOLVALERAAT | Filmomhulde tablet | Geldig |
-| RVG 114998 | LaFleur 1 mg/2 mg, tabletten | DIENOGEST, ESTRADIOLVALERAAT | Tablet | Geldig |
-| RVG 117923 | Misolfa 2 mg/0,03 mg, filmomhulde tabletten | DIENOGEST, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
-| RVG 118123 | Velbienne 1 mg/2 mg, filmomhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Filmomhulde tablet | Geldig |
-| RVG 131206 | Kelzyn 2mg/0,02 mg, tablet met verlengde afgifte | DIENOGEST, ETHINYLESTRADIOL | Tablet met verlengde afgifte | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 104058 | Visanne 2 mg, tabletten | DIENOGEST | Tablet | – | Geldig |
+| RVG 122385 | Tubanis 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Egis Pharmaceuticals Plc | Geldig |
+| RVG 122386 | Endodien 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Farmitalia S.r.l. | Geldig |
+| RVG 122487 | Zafrilla 2 mg tabletten | DIENOGEST | Tablet | Gedeon Richter Plc. | Geldig |
+| RVG 122556 | Dienogest Stragen 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Stragen France SAS | Geldig |
+| RVG 122572 | Dimetrum 2 mg tabletten | DIENOGEST | Tablet | Besins Healthcare Netherlands B.V. | Geldig |
+| RVG 123003 | Dienosis 2 mg tabletten | DIENOGEST | Tablet | Naari B.V. | Geldig |
+| RVG 130377 | Dienogest Bailleul 2 mg tabletten | DIENOGEST | Tablet | Laboratoires Bailleul S.A. | Geldig |
+| RVG 131205//122556 | Dienogest Medcor 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 136883//122556 | Dienogest Medcor 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 24830 | Climodien 2 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 26285 | Lafamme 2 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 30401 | Climodien 1 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 32405 | Lafamme 1 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Bayer B.V. | Geldig |
+| RVG 101491 | Qlaira filmomhulde tabletten | DIENOGEST, DIENOGEST, ESTRADIOLVALERAAT, ESTRADIOLVALERAAT, ESTRADIOLVALERAAT,… | Filmomhulde tablet | Bayer B.V. | Geldig |
+| RVG 113667 | Estradiol Valeraat 1 mg / Dienogest 2 mg Laboratorios León Farma, filmomhulde t… | DIENOGEST, ESTRADIOLVALERAAT | Filmomhulde tablet | Laboratorios Leon Farma, S.A. | Geldig |
+| RVG 114998 | LaFleur 1 mg/2 mg, tabletten | DIENOGEST, ESTRADIOLVALERAAT | Tablet | Dr. Kade Pharmazeutische fabrik GMBH | Geldig |
+| RVG 117923 | Misolfa 2 mg/0,03 mg, filmomhulde tabletten | DIENOGEST, ETHINYLESTRADIOL | Filmomhulde tablet | Laboratoire CCD | Geldig |
+| RVG 118123 | Velbienne 1 mg/2 mg, filmomhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Filmomhulde tablet | Exeltis Healthcare S.L | Geldig |
+| RVG 131206 | Kelzyn 2mg/0,02 mg, tablet met verlengde afgifte | DIENOGEST, ETHINYLESTRADIOL | Tablet met verlengde afgifte | Exeltis Healthcare S.L | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

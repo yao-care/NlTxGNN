@@ -91,24 +91,24 @@ Voor de verwante voorspelde indicatie *hoofdpijnaandoening* zijn twee publicatie
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 16946 | Esmeron 10 mg/ml, oplossing voor injectie | ROCURONIUMBROMIDE | Oplossing voor injectie | Geldig |
-| RVG 100151 | Rocuroniumbromide-hameln 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 100154 | Rocuroniumbromide Fresenius Kabi 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 100155 | Rocuroniumbromide B.Braun 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 110257 | Rocuroniumbromide Viatris 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie | Geldig |
-| RVG 122315 | Rocuroniumbromide Kalceks 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 123915 | Rocuroniumbromide Noridem 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 126659//100154 | Rocuroniumbromide Eureco-Pharma 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 128477 | Rocuroniumbromide Accord 10 mg/ml oplossing voor injectie in een voorgevulde sp… | ROCURONIUMBROMIDE | Oplossing voor injectie | Geldig |
-| RVG 128904//100154 | Rocuroniumbromide ERC 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 129496//100154 | Rocuroniumbromide Medcor 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 129706 | Rocuroniumbromide Aguettant 10 mg/ml oplossing voor injectie in een voorgevulde… | ROCURONIUMBROMIDE | Oplossing voor injectie | Geldig |
-| RVG 136718//100154 | Rocuroniumbromide Medcor 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
-| RVG 113094 | Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 16946 | Esmeron 10 mg/ml, oplossing voor injectie | ROCURONIUMBROMIDE | Oplossing voor injectie | Merck Sharp & Dohme B.V. | Geldig |
+| RVG 100151 | Rocuroniumbromide-hameln 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | hameln pharma gmbh | Geldig |
+| RVG 100154 | Rocuroniumbromide Fresenius Kabi 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Fresenius Kabi Nederland B.V. | Geldig |
+| RVG 100155 | Rocuroniumbromide B.Braun 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | B. Braun Melsungen AG (Melsungen) | Geldig |
+| RVG 110257 | Rocuroniumbromide Viatris 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie | Viatris Limited | Geldig |
+| RVG 122315 | Rocuroniumbromide Kalceks 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | AS Kalceks | Geldig |
+| RVG 123915 | Rocuroniumbromide Noridem 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Noridem Enterprises Ltd | Geldig |
+| RVG 126659//100154 | Rocuroniumbromide Eureco-Pharma 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Eureco-Pharma B.V. | Geldig |
+| RVG 128477 | Rocuroniumbromide Accord 10 mg/ml oplossing voor injectie in een voorgevulde sp… | ROCURONIUMBROMIDE | Oplossing voor injectie | Accord Healthcare B.V. | Geldig |
+| RVG 128904//100154 | Rocuroniumbromide ERC 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129496//100154 | Rocuroniumbromide Medcor 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 129706 | Rocuroniumbromide Aguettant 10 mg/ml oplossing voor injectie in een voorgevulde… | ROCURONIUMBROMIDE | Oplossing voor injectie | Laboratoire Aguettant | Geldig |
+| RVG 136718//100154 | Rocuroniumbromide Medcor 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Medcor Pharmaceuticals B.V. | Geldig |
+| RVG 113094 | Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

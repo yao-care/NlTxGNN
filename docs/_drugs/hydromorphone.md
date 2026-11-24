@@ -101,26 +101,26 @@ Bij de voorspelling "hoofdpijnaandoening" (score 0,9965, bewijsniveau L3) zijn d
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 22162 | Palladon-SR capsule 4 mg, capsules met verlengde afgifte | HYDROMORFONHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 22163 | Palladon-SR capsule 8 mg, capsules met verlengde afgifte | HYDROMORFONHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
-| RVG 26549 | Palladon-IR capsules 1,3 mg, capsules | HYDROMORFONHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 26550 | Palladon-IR capsules 2,6 mg, capsules | HYDROMORFONHYDROCHLORIDE | Capsule, hard | Geldig |
-| RVG 104833 | Palladon injectie 2 mg/ml, oplossing voor injectie of infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 104836 | Palladon injectie 10 mg/ml, oplossing voor injectie of infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 104838 | Palladon injectie 50 mg/ml, oplossing voor injectie of infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 122290 | Hydromorfonhydrochloride Kalceks 2 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 122291 | Hydromorfonhydrochloride Kalceks 10 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 122292 | Hydromorfonhydrochloride Kalceks 20 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 122293 | Hydromorfonhydrochloride Kalceks 50 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 125457 | Hydagelan 2 mg/ ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 125458 | Hydagelan 10 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 125459 | Hydagelan 20 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 125460 | Hydagelan 50 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
-| RVG 118401//22165 | Palladone-SR capsules 24 mg, capsules met verlengde afgifte | HYDROMORFONHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 22162 | Palladon-SR capsule 4 mg, capsules met verlengde afgifte | HYDROMORFONHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Mundipharma Pharmaceuticals B.V. | Geldig |
+| RVG 22163 | Palladon-SR capsule 8 mg, capsules met verlengde afgifte | HYDROMORFONHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Mundipharma Pharmaceuticals B.V. | Geldig |
+| RVG 26549 | Palladon-IR capsules 1,3 mg, capsules | HYDROMORFONHYDROCHLORIDE | Capsule, hard | Mundipharma Pharmaceuticals B.V. | Geldig |
+| RVG 26550 | Palladon-IR capsules 2,6 mg, capsules | HYDROMORFONHYDROCHLORIDE | Capsule, hard | Mundipharma Pharmaceuticals B.V. | Geldig |
+| RVG 104833 | Palladon injectie 2 mg/ml, oplossing voor injectie of infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Mundipharma Pharmaceuticals B.V. | Geldig |
+| RVG 104836 | Palladon injectie 10 mg/ml, oplossing voor injectie of infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Mundipharma Pharmaceuticals B.V. | Geldig |
+| RVG 104838 | Palladon injectie 50 mg/ml, oplossing voor injectie of infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | Mundipharma Pharmaceuticals B.V. | Geldig |
+| RVG 122290 | Hydromorfonhydrochloride Kalceks 2 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | AS Kalceks | Geldig |
+| RVG 122291 | Hydromorfonhydrochloride Kalceks 10 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | AS Kalceks | Geldig |
+| RVG 122292 | Hydromorfonhydrochloride Kalceks 20 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | AS Kalceks | Geldig |
+| RVG 122293 | Hydromorfonhydrochloride Kalceks 50 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | AS Kalceks | Geldig |
+| RVG 125457 | Hydagelan 2 mg/ ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | G.L. Pharma GmbH | Geldig |
+| RVG 125458 | Hydagelan 10 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | G.L. Pharma GmbH | Geldig |
+| RVG 125459 | Hydagelan 20 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | G.L. Pharma GmbH | Geldig |
+| RVG 125460 | Hydagelan 50 mg/ml oplossing voor injectie/infusie | HYDROMORFONHYDROCHLORIDE | Oplossing voor injectie of infusie | G.L. Pharma GmbH | Geldig |
+| RVG 118401//22165 | Palladone-SR capsules 24 mg, capsules met verlengde afgifte | HYDROMORFONHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

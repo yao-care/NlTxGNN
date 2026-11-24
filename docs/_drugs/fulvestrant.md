@@ -75,25 +75,25 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor HIV-inf
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/03/269 | Faslodex 250 mg oplossing voor injectie | FULVESTRANT | Oplossing voor injectie | Geldig |
-| EU/1/17/1253 | Fulvestrant Mylan 250 mg oplossing voor injectie | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 115994 | Fulvestrant Sandoz 50 mg/ml, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 116708 | Fulvestrant Teva 250 mg, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 120916 | Fulvestrant SUN 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 121870 | Fulvestrant EVER Pharma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 123359 | Fulvestrant Accord 250 mg oplossing voor injectie in voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 125141 | Fulvestrant Zentiva 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 125142 | Vastaloma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 125853 | Fulvestrant Glenmark 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 126293 | Imarsa 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 126295 | Fulvestrant Xiromed 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 126297 | Fulvefar 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 126302 | Fulvestrant Leon Farma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
-| RVG 128463 | Fulvestrant Eugia 250 mg, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/03/269 | Faslodex 250 mg oplossing voor injectie | FULVESTRANT | Oplossing voor injectie | AstraZeneca AB | Geldig |
+| EU/1/17/1253 | Fulvestrant Mylan 250 mg oplossing voor injectie | FULVESTRANT | Oplossing voor injectie | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 115994 | Fulvestrant Sandoz 50 mg/ml, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 116708 | Fulvestrant Teva 250 mg, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | – | Geldig |
+| RVG 120916 | Fulvestrant SUN 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 121870 | Fulvestrant EVER Pharma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | EVER Valinject GmbH | Geldig |
+| RVG 123359 | Fulvestrant Accord 250 mg oplossing voor injectie in voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Accord Healthcare B.V. | Geldig |
+| RVG 125141 | Fulvestrant Zentiva 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Zentiva k.s. | Geldig |
+| RVG 125142 | Vastaloma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Zentiva k.s. | Geldig |
+| RVG 125853 | Fulvestrant Glenmark 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 126293 | Imarsa 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Gedeon Richter Plc | Geldig |
+| RVG 126295 | Fulvestrant Xiromed 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Medical Valley Invest AB | Geldig |
+| RVG 126297 | Fulvefar 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Laboratorios Farmalán, S.A. | Geldig |
+| RVG 126302 | Fulvestrant Leon Farma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Laboratorios Leon Farma, S.A. | Geldig |
+| RVG 128463 | Fulvestrant Eugia 250 mg, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Eugia Pharma (Malta) Limited | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

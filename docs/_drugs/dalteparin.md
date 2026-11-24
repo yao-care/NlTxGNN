@@ -97,24 +97,24 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 12787 | Fragmin 2.500 IE/0,2 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 12788 | Fragmin 5.000 IE/0,2 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 20607 | Fragmin 7.500 IE/0,3 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 21896 | Fragmin 10.000 IE/0,4 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 21897 | Fragmin 12.500 IE/0,5 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 21899 | Fragmin 18.000 IE/0,72 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 128027//21899 | Fragmin 18.000 IE/0,72 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 128028//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 128030//20607 | Fragmin 7.500 IE/0,3 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 128031//21896 | Fragmin 10.000 IE/0,4 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 128033//21897 | Fragmin 12.500 IE/0,5 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 129472 | Fragmin 2.500 IE/ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
-| RVG 120289//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 12787 | Fragmin 2.500 IE/0,2 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 12788 | Fragmin 5.000 IE/0,2 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 20607 | Fragmin 7.500 IE/0,3 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 21896 | Fragmin 10.000 IE/0,4 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 21897 | Fragmin 12.500 IE/0,5 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 21899 | Fragmin 18.000 IE/0,72 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 128027//21899 | Fragmin 18.000 IE/0,72 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 128028//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 128030//20607 | Fragmin 7.500 IE/0,3 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 128031//21896 | Fragmin 10.000 IE/0,4 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 128033//21897 | Fragmin 12.500 IE/0,5 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129472 | Fragmin 2.500 IE/ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 120289//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

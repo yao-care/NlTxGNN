@@ -76,22 +76,22 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 00605 | Depo-Medrol 40 mg/ml, suspensie voor injectie | METHYLPREDNISOLONACETAAT | Suspensie voor injectie | Geldig |
-| RVG 05302 | Solu-Medrol 40mg/ml, poeder en oplosmiddel voor oplossing voor injectie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Oplossing voor injectie | Geldig |
-| RVG 06664 | Solu-Medrol, poeder voor oplossing voor infusie, 500 mg en 1000 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT, METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
-| RVG 07041 | Solu-Medrol 62,5mg/ml, poeder en oplosmiddel voor oplossing voor injectie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 127976//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 500 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
-| RVG 128516//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 1000 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
-| RVG 128535//07041 | Methylprednisolon Eureco-Pharma 62,5 mg/ml poeder en oplosmiddel voor oplossing… | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 129331//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 500 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
-| RVG 130082 | Methylprednisolon ACE 100 mg tabletten | METHYLPREDNISOLON | Tablet | Geldig |
-| RVG 135199//06664 | Methylprednisolon ERC 500 mg, poeder voor oplossing voor infusie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
-| RVG 07066 | Depo Medrol + Lidocaïne, suspensie voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER, METHYLPREDNISOLONACETAAT | Suspensie voor injectie | Geldig |
-| RVG 116594 | Methylprednisolon Eurogenerics 16 mg tabletten | METHYLPREDNISOLON | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 00605 | Depo-Medrol 40 mg/ml, suspensie voor injectie | METHYLPREDNISOLONACETAAT | Suspensie voor injectie | Pfizer B.V. | Geldig |
+| RVG 05302 | Solu-Medrol 40mg/ml, poeder en oplosmiddel voor oplossing voor injectie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 06664 | Solu-Medrol, poeder voor oplossing voor infusie, 500 mg en 1000 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT, METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Pfizer B.V. | Geldig |
+| RVG 07041 | Solu-Medrol 62,5mg/ml, poeder en oplosmiddel voor oplossing voor injectie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Pfizer B.V. | Geldig |
+| RVG 127976//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 500 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Eureco-Pharma B.V. | Geldig |
+| RVG 128516//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 1000 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Eureco-Pharma B.V. | Geldig |
+| RVG 128535//07041 | Methylprednisolon Eureco-Pharma 62,5 mg/ml poeder en oplosmiddel voor oplossing… | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Eureco-Pharma B.V. | Geldig |
+| RVG 129331//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 500 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Eureco-Pharma B.V. | Geldig |
+| RVG 130082 | Methylprednisolon ACE 100 mg tabletten | METHYLPREDNISOLON | Tablet | ACE Pharmaceuticals B.V. | Geldig |
+| RVG 135199//06664 | Methylprednisolon ERC 500 mg, poeder voor oplossing voor infusie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Euro Registratie Collectief B.V. | Geldig |
+| RVG 07066 | Depo Medrol + Lidocaïne, suspensie voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER, METHYLPREDNISOLONACETAAT | Suspensie voor injectie | Pfizer B.V. | Geldig |
+| RVG 116594 | Methylprednisolon Eurogenerics 16 mg tabletten | METHYLPREDNISOLON | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

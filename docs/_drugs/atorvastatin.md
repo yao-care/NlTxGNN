@@ -95,32 +95,32 @@ Op dit moment is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 21081 | Lipitor 10, filmomhulde tabletten 10 mg | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 21082 | Lipitor 20, filmomhulde tabletten 20 mg | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 21083 | Lipitor 40, filmomhulde tabletten 40 mg | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 27148 | Lipitor 80, filmomhulde tabletten 80 mg | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 102140 | Atorvastatine Sandoz 10 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 102144 | Atorvastatine Sandoz 20 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 102152 | Atorvastatine Sandoz 40 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 104243 | Atorvastatine Mylan 10 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 104246 | Atorvastatine Mylan 20 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 104251 | Atorvastatine Mylan 40 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 104254 | Atorvastatine Mylan 80 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 105244 | Atorvastatine Teva 10 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 105245 | Atorvastatine Teva 20 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 105246 | Atorvastatine Teva 40 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 105247 | Atorvastatine Teva 80 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Geldig |
-| RVG 106354 | Atorvastatine Pharmathen 10 mg filmomhulde tabletten | ATORVASTATINE CALCIUM 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 106356 | Atorvastatine Pharmathen 20 mg filmomhulde tabletten | ATORVASTATINE CALCIUM 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 106357 | Atorvastatine Pharmathen 40 mg filmomhulde tabletten | ATORVASTATINE CALCIUM 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 106358 | Atorvastatine Pharmathen 80 mg filmomhulde tabletten | ATORVASTATINE CALCIUM 0-WATER | Filmomhulde tablet | Geldig |
-| RVG 107605 | Lipitor 5 mg, kauwtabletten | ATORVASTATINE CALCIUM 3-WATER | Kauwtablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 21081 | Lipitor 10, filmomhulde tabletten 10 mg | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 21082 | Lipitor 20, filmomhulde tabletten 20 mg | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 21083 | Lipitor 40, filmomhulde tabletten 40 mg | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 27148 | Lipitor 80, filmomhulde tabletten 80 mg | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Viatris Healthcare Limited | Geldig |
+| RVG 102140 | Atorvastatine Sandoz 10 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 102144 | Atorvastatine Sandoz 20 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 102152 | Atorvastatine Sandoz 40 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 104243 | Atorvastatine Mylan 10 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 104246 | Atorvastatine Mylan 20 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 104251 | Atorvastatine Mylan 40 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 104254 | Atorvastatine Mylan 80 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 105244 | Atorvastatine Teva 10 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 105245 | Atorvastatine Teva 20 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 105246 | Atorvastatine Teva 40 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 105247 | Atorvastatine Teva 80 mg, filmomhulde tabletten | ATORVASTATINE CALCIUM 3-WATER | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 106354 | Atorvastatine Pharmathen 10 mg filmomhulde tabletten | ATORVASTATINE CALCIUM 0-WATER | Filmomhulde tablet | Pharmathen S.A. | Geldig |
+| RVG 106356 | Atorvastatine Pharmathen 20 mg filmomhulde tabletten | ATORVASTATINE CALCIUM 0-WATER | Filmomhulde tablet | Pharmathen S.A. | Geldig |
+| RVG 106357 | Atorvastatine Pharmathen 40 mg filmomhulde tabletten | ATORVASTATINE CALCIUM 0-WATER | Filmomhulde tablet | Pharmathen S.A. | Geldig |
+| RVG 106358 | Atorvastatine Pharmathen 80 mg filmomhulde tabletten | ATORVASTATINE CALCIUM 0-WATER | Filmomhulde tablet | Pharmathen S.A. | Geldig |
+| RVG 107605 | Lipitor 5 mg, kauwtabletten | ATORVASTATINE CALCIUM 3-WATER | Kauwtablet | Viatris Healthcare Limited | Geldig |
 
 Getoond worden 20 van de 213 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

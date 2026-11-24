@@ -51,16 +51,16 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 02179 | Primolut N, tabletten 5 mg | NORETHISTERON | Tablet | Geldig |
-| EU/1/21/1565 | Ryeqo 40 mg/1 mg/0.5 mg, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT, RELUGOLIX | Filmomhulde tablet | Geldig |
-| RVG 22819 | Activelle, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | Filmomhulde tablet | Geldig |
-| RVG 117326//22819 | Activelle 1 mg/0,5 mg, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | Filmomhulde tablet | Geldig |
-| RVG 114612//22819 | Activelle, filmomhulde tabletten | NORETHISTERONACETAAT, ESTRADIOL 0,5-WATER | – | Niet geregistreerd |
-| RVG 119949//14942 | Kliogest, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 02179 | Primolut N, tabletten 5 mg | NORETHISTERON | Tablet | Bayer B.V. | Geldig |
+| EU/1/21/1565 | Ryeqo 40 mg/1 mg/0.5 mg, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT, RELUGOLIX | Filmomhulde tablet | Gedeon Richter Plc | Geldig |
+| RVG 22819 | Activelle, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | Filmomhulde tablet | Novo Nordisk B.V. | Geldig |
+| RVG 117326//22819 | Activelle 1 mg/0,5 mg, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 114612//22819 | Activelle, filmomhulde tabletten | NORETHISTERONACETAAT, ESTRADIOL 0,5-WATER | – | – | Niet geregistreerd |
+| RVG 119949//14942 | Kliogest, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

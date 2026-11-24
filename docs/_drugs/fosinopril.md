@@ -91,18 +91,18 @@ Voor de vierde voorspelling (pulmonale hypertensie door longziekte en/of hypoxie
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 32261 | Fosinoprilnatrium Mylan 10 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Geldig |
-| RVG 32262 | Fosinoprilnatrium Mylan 20 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Geldig |
-| RVG 34873 | Fosinoprilnatrium Doc Generici 10 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Geldig |
-| RVG 34874 | Fosinoprilnatrium Doc Generici 20 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Geldig |
-| RVG 105776 | Fosinoprilnatrium Aurobindo 10 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Geldig |
-| RVG 105777 | Fosinoprilnatrium Aurobindo 20 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Geldig |
-| RVG 34391 | Fosinoprilnatrium/Hydrochloorthiazide Aurobindo 20/12,5 mg, tabletten | FOSINOPRIL NATRIUM, HYDROCHLOORTHIAZIDE | Tablet | Geldig |
-| RVG 105685 | Fosinoprilnatrium/Hydrochloorthiazide Aurobindo 20/12,5 mg, tabletten | HYDROCHLOORTHIAZIDE, FOSINOPRIL NATRIUM | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 32261 | Fosinoprilnatrium Mylan 10 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Mylan B.V. | Geldig |
+| RVG 32262 | Fosinoprilnatrium Mylan 20 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Mylan B.V. | Geldig |
+| RVG 34873 | Fosinoprilnatrium Doc Generici 10 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | DOC Generici S.r.l. | Geldig |
+| RVG 34874 | Fosinoprilnatrium Doc Generici 20 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | DOC Generici S.r.l. | Geldig |
+| RVG 105776 | Fosinoprilnatrium Aurobindo 10 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 105777 | Fosinoprilnatrium Aurobindo 20 mg, tabletten | FOSINOPRIL NATRIUM | Tablet | – | Geldig |
+| RVG 34391 | Fosinoprilnatrium/Hydrochloorthiazide Aurobindo 20/12,5 mg, tabletten | FOSINOPRIL NATRIUM, HYDROCHLOORTHIAZIDE | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 105685 | Fosinoprilnatrium/Hydrochloorthiazide Aurobindo 20/12,5 mg, tabletten | HYDROCHLOORTHIAZIDE, FOSINOPRIL NATRIUM | Tablet | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

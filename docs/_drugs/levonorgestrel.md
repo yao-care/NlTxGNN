@@ -88,32 +88,32 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
-| RVG 32253 | Postinor 1500 microgram, tablet | LEVONORGESTREL | Tablet | Geldig |
-| RVG 32303 | NorLevo 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Geldig |
-| RVG 111790 | Levonorgestrel Teva 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Geldig |
-| RVG 111879 | Levonorgestrel Xiromed 1,5 mg tabletten | LEVONORGESTREL | Tablet | Geldig |
-| RVG 111881 | Tansy 750 microgram tabletten | LEVONORGESTREL | Tablet | Geldig |
-| RVG 111882 | Etos noodanticonceptie levonorgestrel, 1,5 mg tablet | LEVONORGESTREL | Tablet | Geldig |
-| RVG 111888 | Kruidvat noodanticonceptie levonorgestrel, 1,5 mg tablet | LEVONORGESTREL | Tablet | Geldig |
-| RVG 111889 | Isteranda 1,5 mg tabletten | LEVONORGESTREL | Tablet | Geldig |
-| RVG 111892 | Levonorgestrel 1,5 mg Leon Farma, tabletten | LEVONORGESTREL | Tablet | Geldig |
-| RVG 118175 | Levonorgestrel HTP 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Geldig |
-| RVG 118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
-| RVG 121664 | Levonorgestrel Naari 1,5 mg tablet | LEVONORGESTREL | Tablet | Geldig |
-| RVG 121873//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
-| RVG 123879//118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
-| RVG 125012//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
-| RVG 126673 | Levosert afleveringsysteem voor intra-uterien gebruik 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
-| RVG 129637//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
-| RVG 129872//118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
-| RVG 130191//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Bayer B.V. | Geldig |
+| RVG 32253 | Postinor 1500 microgram, tablet | LEVONORGESTREL | Tablet | Gedeon Richter Plc | Geldig |
+| RVG 32303 | NorLevo 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Laboratoire HRA Pharma | Geldig |
+| RVG 111790 | Levonorgestrel Teva 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 111879 | Levonorgestrel Xiromed 1,5 mg tabletten | LEVONORGESTREL | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 111881 | Tansy 750 microgram tabletten | LEVONORGESTREL | Tablet | Laboratorios Leon Farma, S.A. | Geldig |
+| RVG 111882 | Etos noodanticonceptie levonorgestrel, 1,5 mg tablet | LEVONORGESTREL | Tablet | Sameko Farma B.V. | Geldig |
+| RVG 111888 | Kruidvat noodanticonceptie levonorgestrel, 1,5 mg tablet | LEVONORGESTREL | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 111889 | Isteranda 1,5 mg tabletten | LEVONORGESTREL | Tablet | Sandoz B.V. | Geldig |
+| RVG 111892 | Levonorgestrel 1,5 mg Leon Farma, tabletten | LEVONORGESTREL | Tablet | Laboratorios Leon Farma, S.A. | Geldig |
+| RVG 118175 | Levonorgestrel HTP 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Healthypharm B.V. | Geldig |
+| RVG 118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Bayer B.V. | Geldig |
+| RVG 121664 | Levonorgestrel Naari 1,5 mg tablet | LEVONORGESTREL | Tablet | Naari B.V. | Geldig |
+| RVG 121873//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 123879//118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 125012//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | BModesto B.V. | Geldig |
+| RVG 126673 | Levosert afleveringsysteem voor intra-uterien gebruik 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Gedeon Richter Plc | Geldig |
+| RVG 129637//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Originalis B.V. | Geldig |
+| RVG 129872//118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 130191//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Euro Registratie Collectief B.V. | Geldig |
 
 Getoond worden 20 van de 47 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

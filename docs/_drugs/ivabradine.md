@@ -100,32 +100,32 @@ Het middel is op de markt. Gegevens over toedieningsvorm en geregistreerde indic
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/05/316 | Procoralan 7,5 mg, filmomhulde tablet | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/05/317 | Corlentor 5 mg, filmomhulde tablet | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/15/1041 | Ivabradine Anpharm 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/16/1144 | Ivabradine Zentiva 7,5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| EU/1/17/1190 | Ivabradine Accord 7,5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118292 | Ivabradine Synthon 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118293 | Ivabradine Synthon 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118294 | Ivabradine Synthon 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118295 | Ivabradine DOC Generici 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118296 | Ivabradine DOC Generici 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118297 | Ivabradine DOC Generici 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118298 | Ivabradine Glenmark 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118300 | Ivabradine Glenmark 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118301 | Ivabradine Glenmark 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118310 | Ivabradine CF 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118311 | Ivabradine CF 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118312 | Ivabradine CF 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118319 | Ivabradine Aurobindo 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118320 | Ivabradine Aurobindo 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118321 | Ivabradine Xiromed 5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/05/316 | Procoralan 7,5 mg, filmomhulde tablet | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Les Laboratoires Servier Industrie | Geldig |
+| EU/1/05/317 | Corlentor 5 mg, filmomhulde tablet | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Les Laboratoires Servier Industrie | Geldig |
+| EU/1/15/1041 | Ivabradine Anpharm 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Anpharm Przedsiebiorstwo Farmaceutyczne S.A. | Geldig |
+| EU/1/16/1144 | Ivabradine Zentiva 7,5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Zentiva k.s. | Geldig |
+| EU/1/17/1190 | Ivabradine Accord 7,5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Accord Healthcare S.L.U. | Geldig |
+| RVG 118292 | Ivabradine Synthon 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 118293 | Ivabradine Synthon 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 118294 | Ivabradine Synthon 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Synthon B.V. | Geldig |
+| RVG 118295 | Ivabradine DOC Generici 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
+| RVG 118296 | Ivabradine DOC Generici 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
+| RVG 118297 | Ivabradine DOC Generici 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
+| RVG 118298 | Ivabradine Glenmark 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 118300 | Ivabradine Glenmark 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 118301 | Ivabradine Glenmark 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 118310 | Ivabradine CF 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 118311 | Ivabradine CF 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 118312 | Ivabradine CF 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 118319 | Ivabradine Aurobindo 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 118320 | Ivabradine Aurobindo 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 118321 | Ivabradine Xiromed 5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Medical Valley Invest AB | Geldig |
 
 Getoond worden 20 van de 50 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

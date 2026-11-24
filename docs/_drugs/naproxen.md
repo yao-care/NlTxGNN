@@ -96,32 +96,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 09006 | Aleve Feminax bij menstruatiepijn 275, filmomhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
-| RVG 09007 | Aleve Select 275 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
-| RVG 11195 | Naproxen Mylan 250 mg, tabletten | NAPROXEN | Tablet | Geldig |
-| RVG 11196 | Naproxen Mylan 500 mg, tabletten | NAPROXEN | Tablet | Geldig |
-| RVG 12570 | Naproxen 250 mg Teva, tabletten | NAPROXEN | Tablet | Geldig |
-| RVG 12571 | Naproxen 500 mg Teva, tabletten | NAPROXEN | Tablet | Geldig |
-| RVG 14484 | Aleve Intense 550 mg, omhulde tablet | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
-| RVG 19630 | Aleve Classic bij pijn en koorts 220, omhulde tabletten 220 mg | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
-| RVG 20535 | PROXA 250 mg, tabletten | NAPROXEN | Tablet | Geldig |
-| RVG 20536 | PROXA 500 mg, tabletten | NAPROXEN | Tablet | Geldig |
-| RVG 21931 | Naproxen Aurobindo EC 250 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
-| RVG 21932 | Naproxen Aurobindo EC 500 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
-| RVG 24058 | Naproxen Accord 250 mg Tabletten, tabletten | NAPROXEN | Tablet | Geldig |
-| RVG 24059 | Naproxen Accord 500 mg Tabletten, tabletten | NAPROXEN | Tablet | Geldig |
-| RVG 24967 | Naproxen EC Mylan 250 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
-| RVG 24968 | Naproxen EC Mylan 500 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
-| RVG 25044 | Naproxennatrium Aurobindo 275 mg, filmomhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
-| RVG 27371 | Naproxennatrium HTP 220 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
-| RVG 28323=27371 | Etos Naproxennatrium 220 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
-| RVG 30325 | Naproxen MSR 250 mg Teva, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 09006 | Aleve Feminax bij menstruatiepijn 275, filmomhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Bayer B.V. | Geldig |
+| RVG 09007 | Aleve Select 275 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Bayer B.V. | Geldig |
+| RVG 11195 | Naproxen Mylan 250 mg, tabletten | NAPROXEN | Tablet | Mylan B.V. | Geldig |
+| RVG 11196 | Naproxen Mylan 500 mg, tabletten | NAPROXEN | Tablet | Mylan B.V. | Geldig |
+| RVG 12570 | Naproxen 250 mg Teva, tabletten | NAPROXEN | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 12571 | Naproxen 500 mg Teva, tabletten | NAPROXEN | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 14484 | Aleve Intense 550 mg, omhulde tablet | NAPROXENNATRIUM | Filmomhulde tablet | Bayer B.V. | Geldig |
+| RVG 19630 | Aleve Classic bij pijn en koorts 220, omhulde tabletten 220 mg | NAPROXENNATRIUM | Filmomhulde tablet | Bayer B.V. | Geldig |
+| RVG 20535 | PROXA 250 mg, tabletten | NAPROXEN | Tablet | Maddox Pharma Swiss B.V. | Geldig |
+| RVG 20536 | PROXA 500 mg, tabletten | NAPROXEN | Tablet | Maddox Pharma Swiss B.V. | Geldig |
+| RVG 21931 | Naproxen Aurobindo EC 250 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 21932 | Naproxen Aurobindo EC 500 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 24058 | Naproxen Accord 250 mg Tabletten, tabletten | NAPROXEN | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 24059 | Naproxen Accord 500 mg Tabletten, tabletten | NAPROXEN | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 24967 | Naproxen EC Mylan 250 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Mylan B.V. | Geldig |
+| RVG 24968 | Naproxen EC Mylan 500 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Mylan B.V. | Geldig |
+| RVG 25044 | Naproxennatrium Aurobindo 275 mg, filmomhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 27371 | Naproxennatrium HTP 220 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Healthypharm B.V. | Geldig |
+| RVG 28323=27371 | Etos Naproxennatrium 220 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Healthypharm B.V. | Geldig |
+| RVG 30325 | Naproxen MSR 250 mg Teva, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Teva Nederland B.V. | Geldig |
 
 Getoond worden 20 van de 48 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

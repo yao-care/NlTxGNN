@@ -70,16 +70,16 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 103768 | Livazo 2 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
-| RVG 103769 | Livazo 4 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
-| RVG 106928 | Livazo 1 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
-| RVG 129348 | Vaspit 1 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
-| RVG 129349 | Vaspit 2 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
-| RVG 129350 | Vaspit 4 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 103768 | Livazo 2 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Kowa Pharmaceutical Europe GmbH | Geldig |
+| RVG 103769 | Livazo 4 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Kowa Pharmaceutical Europe GmbH | Geldig |
+| RVG 106928 | Livazo 1 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | – | Geldig |
+| RVG 129348 | Vaspit 1 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Medochemie Limited | Geldig |
+| RVG 129349 | Vaspit 2 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Medochemie Limited | Geldig |
+| RVG 129350 | Vaspit 4 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Medochemie Limited | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

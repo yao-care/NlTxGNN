@@ -86,32 +86,32 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/07/415 | Zalasta 10 mg, orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Geldig |
-| EU/1/07/427 | Olanzapine Teva 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| EU/1/08/475 | Olanzapine Viatris 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| EU/1/09/587 | Olanzapine Glenmark 5 mg, tabletten | OLANZAPINE | Tablet | Geldig |
-| EU/1/09/588 | Olanzapine Glenmark Europe 5 mg orale smelttabletten, orodispergeerbare tablett… | OLANZAPINE | Orodispergeerbare tablet | Geldig |
-| EU/1/09/592 | Olazax Disperzi 5 mg, orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Geldig |
-| EU/1/09/597 | Olazax 5 mg, tabletten | OLANZAPINE | Tablet | Geldig |
-| EU/1/96/022 | Zyprexa 7.5 mg, omhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| EU/1/99/125 | Zyprexa Velotab 20 mg, orodispergeerbare tablet | OLANZAPINE | Orodispergeerbare tablet | Geldig |
-| RVG 34684 | Olanzapine Sandoz 2,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 34685 | Olanzapine Sandoz 5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 34687 | Olanzapine Sandoz 10 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 34688 | Olanzapine Sandoz 15 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 34689 | Olanzapine Sandoz 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 35012 | Olanzapine Neuraxpharm 2,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 35013 | Olanzapine Neuraxpharm 5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 35014 | Olanzapine Neuraxpharm 7,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 35015 | Olanzapine Neuraxpharm 10 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
-| RVG 102517 | Olanzapine SUN 5 mg orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Geldig |
-| RVG 102518 | Olanzapine SUN 10 mg orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/07/415 | Zalasta 10 mg, orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Krka d.d., Novo mesto | Geldig |
+| EU/1/07/427 | Olanzapine Teva 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Teva B.V. | Geldig |
+| EU/1/08/475 | Olanzapine Viatris 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Viatris Limited | Geldig |
+| EU/1/09/587 | Olanzapine Glenmark 5 mg, tabletten | OLANZAPINE | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| EU/1/09/588 | Olanzapine Glenmark Europe 5 mg orale smelttabletten, orodispergeerbare tablett… | OLANZAPINE | Orodispergeerbare tablet | Glenmark Arzneimittel GmbH | Geldig |
+| EU/1/09/592 | Olazax Disperzi 5 mg, orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| EU/1/09/597 | Olazax 5 mg, tabletten | OLANZAPINE | Tablet | Glenmark Pharmaceuticals s.r.o. | Geldig |
+| EU/1/96/022 | Zyprexa 7.5 mg, omhulde tabletten | OLANZAPINE | Filmomhulde tablet | Cheplapharm Registration GmbH | Geldig |
+| EU/1/99/125 | Zyprexa Velotab 20 mg, orodispergeerbare tablet | OLANZAPINE | Orodispergeerbare tablet | Cheplapharm Registration GmbH | Geldig |
+| RVG 34684 | Olanzapine Sandoz 2,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 34685 | Olanzapine Sandoz 5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 34687 | Olanzapine Sandoz 10 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 34688 | Olanzapine Sandoz 15 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 34689 | Olanzapine Sandoz 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 35012 | Olanzapine Neuraxpharm 2,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | neuraxpharm Arzneimittel GmbH | Geldig |
+| RVG 35013 | Olanzapine Neuraxpharm 5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | neuraxpharm Arzneimittel GmbH | Geldig |
+| RVG 35014 | Olanzapine Neuraxpharm 7,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | neuraxpharm Arzneimittel GmbH | Geldig |
+| RVG 35015 | Olanzapine Neuraxpharm 10 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | neuraxpharm Arzneimittel GmbH | Geldig |
+| RVG 102517 | Olanzapine SUN 5 mg orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 102518 | Olanzapine SUN 10 mg orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
 
 Getoond worden 20 van de 69 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

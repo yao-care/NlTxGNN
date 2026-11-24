@@ -75,32 +75,32 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28626 | Ezetrol 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 113553 | Ezetimibe Viatris 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 113711 | Ezetimibe Sandoz 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 115256 | Ezetimibe Glenmark 10 mg tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 115415 | Ezetimibe Noucor 10 mg tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 116783 | Ezetimibe Teva 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 117229 | Ezetimibe Accord 10 mg tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 117623 | Ezetimibe CF 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 118541 | Ezetimibe Krka 10 mg tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 118587 | Ezdivule 10 mg omhulde tabletten | EZETIMIB | Omhulde tablet | Geldig |
-| RVG 118956 | Ezetimibe Medical Valley 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 120688 | Ezetimibe Aurobindo 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 120958 | Ezetimibe Aristo 10 mg tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 123146 | Ezetimibe Biohorm 10 mg tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 130330//28626 | Ezetrol 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
-| RVG 131128 | Ezetimibe Vivanta 10 mg tabletten | EZETIMIB | Tablet | Geldig |
-| EU/1/20/1424 | Nustendi 180 mg/10 mg filmomhulde tabletten | BEMPEDOÏNEZUUR, EZETIMIB | Filmomhulde tablet | Geldig |
-| EU/1/26/2056 | Evlarco 10 mg/10 mg filmomhulde tabletten | EZETIMIB, OBICETRAPIB HEMICALCIUM | Filmomhulde tablet | Geldig |
-| RVG 30927 | Inegy 10/10, tabletten 10 mg/10 mg | EZETIMIB, SIMVASTATINE | Tablet | Geldig |
-| RVG 30928 | Inegy 10/20, tabletten 10 mg/20 mg | EZETIMIB, SIMVASTATINE | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28626 | Ezetrol 10 mg, tabletten | EZETIMIB | Tablet | N.V. Organon | Geldig |
+| RVG 113553 | Ezetimibe Viatris 10 mg, tabletten | EZETIMIB | Tablet | Viatris Limited | Geldig |
+| RVG 113711 | Ezetimibe Sandoz 10 mg, tabletten | EZETIMIB | Tablet | Sandoz B.V. | Geldig |
+| RVG 115256 | Ezetimibe Glenmark 10 mg tabletten | EZETIMIB | Tablet | Glenmark Arzneimittel GmbH | Geldig |
+| RVG 115415 | Ezetimibe Noucor 10 mg tabletten | EZETIMIB | Tablet | Urquima S.A. | Geldig |
+| RVG 116783 | Ezetimibe Teva 10 mg, tabletten | EZETIMIB | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 117229 | Ezetimibe Accord 10 mg tabletten | EZETIMIB | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 117623 | Ezetimibe CF 10 mg, tabletten | EZETIMIB | Tablet | Centrafarm B.V. | Geldig |
+| RVG 118541 | Ezetimibe Krka 10 mg tabletten | EZETIMIB | Tablet | Krka d.d., Novo mesto | Geldig |
+| RVG 118587 | Ezdivule 10 mg omhulde tabletten | EZETIMIB | Omhulde tablet | Laboratoires SMB S.A. | Geldig |
+| RVG 118956 | Ezetimibe Medical Valley 10 mg, tabletten | EZETIMIB | Tablet | Medical Valley Invest AB | Geldig |
+| RVG 120688 | Ezetimibe Aurobindo 10 mg, tabletten | EZETIMIB | Tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 120958 | Ezetimibe Aristo 10 mg tabletten | EZETIMIB | Tablet | Aristo Pharma GmbH | Geldig |
+| RVG 123146 | Ezetimibe Biohorm 10 mg tabletten | EZETIMIB | Tablet | Biohorm S.L. | Geldig |
+| RVG 130330//28626 | Ezetrol 10 mg, tabletten | EZETIMIB | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 131128 | Ezetimibe Vivanta 10 mg tabletten | EZETIMIB | Tablet | Vivanta Generics s.r.o. | Geldig |
+| EU/1/20/1424 | Nustendi 180 mg/10 mg filmomhulde tabletten | BEMPEDOÏNEZUUR, EZETIMIB | Filmomhulde tablet | Daiichi Sankyo Europe GmbH | Geldig |
+| EU/1/26/2056 | Evlarco 10 mg/10 mg filmomhulde tabletten | EZETIMIB, OBICETRAPIB HEMICALCIUM | Filmomhulde tablet | A. Menarini International Licensing S.A. | Geldig |
+| RVG 30927 | Inegy 10/10, tabletten 10 mg/10 mg | EZETIMIB, SIMVASTATINE | Tablet | N.V. Organon | Geldig |
+| RVG 30928 | Inegy 10/20, tabletten 10 mg/20 mg | EZETIMIB, SIMVASTATINE | Tablet | N.V. Organon | Geldig |
 
 Getoond worden 20 van de 237 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

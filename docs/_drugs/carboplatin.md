@@ -80,14 +80,14 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 100101 | Carboplatin Accord 10 mg/ml, concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 108902 | Carboplatine Fresenius Kabi 10 mg/ml, concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 130696 | Carboplatine Hikma 10 mg/ml concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 132842 | Carboplatine Venus 10 mg/ml concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 100101 | Carboplatin Accord 10 mg/ml, concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Accord Healthcare B.V. | Geldig |
+| RVG 108902 | Carboplatine Fresenius Kabi 10 mg/ml, concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | – | Geldig |
+| RVG 130696 | Carboplatine Hikma 10 mg/ml concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Hikma Farmaceutica (Portugal), S.A. | Geldig |
+| RVG 132842 | Carboplatine Venus 10 mg/ml concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Venus Pharma GmbH | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

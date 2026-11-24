@@ -88,32 +88,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/25/1938 | Oczyesa 20 mg oplossing voor injectie met verlengde afgifte in een voorgevulde… | OCTREOTIDEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 18235 | Sandostatine LAR 10 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 18236 | Sandostatine LAR 20 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 18237 | Sandostatine LAR 30 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 32592 | Octreotide Sandoz 0,05 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 32593 | Octreotide Sandoz 0,1 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 32594 | Octreotide Sandoz 0,5 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 33390 | Octreotide Bendalis 0,05 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 33391 | Octreotide Bendalis 0,1 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 33392 | Octreotide Bendalis 0,5 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 33798 | Octreotide Bendalis 0,2 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 34198 | Octreotide Sandoz 0,2 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 112909 | Siroctid 0,05 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 112910 | Siroctid 0,1 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 112911 | Siroctid 0,5 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
-| RVG 120241//18236 | Sandostatine LAR 20 mg | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 120963//18237 | Sandostatine LAR 30 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
-| RVG 122162 | Octreotide depot Teva 10 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 122164 | Octreotide depot Teva 20 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
-| RVG 122165 | Octreotide depot Teva 30 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/25/1938 | Oczyesa 20 mg oplossing voor injectie met verlengde afgifte in een voorgevulde… | OCTREOTIDEHYDROCHLORIDE | Oplossing voor injectie | Camurus AB | Geldig |
+| RVG 18235 | Sandostatine LAR 10 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Novartis Pharma B.V. | Geldig |
+| RVG 18236 | Sandostatine LAR 20 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Novartis Pharma B.V. | Geldig |
+| RVG 18237 | Sandostatine LAR 30 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Novartis Pharma B.V. | Geldig |
+| RVG 32592 | Octreotide Sandoz 0,05 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 32593 | Octreotide Sandoz 0,1 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 32594 | Octreotide Sandoz 0,5 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 33390 | Octreotide Bendalis 0,05 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Bendalis GmbH | Geldig |
+| RVG 33391 | Octreotide Bendalis 0,1 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Bendalis GmbH | Geldig |
+| RVG 33392 | Octreotide Bendalis 0,5 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Bendalis GmbH | Geldig |
+| RVG 33798 | Octreotide Bendalis 0,2 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Bendalis GmbH | Geldig |
+| RVG 34198 | Octreotide Sandoz 0,2 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Sandoz B.V. | Geldig |
+| RVG 112909 | Siroctid 0,05 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Chemi S.p.A | Geldig |
+| RVG 112910 | Siroctid 0,1 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Chemi S.p.A | Geldig |
+| RVG 112911 | Siroctid 0,5 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Chemi S.p.A | Geldig |
+| RVG 120241//18236 | Sandostatine LAR 20 mg | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | – | Geldig |
+| RVG 120963//18237 | Sandostatine LAR 30 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor oplossing voor injectie | BModesto B.V. | Geldig |
+| RVG 122162 | Octreotide depot Teva 10 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Teva B.V. | Geldig |
+| RVG 122164 | Octreotide depot Teva 20 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Teva B.V. | Geldig |
+| RVG 122165 | Octreotide depot Teva 30 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Teva B.V. | Geldig |
 
 Getoond worden 20 van de 27 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

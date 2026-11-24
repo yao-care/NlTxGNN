@@ -80,29 +80,29 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/03/267 | Reyataz 150 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| EU/1/16/1091 | Atazanavir Viatris 150 mg, capsules, hard | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 115198 | Atazanavir Teva 200 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 115202 | Atazanavir Teva 300 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 115699 | Atazanavir Teva 150 mg, capsules, hard | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 121563 | Atazanavir Sandoz 100 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 121564 | Atazanavir Sandoz 150 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 121565 | Atazanavir Sandoz 200 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 121566 | Atazanavir Sandoz 300 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 121568 | Atazanavir Sandoz 150 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 121569 | Atazanavir Sandoz 200 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 121570 | Atazanavir Sandoz 300 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 122332 | Atazanavir Accord 150 mg harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 122333 | Atazanavir Accord 200 mg harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 122334 | Atazanavir Accord 300 mg harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 122692 | Atazanavir Aurobindo 150 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 122693 | Atazanavir Aurobindo 200 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| RVG 122694 | Atazanavir Aurobindo 300 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Geldig |
-| EU/1/15/1025 | EVOTAZ 300 mg/150 mg filmomhulde tabletten | ATAZANAVIRSULFAAT, COBICISTAT | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/03/267 | Reyataz 150 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Bristol-Myers Squibb Pharmaceuticals Limited | Geldig |
+| EU/1/16/1091 | Atazanavir Viatris 150 mg, capsules, hard | ATAZANAVIRSULFAAT | Capsule, hard | Viatris Limited | Geldig |
+| RVG 115198 | Atazanavir Teva 200 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 115202 | Atazanavir Teva 300 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Teva Nederland B.V. | Geldig |
+| RVG 115699 | Atazanavir Teva 150 mg, capsules, hard | ATAZANAVIRSULFAAT | Capsule, hard | – | Geldig |
+| RVG 121563 | Atazanavir Sandoz 100 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 121564 | Atazanavir Sandoz 150 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 121565 | Atazanavir Sandoz 200 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 121566 | Atazanavir Sandoz 300 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 121568 | Atazanavir Sandoz 150 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 121569 | Atazanavir Sandoz 200 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 121570 | Atazanavir Sandoz 300 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 122332 | Atazanavir Accord 150 mg harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Accord Healthcare B.V. | Geldig |
+| RVG 122333 | Atazanavir Accord 200 mg harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Accord Healthcare B.V. | Geldig |
+| RVG 122334 | Atazanavir Accord 300 mg harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Accord Healthcare B.V. | Geldig |
+| RVG 122692 | Atazanavir Aurobindo 150 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 122693 | Atazanavir Aurobindo 200 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 122694 | Atazanavir Aurobindo 300 mg, harde capsules | ATAZANAVIRSULFAAT | Capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| EU/1/15/1025 | EVOTAZ 300 mg/150 mg filmomhulde tabletten | ATAZANAVIRSULFAAT, COBICISTAT | Filmomhulde tablet | Bristol-Myers Squibb Pharma EEIG | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

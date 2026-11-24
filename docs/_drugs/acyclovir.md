@@ -75,32 +75,32 @@ Geen van deze publicaties onderzoekt punctate epitheliale keratoconjunctivitis z
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 09696 | Zovirax Infuus, poeder voor oplossing voor infusie 250 mg | ACICLOVIR NATRIUM | Poeder voor oplossing voor infusie | Geldig |
-| RVG 12162 | Zovirax 200 mg/5 ml, suspensie voor oraal gebruik | ACICLOVIR | Suspensie voor oraal gebruik | Geldig |
-| RVG 18843 | Aciclovir CF 200 mg, tabletten | ACICLOVIR | Tablet | Geldig |
-| RVG 18844 | Aciclovir CF 400 mg, tabletten | ACICLOVIR | Tablet | Geldig |
-| RVG 18845 | Aciclovir CF 800 mg, tabletten | ACICLOVIR | Tablet | Geldig |
-| RVG 19078 | Zovirax Koortslip, creme 50 mg/g | ACICLOVIR | Crème | Geldig |
-| RVG 19803 | Aciclovir Sandoz tablet 200, tabletten 200 mg | ACICLOVIR | Tablet | Geldig |
-| RVG 19804 | Aciclovir Sandoz tablet 400, tabletten 400 mg | ACICLOVIR | Tablet | Geldig |
-| RVG 19805 | Aciclovir Sandoz tablet 800, tabletten 800 mg | ACICLOVIR | Tablet | Geldig |
-| RVG 21247 | Aciclovir CF 50 mg/g, crème | ACICLOVIR | Crème | Geldig |
-| RVG 21578=21247 | Koortslipcrème HTP Aciclovir 50 mg/g, crème | ACICLOVIR | Crème | Geldig |
-| RVG 22202 | Aciclovir Teva koortslipcrème 50 mg/g, crème | ACICLOVIR | Crème | Geldig |
-| RVG 22285 | Aciclovir ratiopharm 50 mg/g, crème | ACICLOVIR | Crème | Geldig |
-| RVG 23412 | Aciclovir Hospira 25 mg/ml, concentraat voor oplossing voor infusie | ACICLOVIR NATRIUM | Concentraat voor oplossing voor infusie | Geldig |
-| RVG 26416=21247 | Etos Koortslipcrème aciclovir 50 mg/g, crème | ACICLOVIR | Crème | Geldig |
-| RVG 28616=21247 | Aciclovir Centrafarm 50 mg/g, crème | ACICLOVIR | Crème | Geldig |
-| RVG 29019=21247 | DA Koortslipcrème Aciclovir 50 mg/g, crème | ACICLOVIR | Crème | Geldig |
-| RVG 105494 | Livsane Koortslipcrème Aciclovir 50 mg/g, crème | ACICLOVIR | Crème | Geldig |
-| RVG 108806 | Herpirax 50 mg/g, huidstift | ACICLOVIR | Huidstift | Geldig |
-| RVG 110589 | Aciclovir Baxter 25 mg/ml, concentraat voor oplossing voor intraveneuze infusie | ACICLOVIR | Concentraat voor oplossing voor infusie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 09696 | Zovirax Infuus, poeder voor oplossing voor infusie 250 mg | ACICLOVIR NATRIUM | Poeder voor oplossing voor infusie | GlaxoSmithKline B.V. | Geldig |
+| RVG 12162 | Zovirax 200 mg/5 ml, suspensie voor oraal gebruik | ACICLOVIR | Suspensie voor oraal gebruik | GlaxoSmithKline B.V. | Geldig |
+| RVG 18843 | Aciclovir CF 200 mg, tabletten | ACICLOVIR | Tablet | Centrafarm B.V. | Geldig |
+| RVG 18844 | Aciclovir CF 400 mg, tabletten | ACICLOVIR | Tablet | Centrafarm B.V. | Geldig |
+| RVG 18845 | Aciclovir CF 800 mg, tabletten | ACICLOVIR | Tablet | Centrafarm B.V. | Geldig |
+| RVG 19078 | Zovirax Koortslip, creme 50 mg/g | ACICLOVIR | Crème | Haleon Netherlands B.V. | Geldig |
+| RVG 19803 | Aciclovir Sandoz tablet 200, tabletten 200 mg | ACICLOVIR | Tablet | Sandoz B.V. | Geldig |
+| RVG 19804 | Aciclovir Sandoz tablet 400, tabletten 400 mg | ACICLOVIR | Tablet | Sandoz B.V. | Geldig |
+| RVG 19805 | Aciclovir Sandoz tablet 800, tabletten 800 mg | ACICLOVIR | Tablet | Sandoz B.V. | Geldig |
+| RVG 21247 | Aciclovir CF 50 mg/g, crème | ACICLOVIR | Crème | Centrafarm B.V. | Geldig |
+| RVG 21578=21247 | Koortslipcrème HTP Aciclovir 50 mg/g, crème | ACICLOVIR | Crème | Healthypharm B.V. | Geldig |
+| RVG 22202 | Aciclovir Teva koortslipcrème 50 mg/g, crème | ACICLOVIR | Crème | Teva Nederland B.V. | Geldig |
+| RVG 22285 | Aciclovir ratiopharm 50 mg/g, crème | ACICLOVIR | Crème | ratiopharm GmbH | Geldig |
+| RVG 23412 | Aciclovir Hospira 25 mg/ml, concentraat voor oplossing voor infusie | ACICLOVIR NATRIUM | Concentraat voor oplossing voor infusie | Pfizer B.V. | Geldig |
+| RVG 26416=21247 | Etos Koortslipcrème aciclovir 50 mg/g, crème | ACICLOVIR | Crème | Healthypharm B.V. | Geldig |
+| RVG 28616=21247 | Aciclovir Centrafarm 50 mg/g, crème | ACICLOVIR | Crème | Centrafarm B.V. | Geldig |
+| RVG 29019=21247 | DA Koortslipcrème Aciclovir 50 mg/g, crème | ACICLOVIR | Crème | Nederlandse Drogisterij Service B.V. | Geldig |
+| RVG 105494 | Livsane Koortslipcrème Aciclovir 50 mg/g, crème | ACICLOVIR | Crème | Healthypharm B.V. | Geldig |
+| RVG 108806 | Herpirax 50 mg/g, huidstift | ACICLOVIR | Huidstift | A.forall Development NV | Geldig |
+| RVG 110589 | Aciclovir Baxter 25 mg/ml, concentraat voor oplossing voor intraveneuze infusie | ACICLOVIR | Concentraat voor oplossing voor infusie | Baxter B.V. | Geldig |
 
 Getoond worden 20 van de 46 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

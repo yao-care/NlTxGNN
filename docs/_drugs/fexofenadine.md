@@ -88,29 +88,29 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 21624 | Allegra fexotabs, 120 mg filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 21625 | Telfast 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 28085 | Telfast Junior 30 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 35246 | Fexofenadine HCl Teva 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 35247 | Fexofenadine HCl Teva 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 100529 | Fexofenadine HCl Mylan 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 100530 | Fexofenadine HCL Mylan 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 127014 | Fexofenadine HCL Amarox 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 127015 | Fexofenadine HCL Amarox 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 131240 | Fexofenadine HCl Viatris 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 131241 | Fexofenadine HCl Viatris 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 131257 | Fexofenadine HCl Aurobindo 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 131261 | Fexofenadine HCl Aurobindo 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 134526 | OtriFex 120 mg filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 136941=131257 | Kruidvat Hooikoortstabletten Fexofenadine HCl 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 136944=131257 | AH Fexofenadine HCl hooikoortstabletten 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 136945=131257 | Fexofenadine HCl hooikoortstabletten Sanias 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 136946=131257 | Etos Hooikoortstabletten Fexofenadine HCl 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 118299 | Fexofenadine Midas 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 21624 | Allegra fexotabs, 120 mg filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Opella Healthcare France S.A.S. | Geldig |
+| RVG 21625 | Telfast 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Opella Healthcare France S.A.S. | Geldig |
+| RVG 28085 | Telfast Junior 30 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Opella Healthcare France S.A.S. | Geldig |
+| RVG 35246 | Fexofenadine HCl Teva 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Teva B.V. | Geldig |
+| RVG 35247 | Fexofenadine HCl Teva 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Teva B.V. | Geldig |
+| RVG 100529 | Fexofenadine HCl Mylan 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 100530 | Fexofenadine HCL Mylan 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 127014 | Fexofenadine HCL Amarox 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 127015 | Fexofenadine HCL Amarox 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 131240 | Fexofenadine HCl Viatris 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 131241 | Fexofenadine HCl Viatris 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 131257 | Fexofenadine HCl Aurobindo 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 131261 | Fexofenadine HCl Aurobindo 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 134526 | OtriFex 120 mg filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Haleon Netherlands B.V. | Geldig |
+| RVG 136941=131257 | Kruidvat Hooikoortstabletten Fexofenadine HCl 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Marel B.V. | Geldig |
+| RVG 136944=131257 | AH Fexofenadine HCl hooikoortstabletten 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Sameko Farma B.V. | Geldig |
+| RVG 136945=131257 | Fexofenadine HCl hooikoortstabletten Sanias 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 136946=131257 | Etos Hooikoortstabletten Fexofenadine HCl 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Sameko Farma B.V. | Geldig |
+| RVG 118299 | Fexofenadine Midas 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

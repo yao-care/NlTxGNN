@@ -84,15 +84,15 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 110659 | XIFAXAN 550 mg filmomhulde tabletten | RIFAXIMINE | Filmomhulde tablet | Geldig |
-| RVG 110660 | TIXTELLER 550 mg filmomhulde tabletten | RIFAXIMINE | Filmomhulde tablet | Geldig |
-| RVG 129153//110659 | XIFAXAN 550 mg filmomhulde tabletten | RIFAXIMINE | Filmomhulde tablet | Geldig |
-| RVG 136362//110659 | Xifaxan 550 mg filmomhulde tabletten | RIFAXIMINE | Filmomhulde tablet | Geldig |
-| RVG 117454//110659 | XIFAXAN 550 mg filmomhulde tabletten | RIFAXIMINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 110659 | XIFAXAN 550 mg filmomhulde tabletten | RIFAXIMINE | Filmomhulde tablet | Norgine B.V. | Geldig |
+| RVG 110660 | TIXTELLER 550 mg filmomhulde tabletten | RIFAXIMINE | Filmomhulde tablet | Alfasigma S.p.A. | Geldig |
+| RVG 129153//110659 | XIFAXAN 550 mg filmomhulde tabletten | RIFAXIMINE | Filmomhulde tablet | Originalis B.V. | Geldig |
+| RVG 136362//110659 | Xifaxan 550 mg filmomhulde tabletten | RIFAXIMINE | Filmomhulde tablet | BModesto B.V. | Geldig |
+| RVG 117454//110659 | XIFAXAN 550 mg filmomhulde tabletten | RIFAXIMINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

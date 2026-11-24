@@ -80,32 +80,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 08192 | Xilmac, oplossing voor injectie 4 mg/ml | LORAZEPAM | Oplossing voor injectie | Geldig |
-| RVG 11691 | Lorazepam 1 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 19695 | Lorazepam GenRx 1 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 19696 | Lorazepam GenRx 2,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 55938 | Lorazepam CF 1 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 108216 | Lorazepam GenRx 1 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 108217 | Lorazepam GenRx 2,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 119556 | Lorazepam Prolepha 1 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 119557 | Lorazepam GenRx 2,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 122952 | Lorazepam Macure 4 mg/ml oplossing voor injectie | LORAZEPAM | Oplossing voor injectie | Geldig |
-| RVG 122954 | Temelor 4 mg/ml oplossing voor injectie | LORAZEPAM | Oplossing voor injectie | Geldig |
-| RVG 123766 | Lorazepam Prolepha 0,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 124010 | Lorazepam Medochemie Bohemia 0,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 124011 | Lorazepam Medochemie Bohemia 1 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 124012 | Lorazepam Medochemie Bohemia 2,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 124020 | Lorazepam Medochemie Romania 0,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 124021 | Lorazepam Medochemie Romania 1 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 124022 | Lorazepam Medochemie Romania 2,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 124313 | Lorazepam GenRx 0,5 mg, tabletten | LORAZEPAM | Tablet | Geldig |
-| RVG 127548 | Lambutrix 4 mg/ml, oplossing voor injectie | LORAZEPAM | Oplossing voor injectie | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 08192 | Xilmac, oplossing voor injectie 4 mg/ml | LORAZEPAM | Oplossing voor injectie | Macure Healthcare Limited | Geldig |
+| RVG 11691 | Lorazepam 1 mg, tabletten | LORAZEPAM | Tablet | Accord Healthcare B.V. | Geldig |
+| RVG 19695 | Lorazepam GenRx 1 mg, tabletten | LORAZEPAM | Tablet | GenRx B.V. | Geldig |
+| RVG 19696 | Lorazepam GenRx 2,5 mg, tabletten | LORAZEPAM | Tablet | GenRx B.V. | Geldig |
+| RVG 55938 | Lorazepam CF 1 mg, tabletten | LORAZEPAM | Tablet | Centrafarm B.V. | Geldig |
+| RVG 108216 | Lorazepam GenRx 1 mg, tabletten | LORAZEPAM | Tablet | GenRx B.V. | Geldig |
+| RVG 108217 | Lorazepam GenRx 2,5 mg, tabletten | LORAZEPAM | Tablet | GenRx B.V. | Geldig |
+| RVG 119556 | Lorazepam Prolepha 1 mg, tabletten | LORAZEPAM | Tablet | Prolepha Research B.V. | Geldig |
+| RVG 119557 | Lorazepam GenRx 2,5 mg, tabletten | LORAZEPAM | Tablet | – | Geldig |
+| RVG 122952 | Lorazepam Macure 4 mg/ml oplossing voor injectie | LORAZEPAM | Oplossing voor injectie | Macure Pharma ApS | Geldig |
+| RVG 122954 | Temelor 4 mg/ml oplossing voor injectie | LORAZEPAM | Oplossing voor injectie | Medochemie Limited | Geldig |
+| RVG 123766 | Lorazepam Prolepha 0,5 mg, tabletten | LORAZEPAM | Tablet | Prolepha Research B.V. | Geldig |
+| RVG 124010 | Lorazepam Medochemie Bohemia 0,5 mg, tabletten | LORAZEPAM | Tablet | Medochemie Bohemia, spol. s r.o. | Geldig |
+| RVG 124011 | Lorazepam Medochemie Bohemia 1 mg, tabletten | LORAZEPAM | Tablet | Medochemie Bohemia, spol. s r.o. | Geldig |
+| RVG 124012 | Lorazepam Medochemie Bohemia 2,5 mg, tabletten | LORAZEPAM | Tablet | Medochemie Bohemia, spol. s r.o. | Geldig |
+| RVG 124020 | Lorazepam Medochemie Romania 0,5 mg, tabletten | LORAZEPAM | Tablet | Medochemie Romania S.R.L. | Geldig |
+| RVG 124021 | Lorazepam Medochemie Romania 1 mg, tabletten | LORAZEPAM | Tablet | Medochemie Romania S.R.L. | Geldig |
+| RVG 124022 | Lorazepam Medochemie Romania 2,5 mg, tabletten | LORAZEPAM | Tablet | Medochemie Romania S.R.L. | Geldig |
+| RVG 124313 | Lorazepam GenRx 0,5 mg, tabletten | LORAZEPAM | Tablet | GenRx B.V. | Geldig |
+| RVG 127548 | Lambutrix 4 mg/ml, oplossing voor injectie | LORAZEPAM | Oplossing voor injectie | Macure Healthcare Limited | Geldig |
 
 Getoond worden 20 van de 38 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

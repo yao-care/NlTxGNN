@@ -82,27 +82,27 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/23/1731 | Qaialdo 10 mg/ml orale suspensie | SPIRONOLACTON | Suspensie voor oraal gebruik | Geldig |
-| RVG 18637 | Spironolacton 25 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 18638 | Spironolacton 50 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 18639 | Spironolacton 100 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 24025 | Spironolacton Accord 25 mg filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 24026 | Spironolacton Accord 50 mg filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 24027 | Spironolacton Accord 100 mg filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 24686 | Spironolacton Aurobindo 25 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 24687 | Spironolacton Aurobindo 50 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 24688 | Spironolacton Aurobindo 100 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 25923 | Spironolacton Mylan 25 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 25924 | Spironolacton Mylan 50 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 126228 | Spironolacton Prolepha 12,5 mg, filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 126230 | Spironolacton Prolepha 25 mg, filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 126231 | Spironolacton Prolepha 50 mg, filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 126232 | Spironolacton Prolepha 100 mg, filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Geldig |
-| RVG 55973 | Spironolacton 50 mg Teva, tabletten | SPIRONOLACTON | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/23/1731 | Qaialdo 10 mg/ml orale suspensie | SPIRONOLACTON | Suspensie voor oraal gebruik | Lipomed GmbH | Geldig |
+| RVG 18637 | Spironolacton 25 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | GenRx B.V. | Geldig |
+| RVG 18638 | Spironolacton 50 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | GenRx B.V. | Geldig |
+| RVG 18639 | Spironolacton 100 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | GenRx B.V. | Geldig |
+| RVG 24025 | Spironolacton Accord 25 mg filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 24026 | Spironolacton Accord 50 mg filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 24027 | Spironolacton Accord 100 mg filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 24686 | Spironolacton Aurobindo 25 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 24687 | Spironolacton Aurobindo 50 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 24688 | Spironolacton Aurobindo 100 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 25923 | Spironolacton Mylan 25 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 25924 | Spironolacton Mylan 50 mg, tabletten | SPIRONOLACTON | Filmomhulde tablet | Mylan B.V. | Geldig |
+| RVG 126228 | Spironolacton Prolepha 12,5 mg, filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Prolepha Research B.V. | Geldig |
+| RVG 126230 | Spironolacton Prolepha 25 mg, filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Prolepha Research B.V. | Geldig |
+| RVG 126231 | Spironolacton Prolepha 50 mg, filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Prolepha Research B.V. | Geldig |
+| RVG 126232 | Spironolacton Prolepha 100 mg, filmomhulde tabletten | SPIRONOLACTON | Filmomhulde tablet | Prolepha Research B.V. | Geldig |
+| RVG 55973 | Spironolacton 50 mg Teva, tabletten | SPIRONOLACTON | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

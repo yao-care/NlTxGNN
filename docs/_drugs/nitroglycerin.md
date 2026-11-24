@@ -85,28 +85,28 @@ Het verband met de bekende toepassing is plausibel: het vaatverwijdende effect d
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 09672 | Transiderm-Nitro 5, pleister voor transdermaal gebruik 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 09673 | Transiderm-Nitro 10, pleister voor transdermaal gebruik 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 10393 | Nitro "Pohl" Infus voor perfusorpompsystemen 1mg/ml, oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | Geldig |
-| RVG 15864 | Minitran 5, pleister met gereguleerde afgifte 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 15865 | Minitran 10, pleister met gereguleerde afgifte 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 15866 | Minitran 15, pleister met gereguleerde afgifte 15 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 17464 | Deponit T 5, pleister voor transdermaal gebruik 5 mg/ 24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 17465 | Deponit T 10, pleister voor transdermaal gebruik 10 mg/ 24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 17730 | Nitrolingual Pompspray, spray voor oromucosaal gebruik 0,4 mg/dosis | NITROGLYCERINE | Spray voor oromucosaal gebruik | Geldig |
-| RVG 19511 | Nitroglycerine Teva 5 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 19512 | Nitroglycerine Teva 10 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 19513 | Nitroglycerine Teva 15 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 21493 | Glytrin, 400 microgram per dosis, sublinguale spray | NITROGLYCERINE | Spray voor sublinguaal gebruik | Geldig |
-| RVG 119982 | Nitroglycerine-hameln 1 mg/ml, oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | Geldig |
-| RVG 123623//15865 | Minitran 10, pleister met gereguleerde afgifte 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 123625//15864 | Minitran 5, pleister met gereguleerde afgifte 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
-| RVG 134753 | Nitroglycerine Macure 1 mg/ml oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | Geldig |
-| RVG 119350//15864 | Minitran 5 mg/24 uur, pleister met gereguleerde afgifte | NITROGLYCERINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 09672 | Transiderm-Nitro 5, pleister voor transdermaal gebruik 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Sandoz B.V. | Geldig |
+| RVG 09673 | Transiderm-Nitro 10, pleister voor transdermaal gebruik 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Sandoz B.V. | Geldig |
+| RVG 10393 | Nitro "Pohl" Infus voor perfusorpompsystemen 1mg/ml, oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | G. Pohl-Boskamp GmbH & Co. KG | Geldig |
+| RVG 15864 | Minitran 5, pleister met gereguleerde afgifte 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Viatris Healthcare B.V. | Geldig |
+| RVG 15865 | Minitran 10, pleister met gereguleerde afgifte 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Viatris Healthcare B.V. | Geldig |
+| RVG 15866 | Minitran 15, pleister met gereguleerde afgifte 15 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Viatris Healthcare B.V. | Geldig |
+| RVG 17464 | Deponit T 5, pleister voor transdermaal gebruik 5 mg/ 24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Merus Labs Luxco II S.a r.l. | Geldig |
+| RVG 17465 | Deponit T 10, pleister voor transdermaal gebruik 10 mg/ 24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Merus Labs Luxco II S.a r.l. | Geldig |
+| RVG 17730 | Nitrolingual Pompspray, spray voor oromucosaal gebruik 0,4 mg/dosis | NITROGLYCERINE | Spray voor oromucosaal gebruik | G. Pohl-Boskamp GmbH & Co. KG | Geldig |
+| RVG 19511 | Nitroglycerine Teva 5 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Teva Nederland B.V. | Geldig |
+| RVG 19512 | Nitroglycerine Teva 10 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Teva Nederland B.V. | Geldig |
+| RVG 19513 | Nitroglycerine Teva 15 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Teva Nederland B.V. | Geldig |
+| RVG 21493 | Glytrin, 400 microgram per dosis, sublinguale spray | NITROGLYCERINE | Spray voor sublinguaal gebruik | Evolan Pharma AB | Geldig |
+| RVG 119982 | Nitroglycerine-hameln 1 mg/ml, oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | hameln pharma gmbh | Geldig |
+| RVG 123623//15865 | Minitran 10, pleister met gereguleerde afgifte 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 123625//15864 | Minitran 5, pleister met gereguleerde afgifte 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Euro Registratie Collectief B.V. | Geldig |
+| RVG 134753 | Nitroglycerine Macure 1 mg/ml oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | Macure Healthcare Limited | Geldig |
+| RVG 119350//15864 | Minitran 5 mg/24 uur, pleister met gereguleerde afgifte | NITROGLYCERINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

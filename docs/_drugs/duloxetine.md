@@ -84,32 +84,32 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/04/280 | Yentreve 40 mg, maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| EU/1/04/296 | Cymbalta 30 mg, maagsapresistente capsule, hard | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| EU/1/04/297 | Xeristar 60 mg, maagsapresistente capsule, hard | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| EU/1/14/972 | Duloxetine Lilly 60 mg, maagsapresistente capsules, hard | DULOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
-| EU/1/15/1010 | Duloxetine Viatris 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| EU/1/15/1028 | Duloxetine Zentiva 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116063 | Duloxetine Krka 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116064 | Duloxetine Krka 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116065 | Dutilox 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116067 | Dutilox 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116073 | Dulodet 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116074 | Dulodet 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116075 | Dulasolan 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116076 | Dulasolan 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116083 | Duloxetine Sandoz 20 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116084 | Duloxetine Sandoz 40 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116085 | Duloxetine Sandoz 20 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116086 | Duloxetine Sandoz 40 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116089 | Duloxetine Aurobindo 30 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
-| RVG 116091 | Duloxetine Aurobindo 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/04/280 | Yentreve 40 mg, maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Eli Lilly Nederland BV | Geldig |
+| EU/1/04/296 | Cymbalta 30 mg, maagsapresistente capsule, hard | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Eli Lilly Nederland BV | Geldig |
+| EU/1/04/297 | Xeristar 60 mg, maagsapresistente capsule, hard | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Esteve Pharmaceuticals S.A. | Geldig |
+| EU/1/14/972 | Duloxetine Lilly 60 mg, maagsapresistente capsules, hard | DULOXETINEHYDROCHLORIDE | Capsule, hard | Eli Lilly Nederland BV | Geldig |
+| EU/1/15/1010 | Duloxetine Viatris 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Viatris Limited | Geldig |
+| EU/1/15/1028 | Duloxetine Zentiva 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Zentiva k.s. | Geldig |
+| RVG 116063 | Duloxetine Krka 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Krka d.d., Novo mesto | Geldig |
+| RVG 116064 | Duloxetine Krka 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Krka d.d., Novo mesto | Geldig |
+| RVG 116065 | Dutilox 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Towa Pharmaceutical Europe, S.L. | Geldig |
+| RVG 116067 | Dutilox 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Towa Pharmaceutical Europe, S.L. | Geldig |
+| RVG 116073 | Dulodet 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Egis Pharmaceuticals Private Limited Company | Geldig |
+| RVG 116074 | Dulodet 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Egis Pharmaceuticals Private Limited Company | Geldig |
+| RVG 116075 | Dulasolan 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 116076 | Dulasolan 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | G.L. Pharma GmbH | Geldig |
+| RVG 116083 | Duloxetine Sandoz 20 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Sandoz B.V. | Geldig |
+| RVG 116084 | Duloxetine Sandoz 40 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Sandoz B.V. | Geldig |
+| RVG 116085 | Duloxetine Sandoz 20 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Sandoz B.V. | Geldig |
+| RVG 116086 | Duloxetine Sandoz 40 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Sandoz B.V. | Geldig |
+| RVG 116089 | Duloxetine Aurobindo 30 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Aurobindo Pharma B.V. | Geldig |
+| RVG 116091 | Duloxetine Aurobindo 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Aurobindo Pharma B.V. | Geldig |
 
 Getoond worden 20 van de 48 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

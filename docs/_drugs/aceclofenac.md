@@ -70,12 +70,12 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 19207 | Biofenac 100, omhulde tabletten 100 mg | ACECLOFENAC | Omhulde tablet | Geldig |
-| RVG 114793 | Aceclofenac Rivopharm 100 mg filmomhulde tabletten | ACECLOFENAC | Filmomhulde tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 19207 | Biofenac 100, omhulde tabletten 100 mg | ACECLOFENAC | Omhulde tablet | Almirall S.A. | Geldig |
+| RVG 114793 | Aceclofenac Rivopharm 100 mg filmomhulde tabletten | ACECLOFENAC | Filmomhulde tablet | – | Geldig |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

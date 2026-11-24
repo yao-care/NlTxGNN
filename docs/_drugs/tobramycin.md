@@ -93,30 +93,30 @@ Geen van deze publicaties toont werkzaamheid van tobramycine bij blootstellingsk
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/10/652 | TOBI Podhaler 28 mg, Inhalatiepoeder in harde capsule | TOBRAMYCINE | Inhalatiepoeder in harde capsule | Geldig |
-| EU/1/18/1350 | Vantobra 170 mg, verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
-| RVG 06890 | Obracin 80 mg/2 ml, oplossing voor injectie / infusie 40 mg/ml | TOBRAMYCINESULFAAT | Oplossing voor injectie of infusie | Geldig |
-| RVG 10225 | Tobrex, oogzalf 0,3% | TOBRAMYCINE | Oogzalf | Geldig |
-| RVG 25484 | Tobi 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
-| RVG 26393 | Tobrabact, oogdruppels, oplossing 3 mg/ml | TOBRAMYCINE | Oogdruppels, oplossing | Geldig |
-| RVG 33841 | Bramitob, verneveloplossing 300 mg/4 ml | TOBRAMYCINE | Verneveloplossing | Geldig |
-| RVG 57430 | Tobramycine CF 40 mg/ml, injectievloeistof | TOBRAMYCINE SULFAAT | Oplossing voor injectie | Geldig |
-| RVG 106999 | Tobramycine Steri-Neb 300 mg/5 ml, verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
-| RVG 117965 | Tobramycine SUN 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
-| RVG 121938 | Tobramycine Aristo, 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
-| RVG 129926//106999 | Tobramycine Steri-Neb 300 mg/5 ml, verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
-| RVG 14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Geldig |
-| RVG 14224 | Tobradex 3 mg/g + 1 mg/g oogzalf | DEXAMETHASON, TOBRAMYCINE | Oogzalf | Geldig |
-| RVG 123316 | Bradexa 3 mg/ml + 1 mg/ml oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Geldig |
-| RVG 130620 | Tobramycine + Dexamethason Blumont 3 mg/ml + 1 mg/ml, oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Geldig |
-| RVG 109689//10225 | Tobrex oogzalf 3 mg/g, oogzalf | TOBRAMYCINE | – | Niet geregistreerd |
-| RVG 110613 | TOMIDEXOFTA 3 mg/ml + 1 mg/ml, oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT, TOBRAMYCINE | – | Niet geregistreerd |
-| RVG 117779//14223 | Tobradex, oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | – | Niet geregistreerd |
-| RVG 119042//14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | TOBRAMYCINE, DEXAMETHASON | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/10/652 | TOBI Podhaler 28 mg, Inhalatiepoeder in harde capsule | TOBRAMYCINE | Inhalatiepoeder in harde capsule | Viatris Healthcare Limited | Geldig |
+| EU/1/18/1350 | Vantobra 170 mg, verneveloplossing | TOBRAMYCINE | Verneveloplossing | PARI PHARMA GmbH | Geldig |
+| RVG 06890 | Obracin 80 mg/2 ml, oplossing voor injectie / infusie 40 mg/ml | TOBRAMYCINESULFAAT | Oplossing voor injectie of infusie | Eurocept International B.V. | Geldig |
+| RVG 10225 | Tobrex, oogzalf 0,3% | TOBRAMYCINE | Oogzalf | Novartis Pharma B.V. | Geldig |
+| RVG 25484 | Tobi 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Viatris Healthcare Limited | Geldig |
+| RVG 26393 | Tobrabact, oogdruppels, oplossing 3 mg/ml | TOBRAMYCINE | Oogdruppels, oplossing | Medicom Healthcare Ireland Limited | Geldig |
+| RVG 33841 | Bramitob, verneveloplossing 300 mg/4 ml | TOBRAMYCINE | Verneveloplossing | Chiesi Pharmaceuticals B.V. | Geldig |
+| RVG 57430 | Tobramycine CF 40 mg/ml, injectievloeistof | TOBRAMYCINE SULFAAT | Oplossing voor injectie | – | Geldig |
+| RVG 106999 | Tobramycine Steri-Neb 300 mg/5 ml, verneveloplossing | TOBRAMYCINE | Verneveloplossing | Teva Nederland B.V. | Geldig |
+| RVG 117965 | Tobramycine SUN 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 121938 | Tobramycine Aristo, 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Aristo Pharma GmbH | Geldig |
+| RVG 129926//106999 | Tobramycine Steri-Neb 300 mg/5 ml, verneveloplossing | TOBRAMYCINE | Verneveloplossing | Euro Registratie Collectief B.V. | Geldig |
+| RVG 14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Novartis Pharma B.V. | Geldig |
+| RVG 14224 | Tobradex 3 mg/g + 1 mg/g oogzalf | DEXAMETHASON, TOBRAMYCINE | Oogzalf | Novartis Pharma B.V. | Geldig |
+| RVG 123316 | Bradexa 3 mg/ml + 1 mg/ml oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Rockmed Pharma B.V. | Geldig |
+| RVG 130620 | Tobramycine + Dexamethason Blumont 3 mg/ml + 1 mg/ml, oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Blumont Ofta Trading Limited | Geldig |
+| RVG 109689//10225 | Tobrex oogzalf 3 mg/g, oogzalf | TOBRAMYCINE | – | – | Niet geregistreerd |
+| RVG 110613 | TOMIDEXOFTA 3 mg/ml + 1 mg/ml, oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT, TOBRAMYCINE | – | – | Niet geregistreerd |
+| RVG 117779//14223 | Tobradex, oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | – | – | Niet geregistreerd |
+| RVG 119042//14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | TOBRAMYCINE, DEXAMETHASON | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -70,32 +70,32 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/13/860 | Nexium Control 20 mg maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Geldig |
-| RVG 25387 | Nexium 20 mg, maagsapresistente tablet 20 mg | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Geldig |
-| RVG 25388 | Nexium 40 mg, maagsapresistente tablet 40 mg | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Geldig |
-| RVG 30091 | Nexium i.v. 40 mg poeder voor oplossing voor injectie/infusie | ESOMEPRAZOL NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 101600 | Nexium 10 mg, granulaat voor maagsapresistente suspensie voor oraal gebruik in… | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistent granulaat voor orale suspensie | Geldig |
-| RVG 107193 | Esomeprazol Sandoz 20 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
-| RVG 107194 | Esomeprazol Sandoz 40 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
-| RVG 107196 | Esomeprazol 20 mg PCH, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
-| RVG 107201 | Esomeprazol 40 mg PCH, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
-| RVG 107233 | Esomeprazol 20 mg Sun, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 107235 | Esomeprazol 40 mg Sun, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 107239 | Esobax 20 mg, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 107240 | Esobax 40 mg, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
-| RVG 107659 | Esomeprazol Aristo 20 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
-| RVG 107661 | Esomeprazol Aristo 40 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente tablet | Geldig |
-| RVG 108347//101600 | Nexium 10 mg, maagsapresistent granulaat voor orale suspensie | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistent granulaat, Granulaat voor orale… | Geldig |
-| RVG 108387 | Esomeprazol SUN 40 mg poeder voor oplossing voor injectie en intraveneuze infus… | ESOMEPRAZOL NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
-| RVG 108868 | Esomeprazol Viatris 20 mg, harde maagsapresistente capsules | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente capsule, hard | Geldig |
-| RVG 108869 | Esomeprazol Viatris 40 mg, harde maagsapresistente capsules | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente capsule, hard | Geldig |
-| RVG 111060 | Esomeprazol Jubilant 20 mg maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/13/860 | Nexium Control 20 mg maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | GlaxoSmithKline Dungarvan Limited | Geldig |
+| RVG 25387 | Nexium 20 mg, maagsapresistente tablet 20 mg | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Grünenthal B.V. | Geldig |
+| RVG 25388 | Nexium 40 mg, maagsapresistente tablet 40 mg | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Grünenthal B.V. | Geldig |
+| RVG 30091 | Nexium i.v. 40 mg poeder voor oplossing voor injectie/infusie | ESOMEPRAZOL NATRIUM | Poeder voor oplossing voor injectie of infusie | Grünenthal B.V. | Geldig |
+| RVG 101600 | Nexium 10 mg, granulaat voor maagsapresistente suspensie voor oraal gebruik in… | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistent granulaat voor orale suspensie | Grünenthal B.V. | Geldig |
+| RVG 107193 | Esomeprazol Sandoz 20 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Sandoz B.V. | Geldig |
+| RVG 107194 | Esomeprazol Sandoz 40 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Sandoz B.V. | Geldig |
+| RVG 107196 | Esomeprazol 20 mg PCH, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Pharmachemie B.V. | Geldig |
+| RVG 107201 | Esomeprazol 40 mg PCH, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Pharmachemie B.V. | Geldig |
+| RVG 107233 | Esomeprazol 20 mg Sun, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 107235 | Esomeprazol 40 mg Sun, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 107239 | Esobax 20 mg, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 107240 | Esobax 40 mg, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | – | Geldig |
+| RVG 107659 | Esomeprazol Aristo 20 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Aristo Pharma GmbH | Geldig |
+| RVG 107661 | Esomeprazol Aristo 40 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente tablet | Aristo Pharma GmbH | Geldig |
+| RVG 108347//101600 | Nexium 10 mg, maagsapresistent granulaat voor orale suspensie | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistent granulaat, Granulaat voor orale… | Euro Registratie Collectief B.V. | Geldig |
+| RVG 108387 | Esomeprazol SUN 40 mg poeder voor oplossing voor injectie en intraveneuze infus… | ESOMEPRAZOL NATRIUM | Poeder voor oplossing voor injectie of infusie | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 108868 | Esomeprazol Viatris 20 mg, harde maagsapresistente capsules | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente capsule, hard | Viatris Limited | Geldig |
+| RVG 108869 | Esomeprazol Viatris 40 mg, harde maagsapresistente capsules | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente capsule, hard | Viatris Limited | Geldig |
+| RVG 111060 | Esomeprazol Jubilant 20 mg maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Jubilant Pharmaceuticals N.V. | Geldig |
 
 Getoond worden 20 van de 69 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

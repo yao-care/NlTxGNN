@@ -95,17 +95,17 @@ Ook de overige gevonden publicaties (o.a. over delusionele parasitose) zijn indi
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06149 | Orap tabletten 1 mg, tabletten | PIMOZIDE | Tablet | Geldig |
-| RVG 06150 | Orap tabletten 4 mg, tabletten | PIMOZIDE | Tablet | Geldig |
-| RVG 09479//06150 | Orap 4, tabletten 4 mg | PIMOZIDE | Tablet | Geldig |
-| RVG 14085//06149 | Orap 1, tabletten 1 mg | PIMOZIDE | Tablet | Geldig |
-| RVG 26480//06149 | Orap 1 mg, tabletten | PIMOZIDE | Tablet | Geldig |
-| RVG 26481//06150 | Orap 4 mg, tabletten | PIMOZIDE | Tablet | Geldig |
-| RVG 119412//06150 | Orap 4 mg, tabletten | PIMOZIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06149 | Orap tabletten 1 mg, tabletten | PIMOZIDE | Tablet | Eumedica Pharmaceuticals GmbH | Geldig |
+| RVG 06150 | Orap tabletten 4 mg, tabletten | PIMOZIDE | Tablet | Eumedica Pharmaceuticals GmbH | Geldig |
+| RVG 09479//06150 | Orap 4, tabletten 4 mg | PIMOZIDE | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 14085//06149 | Orap 1, tabletten 1 mg | PIMOZIDE | Tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 26480//06149 | Orap 1 mg, tabletten | PIMOZIDE | Tablet | EU-Pharma B.V. | Geldig |
+| RVG 26481//06150 | Orap 4 mg, tabletten | PIMOZIDE | Tablet | EU-Pharma B.V. | Geldig |
+| RVG 119412//06150 | Orap 4 mg, tabletten | PIMOZIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -95,32 +95,32 @@ De overige gevonden publicaties betreffen andere statines of zijn preklinisch of
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 28014 | Pravastatine Na STADA 10 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 28015 | Pravastatine Na STADA 20 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 28016 | Pravastatine Na STADA 40 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 28925 | Pravastatinenatrium 10 mg Pharmachemie, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 28926 | Pravastatinenatrium 20 mg Pharmachemie, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 28927 | Pravastatinenatrium 40 mg Pharmachemie, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 28928 | Pravastatinenatrium Teva 10 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 28929 | Pravastatinenatrium Teva 20 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 28930 | Pravastatinenatrium Teva 40 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 30138 | Pravastatinenatrium Sandoz 10 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 30139 | Pravastatinenatrium Sandoz 20 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 30141 | Pravastatinenatrium Sandoz 40 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 30479 | Pravastatinenatrium Sandoz 10, tabletten 10 mg | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 31602 | Pravastatine Na Stada 10 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 31603 | Pravastatine Na Stada 20 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 31604 | Pravastatine Na Stada 40 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Geldig |
-| RVG 31769 | Pravastatinenatrium DOC Generici 10 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 31770 | Pravastatinenatrium DOC Generici 20 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 31771 | Pravastatinenatrium DOC Generici 40 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
-| RVG 35297 | Pravastatinenatrium Accord 10 mg tabletten | PRAVASTATINE NATRIUM | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 28014 | Pravastatine Na STADA 10 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Stada Arzneimittel AG | Geldig |
+| RVG 28015 | Pravastatine Na STADA 20 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Stada Arzneimittel AG | Geldig |
+| RVG 28016 | Pravastatine Na STADA 40 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Stada Arzneimittel AG | Geldig |
+| RVG 28925 | Pravastatinenatrium 10 mg Pharmachemie, tabletten | PRAVASTATINE NATRIUM | Tablet | Pharmachemie B.V. | Geldig |
+| RVG 28926 | Pravastatinenatrium 20 mg Pharmachemie, tabletten | PRAVASTATINE NATRIUM | Tablet | Pharmachemie B.V. | Geldig |
+| RVG 28927 | Pravastatinenatrium 40 mg Pharmachemie, tabletten | PRAVASTATINE NATRIUM | Tablet | Pharmachemie B.V. | Geldig |
+| RVG 28928 | Pravastatinenatrium Teva 10 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 28929 | Pravastatinenatrium Teva 20 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 28930 | Pravastatinenatrium Teva 40 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 30138 | Pravastatinenatrium Sandoz 10 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Sandoz B.V. | Geldig |
+| RVG 30139 | Pravastatinenatrium Sandoz 20 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Sandoz B.V. | Geldig |
+| RVG 30141 | Pravastatinenatrium Sandoz 40 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | Sandoz B.V. | Geldig |
+| RVG 30479 | Pravastatinenatrium Sandoz 10, tabletten 10 mg | PRAVASTATINE NATRIUM | Tablet | Sandoz B.V. | Geldig |
+| RVG 31602 | Pravastatine Na Stada 10 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Stada Arzneimittel AG | Geldig |
+| RVG 31603 | Pravastatine Na Stada 20 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Stada Arzneimittel AG | Geldig |
+| RVG 31604 | Pravastatine Na Stada 40 mg, filmomhulde tabletten | PRAVASTATINE NATRIUM | Filmomhulde tablet | Stada Arzneimittel AG | Geldig |
+| RVG 31769 | Pravastatinenatrium DOC Generici 10 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | DOC Generici S.r.l. | Geldig |
+| RVG 31770 | Pravastatinenatrium DOC Generici 20 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | DOC Generici S.r.l. | Geldig |
+| RVG 31771 | Pravastatinenatrium DOC Generici 40 mg, tabletten | PRAVASTATINE NATRIUM | Tablet | DOC Generici S.r.l. | Geldig |
+| RVG 35297 | Pravastatinenatrium Accord 10 mg tabletten | PRAVASTATINE NATRIUM | Tablet | Accord Healthcare B.V. | Geldig |
 
 Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

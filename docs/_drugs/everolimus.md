@@ -93,32 +93,32 @@ Gededifferentieerd liposarcoom wordt gekenmerkt door amplificatie van CDK4 en MD
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/09/538 | Afinitor 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| EU/1/11/710 | Votubia 2,5 mg tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 30041 | Certican 0,25, tabletten 0,25 mg | EVEROLIMUS | Tablet | Geldig |
-| RVG 30043 | Certican 0,75, tabletten 0,75 mg | EVEROLIMUS | Tablet | Geldig |
-| RVG 30046 | Certican Dispers 0,25, dispergeerbare tabletten 0,25 mg | EVEROLIMUS | Dispergeerbare tablet | Geldig |
-| RVG 119153 | Everolimus Teva 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 119154 | Everolimus Teva 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 119155 | Everolimus Teva 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120360 | Everolimus CF 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120361 | Everolimus CF 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120363 | Everolimus CF 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120846 | Everolimus Synthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120847 | Everolimus Synthon 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120848 | Everolimus Synthon 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120850 | Everolimus Synthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120851 | Everolimus Synthon 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120852 | Everolimus Synthon 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120853 | Everolimus Genthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120854 | Everolimus Genthon 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
-| RVG 120855 | Everolimus Genthon 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/09/538 | Afinitor 2,5 mg, tabletten | EVEROLIMUS | Tablet | Novartis Europharm Limited | Geldig |
+| EU/1/11/710 | Votubia 2,5 mg tabletten | EVEROLIMUS | Tablet | Novartis Europharm Limited | Geldig |
+| RVG 30041 | Certican 0,25, tabletten 0,25 mg | EVEROLIMUS | Tablet | Novartis Pharma B.V. | Geldig |
+| RVG 30043 | Certican 0,75, tabletten 0,75 mg | EVEROLIMUS | Tablet | Novartis Pharma B.V. | Geldig |
+| RVG 30046 | Certican Dispers 0,25, dispergeerbare tabletten 0,25 mg | EVEROLIMUS | Dispergeerbare tablet | Novartis Pharma B.V. | Geldig |
+| RVG 119153 | Everolimus Teva 2,5 mg, tabletten | EVEROLIMUS | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 119154 | Everolimus Teva 5 mg, tabletten | EVEROLIMUS | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 119155 | Everolimus Teva 10 mg, tabletten | EVEROLIMUS | Tablet | Teva Nederland B.V. | Geldig |
+| RVG 120360 | Everolimus CF 2,5 mg, tabletten | EVEROLIMUS | Tablet | Centrafarm B.V. | Geldig |
+| RVG 120361 | Everolimus CF 5 mg, tabletten | EVEROLIMUS | Tablet | Centrafarm B.V. | Geldig |
+| RVG 120363 | Everolimus CF 10 mg, tabletten | EVEROLIMUS | Tablet | Centrafarm B.V. | Geldig |
+| RVG 120846 | Everolimus Synthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Synthon B.V. | Geldig |
+| RVG 120847 | Everolimus Synthon 5 mg, tabletten | EVEROLIMUS | Tablet | Synthon B.V. | Geldig |
+| RVG 120848 | Everolimus Synthon 10 mg, tabletten | EVEROLIMUS | Tablet | Synthon B.V. | Geldig |
+| RVG 120850 | Everolimus Synthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Synthon B.V. | Geldig |
+| RVG 120851 | Everolimus Synthon 5 mg, tabletten | EVEROLIMUS | Tablet | Synthon B.V. | Geldig |
+| RVG 120852 | Everolimus Synthon 10 mg, tabletten | EVEROLIMUS | Tablet | Synthon B.V. | Geldig |
+| RVG 120853 | Everolimus Genthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Genthon B.V. | Geldig |
+| RVG 120854 | Everolimus Genthon 5 mg, tabletten | EVEROLIMUS | Tablet | Genthon B.V. | Geldig |
+| RVG 120855 | Everolimus Genthon 10 mg, tabletten | EVEROLIMUS | Tablet | Genthon B.V. | Geldig |
 
 Getoond worden 20 van de 60 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

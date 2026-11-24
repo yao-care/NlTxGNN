@@ -70,19 +70,19 @@ Momenteel geen gerelateerde literatuur beschikbaar over zonisamide bij Tourette-
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| EU/1/04/307 | Zonegran 100 mg, capsules hard | ZONISAMIDE | Capsule, hard | Geldig |
-| EU/1/16/1093 | Zonisamide Viatris 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
-| RVG 117188 | Zonisamide Sandoz 25 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
-| RVG 117190 | Zonisamide Sandoz 50 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
-| RVG 117191 | Zonisamide Sandoz 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
-| RVG 117375 | Zonisamide Heumann 25 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
-| RVG 117376 | Zonisamide Heumann 50 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
-| RVG 117377 | Zonisamide Heumann 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
-| RVG 117887 | Zonisamide Aristo 100 mg harde capsules | ZONISAMIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| EU/1/04/307 | Zonegran 100 mg, capsules hard | ZONISAMIDE | Capsule, hard | Amdipharm Limited | Geldig |
+| EU/1/16/1093 | Zonisamide Viatris 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Viatris Limited | Geldig |
+| RVG 117188 | Zonisamide Sandoz 25 mg, harde capsules | ZONISAMIDE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 117190 | Zonisamide Sandoz 50 mg, harde capsules | ZONISAMIDE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 117191 | Zonisamide Sandoz 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Sandoz B.V. | Geldig |
+| RVG 117375 | Zonisamide Heumann 25 mg, harde capsules | ZONISAMIDE | Capsule, hard | Heumann Pharma GmbH & Co. Generica KG | Geldig |
+| RVG 117376 | Zonisamide Heumann 50 mg, harde capsules | ZONISAMIDE | Capsule, hard | Heumann Pharma GmbH & Co. Generica KG | Geldig |
+| RVG 117377 | Zonisamide Heumann 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Heumann Pharma GmbH & Co. Generica KG | Geldig |
+| RVG 117887 | Zonisamide Aristo 100 mg harde capsules | ZONISAMIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

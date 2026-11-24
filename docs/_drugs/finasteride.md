@@ -97,25 +97,25 @@ Alle vier de publicaties zijn Duitstalige of Franstalige narratieve overzichten 
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 15482 | Proscar 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 27397 | Propecia 1 mg filmomhulde tabletten, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 35032 | Finasteride Aurobindo 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 100577 | Finasteride Accord 1 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 100578 | Finasteride Accord 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 101374 | Finasteride Viatris 1 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 102248 | Finasteride 5 mg Teva, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 108369 | Finasteride 1 mg Teva, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 117861 | Finasteride Aurobindo 1 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 123614 | Finasteride Amarox 5 mg filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 128073//15482 | Proscar 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 129166 | Finasteride Aristo 5 mg filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 134309 | Finasteride Mylan 1 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 134310 | Finasteride Mylan 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Geldig |
-| RVG 119270//27397 | Propecia 1 mg filmomhulde tabletten | FINASTERIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 15482 | Proscar 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 27397 | Propecia 1 mg filmomhulde tabletten, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | N.V. Organon | Geldig |
+| RVG 35032 | Finasteride Aurobindo 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 100577 | Finasteride Accord 1 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 100578 | Finasteride Accord 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 101374 | Finasteride Viatris 1 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Viatris Limited | Geldig |
+| RVG 102248 | Finasteride 5 mg Teva, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 108369 | Finasteride 1 mg Teva, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 117861 | Finasteride Aurobindo 1 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 123614 | Finasteride Amarox 5 mg filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Amarox Pharma B.V. | Geldig |
+| RVG 128073//15482 | Proscar 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Euro Registratie Collectief B.V. | Geldig |
+| RVG 129166 | Finasteride Aristo 5 mg filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Aristo Pharma GmbH | Geldig |
+| RVG 134309 | Finasteride Mylan 1 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 134310 | Finasteride Mylan 5 mg, filmomhulde tabletten | FINASTERIDE | Filmomhulde tablet | Mylan Pharmaceuticals Limited | Geldig |
+| RVG 119270//27397 | Propecia 1 mg filmomhulde tabletten | FINASTERIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

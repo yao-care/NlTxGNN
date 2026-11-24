@@ -72,19 +72,19 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 17708 | Kestine 10, filmomhulde tabletten 10 mg | EBASTINE | Filmomhulde tablet | Geldig |
-| RVG 27500 | Kestine 20, filmomhulde tabletten 20 mg | EBASTINE | Filmomhulde tablet | Geldig |
-| RVG 29927 | Kestine Smelt 10 mg, lyophilisaat voor oraal gebruik | EBASTINE | Lyofilisaat voor oraal gebruik | Geldig |
-| RVG 29928 | Kestine Smelt 20 mg, lyophilisaat voor oraal gebruik | EBASTINE | Lyofilisaat voor oraal gebruik | Geldig |
-| RVG 107003 | Ebastine Teva smelt 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Geldig |
-| RVG 115463 | Notaxo 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Geldig |
-| RVG 115466 | Notaxo 20 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Geldig |
-| RVG 122907 | Ebastine Aurobindo Smelt 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Geldig |
-| RVG 117329//17708 | Kestine 10, filmomhulde tabletten 10 mg | EBASTINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 17708 | Kestine 10, filmomhulde tabletten 10 mg | EBASTINE | Filmomhulde tablet | Almirall S.A. | Geldig |
+| RVG 27500 | Kestine 20, filmomhulde tabletten 20 mg | EBASTINE | Filmomhulde tablet | Almirall S.A. | Geldig |
+| RVG 29927 | Kestine Smelt 10 mg, lyophilisaat voor oraal gebruik | EBASTINE | Lyofilisaat voor oraal gebruik | Almirall S.A. | Geldig |
+| RVG 29928 | Kestine Smelt 20 mg, lyophilisaat voor oraal gebruik | EBASTINE | Lyofilisaat voor oraal gebruik | Almirall S.A. | Geldig |
+| RVG 107003 | Ebastine Teva smelt 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Teva Nederland B.V. | Geldig |
+| RVG 115463 | Notaxo 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Stada Arzneimittel AG | Geldig |
+| RVG 115466 | Notaxo 20 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Stada Arzneimittel AG | Geldig |
+| RVG 122907 | Ebastine Aurobindo Smelt 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 117329//17708 | Kestine 10, filmomhulde tabletten 10 mg | EBASTINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -72,30 +72,30 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 07603 | Etalpha 1 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 08318 | Etalpha 0,25 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 09284 | Etalpha 2 microgram/ml druppels voor oraal gebruik, oplossing | ALFACALCIDOL | Druppels voor oraal gebruik, oplossing | Geldig |
-| RVG 10890 | Alfacalcidol Theramex 0,25 microgram, capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 10891 | Alfacalcidol Theramex 1 microgram, capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 14698 | Etalpha i.v. 2 microgram/ml, oplossing voor injectie | ALFACALCIDOL | Oplossing voor injectie | Geldig |
-| RVG 22263 | Etalpha 0,5 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 119268 | Alfacalcidol Aurobindo 0,25 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 119274 | Alfacalcidol Aurobindo 0,5 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 119275 | Alfacalcidol Aurobindo 1 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 122549 | Alfacalcidol Strides Pharma 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 122550 | Alfacalcidol Strides Pharma 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 122551 | Alfacalcidol Strides Pharma 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 128344 | Alfacalcidol CF 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 128349 | Alfacalcidol CF 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 128350 | Alfacalcidol CF 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 134933 | Alfacalcidol Crinex 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 134936 | Alfacalcidol Crinex 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 134937 | Alfacalcidol Crinex 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
-| RVG 115592//14698 | Etalpha i.v. 2 microgram/ml oplossing voor injectie | ALFACALCIDOL | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 07603 | Etalpha 1 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 08318 | Etalpha 0,25 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 09284 | Etalpha 2 microgram/ml druppels voor oraal gebruik, oplossing | ALFACALCIDOL | Druppels voor oraal gebruik, oplossing | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 10890 | Alfacalcidol Theramex 0,25 microgram, capsules | ALFACALCIDOL | Capsule, zacht | Theramex Ireland Limited | Geldig |
+| RVG 10891 | Alfacalcidol Theramex 1 microgram, capsules | ALFACALCIDOL | Capsule, zacht | Theramex Ireland Limited | Geldig |
+| RVG 14698 | Etalpha i.v. 2 microgram/ml, oplossing voor injectie | ALFACALCIDOL | Oplossing voor injectie | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 22263 | Etalpha 0,5 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | CHEPLAPHARM Arzneimittel GmbH | Geldig |
+| RVG 119268 | Alfacalcidol Aurobindo 0,25 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 119274 | Alfacalcidol Aurobindo 0,5 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 119275 | Alfacalcidol Aurobindo 1 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Aurobindo Pharma B.V. | Geldig |
+| RVG 122549 | Alfacalcidol Strides Pharma 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Strides Pharma (Cyprus) Limited | Geldig |
+| RVG 122550 | Alfacalcidol Strides Pharma 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Strides Pharma (Cyprus) Limited | Geldig |
+| RVG 122551 | Alfacalcidol Strides Pharma 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Strides Pharma (Cyprus) Limited | Geldig |
+| RVG 128344 | Alfacalcidol CF 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Centrafarm B.V. | Geldig |
+| RVG 128349 | Alfacalcidol CF 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Centrafarm B.V. | Geldig |
+| RVG 128350 | Alfacalcidol CF 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Centrafarm B.V. | Geldig |
+| RVG 134933 | Alfacalcidol Crinex 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Laboratoires Crinex | Geldig |
+| RVG 134936 | Alfacalcidol Crinex 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Laboratoires Crinex | Geldig |
+| RVG 134937 | Alfacalcidol Crinex 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Laboratoires Crinex | Geldig |
+| RVG 115592//14698 | Etalpha i.v. 2 microgram/ml oplossing voor injectie | ALFACALCIDOL | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

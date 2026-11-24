@@ -71,15 +71,15 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 56917 | Clonidine HCl CF 0,025 mg, tabletten | CLONIDINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
-| RVG 56919 | Clonidine HCl CF 0,150 mg, tabletten | CLONIDINEHYDROCHLORIDE | Tablet | Geldig |
-| RVG 129913//06055 | Clonidinehydrochloride Eureco-Pharma oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
-| RVG 120087//06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | Oplossing voor injectie | Glenwood GmbH Pharmazeutische Erzeugnisse | Geldig |
+| RVG 56917 | Clonidine HCl CF 0,025 mg, tabletten | CLONIDINEHYDROCHLORIDE | Filmomhulde tablet | Centrafarm B.V. | Geldig |
+| RVG 56919 | Clonidine HCl CF 0,150 mg, tabletten | CLONIDINEHYDROCHLORIDE | Tablet | Centrafarm B.V. | Geldig |
+| RVG 129913//06055 | Clonidinehydrochloride Eureco-Pharma oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | Oplossing voor injectie | Eureco-Pharma B.V. | Geldig |
+| RVG 120087//06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

@@ -70,30 +70,30 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- licenses:begin -->
 
-| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
-|------|------|------|------|------|
-| RVG 21555 | Klacid SR, 500 mg tablet met gereguleerde afgifte | CLARITROMYCINE | Tablet met gereguleerde afgifte | Geldig |
-| RVG 29081 | Claritromycine Teva 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 29082 | Claritromycine Teva 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 29849 | Claritromycine SUN 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 29850 | Claritromycine SUN 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 30789 | Claritromycine Sandoz 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 30790 | Claritromycine Sandoz 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 30849 | Claritromycine Sandoz suspensie 125 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Geldig |
-| RVG 30850 | Claritromycine Sandoz suspensie 250 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Geldig |
-| RVG 34921 | Claritromycine Doc Generici 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 107044 | Claritromycine Aurobindo 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 107045 | Claritromycine Aurobindo 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 107886 | Claritromycine Sandoz 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 107902 | Claritromycine Sandoz 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 108098 | Claritromycine Sandoz 125 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Geldig |
-| RVG 108099 | Claritromycine Sandoz 250 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Geldig |
-| RVG 118826 | Claritromycine Accord 250 mg filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 118827 | Claritromycine Accord 500 mg filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
-| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / f… | CLARITROMYCINE, AMOXICILLINE 3-WATER, PANTOPRAZOL NATRIUM 1,5-WATER | Filmomhulde tablet, Maagsapresistente tablet | Geldig |
-| RVG 113261 | Claritromycine Fair-Med 500 mg filmomhulde tabletten | CLARITROMYCINE | – | Niet geregistreerd |
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |
+|------|------|------|------|------|------|
+| RVG 21555 | Klacid SR, 500 mg tablet met gereguleerde afgifte | CLARITROMYCINE | Tablet met gereguleerde afgifte | Viatris Healthcare Limited | Geldig |
+| RVG 29081 | Claritromycine Teva 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 29082 | Claritromycine Teva 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Teva Nederland B.V. | Geldig |
+| RVG 29849 | Claritromycine SUN 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 29850 | Claritromycine SUN 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Sun Pharmaceutical Industries Europe B.V. | Geldig |
+| RVG 30789 | Claritromycine Sandoz 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 30790 | Claritromycine Sandoz 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 30849 | Claritromycine Sandoz suspensie 125 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Sandoz B.V. | Geldig |
+| RVG 30850 | Claritromycine Sandoz suspensie 250 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Sandoz B.V. | Geldig |
+| RVG 34921 | Claritromycine Doc Generici 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | DOC Generici S.r.l. | Geldig |
+| RVG 107044 | Claritromycine Aurobindo 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 107045 | Claritromycine Aurobindo 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Aurobindo Pharma B.V. | Geldig |
+| RVG 107886 | Claritromycine Sandoz 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 107902 | Claritromycine Sandoz 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Sandoz B.V. | Geldig |
+| RVG 108098 | Claritromycine Sandoz 125 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Sandoz B.V. | Geldig |
+| RVG 108099 | Claritromycine Sandoz 250 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Sandoz B.V. | Geldig |
+| RVG 118826 | Claritromycine Accord 250 mg filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 118827 | Claritromycine Accord 500 mg filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Accord Healthcare B.V. | Geldig |
+| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / f… | CLARITROMYCINE, AMOXICILLINE 3-WATER, PANTOPRAZOL NATRIUM 1,5-WATER | Filmomhulde tablet, Maagsapresistente tablet | – | Geldig |
+| RVG 113261 | Claritromycine Fair-Med 500 mg filmomhulde tabletten | CLARITROMYCINE | – | – | Niet geregistreerd |
 
-Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen, farmaceutische vorm en registratiehouder in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
 <!-- licenses:end -->
 

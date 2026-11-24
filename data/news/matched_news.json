@@ -1,8 +1,336 @@
 {
-  "last_updated": "2026-11-24T03:45:17.639936+00:00",
-  "total_count": 12,
-  "matched_count": 8,
+  "last_updated": "2026-11-24T16:55:15.158185+00:00",
+  "total_count": 16,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "c0e826881ebb",
+      "title": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen",
+      "published": "2026-11-24T13:16:31+00:00",
+      "summary": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0E5YWhBT1BRUWZSSW5lODhETWFBXzNVWE9HRlc3cm40VGI4V3M4b1hhdlBiUVNqbWZzYnRVTTRxZ3dCc2txN29NNFFGcmYyZ2doVnVJX0VfeG5vdU9LT1ZjaVBUODR6S0NjbzFWTFhrd3d2ZHh4WG9rTkppRlZ0SHVncjZWREU0RmdEXzExVzBYOXVibTRWZ3Q1eXpSVXpaSk1FN3dBVWYyaWtZcGNaeDM5VWlXSzY3WUVKeg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6310665cc963",
+      "title": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
+      "published": "2026-11-24T09:15:00+00:00",
+      "summary": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "tumor",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "afa18fa138f0",
+      "title": "Onderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen",
+      "published": "2026-11-24T08:09:01+00:00",
+      "summary": "Onderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen&nbsp;&nbsp;NOSHPV-prik voorkomt zo'n 12.800 kankergevallen als vaccinatiegraad niet stijgt&nbsp;&nbsp;NUGoed nieuws! Nieuwe HPV-prik zorgt dat veel minder mensen kanker krijgen&nbsp;&nbsp;JeugdjournaalHPV-prik voorkomt bijna 12.800 kankerdiagnoses, maar kwam voor Wendy (41) te laat: ’Ik moest afscheid nemen van mijn kinderwens’&nbsp;&nbsp;Noordhollands DagbladOnderzoek: HPV-vaccinatie op jonge leeftijd voorkomt bijna 12.800 kankerd",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWxadGlLeTNVV19IUGhJUGtFeVlvWWhLRkVlSjVkQkY5TzM5cXVzX2JOUFdmUGVIWXo1UVFxWmdWclFEME44SFBPbmpCZEJnVE5ieEtlNTZSbVZOVDgwTzlKRE4zejA3Y3dDb1dNTEU5Q1VoS1B5TGtoRnk2djhJTjNMd1RqYmxxaV9IOVlsTF9PN3RZbnBlVHp3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01db5e95866c",
+      "title": "Iedereen lijkt te snotteren: huisarts vertelt wat je wél en juist niet moet doen",
+      "published": "2026-11-24T07:17:25+00:00",
+      "summary": "Iedereen lijkt te snotteren: huisarts vertelt wat je wél en juist niet moet doen&nbsp;&nbsp;Rijnmond",
+      "sources": [
+        {
+          "name": "Rijnmond",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzljSmYtdkdFSFlkcUlUNFloM3hVWnd0bFB2SEZQejFQUzhHSzRIRFdhOHFBYUVtcFV3dkktbV9EN2h2Yl9xcUJDUGR0MHhXR0hBMDJJa3RfNExHX2NzR2dCMDdubngyS1BRdkRwOW4xMXd1NE1BT2x3WElkeHBDNW1aU0pQMklTZXE4NXAxMFZBMlZuaEFvSS05WG1vZm1XWnFIMU1CN1RzdHJjb2xhWnpxaEpDNHFKcHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ea2596630cd8",
       "title": "Vergoed de koppelbare sensor, want diabetes wacht niet",
@@ -38,6 +366,19 @@
         {
           "name": "Quest NL",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJJUDJMYkhtMmlnQXMxTWJOWkYwT19sSDVheWhGWEgtZ2pIRzhaaVc5VVQ3RENFeWtoMjZwV2JpWVgyNkhjb2l1RWRzcmFaY2szdG5QZzBNRHNtZVRIQ3JmbVlndDNFdVFlZ1RWUUl5eUo2TzJyMmE0SEdHUWQwb0xpMXZ3MVhXRGNVY0dKTks4WHpQUEQ5NDRqLU84MjVXMmVZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dc66d35ed51c",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -192,19 +533,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "dc66d35ed51c",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen",
-      "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "21a1df2bee7d",

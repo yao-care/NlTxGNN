@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Fluorouracil. 10 voorspelde indicaties."
 permalink: /news/fluorouracil/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 ---
 
 # Nieuws over Fluorouracil
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Fluorouracil?">
-<strong>Fluorouracil</strong> heeft momenteel <strong>7 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Fluorouracil</strong> heeft momenteel <strong>9 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ Deze pagina combineert de door AI voorspelde indicaties voor Fluorouracil met he
 <p><a href="{{ '/drugs/fluorouracil/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (7)
+## Gerelateerd nieuws (9)
+
+### [Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5)
+
+2026-11-24 <span class="news-indication-tag">tumor</span>
+
+Bron: [AD.nl](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5)
+
+---
+
+### [Onderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWxadGlLeTNVV19IUGhJUGtFeVlvWWhLRkVlSjVkQkY5TzM5cXVzX2JOUFdmUGVIWXo1UVFxWmdWclFEME44SFBPbmpCZEJnVE5ieEtlNTZSbVZOVDgwTzlKRE4zejA3Y3dDb1dNTEU5Q1VoS1B5TGtoRnk2djhJTjNMd1RqYmxxaV9IOVlsTF9PN3RZbnBlVHp3?oc=5)
+
+2026-11-24 <span class="news-indication-tag">kanker</span>
+
+Bron: [NOS](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWxadGlLeTNVV19IUGhJUGtFeVlvWWhLRkVlSjVkQkY5TzM5cXVzX2JOUFdmUGVIWXo1UVFxWmdWclFEME44SFBPbmpCZEJnVE5ieEtlNTZSbVZOVDgwTzlKRE4zejA3Y3dDb1dNTEU5Q1VoS1B5TGtoRnk2djhJTjNMd1RqYmxxaV9IOVlsTF9PN3RZbnBlVHp3?oc=5)
+
+---
 
 ### [Jarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje? ’Dit is echt een doorbraak’ - De Telegraaf](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzd0UXh4VEpzTkMxTkxuNXpLaFpEYUxnZFVMZGNGY3lZZG1BQkNDNUtfUUtCa1FteVhMSlQ2cEVYN0dab0ltSUx2dDJ2cnBoOHZKRXJzUjNLeW5Xd2d3bUJyaExtR3ZVZ085cEI5TmpoanJRZjI0U0VCSkNHbHFkQzB3UndQUXlMQWlMSzBPVC02bHBIR1dJWmg5WW9SckpmVm1NZzFkZlE2WERWQWlpd0pYTnFIRE5UcFVRd20weVp1SmtMaEp1MHJzQjFaQ1kycjdWY2Y1UmdDNDZlemtUWXMxM1NnaGcxT2dxVEN3VDEwdw?oc=5)
 

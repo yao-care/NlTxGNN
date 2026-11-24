@@ -578,7 +578,7 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - A. 程式許可證表：`scripts/sync_license_tables.py`。市場段落（site.MARKET_SECTIONS，## 或 ###）的第一張表（表頭有 RVG／Registratie）換成程式依證據包（thaifda.records）產生的
   「| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |」，文字照 CBG metadata.csv 原文（荷蘭文）；狀態：現行登記「Geldig」、不在現行清單（cbg_not_listed）「Niet geregistreerd」（照 CBG 網站原文，不寫 ingetrokken／doorgehaald；字樣同 `.claude/license_labels/NlTxGNN.json`）。
   排序：有效在前、單方（kind=single）在前、再依登記號數字；最多 20 列，超過時表下一句「Getoond worden N van de M registraties in de gegevens (…)」；表後一句來源；沒有紀錄時 NONE_LINE。前後 `<!-- licenses:begin -->`／`<!-- licenses:end -->`。
-  Registratiehouder 欄不放：CBG 原文「Heumann Pharma GmbH & Co. Generica KG」會被母目錄 checker P5 當成知識圖譜縮寫 KG（只豁免「& Co. KG」）；要加回來要先在母目錄 KG_ABBR 加豁免。
+  Registratiehouder 欄 2026-11-24 第二輪加回（母目錄 checker 295dd578 已豁免「GmbH … KG」公司名；見下節）。
   快照 `snapshots/nl_licenses.json.gz` 另存 rows（前 20 列）／total（build_license_snapshot.py 用 rows_of）；gate 第 18 項（licenses.py）擋「程式區塊≠快照重算」「市場段落沒有程式表」。
   接上：`apply_drug_reviews.py`（非 --check）結尾、`build_license_snapshot.py` 結尾（`--no-rewrite` 不跑）、`scripts/license_adapter.py` 的 `sync_tables`（每週排程依證據包重排）與 `PAGE_NOTE`（3b 自我檢查放行程式句）。
   `--migrate`（2026-11-24 一次性）另拿掉市場段落裡只講舊表筆數／完整性的說明句（「Hieronder staan de eerste 5 vergunningen.」「De lijst is volledig.」等 13 句）；查核紀錄更正文字所在的句子不動。
@@ -592,3 +592,18 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   單方／複方：articaine「Beide vergunningen zijn enkelvoudige producten」（證據包 13 張全部是 articaïne＋adrenaline）以 `nl-lic-20261124-articaine-1` 更正。
   待查清單加 54 句（20 句 count_prose 判斷不了：多是「Er is 1 vergunning, en die is geldig」這類單數句、實際有 4～56 張；33 句另寫的寬偵測找到的單數／狀態敘述（「de enige Nederlandse vergunning is geschrapt」「het ontbreken van een geldige registratie」等，跟事實層不符；其中 articaine 1 句已寫紀錄、標 resolved）；lidocaine 單方張數 1 句：證據包 kind 欄把只多賦形劑的也算複方，只驗不改）。
   checker 全量前後都是 0、row-status 0；gate exit 0；寬偵測（正文張數／單數／全部有效敘述跟事實層不符）改前 77 句、改後 70 句（articaine 已更正），扣掉誤中 18 句，剩 52 句都已列待查（open）。last_modified_at：改到的 334 頁改 2026-11-24（表格與查核框內容都變了）。
+
+## 第二輪：待查舊錯句逐句更正、程式表加 Registratiehouder（2026-11-24）
+
+用戶 2026-11-24 第二輪決定（各站同日）：第一輪列進待查的舊錯句逐句寫查核紀錄更正，劑型說法、「表由程式補上」句一併處理。
+- 程式表加回 Registratiehouder 欄：`| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Registratiehouder | Status |`（證據包 license_holder，CBG 原文；沒有的寫「–」）；來源句同步。334 頁重排、快照 rows 重算。母目錄 checker 已豁免「GmbH … KG」公司名，全量 checker 加欄前後都是 0、row-status 0。
+- 待查清單 53 句（第一輪 count_prose 判斷不了 20 句、寬偵測 33 句）逐句對照證據包（Release data-20261123-162625）與快照事實層：全部跟現行 CBG 登記不符（「Er is 1 vergunning, en die is geldig」實際 4～56 張；
+  ganirelix、palonosetron、zuclopenthixol、mianserin、topiramate 等「de enige Nederlandse vergunning is geschrapt／geannuleerd」其實有效登記多張；ammonia「enige vergunning」實為 2 張別的藥；mannitol「RVG 108589 未列入表」程式表已列出；lidocaine「4 張單方」等），
+  以 51 筆 `nl-lic-20261124b-*` 更正、2 筆同 id 重發（lorazepam、rocuronium 前版更正文字留下的單數／不可得說法；前版存 history），53 項標 resolved（附 record_ids）。
+- 另寫的寬偵測（正文單數「deze vergunning」、全稱、註銷字樣、劑型全稱、「表由程式補上」）全量掃公開頁，再找到 22 句以 `nl-lic-20261124b-*` 更正（selenium「is geregistreerd geweest」、thymol「voorkwam」、esomeprazole「status niet eenduidig」、
+  phenylephrine「alleen injectie-oplossingen」、benzydamine「geregistreerd als zuigtablet」（有效的是 crème）、ganirelix 待辦「de geschrapte vergunning (RVG 111978)」（Fyremadel 其實有效）、labetalol／epinephrine／zuclopenthixol 以「已註銷／沒有有效登記」為前提的理由與待辦、
+  dexketoprofen「De vergunningentabel wordt door het programma toegevoegd」、tramadol「geen toedieningsvorm」、piroxicam「geannuleerd」改照 CBG 原文 niet geregistreerd 等），tamsulosin 11-12 紀錄同 id 重發（「doseringsvorm en fabrikant niet beschikbaar」程式表已有）。
+- 寫法：更正文字不寫死張數，指向「het snelle overzicht en de vergunningstabel bij de marktinformatie」；待辦與決策理由只拿掉錯的前提（建議內容、決策不動）；模型預測文字不動。
+- 驗證：寬偵測改後剩下的命中都跟事實層一致（總數 1 的頁、程式改寫的 arginine、正確的全稱）；apply --check、rewrite_license_counts --check、gate 都過；checker 全量 0、row-status 0。缺程式表的公開頁 0；site.FIGURES 第一輪已改成不寫數字。
+- 待查清單剩下 open 32 項，都是作用機轉（2026-11-19，美國仿單與 ChEMBL 都沒有），不在這輪範圍。
+

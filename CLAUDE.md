@@ -612,3 +612,9 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 
 用戶 2026-11-24 決定（比照 JpTxGNN 第二輪 `add_section`）：公開頁（非 noindex、非轉址）整頁沒有市場段落（## Informatie over de Nederlandse markt／## Marktinformatie Nederland）、證據包卻有許可證紀錄的，要補段落與程式表。
 2026-11-24 全量量測本站 0 頁，所以只加 gate：`src/nltxgnn/regulatory/licenses.py` 的 page_problems 擋「公開頁快照有程式表列卻沒有市場段落」（之後若出現，再比照 Jp 在 `scripts/sync_license_tables.py` 加 add_section）。gate exit 0。
+2026-11-24 第四輪（用戶決定）：補上自動補段落的程式。`scripts/sync_license_tables.py` 的 `add_section`（process 找不到市場段落時呼叫）：公開頁、快照或證據包有紀錄的，
+在「## Cytotoxiciteit」之前（沒有就 Veiligheidsoverwegingen 等安全性標題、Conclusie en vervolgstappen、Controlelogboek、Disclaimer 之前；查核紀錄段標題在 `<!-- review:begin log -->` 區塊裡時放在區塊之前）
+補「## Informatie over de Nederlandse markt」與程式表；noindex 頁、沒有紀錄的頁不補。快照模式與 --bundles 模式都會補，所以 apply_drug_reviews.py、build_license_snapshot.py 結尾與每週排程 sync_tables 都會自動補；
+PAGE_NOTE（license_adapter 讀同一份）放行新標題行。全量量測 0 頁要補（noindex 的 abciximab 等頁沒有市場段落、照規則不補）。
+驗證：拿掉 abacavir（後接 Veiligheidsoverwegingen）、anastrozole（後接 Cytotoxiciteit）的市場段落：gate 擋，快照模式與證據包模式（adapter sync_tables）補回後整頁與原頁一字不差、再跑 0 頁；
+另以拿掉市場／細胞毒性／安全性／結論段的 anastrozole 確認段落放在 log 區塊之前、可重複執行；之後還原原頁。checker 全量 0、gate exit 0。

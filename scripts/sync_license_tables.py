@@ -17,7 +17,8 @@ CBG Geneesmiddeleninformatiebank metadata.csv；scripts/rebuild_licenses_by_ingr
   表後一行來源句（SOURCE）；證據包沒有任何紀錄時整個區塊只有 NONE_LINE。
   區塊前後各一行 <!-- licenses:begin --> <!-- licenses:end -->（查核紀錄、刪句工具與 gate 用來分辨程式寫的字）。
 放在哪：市場段落（## 或 ### 標題＝site.MARKET_SECTIONS）取代段落的第一張表（表頭有 RVG 或 Registratie）；段落沒有表時放在段落開頭。
-  沒有市場段落的頁不加。表以外的文字不動（正文張數由 scripts/rewrite_license_counts.py 依快照改寫）。
+  整頁沒有市場段落的公開頁（證據包有紀錄；2026-11-24 第四輪，用戶決定，比照 JpTxGNN）由 add_section 在細胞毒性／安全性段之前
+  （沒有就結論、查核紀錄（log 區塊前）、免責聲明之前）補「## Informatie over de Nederlandse markt」與程式表；noindex 頁不補。表以外的文字不動（正文張數由 scripts/rewrite_license_counts.py 依快照改寫）。
 資料來源：預設讀快照 snapshots/nl_licenses.json.gz 的 rows／total（scripts/build_license_snapshot.py 依證據包算好，用 rows_of）；
   --bundles 改讀 data/bundles（每週排程用）。gate（src/nltxgnn/regulatory/licenses.py）檢查程式區塊＝快照重算的結果。
 誰會跑：scripts/apply_drug_reviews.py（非 --check）結尾、scripts/build_license_snapshot.py 結尾、每週排程 license_adapter.sync_tables
@@ -52,7 +53,11 @@ NONE_LINE = "In de gebruikte CBG-gegevens is voor dit middel geen registratie va
 MAX_ROWS = 20
 SUPERSEDED_BY = "Programmatisch gegenereerde vergunningstabel (scripts/sync_license_tables.py, 2026-11-24, op basis van de CBG-registratiegegevens)"
 # 每週排程 3b 的自我檢查（license_refresh）：改到的行除了表格列只能是這些（license_adapter.PAGE_NOTE 用同一份）
-PAGE_NOTE = (r"^(" + "|".join(re.escape(x) for x in (BEGIN, END, SOURCE, NONE_LINE)) +
+# add_section（2026-11-24 第四輪，用戶決定；比照 JpTxGNN）：公開頁整頁沒有市場段落、證據包有紀錄時補的標題與位置
+TITLE = MARKET[0]
+ADD_BEFORE = ("Cytotoxiciteit", "Veiligheidsoverwegingen", "Veiligheidsaspecten", "Overwegingen met betrekking tot veiligheid",
+              "Overwegingen rond veiligheid", "Veiligheid", "Conclusie en vervolgstappen", "Controlelogboek", "Disclaimer")
+PAGE_NOTE = (r"^(" + "|".join(re.escape(x) for x in (BEGIN, END, SOURCE, NONE_LINE, "## " + TITLE)) +
              r"|Getoond worden \d+ van de \d+ registraties in de gegevens \(geldige eerst, enkelvoudige middelen vóór combinatiepreparaten\)\.)$")
 
 NUMW = r"(?:\d+|een|één|twee|drie|vier|vijf|zes|zeven|acht|negen|tien)"
@@ -167,8 +172,33 @@ def _caption_trim(line, protect=()):
     return (" ".join(out), gone) if gone else (line, [])
 
 
+def add_section(text, rows, total):
+    """公開頁（非 noindex）整頁沒有市場段落、證據包有紀錄：補「## Informatie over de Nederlandse markt」與程式表。
+    位置在細胞毒性／安全性段之前（沒有就結論、查核紀錄、免責聲明段之前；查核紀錄段標題在 <!-- review:begin log -->
+    區塊裡時放在區塊之前）。不補時回 None。"""
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    if not rows or re.search(r"^noindex:\s*true", fm, re.M):
+        return None
+    lines = text.split("\n")
+    heads = {}
+    for i, l in enumerate(lines):
+        m = re.match(r"^## (.+?)\s*$", l)
+        if m and m.group(1) not in heads:
+            heads[m.group(1)] = i
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    k = at - 1
+    while k > 0 and not lines[k].strip():
+        k -= 1
+    if lines[k].strip() == "<!-- review:begin log -->":
+        at = k
+    out = _splice(lines, at, at, ["## " + TITLE, ""] + wrap(program_block(rows, total)))
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
+
+
 def process(text, rows, total, migrate=False, protect=()):
-    """回傳 (新內容, 拿掉的文字)。沒有市場段落時原樣。可重複執行。"""
+    """回傳 (新內容, 拿掉的文字)。沒有市場段落時照 add_section 補（不補時原樣）。可重複執行。"""
     lines = text.replace("\r\n", "\n").split("\n")
     blk = wrap(program_block(rows, total))
     gone = []
@@ -177,7 +207,8 @@ def process(text, rows, total, migrate=False, protect=()):
     else:
         secs = _sections(lines)
         if not secs:
-            return text, ""
+            new = add_section("\n".join(lines), rows, total)
+            return (new, "") if new else (text, "")
         out = None
         for a, b in secs:
             tb = [k for k in range(a + 1, b) if _is_license_table_head(lines, k)]

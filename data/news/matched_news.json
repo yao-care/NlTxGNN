@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-23T17:17:04.601875+00:00",
-  "total_count": 10,
+  "last_updated": "2026-11-24T03:45:17.639936+00:00",
+  "total_count": 12,
   "matched_count": 8,
   "news": [
+    {
+      "id": "ea2596630cd8",
+      "title": "Vergoed de koppelbare sensor, want diabetes wacht niet",
+      "published": "2026-11-23T19:47:51+00:00",
+      "summary": "Vergoed de koppelbare sensor, want diabetes wacht niet&nbsp;&nbsp;Petities.nl",
+      "sources": [
+        {
+          "name": "Petities.nl",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXlUczJIelhKYzZDa2RhdTRabEY4Zk5RMDg4M2YwazN6RGRMcWl4TUQ3UXkyQXBocUFKd3ZZNEpkc3dDQlR5YUpvZ0luSHVQVEVSa0VnZi1WT0YzZzAxaThxRUtuNGs2VUtuVWRRMXFNajk1S3ZaZ21nVmVHbXA0MzFfb05WR1RGTkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d915b37cc3f8",
       "title": "Allergisch voor noten? Hoopgevende test met vaccin",
@@ -12,6 +25,19 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVlkQ2RLUkVTTFU0ams0aW5GTUZISXc0RkRxbjhwTGZVTTlDMjZoc3lMbjZ2aEtUS0ZmQ0J2aVVLbmZENndQdzZFUDlpRkVtdUVaUGN1emZwVlV6VFNNZ2oxeXFTMnZ4eVpUbDhkRFd1b3dfOTEybko2NHVHRzRvR2tldlNaUTFRZ2lUV2ptQUxKVmZkb2N2SzFTaklQd0Nzb0gyZ3pka2lPSlU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4ff299ec1c49",
+      "title": "Cardioloog Leonard Hofstra: ‘Een gezonde mond kan ook je hart gezond helpen te houden’ - Quest NL",
+      "published": "2026-11-23T05:09:41+00:00",
+      "summary": "Cardioloog Leonard Hofstra: ‘Een gezonde mond kan ook je hart gezond helpen te houden’&nbsp;&nbsp;Quest NL",
+      "sources": [
+        {
+          "name": "Quest NL",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJJUDJMYkhtMmlnQXMxTWJOWkYwT19sSDVheWhGWEgtZ2pIRzhaaVc5VVQ3RENFeWtoMjZwV2JpWVgyNkhjb2l1RWRzcmFaY2szdG5QZzBNRHNtZVRIQ3JmbVlndDNFdVFlZ1RWUUl5eUo2TzJyMmE0SEdHUWQwb0xpMXZ3MVhXRGNVY0dKTks4WHpQUEQ5NDRqLU84MjVXMmVZ?oc=5"
         }
       ],
       "matched_keywords": []

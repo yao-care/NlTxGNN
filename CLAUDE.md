@@ -607,3 +607,8 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - 驗證：寬偵測改後剩下的命中都跟事實層一致（總數 1 的頁、程式改寫的 arginine、正確的全稱）；apply --check、rewrite_license_counts --check、gate 都過；checker 全量 0、row-status 0。缺程式表的公開頁 0；site.FIGURES 第一輪已改成不寫數字。
 - 待查清單剩下 open 32 項，都是作用機轉（2026-11-19，美國仿單與 ChEMBL 都沒有），不在這輪範圍。
 
+
+## 缺市場段落的公開頁（2026-11-24 第三輪）
+
+用戶 2026-11-24 決定（比照 JpTxGNN 第二輪 `add_section`）：公開頁（非 noindex、非轉址）整頁沒有市場段落（## Informatie over de Nederlandse markt／## Marktinformatie Nederland）、證據包卻有許可證紀錄的，要補段落與程式表。
+2026-11-24 全量量測本站 0 頁，所以只加 gate：`src/nltxgnn/regulatory/licenses.py` 的 page_problems 擋「公開頁快照有程式表列卻沒有市場段落」（之後若出現，再比照 Jp 在 `scripts/sync_license_tables.py` 加 add_section）。gate exit 0。

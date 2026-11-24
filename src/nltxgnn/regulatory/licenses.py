@@ -7,6 +7,7 @@
   3. 表格列寫的狀態不跟事實相反（checker：有效許可證寫成註銷、row_status_conflicts）。
   4. 程式許可證表（2026-11-24 起，scripts/sync_license_tables.py；<!-- licenses:begin/end -->）＝依快照 rows／total 重算的結果；
      快照有 rows 的頁，市場段落一定要有程式表。
+  5. 公開頁（非 noindex）快照有程式表列，卻整頁沒有市場段落（2026-11-24 第三輪）。
 事實層只涵蓋部分來源時（checker X_SCOPE），跟 checker 一樣只驗資料能證明的部分。
 修法：資料變了→跑每週排程（重排狀態格、狀態列、張數列並重建快照）；正文或表格寫錯→寫查核紀錄（docs/_data/drug_reviews.json）
 再跑 scripts/apply_drug_reviews.py。
@@ -115,6 +116,10 @@ def page_problems(stem: str, text: str) -> list[str]:
         errs += SLT().block_problems(lines[a:b], e)
     if "rows" in e and _sections(lines) and SLT().BEGIN not in lines:
         errs.append("市場段落沒有程式許可證表（跑 python3 scripts/sync_license_tables.py）")
+    # 2026-11-24 第三輪（用戶決定）：公開頁快照有程式表列、整頁卻沒有市場段落 → 擋
+    _fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    if e.get("rows") and not _sections(lines) and not re.search(r"^noindex:\s*true", _fm, re.M):
+        errs.append("公開頁有證據包 CBG 登記紀錄卻沒有市場段落（要補段落與程式表，比照 JpTxGNN 的 sync_license_tables.add_section）")
     if own:
         for a, b in _sections(lines):
             for t in _tables(lines[a:b]):

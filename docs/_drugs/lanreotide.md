@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lanreotide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
 description: "Lanreotide: voorspelde nieuwe indicatie Hypertrichose (hypertrichosis (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 22)"
@@ -89,15 +89,42 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120433//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | Oplossing voor injectie (voorgevulde spuit) | Niet beschikbaar |
+<!-- licenses:begin -->
 
-Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 119879//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 119888//26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 119889//26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 124103//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 124721 | Mytolac 90 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 127028//26302 | Somatuline AutoSolution 90 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 127045//26303 | Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 130678//124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 130679//124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 130727 | Lanreotide SUN 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 130728 | Lanreotide SUN 90 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 130729 | Lanreotide SUN 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 131899//124722 | Mytolac 120 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 131901//124720 | Mytolac 60 mg oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 136822//26301 | Somatuline AutoSolution 60 mg, oplossing voor injectie in een voorgevulde spuit | LANREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+
+Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Het registratienummer RVG 120433//26303 (Somatuline AutoSolution 120 mg, oplossing voor injectie in een voorgevulde spuit) komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.
 
 <!-- review:begin nl-lic-20261115-lanreotide-1 -->
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Deze vergunning is ingetrokken.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze vergunning is ingetrokken.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261115-lanreotide-1 -->
 
@@ -121,7 +148,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 <!-- review:begin nl-lic-20261112-lanreotide-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling voor hypertrichose berust uitsluitend op een computermodel (L5), zonder klinische studies of literatuur, en het mechanistische verband is zwak. Bovendien is de enige Nederlandse vergunning ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 23, waarvan geldig: 22; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling voor hypertrichose berust uitsluitend op een computermodel (L5), zonder klinische studies of literatuur, en het mechanistische verband is zwak. Bovendien is de enige Nederlandse vergunning ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-lanreotide-1 -->
 
@@ -140,8 +167,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “Deze vergunning is ingetrokken.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Deze vergunning is ingetrokken.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Somatuline Depot (lanreotide acetate) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d) |
 
 <!-- review:end log -->

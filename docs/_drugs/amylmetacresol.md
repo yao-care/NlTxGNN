@@ -90,23 +90,46 @@ In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.
 
 <!-- review:begin nl-lic-20261106-amylmetacresol-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 8, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-amylmetacresol-1 -->
 
 <!-- review:begin nl-lic-20261112-amylmetacresol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 31, waarvan geldig: 30; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle acht registraties zijn geldig. In de gegevens ontbreken dosisvorm, fabrikant en goedgekeurde indicatietekst.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-amylmetacresol-1 -->
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 116225 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol mint zuigtabletten | Geldig |
-| RVG 118243//04174 | 2,4-Dichloorbenzylalcohol 1,2 mg en Amylmetacresol 0,6 mg Eureco-Pharma, zuigtabletten | Niet geregistreerd |
-| RVG 118471 | Bogasil sinaasappel zuigtabletten | Geldig |
-| RVG 118469 | Bogasan honing & citroen zuigtabletten | Geldig |
-| RVG 118472 | Bogasil honing & citroen zuigtabletten | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 04174 | Strepsils Original bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 06556 | Strepsils citroen & honing bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 10987 | Strepsils Sinaasappel & Vitamine C bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 14597 | Strepsils Cool bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 112654 | Strepsils Aardbei Suikervrij bij beginnende keelpijn, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 113894 | Maeliloz sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
+| RVG 113895 | Maeliloz honing & citroen zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
+| RVG 116225 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol mint zuigtabletten | DICHLOORBENZYLALCOHOL, AMYLMETACRESOL | Zuigtablet | Geldig |
+| RVG 116226 | Kruidvat Amylmetacresol Plus Dichloorbenzylalcohol honing & citroen zuigtablett… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 118436 | Trachsil honing & citroen zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
+| RVG 118439 | Trachsil sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
+| RVG 118468 | Bogasan sinaasappel zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
+| RVG 118469 | Bogasan honing & citroen zuigtabletten | DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER, AMYLMETACRESOL | Zuigtablet | Geldig |
+| RVG 118471 | Bogasil sinaasappel zuigtabletten | LIDOCAINEHYDROCHLORIDE 1-WATER, AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 118472 | Bogasil honing & citroen zuigtabletten | AMYLMETACRESOL, LIDOCAINEHYDROCHLORIDE 1-WATER, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 118474 | Vicks Farinex sinaasappel keelzuigtabletten, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
+| RVG 118475 | Vicks Farinex honing & citroen keelzuigtabletten, zuigtabletten | DICHLOORBENZYLALCOHOL, AMYLMETACRESOL, LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
+| RVG 120834 | RXT Amylmetacresol - dichloorbenzylalcohol 0,6/1,2 mg keelpijntabletten honing… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 121648 | Etos Amylmetacresol Plus Dichloorbenzylalcohol Suikervrij, zuigtabletten | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+| RVG 122775 | Albert Heijn Amylmetacresol - Dichloorbenzylalcohol 0,6/1,2 mg Honing & citroen… | AMYLMETACRESOL, DICHLOORBENZYLALCOHOL | Zuigtablet | Geldig |
+
+Getoond worden 20 van de 31 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -140,8 +163,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten)” | Gecorrigeerd (herzien op 2026-11-12; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Alle acht registraties zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Er zijn nog drie andere doorgehaalde registraties (RVG 118475, RVG 118470 en RVG 118474, Vicks Farinex- en Bogasil-zuigtabletten)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle acht registraties zijn geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

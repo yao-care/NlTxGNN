@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 280
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "primidone"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 description: "Primidone: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 2)"
@@ -83,9 +83,17 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114828//00379 | Mysoline, tabletten 250 mg | Tablet (volgens productnaam) | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00379 | Mysoline, tabletten 250 mg | PRIMIDON | Tablet | Geldig |
+| RVG 125811//00379 | Mysoline tabletten 250 mg | PRIMIDON | Tablet | Geldig |
+| RVG 114828//00379 | Mysoline, tabletten 250 mg | PRIMIDON | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,7 +127,7 @@ De SmPC-waarschuwingen en contra-indicaties van het CBG-MEB zijn niet in de gege
 
 <!-- review:begin nl-lic-20261112-primidone-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een gerichte literatuurstudie naar primidon bij trigeminusneuralgie als realistischer onderzoeksvraag, inclusief vergelijking met carbamazepine en beoordeling van de interactielast. / Beoordeling van de regelgevende status: het middel is in Nederland in de handel met 1 geldige vergunning van 1.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een gerichte literatuurstudie naar primidon bij trigeminusneuralgie als realistischer onderzoeksvraag, inclusief vergelijking met carbamazepine en beoordeling van de interactielast. / Beoordeling van de regelgevende status: het middel is in Nederland in de handel met 1 geldige vergunning van 1.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-primidone-1 -->
 
@@ -131,7 +139,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Beoordeling van de regelgevende status: het middel is in Nederland in de handel met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beoordeling van de regelgevende status: het middel is in Nederland in de handel met 1 geldige vergunning van 1” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

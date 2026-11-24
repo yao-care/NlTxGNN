@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 description: "Goserelin: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 22)"
@@ -72,9 +72,36 @@ Er is momenteel geen relevante literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119118//12277 | Zoladex 3,6 mg, implantatiestaafje | Implantatiestaafje (volgens productnaam) | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 28357//12277 | Zoladex 3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 119234//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 119235//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 119236//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 119237//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 120093//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 125241//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 125936//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 126446//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 128711//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 129312//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 129814//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 129823//12277 | Zoladex 3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 132229//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 133091//18562 | Zoladex 10,8 mg, implantatiestaafje | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 133352//12277 | Zoladex-3,6, implantatiestaafje 3,6 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+| RVG 135073//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantaat | Geldig |
+| RVG 136533//18562 | Zoladex-10,8, implantatiestaafje 10,8 mg | GOSERELINEACETAAT | Implantatietablet | Geldig |
+
+Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het CBG-MEB-register vermeldt één vergunning, die geldig is. Raadpleeg de SmPC voor de geregistreerde indicaties.
 

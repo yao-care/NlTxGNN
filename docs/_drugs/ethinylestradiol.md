@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 141
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ethinylestradiol: voorspelde nieuwe indicatie Verhoogd zinkgehalte in plasma (bewijsniveau L5). Oorspronkelijke indicatie: Acne, osteoporose na de menopauze, osteoporose…"
 monitor_inn: "ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
@@ -74,23 +74,46 @@ Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde ind
 
 <!-- review:begin nl-lic-20261106-ethinylestradiol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen. Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 111, waarvan geldig: 103; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit is een selectie van de 5 belangrijkste van in totaal 11 vergunningen. Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-ethinylestradiol-1 -->
 
 <!-- review:begin nl-lic-20261112-ethinylestradiol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle 11 vergunningen zijn geldig (11 van 11). Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde indicatieteksten of toedieningsvormen opgenomen.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 111, waarvan geldig: 103; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle 11 vergunningen zijn geldig (11 van 11). Voor deze vergunningen zijn in de samengestelde gegevens geen geregistreerde indicatieteksten of toedieningsvormen opgenomen.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-ethinylestradiol-1 -->
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 118683//08514 | Trinordiol, dragees | Niet geregistreerd |
-| RVG 115388 | Desogestrel/Ethinylestradiol STADA 150/30 microgram tabletten | Niet geregistreerd |
-| RVG 116281 | Kosidina 0,075 mg/0,030 mg 21+7, tabletten | Geldig |
-| RVG 115232 | Leanova 0,15 mg/0,03 mg, omhulde tabletten | Niet geregistreerd |
-| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00022 | Acelyn 0,05 mg, tabletten | ETHINYLESTRADIOL | Tablet | Geldig |
+| EU/1/02/223 | Evra pleister voor transdermaal gebruik, 203 microgram/24 uur + 33,9 microgram/… | ETHINYLESTRADIOL, NORELGESTROMINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 08191 | Stediril 30, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
+| RVG 08204 | Microgynon 30, 0,15 mg/0,03 mg omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
+| RVG 08205 | Microgynon 50, 0,125 mg/0,05 mg omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
+| RVG 08514 | Trinordiol, dragees | ETHINYLESTRADIOL, ETHINYLESTRADIOL, ETHINYLESTRADIOL, LEVONORGESTREL, LEVONORGE… | Omhulde tablet | Geldig |
+| RVG 08663 | Trigynon, omhulde tabletten | ETHINYLESTRADIOL, ETHINYLESTRADIOL, ETHINYLESTRADIOL, LEVONORGESTREL, LEVONORGE… | Omhulde tablet | Geldig |
+| RVG 08859 | Marvelon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 11508 | Mercilon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 12575 | Minulet, dragees | ETHINYLESTRADIOL, GESTODEEN | Omhulde tablet | Geldig |
+| RVG 21187 | Lovette, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Filmomhulde tablet | Geldig |
+| RVG 23827 | Yasmin, filmomhulde tabletten 0,03 mg/3 mg | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 25073 | NuvaRing 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 25413 | Yasmin 28, filmomhulde tabletten 0,03/3 mg | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 25414 | Ethinylestradiol / Drospirenon 0,03 mg / 3 mg Berlipharm, filmomhulde tabletten | DROSPIRENON, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 29728 | Ethinylestradiol 0,035 mg /Cyproteronacetaat 2 mg, omhulde tabletten | CYPROTERONACETAAT, ETHINYLESTRADIOL | Omhulde tablet | Geldig |
+| RVG 29729 | Cyproteronacetaat/Ethinylestradiol Xiromed 2 mg/0,035 mg, omhulde tabletten | CYPROTERONACETAAT, ETHINYLESTRADIOL | Omhulde tablet | Geldig |
+| RVG 30862 | Miranova, 100 microgram/20 microgram omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
+| RVG 30863 | Microgynon 20, 100 microgram/20 microgram omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
+| RVG 34841 | Ethinylestradiol/Levonorgestrel Sandoz 0,02/0,1 mg, omhulde tabletten | ETHINYLESTRADIOL, LEVONORGESTREL | Omhulde tablet | Geldig |
+
+Getoond worden 20 van de 111 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -122,7 +145,7 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 
 <!-- review:begin nl-lic-20261112-ethinylestradiol-3 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland in de handel, met 11 geldige vergunningen van 11. / De veiligheidsscreening kan niet worden voortgezet omdat de productinformatie ontbreekt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 111, waarvan geldig: 103; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland in de handel, met 11 geldige vergunningen van 11. / De veiligheidsscreening kan niet worden voortgezet omdat de productinformatie ontbreekt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-ethinylestradiol-3 -->
 
@@ -141,9 +164,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen” | Gecorrigeerd (herzien op 2026-11-12; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Alle 11 vergunningen zijn geldig (11 van 11)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Het middel is in Nederland in de handel, met 11 geldige vergunningen van 11” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Ook de vaginale hulpmiddelen Circlet en NuvaRing (0,120 mg/0,015 mg per 24 uur) behoren tot de ingetrokken vergunningen” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle 11 vergunningen zijn geldig (11 van 11)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het middel is in Nederland in de handel, met 11 geldige vergunningen van 11” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

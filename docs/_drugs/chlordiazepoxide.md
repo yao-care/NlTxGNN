@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "chlordiazepoxide"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "myofascial pain syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlordiazepoxide: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 1 (geldig: 0)"
 ---
 
@@ -88,9 +88,15 @@ Geen van deze publicaties onderzoekt chlordiazepoxide direct bij slapeloosheid.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 56546 | Chloordiazepoxide Accord 25 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 56546 | Chloordiazepoxide Accord 25 mg, filmomhulde tabletten | CHLOORDIAZEPOXIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

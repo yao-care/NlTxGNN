@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 289
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ribavirin: voorspelde nieuwe indicatie Chronische hepatitis B-virusinfectie (bewijsniveau L1). Oorspronkelijke indicatie: Chronische hepatitis C-virusinfectie"
 monitor_inn: "ribavirin"
 predicted_indications: ["chronic hepatitis B virus infection", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mediastinitis"]
@@ -108,21 +108,23 @@ De gevonden publicaties zijn vrijwel allemaal overzichtsartikelen of casuïstiek
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 110605 | Ribavirine Mylan 400 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-ribavirin-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 108116 | Ribavirine ratiopharm 200 mg, filmomhulde tabletten | RIBAVIRINE | Filmomhulde tablet | Geldig |
+| RVG 108119 | Ribavirine ratiopharm 400 mg, filmomhulde tabletten | RIBAVIRINE | Filmomhulde tablet | Geldig |
+| RVG 110605 | Ribavirine Mylan 400 mg, filmomhulde tabletten | RIBAVIRINE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 110605 / Ribavirine Mylan 400 mg, filmomhulde tabletten / Filmomhulde tabletten / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 110605 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-ribavirin-2 -->
+<!-- licenses:end -->
 
-Er is een geldige vergunning voor ribavirine bij het CBG-MEB. Het middel is in Nederland op de markt.
+Er zijn geldige vergunningen voor ribavirine bij het CBG-MEB (actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie). Het middel is in Nederland op de markt.
 
 <!-- review:begin nl-lic-20261112-ribavirin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is een geldige vergunning voor ribavirine bij het CBG-MEB (1 van 1 vergunningen is geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er is een geldige vergunning voor ribavirine bij het CBG-MEB (1 van 1 vergunningen is geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-ribavirin-1 -->
 
@@ -179,8 +181,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “(1 van 1 vergunningen is geldig)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 110605: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “(1 van 1 vergunningen is geldig)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 110605: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c) |
 
 <!-- review:end log -->

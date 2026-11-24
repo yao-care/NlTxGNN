@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 235
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection"]
 description: "Minoxidil: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L4). In Nederland, CBG-vergunningen: 14 (geldig: 13)"
@@ -74,7 +74,7 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 <!-- review:begin nl-lic-20261112-minoxidil-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-minoxidil-1 -->
 
@@ -92,15 +92,28 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119952//08426 (niet geregistreerd) | Lonnoten 10 mg, tabletten | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261115-minoxidil-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 08426 | Lonnoten, tabletten 10 mg | MINOXIDIL | Tablet | Geldig |
+| RVG 57383 | Minoxidil, lotion 2 g/100 ml | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 118101 | Minoxidil Xiromed 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 118105 | Minoxidil Xiromed 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 122547 | Minoxidil Linn 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 122548 | Minoxidil Linn 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 126343 | Minoxidil Linn 20 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 126344 | HGS Minoxidil 50 mg/ml oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 126372 | Minoxidil Teva 50 mg/ml, oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 126373 | Minoxidil Teva 20 mg/ml, oplossing voor cutaan gebruik | MINOXIDIL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 128704 | Minoxidil Linn 50 mg/g schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Geldig |
+| RVG 132307 | Minoxidil Bipharma 50 mg/g, schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Geldig |
+| RVG 133888 | Minoxidil Intermed 50 mg/g schuim voor cutaan gebruik | MINOXIDIL | Schuim voor cutaan gebruik | Geldig |
+| RVG 119952//08426 | Lonnoten 10 mg, tabletten | MINOXIDIL | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 119952//08426 (doorgehaald)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261115-minoxidil-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -122,7 +135,7 @@ Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Prod
 
 <!-- review:begin nl-lic-20261112-minoxidil-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De werkzaamheid van minoxidil alleen bij hypotrichosis simplex is daarmee niet vastgesteld. De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgerond.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De werkzaamheid van minoxidil alleen bij hypotrichosis simplex is daarmee niet vastgesteld. De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgerond.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-minoxidil-2 -->
 
@@ -140,9 +153,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgero” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “RVG 119952//08426 (doorgehaald)” → “RVG 119952//08426 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De Nederlandse registratie is doorgehaald en de veiligheidsgegevens zijn onvolledig, waardoor de veiligheidsscreening niet kan worden afgero” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 119952//08426 (doorgehaald)” → “RVG 119952//08426 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
 
 <!-- review:end log -->

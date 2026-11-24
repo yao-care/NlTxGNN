@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
 description: "Vancomycin: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 19 (geldig: 18)"
@@ -72,7 +72,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- review:begin nl-lic-20261112-vancomycin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 19, waarvan geldig: 18; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-vancomycin-1 -->
 
@@ -88,15 +88,33 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116655 | Vancocaps 250 mg harde capsules (niet geregistreerd) | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-vancomycin-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 11984 | Vancocin CP 250 mg, capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 101505 | Vancomycine Sandoz 500 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 101509 | Vancomycine Sandoz 1000 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 107976 | Vancomycine Fresenius Kabi 500 mg poeder voor concentraat voor oplossing voor i… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 107977 | Vancomycine Fresenius Kabi 1000 mg poeder voor concentraat voor oplossing voor… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 110475 | Vancomycin Hikma 500 mg, Poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 110476 | Vancomycin Hikma 1000 mg, Poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 114471 | Vancomycine MIP 500 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 114472 | Vancomycine MIP 1000 mg, poeder voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 124510 | Vancomycine Strides 125 mg harde capsules | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 124511 | Vancomycine Strides 250 mg harde capsules | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 129870//11984 | Vancomycine Eureco-Pharma 250 mg harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 132844//11984 | Vancomycine Medcor 250 mg, harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 133707//11984 | Vancomycine ERC 250 mg, harde capsules | VANCOMYCINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 134734//110475 | Vancomycine Eureco-Pharma 500 mg, poeder voor concentraat voor oplossing voor i… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 134738//110476 | Vancomycine Eureco-Pharma 1000 mg, poeder voor concentraat voor oplossing voor… | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 134778 | Vancomycine Noridem 500 mg poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 134779 | Vancomycine Noridem 1000 mg poeder voor concentraat voor oplossing voor infusie | VANCOMYCINE, VANCOMYCINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 116655 | Vancocaps 250 mg harde capsules | VANCOMYCINEHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 116655 / Vancocaps 250 mg harde capsules (geldig) / Niet beschikbaar / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 116655 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-vancomycin-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -130,8 +148,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 116655: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige registratie is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 116655: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560) |
 
 <!-- review:end log -->

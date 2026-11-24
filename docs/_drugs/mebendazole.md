@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "mebendazole"
 predicted_indications: ["acne (disease)"]
 description: "Mebendazole: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 13 (geldig: 13)"
@@ -80,9 +80,27 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114283 | DA Anti-Wormtabletten Mebendazol 100 mg, tabletten (geldig) | Tablet | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 19111 | Mebendazol anti-wormtabletten Sanias 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 20655=57042 | Wormkuurtabletten HTP mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 21941=19111 | Leidapharm anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Geldig |
+| RVG 26752=19111 | Kruidvat anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Geldig |
+| RVG 27088=57042 | Etos Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 28813=57042 | DA Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 28830=19111 | Trekpleister anti-worm mebendazol 100 mg, tabletten | MEBENDAZOL | Omhulde tablet | Geldig |
+| RVG 57042 | Mebendazol CF 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 100258 | Mebendazol SAM 100 mg wormkuurtabletten, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 108851 | Mebendazol Teva 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 111026 | Livsane Wormkuurtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 114283 | DA Anti-Wormtabletten Mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+| RVG 126097=57042 | Kruidvat wormkuurtabletten mebendazol 100 mg, tabletten | MEBENDAZOL | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -106,7 +124,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 <!-- review:begin nl-lic-20261106-mebendazole-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling berust alleen op het model (bewijsniveau L5), zonder klinische studies, zonder relevante literatuur en zonder aannemelijk mechanistisch verband met acne. De enige Nederlandse vergunning is bovendien doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling berust alleen op het model (bewijsniveau L5), zonder klinische studies, zonder relevante literatuur en zonder aannemelijk mechanistisch verband met acne. De enige Nederlandse vergunning is bovendien doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-mebendazole-1 -->
 
@@ -125,7 +143,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f) |
 
 <!-- review:end log -->

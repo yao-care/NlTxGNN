@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Vincristine: voorspelde nieuwe indicatie Vertebral anomalies and variable endocrine and T-cell dysfunction (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)"
 ---
 
@@ -68,9 +68,17 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 100081 | Vincristinesulfaat Pharmachemie 1 mg/ml, oplossing voor injectie | Geldig, enkelvoudig product |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 100081 | Vincristinesulfaat Pharmachemie 1 mg/ml, oplossing voor injectie | VINCRISTINESULFAAT | Oplossing voor injectie | Geldig |
+| RVG 135531//100081 | Vincristinesulfaat Eureco-Pharma 1 mg/ml, oplossing voor injectie | VINCRISTINESULFAAT | Oplossing voor injectie | Geldig |
+| RVG 135532//100081 | Vincristinesulfaat Eureco-Pharma 1 mg/ml, oplossing voor injectie | VINCRISTINESULFAAT | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het register (CBG-MEB) bevat in de data voor dit rapport geen indicatietekst voor dit product. Raadpleeg daarvoor de SmPC.
 

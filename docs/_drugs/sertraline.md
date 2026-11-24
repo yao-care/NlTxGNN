@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "sertraline"
 predicted_indications: ["schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 description: "Sertraline: voorspelde nieuwe indicatie Schizoïde persoonlijkheidsstoornis (schizoid personality disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 33)"
@@ -72,15 +72,36 @@ Er is geen publicatie gevonden die sertraline direct bij schizoïde persoonlijkh
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120699//16292 (niet geregistreerd) | Zoloft 50 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261115-sertraline-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16292 | Zoloft 50, filmomhulde tabletten 50 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 24641 | Zoloft 20 mg/ml, concentraat voor oplossing voor oraal gebruik | SERTRALINEHYDROCHLORIDE | Vloeistof voor oraal gebruik | Geldig |
+| RVG 28403 | Asentra 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 28404 | Asentra 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 30288 | Sertraline SUN 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 31054 | Sertraline Sandoz 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 31529 | Sertraline Krka 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 31530 | Sertraline Krka 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 32678 | Sertraline Mylan 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 32679 | Sertraline Mylan 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 33643 | Sertraline Aurobindo 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 33644 | Sertraline Aurobindo 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 105254 | Zoloft 25, filmomhulde tabletten 25 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 105255 | Zoloft 100, filmomhulde tabletten 100 mg | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 105381 | Sertraline Viatris 50 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 105382 | Sertraline Viatris 100 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 105383 | Sertraline Viatris 20 mg/ml, concentraat voor oplossing voor oraal gebruik | SERTRALINEHYDROCHLORIDE | Vloeistof voor oraal gebruik | Geldig |
+| RVG 106062 | Sertraline Viatris 25 mg, filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 116631 | Sertraline Accord 50 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 116632 | Sertraline Accord 100 mg filmomhulde tabletten | SERTRALINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 120699//16292 (doorgehaald)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261115-sertraline-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.
 
@@ -120,7 +141,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-15 | “RVG 120699//16292 (doorgehaald)” → “RVG 120699//16292 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 120699//16292 (doorgehaald)” → “RVG 120699//16292 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

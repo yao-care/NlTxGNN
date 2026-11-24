@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Calcitriol"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcitriol: voorspelde nieuwe indicatie Verouderde vitamine D-deficiëntie (obsolete vitamin D deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)"
 ---
 
@@ -68,9 +68,21 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 112460//08285 | Rocaltrol 0,25 microgram, capsules | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 08285 | Rocaltrol 0,25, capsules 0,25 microgram | CALCITRIOL | Capsule, zacht | Geldig |
+| RVG 08286 | Rocaltrol 0,5, capsules 0,5 microgram | CALCITRIOL | Capsule, zacht | Geldig |
+| RVG 16330 | Silkis, zalf 3 microgram/gram | CALCITRIOL | Zalf | Geldig |
+| RVG 20778//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | Capsule, zacht | Geldig |
+| RVG 20779//08286 | Rocaltrol 0,50 microgram, capsules | CALCITRIOL | Capsule, zacht | Geldig |
+| RVG 129727//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | Capsule, zacht | Geldig |
+| RVG 112460//08285 | Rocaltrol 0,25 microgram, capsules | CALCITRIOL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

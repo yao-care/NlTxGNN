@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 236
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Misoprostol"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 description: "Misoprostol: voorspelde nieuwe indicatie Amenorroe (amenorrhea (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 14)"
@@ -80,7 +80,7 @@ De onderstaande publicaties zijn gevonden, maar geen ervan onderzoekt misoprosto
 
 <!-- review:begin nl-lic-20261112-misoprostol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning (CBG-MEB) is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 14; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning (CBG-MEB) is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-misoprostol-1 -->
 
@@ -98,15 +98,29 @@ De onderstaande publicaties zijn gevonden, maar geen ervan onderzoekt misoprosto
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113032 | Misoprostol Exelgyn 200 microgram, tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-misoprostol-3 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Geldig |
+| RVG 110664 | MisoOne 400 microgram, tablet | MISOPROSTOL | Tablet | Geldig |
+| RVG 126719 | Angusta 25 microgram tabletten | MISOPROSTOL | Tablet | Geldig |
+| RVG 127663//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Geldig |
+| RVG 127993//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Geldig |
+| RVG 128682//13724 | Cytotec 200 microgram, tabletten | MISOPROSTOL | Tablet | Geldig |
+| RVG 129812//13724 | Cytotec, tabletten 200 microgram | MISOPROSTOL | Tablet | Geldig |
+| RVG 133153 | Gyxiny 25 microgram tabletten | MISOPROSTOL | Tablet | Geldig |
+| RVG 16410 | Arthrotec 50, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Omhulde tablet | Geldig |
+| RVG 20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Omhulde tablet | Geldig |
+| RVG 106099 | Sunmedabon, Combinatieverpakking mifepriston 200 mg tablet en misoprostol 4 x 0… | MIFEPRISTON, MISOPROSTOL | Tablet | Geldig |
+| RVG 135984//20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Geldig |
+| RVG 135985//16410 | Arthrotec 50, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Geldig |
+| RVG 136667//20871 | Arthrotec 75, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM, MISOPROSTOL | Tablet met gereguleerde afgifte | Geldig |
+| RVG 113032 | Misoprostol Exelgyn 200 microgram, tabletten | MISOPROSTOL | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113032 / Misoprostol Exelgyn 200 microgram, tabletten / Niet beschikbaar / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 113032 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-misoprostol-3 -->
+<!-- licenses:end -->
 
 ---
 
@@ -133,7 +147,7 @@ De productinformatie van het CBG-MEB bevat in de verzamelde gegevens geen bruikb
 
 <!-- review:begin nl-lic-20261112-misoprostol-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De hoge TxGNN-score weerspiegelt waarschijnlijk een associatie in de literatuur en geen therapeutisch effect. Daarnaast is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 14; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De hoge TxGNN-score weerspiegelt waarschijnlijk een associatie in de literatuur en geen therapeutisch effect. Daarnaast is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-misoprostol-2 -->
 
@@ -151,9 +165,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning (CBG-MEB) is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 113032: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning (CBG-MEB) is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113032: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-20 | "Gedetailleerde gegevens over het werkingsmechanisme zijn momenteel niet beschikbaar in de verzamelde gegevens. De hierboven beschreven farmacologie is algemene kennis en geen onderdeel van deze gegevens" replaced with a sourced mechanism-of-action statement | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3) |
 
 <!-- review:end log -->

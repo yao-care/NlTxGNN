@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dienogest: voorspelde nieuwe indicatie amenorroe (amenorrhea) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 20)"
 ---
 
@@ -78,9 +78,34 @@ Geen van de onderstaande publicaties onderzoekt dienogest als behandeling van am
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 104058 | Visanne 2 mg, tabletten | Niet vastgelegd | Niet vastgelegd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 104058 | Visanne 2 mg, tabletten | DIENOGEST | Tablet | Geldig |
+| RVG 122385 | Tubanis 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
+| RVG 122386 | Endodien 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
+| RVG 122487 | Zafrilla 2 mg tabletten | DIENOGEST | Tablet | Geldig |
+| RVG 122556 | Dienogest Stragen 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
+| RVG 122572 | Dimetrum 2 mg tabletten | DIENOGEST | Tablet | Geldig |
+| RVG 123003 | Dienosis 2 mg tabletten | DIENOGEST | Tablet | Geldig |
+| RVG 130377 | Dienogest Bailleul 2 mg tabletten | DIENOGEST | Tablet | Geldig |
+| RVG 131205//122556 | Dienogest Medcor 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
+| RVG 136883//122556 | Dienogest Medcor 2 mg filmomhulde tabletten | DIENOGEST | Filmomhulde tablet | Geldig |
+| RVG 24830 | Climodien 2 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Geldig |
+| RVG 26285 | Lafamme 2 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Geldig |
+| RVG 30401 | Climodien 1 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Geldig |
+| RVG 32405 | Lafamme 1 mg/2 mg, omhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Omhulde tablet | Geldig |
+| RVG 101491 | Qlaira filmomhulde tabletten | DIENOGEST, DIENOGEST, ESTRADIOLVALERAAT, ESTRADIOLVALERAAT, ESTRADIOLVALERAAT,… | Filmomhulde tablet | Geldig |
+| RVG 113667 | Estradiol Valeraat 1 mg / Dienogest 2 mg Laboratorios León Farma, filmomhulde t… | DIENOGEST, ESTRADIOLVALERAAT | Filmomhulde tablet | Geldig |
+| RVG 114998 | LaFleur 1 mg/2 mg, tabletten | DIENOGEST, ESTRADIOLVALERAAT | Tablet | Geldig |
+| RVG 117923 | Misolfa 2 mg/0,03 mg, filmomhulde tabletten | DIENOGEST, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 118123 | Velbienne 1 mg/2 mg, filmomhulde tabletten | DIENOGEST, ESTRADIOLVALERAAT | Filmomhulde tablet | Geldig |
+| RVG 131206 | Kelzyn 2mg/0,02 mg, tablet met verlengde afgifte | DIENOGEST, ETHINYLESTRADIOL | Tablet met verlengde afgifte | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

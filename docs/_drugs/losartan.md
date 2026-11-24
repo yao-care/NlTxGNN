@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 215
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 description: "Losartan: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L4). In Nederland, CBG-vergunningen: 67 (geldig: 64)"
@@ -83,29 +83,36 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119247=33626 | Losartankalium 100 mg Focus, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
-| RVG 118350//23597 | Fortzaar 100 mg/25 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
-| RVG 111604 | Losartankalium/HCT ratiopharm 100/12,5 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-losartan-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 17617 | Cozaar 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 26791 | Cozaar 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 31868 | Kaliumlosartan Sandoz 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 31869 | Kaliumlosartan Sandoz 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 31871 | Kaliumlosartan Sandoz 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 32426 | Losartan kalium HCS 25 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 32427 | Losartan kalium HCS 50 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 32428 | Losartan kalium HCS 100 mg filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 33624 | Losartankalium Xiromed 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 33625 | Losartankalium Xiromed 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 33626 | Losartankalium Xiromed 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 33985 | Losartankalium Mylan 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 33986 | Losartankalium Mylan 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 34188 | Losartankalium 25 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 34189 | Losartankalium 50 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 34190 | Losartankalium 100 mg PCH, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 34409 | Kaliumlosartan axcount 12,5 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 34410 | Kaliumlosartan axcount 25 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 34411 | Kaliumlosartan axcount 50 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
+| RVG 34412 | Kaliumlosartan axcount 100 mg, filmomhulde tabletten | LOSARTAN KALIUM | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119247=33626 / Losartankalium 100 mg Focus, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 119247=33626 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 67 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-losartan-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:begin nl-lic-20261112-losartan-2 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118350//23597 / Fortzaar 100 mg/25 mg, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 118350//23597 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-losartan-2 -->
-
-<!-- review:begin nl-lic-20261112-losartan-3 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 111604 / Losartankalium/HCT ratiopharm 100/12,5 mg, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 111604 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-losartan-3 -->
+<!-- licenses:end -->
 
 ---
 
@@ -144,9 +151,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 119247=33626: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118350//23597: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 111604: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119247=33626: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118350//23597: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 111604: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41) |
 
 <!-- review:end log -->

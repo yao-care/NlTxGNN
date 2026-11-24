@@ -21,11 +21,11 @@
   "items_current": 8581
  },
  "reviews": {
-  "records": 617,
-  "pages": 298,
-  "public_pages_with_records": 298,
+  "records": 618,
+  "pages": 299,
+  "public_pages_with_records": 299,
   "by_action": {
-   "correct": 382,
+   "correct": 383,
    "mechanism": 235
   }
  },
@@ -258,27 +258,129 @@
  },
  "recent_reviews": [
   {
+   "t": "Articaine",
+   "u": "/drugs/articaine/",
+   "s": "“Beide vergunningen zijn enkelvoudige (single-ingredient) producten” → alle registraties zijn…",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Zonisamide",
    "u": "/drugs/zonisamide/",
    "s": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Tretinoin",
-   "u": "/drugs/tretinoin/",
-   "s": "“De geneesmiddelregistraties in Nederland zijn bovendien door” → “De veiligheidsgegevens uit de officiële…",
-   "d": "2026-11-15"
+   "d": "2026-11-24"
   },
   {
    "t": "Topotecan",
    "u": "/drugs/topotecan/",
    "s": "“Deze vergunning is doorgehaald. Bij een eventuele vervolgsta” → “Dit registratienummer komt niet voor in de…",
-   "d": "2026-11-15"
+   "d": "2026-11-24"
   },
   {
    "t": "Tiapride",
    "u": "/drugs/tiapride/",
-   "s": "“De Nederlandse registratie is doorgehaald en veiligheidsgege” → “De Nederlandse registratie komt niet voor…",
+   "s": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Pimecrolimus",
+   "u": "/drugs/pimecrolimus/",
+   "s": "“Deze vergunning is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Oxytetracycline",
+   "u": "/drugs/oxytetracycline/",
+   "s": "“Beide registraties zijn doorgehaald.” → “Beide registratienummers komen niet voor in de actuele Genee”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Levocetirizine",
+   "u": "/drugs/levocetirizine/",
+   "s": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Lanreotide",
+   "u": "/drugs/lanreotide/",
+   "s": "“Deze vergunning is ingetrokken.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ribavirin",
+   "u": "/drugs/ribavirin/",
+   "s": "Verwijderd: “(1 van 1 vergunningen is geldig)”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Nortriptyline",
+   "u": "/drugs/nortriptyline/",
+   "s": "Verwijderd: “nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Landiolol",
+   "u": "/drugs/landiolol/",
+   "s": "Verwijderd: “(1 geldige vergunning van 1)”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Lamotrigine",
+   "u": "/drugs/lamotrigine/",
+   "s": "Verwijderd: “(1 geldige vergunning van 1)”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ganirelix",
+   "u": "/drugs/ganirelix/",
+   "s": "Verwijderd: “Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Finasteride",
+   "u": "/drugs/finasteride/",
+   "s": "Verwijderd: “er is momenteel 1 geldige vergunning van 1 in de data die voor dit report zijn samengesteld”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ethambutol",
+   "u": "/drugs/ethambutol/",
+   "s": "Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 vergunning voor ethambutol als enkelvoudig middel…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Dutasteride",
+   "u": "/drugs/dutasteride/",
+   "s": "Verwijderd: “er is momenteel 1 geldige vergunning (van 1) in de samengestelde data”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Desogestrel",
+   "u": "/drugs/desogestrel/",
+   "s": "Verwijderd: “(1 geldige vergunning van 1)”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Dapoxetine",
+   "u": "/drugs/dapoxetine/",
+   "s": "Verwijderd: “(1 geldige vergunning van 1)”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Dalteparin",
+   "u": "/drugs/dalteparin/",
+   "s": "Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Bumetanide",
+   "u": "/drugs/bumetanide/",
+   "s": "Verwijderd: “Het CBG-MEB-register vermeldt 1 geldige vergunning. De lijst is volledig.”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Tretinoin",
+   "u": "/drugs/tretinoin/",
+   "s": "“De geneesmiddelregistraties in Nederland zijn bovendien door” → “De veiligheidsgegevens uit de officiële…",
    "d": "2026-11-15"
   },
   {
@@ -288,51 +390,9 @@
    "d": "2026-11-15"
   },
   {
-   "t": "Sulpiride",
-   "u": "/drugs/sulpiride/",
-   "s": "“RVG 120540//06279 (ingetrokken)” → “RVG 120540//06279 (niet geregistreerd)”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Sertraline",
-   "u": "/drugs/sertraline/",
-   "s": "“RVG 120699//16292 (doorgehaald)” → “RVG 120699//16292 (niet geregistreerd)”",
-   "d": "2026-11-15"
-  },
-  {
    "t": "Ranitidine",
    "u": "/drugs/ranitidine/",
    "s": "“Besluit over de relevantie van de ingetrokken vergunning,” → “Besluit over de relevantie van de niet meer…",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Pimecrolimus",
-   "u": "/drugs/pimecrolimus/",
-   "s": "“Deze vergunning is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Oxytetracycline",
-   "u": "/drugs/oxytetracycline/",
-   "s": "“Beide registraties zijn doorgehaald.” → “Beide registratienummers komen niet voor in de actuele Genee”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Minoxidil",
-   "u": "/drugs/minoxidil/",
-   "s": "“RVG 119952//08426 (doorgehaald)” → “RVG 119952//08426 (niet geregistreerd)”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Metronidazole",
-   "u": "/drugs/metronidazole/",
-   "s": "“RVG 119834//14416 (doorgehaald)” → “RVG 119834//14416 (niet geregistreerd)”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Methotrexate",
-   "u": "/drugs/methotrexate/",
-   "s": "“RVG 117707 (doorgehaald)” → “RVG 117707 (niet geregistreerd)”",
    "d": "2026-11-15"
   },
   {
@@ -340,116 +400,56 @@
    "u": "/drugs/lubiprostone/",
    "s": "“aangezien de vergunning is doorgehaald.” → “aangezien de registratie niet voorkomt in de actuele Geneesm”",
    "d": "2026-11-15"
-  },
-  {
-   "t": "Lopinavir",
-   "u": "/drugs/lopinavir/",
-   "s": "“RVG 115086 (ingetrokken)” → “RVG 115086 (niet geregistreerd)”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Levocetirizine",
-   "u": "/drugs/levocetirizine/",
-   "s": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Lanreotide",
-   "u": "/drugs/lanreotide/",
-   "s": "“Deze vergunning is ingetrokken.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Fexofenadine",
-   "u": "/drugs/fexofenadine/",
-   "s": "Verwijderd: “De ingetrokken marktstatus kan bovendien de praktische haalbaarheid beïnvloeden.”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Emtricitabine",
-   "u": "/drugs/emtricitabine/",
-   "s": "“RVG 117316 (ingetrokken)” → “RVG 117316 (niet geregistreerd)”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Efavirenz",
-   "u": "/drugs/efavirenz/",
-   "s": "Verwijderd: “De lijst kan niet worden aangevuld met andere vergunningen.”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Biotin",
-   "u": "/drugs/biotin/",
-   "s": "“RVG 117795//15333 (doorgehaald)” → “RVG 117795//15333 (niet geregistreerd)”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Arginine",
-   "u": "/drugs/arginine/",
-   "s": "Verwijderd: “en doorgehaald zijn”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Ambroxol",
-   "u": "/drugs/ambroxol/",
-   "s": "“De enige Nederlandse vergunning is bovendien doorgehaald.” → “Bovendien komt de enige bekende Nederlandse…",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Levetiracetam",
-   "u": "/drugs/levetiracetam/",
-   "s": "Tabelregel RVG 118335: “(ingetrokken)” verwijderd (geldig ingeschreven)",
-   "d": "2026-11-12"
   }
  ],
  "recent_licence_reviews": [
   {
+   "t": "Articaine",
+   "u": "/drugs/articaine/",
+   "s": "“Beide vergunningen zijn enkelvoudige (single-ingredient) producten” → alle registraties zijn…",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Zonisamide",
    "u": "/drugs/zonisamide/",
    "s": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
-   "d": "2026-11-15"
-  },
-  {
-   "t": "Tretinoin",
-   "u": "/drugs/tretinoin/",
-   "s": "“De geneesmiddelregistraties in Nederland zijn bovendien door” → “De veiligheidsgegevens uit de officiële…",
-   "d": "2026-11-15"
+   "d": "2026-11-24"
   },
   {
    "t": "Topotecan",
    "u": "/drugs/topotecan/",
    "s": "“Deze vergunning is doorgehaald. Bij een eventuele vervolgsta” → “Dit registratienummer komt niet voor in de…",
-   "d": "2026-11-15"
+   "d": "2026-11-24"
   },
   {
    "t": "Tiapride",
    "u": "/drugs/tiapride/",
-   "s": "“De Nederlandse registratie is doorgehaald en veiligheidsgege” → “De Nederlandse registratie komt niet voor…",
-   "d": "2026-11-15"
+   "s": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tamsulosin",
-   "u": "/drugs/tamsulosin/",
-   "s": "Verwijderd: “, gezien de ingetrokken vergunningsstatus”",
-   "d": "2026-11-15"
+   "t": "Pimecrolimus",
+   "u": "/drugs/pimecrolimus/",
+   "s": "“Deze vergunning is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Sulpiride",
-   "u": "/drugs/sulpiride/",
-   "s": "“RVG 120540//06279 (ingetrokken)” → “RVG 120540//06279 (niet geregistreerd)”",
-   "d": "2026-11-15"
+   "t": "Oxytetracycline",
+   "u": "/drugs/oxytetracycline/",
+   "s": "“Beide registraties zijn doorgehaald.” → “Beide registratienummers komen niet voor in de actuele Genee”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Sertraline",
-   "u": "/drugs/sertraline/",
-   "s": "“RVG 120699//16292 (doorgehaald)” → “RVG 120699//16292 (niet geregistreerd)”",
-   "d": "2026-11-15"
+   "t": "Levocetirizine",
+   "u": "/drugs/levocetirizine/",
+   "s": "“Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Ranitidine",
-   "u": "/drugs/ranitidine/",
-   "s": "“Besluit over de relevantie van de ingetrokken vergunning,” → “Besluit over de relevantie van de niet meer…",
-   "d": "2026-11-15"
+   "t": "Lanreotide",
+   "u": "/drugs/lanreotide/",
+   "s": "“Deze vergunning is ingetrokken.” → “Dit registratienummer komt niet voor in de actuele Geneesmid”",
+   "d": "2026-11-24"
   }
  ],
  "files": {

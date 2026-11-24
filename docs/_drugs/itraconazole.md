@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "itraconazole"
 predicted_indications: ["pneumocystosis"]
 description: "Itraconazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 6)"
@@ -99,13 +99,24 @@ Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.
 
 <!-- review:begin nl-lic-20261106-itraconazole-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is één vergunning gevonden, en die is doorgehaald. Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is één vergunning gevonden, en die is doorgehaald. Gegevens over toedieningsvorm en goedgekeurde indicatie zijn niet beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-itraconazole-1 -->
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 107049 | Itraconazol Aurobindo 100 mg, capsules, hard | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28430 | Itraconazol CF 100 mg capsules, capsule hard | ITRACONAZOL | Capsule, hard | Geldig |
+| RVG 28431 | Itraconazol Viatris 100 mg, harde capsules | ITRACONAZOL | Capsule, hard | Geldig |
+| RVG 107049 | Itraconazol Aurobindo 100 mg, capsules, hard | ITRACONAZOL | Capsule, hard | Geldig |
+| RVG 123155//21024 | Trisporal O.S. 10 mg/ml, drank | ITRACONAZOL | Drank | Geldig |
+| RVG 128247 | Itraconazol 10 mg/ml Focus Care, drank | ITRACONAZOL | Drank | Geldig |
+| RVG 133677 | Itraconazol Ascend 100 mg, harde capsules | ITRACONAZOL | Capsule, hard | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -141,7 +152,7 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 
 <!-- review:begin nl-lic-20261106-itraconazole-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Bij een eventuele vervolgstap: bevestiging van de registratiestatus en beschikbaarheid in Nederland, aangezien de enige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Bij een eventuele vervolgstap: bevestiging van de registratiestatus en beschikbaarheid in Nederland, aangezien de enige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-itraconazole-2 -->
 
@@ -153,8 +164,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Er is één vergunning gevonden, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “aangezien de enige vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Er is één vergunning gevonden, en die is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “aangezien de enige vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
 
 <!-- review:end log -->

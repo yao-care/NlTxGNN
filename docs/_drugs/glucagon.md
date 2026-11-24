@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 173
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "glucagon"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: voorspelde nieuwe indicatie Prikkelbare darmsyndroom (irritable bowel syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)"
@@ -95,15 +95,21 @@ Geen van deze publicaties onderzoekt glucagon zelf bij prikkelbare darmsyndroom.
 
 ## Marktinformatie Nederland
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120327//02011 | GlucaGen Hypokit 1 mg poeder en oplosmiddel voor oplossing voor injectie | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-glucagon-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/19/1406 | Baqsimi 3 mg, snuifpoeder | GLUCAGON (rDNA) | Snuifpoeder | Geldig |
+| EU/1/20/1523 | Ogluo 0,5 mg oplossing voor injectie in voorgevulde pen | GLUCAGON | Oplossing voor injectie | Geldig |
+| RVG 02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 119244//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 127547//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 132606//02011 | GlucaGen HypoKit 1 mg, poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 120327//02011 | GlucaGen Hypokit 1 mg Poeder en oplosmiddel voor oplossing voor injectie | GLUCAGONHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120327//02011 / GlucaGen Hypokit 1 mg poeder en oplosmiddel voor oplossing voor injectie / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 120327//02011 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-glucagon-1 -->
+<!-- licenses:end -->
 
 Er is 1 registratie, en die is geldig. Het bijbehorende product is een enkelvoudig preparaat.
 
@@ -138,7 +144,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 120327//02011: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120327//02011: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "benzydamine"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzydamine: voorspelde nieuwe indicatie Benigne prostaathyperplasie (benign prostatic hyperplasia (disease)) (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)"
 ---
 
@@ -68,9 +68,16 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117651 | Benzydamine HCl Orifarm Honing/Sinaasappel, 3 mg zuigtabletten | Zuigtablet | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06636 | Tantum benzydamine HCl 30 mg/g, creme | BENZYDAMINEHYDROCHLORIDE | Crème | Geldig |
+| RVG 117651 | Benzydamine HCl Orifarm Honing/Sinaasappel, 3 mg zuigtabletten | BENZYDAMINEHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het CBG-MEB-register vermeldt voor dit middel één vergunning. De marktstatus volgt de lokale registergegevens; raadpleeg het CBG-MEB voor de actuele status per product.
 

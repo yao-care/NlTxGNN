@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 160
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorouracil: voorspelde nieuwe indicatie Botryoïd embryonaal rhabdomyosarcoom van de vagina (bewijsniveau L5). Oorspronkelijke indicatie: Oppervlakkig multifocaal basaalcelcarcinoom…"
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-beta-thalassemia disease syndrome"]
@@ -93,21 +93,26 @@ Voor *extrahepatisch galwegrhabdomyosarcoom* en *leversarcoom* is alleen indirec
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118637//06292 | Efudix 50 mg/g, crème | Crème | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-fluorouracil-3 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06292 | Efudix, creme 50 mg/g | FLUOROURACIL | Crème | Geldig |
+| RVG 100701 | Fluorouracil Accord 50 mg/ml, oplossing voor injectie of infusie | FLUOROURACIL | Oplossing voor injectie of infusie | Geldig |
+| RVG 123084 | Tolak 40 mg/g crème | FLUOROURACIL | Crème | Geldig |
+| RVG 123870//06292 | Efudix, crème 50 mg/g | FLUOROURACIL | Crème | Geldig |
+| RVG 133366//06292 | Efudix crème, 50 mg/g | FLUOROURACIL | Crème | Geldig |
+| RVG 118637//06292 | Efudix 50 mg/g, crème | FLUOROURACIL | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118637//06292 / Efudix 50 mg/g, crème / Crème / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118637//06292 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-fluorouracil-3 -->
+<!-- licenses:end -->
 
 Het middel is op de markt. Voor systemische toepassing is raadpleging van de actuele registratie bij het CBG-MEB en de EMA nodig.
 
 <!-- review:begin nl-lic-20261112-fluorouracil-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is in Nederland momenteel 1 geldige vergunning (van de 1 vergunning in de gegevens van het CBG-MEB) voor een enkelvoudig of gecombineerd product; het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is in Nederland momenteel 1 geldige vergunning (van de 1 vergunning in de gegevens van het CBG-MEB) voor een enkelvoudig of gecombineerd product; het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-fluorouracil-1 -->
 
@@ -147,7 +152,7 @@ Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 <!-- review:begin nl-lic-20261112-fluorouracil-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Bij rhabdomyosarcoom is fluorouracil geen standaardmiddel en bij sikkelcelziekte is de toxiciteit ongunstig. De Nederlandse vergunning is bovendien ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Bij rhabdomyosarcoom is fluorouracil geen standaardmiddel en bij sikkelcelziekte is de toxiciteit ongunstig. De Nederlandse vergunning is bovendien ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-fluorouracil-2 -->
 
@@ -166,9 +171,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Er is in Nederland momenteel 1 geldige vergunning (van de 1 vergunning in de gegevens van het CBG-MEB) voor een enkelvoudig of gecombineerd ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “De Nederlandse vergunning is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118637//06292: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is in Nederland momenteel 1 geldige vergunning (van de 1 vergunning in de gegevens van het CBG-MEB) voor een enkelvoudig of gecombineerd ” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De Nederlandse vergunning is bovendien ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118637//06292: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
 
 <!-- review:end log -->

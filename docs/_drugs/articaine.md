@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Articaine: voorspelde nieuwe indicatie Jicht (gout) (bewijsniveau L5). In Nederland, CBG-vergunningen: 13 (geldig: 13)"
 ---
 
@@ -80,12 +80,35 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 102892 | LONCARTI 40/0,01 mg/ml, oplossing voor injectie | Niet vermeld | Niet vermeld |
-| RVG 103660 | CITOCARTIN 40/0,01 mg/ml, oplossing voor injectie | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-Beide vergunningen zijn enkelvoudige (single-ingredient) producten. Raadpleeg de actuele SmPC en bijsluiter via het CBG-MEB voor de exacte vergunningsstatus en indicatietekst.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 08182 | Ultracain D-S, injectievloeistof | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 08183 | Ultracain D-S forte, injectievloeistof | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 13674 | Septanest N 40 mg/ml + 5 microgram/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 13675 | Septanest SP 40 mg/ml + 10 microgram/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 27863 | Ubistesin 4% articaine met 1/200 000 adrenaline, oplossing voor injectie | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 27864 | Ubistesin 4% articaine met 1/100 000 adrenaline, oplossing voor injectie | ADRENALINEHYDROCHLORIDE , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 102889 | LONCARTI 40/0,005 mg/ml oplossing voor injectie, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 102892 | LONCARTI 40/0,01 mg/ml oplossing voor injectie, oplossing voor injectie | ARTICAÏNEHYDROCHLORIDE, ADRENALINEWATERSTOFTARTRAAT | Oplossing voor injectie | Geldig |
+| RVG 103658 | CITOCARTIN 40/0,005 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 103660 | CITOCARTIN 40/0,01 mg/ml, oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 125660//13675 | Septanest SP 40 mg/ml + 10 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 130042 | Topicainol 40 mg/ml + 5 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 130043 | Topicainol Forte 40 mg/ml + 10 microgram/ml oplossing voor injectie | ADRENALINEWATERSTOFTARTRAAT , ARTICAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Alle registraties in de gegevens zijn combinatiepreparaten van articaïne met adrenaline (werkzame stoffen per registratie in de vergunningstabel). Raadpleeg de actuele SmPC en bijsluiter via het CBG-MEB voor de exacte vergunningsstatus en indicatietekst.
+
+<!-- review:begin nl-lic-20261124-articaine-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beide vergunningen zijn enkelvoudige (single-ingredient) producten.” Gecorrigeerd: volgens de werkzame stoffen in de registratiegegevens van het CBG (metadata.csv) bevatten alle registraties voor articaïne ook adrenaline; het zijn dus geen enkelvoudige producten. Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124-articaine-1 -->
 
 ---
 
@@ -112,6 +135,19 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 - Directe klinische of literatuurgegevens over articaïne bij jicht
 - Volledige SmPC-gegevens (waarschuwingen, contra-indicaties) van de Nederlandse producten
 - Beoordeling van de beoogde toedieningsroute voor de nieuwe indicatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “Beide vergunningen zijn enkelvoudige (single-ingredient) producten” → alle registraties zijn combinatiepreparaten met adrenaline | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 230
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metyrapone: voorspelde nieuwe indicatie Exercise-induced malignant hyperthermia (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de enige vergunning bevat geen indic…"
 monitor_inn: "metyrapone"
 predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
@@ -88,9 +88,15 @@ Voor de nevenvoorspelling familial periodic paralysis is één publicatie gevond
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113510 | Metopirone 250 mg capsules, zacht | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 113510 | Metopirone 250 mg capsules, zacht | METYRAPON | Capsule, zacht | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Metyrapon is momenteel op de markt: in de gegevens van het CBG-MEB is 1 van de 1 vergunningen geldig.
 
@@ -114,7 +120,7 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 
 <!-- review:begin nl-lic-20261106-metyrapone-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op een model (L5), zonder klinische studies, zonder directe literatuur en zonder plausibel mechanisme. Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeert.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op een model (L5), zonder klinische studies, zonder directe literatuur en zonder plausibel mechanisme. Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeert.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-metyrapone-1 -->
 
@@ -133,7 +139,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeer” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens, wat de veiligheidsscreening blokkeer” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Metopirone (metyrapone) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4046b167-7a46-8f4a-e063-6394a90a147f) |
 
 <!-- review:end log -->

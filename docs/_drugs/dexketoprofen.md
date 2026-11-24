@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Dexketoprofen: voorspelde nieuwe indicatie Peesontsteking (tendinitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)"
 ---
 
@@ -71,6 +71,22 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd voor peesont
 Deze studie onderzoekt peesontsteking niet als aparte aandoening, dus zij ondersteunt de voorspelling slechts indirect. Daarom blijft het bewijsniveau L5.
 
 ## Informatie over de Nederlandse markt
+
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 22082 | Stadium 25 mg, omhulde tabletten | DEXKETOPROFEN-TROMETAMOL (1:1) | Filmomhulde tablet | Geldig |
+| RVG 28295 | Stadium 50 mg/2 ml, oplossing voor injectie/infusie | DEXKETOPROFEN-TROMETAMOL (1:1) | Oplossing voor injectie of infusie | Geldig |
+| RVG 108128 | Stadium 25 mg granulaat voor drank | DEXKETOPROFEN-TROMETAMOL (1:1) | Granulaat voor drank | Geldig |
+| RVG 119873 | Stadium 25 mg drank in sachet | DEXKETOPROFEN-TROMETAMOL (1:1) | Drank | Geldig |
+| RVG 116795 | SKUDEXA 75 mg/25 mg, filmomhulde tabletten | DEXKETOPROFEN-TROMETAMOL (1:1), TRAMADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 120924 | Skudexa 75 mg/25 mg granulaat voor drank in sachet | DEXKETOPROFEN-TROMETAMOL (1:1), TRAMADOLHYDROCHLORIDE | Granulaat voor drank | Geldig |
+| RVG 108131 | Enantyum 25 mg granulaat voor drank | DEXKETOPROFEN-TROMETAMOL (1:1) | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de gegevens van het CBG-MEB is dexketoprofen in Nederland in de handel. De vergunningentabel wordt door het programma toegevoegd.
 

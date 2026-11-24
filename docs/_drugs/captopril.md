@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "captopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Captopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)"
 ---
 
@@ -79,6 +79,21 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 ---
 
 ## Informatie over de Nederlandse markt
+
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 23055 | Captopril Accord 12,5 mg, tabletten | CAPTOPRIL | Tablet | Geldig |
+| RVG 23056 | Captopril Accord 25 mg, tabletten | CAPTOPRIL | Tablet | Geldig |
+| RVG 23057 | Captopril Accord 50 mg, tabletten | CAPTOPRIL | Tablet | Geldig |
+| RVG 23683 | Captopril Mylan 25 mg, tabletten | CAPTOPRIL | Tablet | Geldig |
+| RVG 23684 | Captopril Mylan 50 mg, tabletten | CAPTOPRIL | Tablet | Geldig |
+| RVG 106267 | Captopril/Hydrochloorthiazide Teva 50/25 mg, tabletten | HYDROCHLOORTHIAZIDE, CAPTOPRIL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de lokale gegevens van het CBG-MEB is de marktstatus van captopril: **in de handel**. De vergunningstabel wordt door het programma toegevoegd. De enige in de lokale gegevens vermelde vergunning betreft een combinatieproduct (captopril/hydrochloorthiazide) en zegt daarom niets over de vergunning van captopril als enkelvoudig middel. Raadpleeg voor de geregistreerde indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 175
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Granisetron: voorspelde nieuwe indicatie Manische bipolaire stoornis (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde data (de vergunningstekst is lee…"
 monitor_inn: "granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
@@ -94,15 +94,32 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113483 | Granisetron Claris 1 mg/ml, oplossing voor injectie (status: geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/12/766 | Sancuso 3,1 mg/24 uur, pleister voor Transdermaal gebruik | GRANISETRON | Pleister voor transdermaal gebruik | Geldig |
+| RVG 16285 | Kytril 1 mg tabletten, omhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 19203 | Kytril 2 mg tabletten, omhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 30753 | Granisetron Viatris 1 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 30754 | Granisetron Viatris 2 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 34915 | Granisetron Hikma, oplossing voor injectie, 1 mg/ml | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 100089 | Granisetron-hameln 1 mg/ml, concentraat voor oplossing voor injectie of infusie | GRANISETRONHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | Geldig |
+| RVG 102042 | Granisetron Fresenius Kabi 1 mg/ml oplossing voor injectie | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 103030 | Granisetron Aurobindo 1 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103031 | Granisetron Aurobindo 2 mg, filmomhulde tabletten | GRANISETRONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103103 | Granisetron Hikma, concentraat voor oplossing voor infusie, 1 mg/ml | GRANISETRONHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 113483 | Granisetron Claris 1 mg/ml, oplossing voor injectie | GRANISETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het middel is in Nederland op de markt.
 
 <!-- review:begin nl-lic-20261112-granisetron-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 12; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-granisetron-1 -->
 
@@ -146,7 +163,7 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 
 <!-- review:begin nl-lic-20261112-granisetron-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland wel op de markt (1 geldige vergunning van 1), maar de oorspronkelijke indicatietekst en de officiële veiligheidsinformatie ontbreken.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 12; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland wel op de markt (1 geldige vergunning van 1), maar de oorspronkelijke indicatietekst en de officiële veiligheidsinformatie ontbreken.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-granisetron-2 -->
 
@@ -165,8 +182,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56) |
 
 <!-- review:end log -->

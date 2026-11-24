@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cyclopentolate"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Cyclopentolate: voorspelde nieuwe indicatie Cauda equina-syndroom (cauda equina syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
 ---
 
@@ -80,9 +80,19 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 108488//06851 | Cyclogyl, 1%, oogdruppels, oplossing | Oogdruppels, oplossing | Niet vastgelegd in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06851 | CYCLOGYL 1% oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 09358 | Minims Cyclopentolaathydrochloride 5 mg/ml, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 09359 | Minims Cyclopentolaathydrochloride 10 mg/ml, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 135471 | CATMYD 5 mg/ml, oogdruppels, oplossing, in verpakking voor eenmalig gebruik | CYCLOPENTOLAATHYDROCHLORIDE | Oordruppels, oplossing | Geldig |
+| RVG 108488//06851 | Cyclogyl, 1%, oogdruppels, oplossing | CYCLOPENTOLAATHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

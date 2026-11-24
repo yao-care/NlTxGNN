@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 104
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Dapoxetine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Voortijdige zaadlozing (premature ejaculatie)"
 monitor_inn: "dapoxetine"
 predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine with brainstem aura"]
@@ -84,15 +84,23 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 108200 | Priligy 60 mg filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar in de gegevens |
+<!-- licenses:begin -->
 
-Deze vergunning is geldig; het middel is in Nederland op de markt bij het CBG-MEB.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 108199 | Priligy 30 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 108200 | Priligy 60 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 136368//108199 | Priligy 30 mg filmomhulde tabletten | DAPOXETINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+De vergunning RVG 108200 (Priligy 60 mg filmomhulde tabletten) is geldig; het middel is in Nederland op de markt bij het CBG-MEB.
 
 <!-- review:begin nl-lic-20261112-dapoxetine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Deze vergunning is geldig; het middel is in Nederland op de markt (1 geldige vergunning van 1) bij het CBG-MEB.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze vergunning is geldig; het middel is in Nederland op de markt (1 geldige vergunning van 1) bij het CBG-MEB.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-dapoxetine-1 -->
 
@@ -115,7 +123,7 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 
 <!-- review:begin nl-lic-20261106-dapoxetine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De Nederlandse vergunning is bovendien doorgehaald, en het farmacokinetische profiel past slecht bij migraineprofylaxe.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De Nederlandse vergunning is bovendien doorgehaald, en het farmacokinetische profiel past slecht bij migraineprofylaxe.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-dapoxetine-1 -->
 
@@ -134,8 +142,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De Nederlandse vergunning is bovendien doorgehaald, en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De Nederlandse vergunning is bovendien doorgehaald, en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

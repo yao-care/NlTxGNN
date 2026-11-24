@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 249
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: voorspelde nieuwe indicatie Aandoening van de orbitale regio (disease of orbital region) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
@@ -74,13 +74,23 @@ Er is geen vergunningstekst over de goedgekeurde indicatie vastgelegd in de loka
 
 <!-- review:begin nl-lic-20261112-nystatin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd. Er is geen vergunningstekst over de goedgekeurde indicatie vastgelegd in de lokale gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd. Er is geen vergunningstekst over de goedgekeurde indicatie vastgelegd in de lokale gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-nystatin-1 -->
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119515//06771 | Nystatine 100.000 E/ml, suspensie voor oraal gebruik | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06771 | Nystatine Labaz, suspensie voor oraal gebruik 100.000 E/ml | NYSTATINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 119514//06771 | Nystatine Eureco-Pharma 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 121827 | Nystatine RPH 100.000 IE/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 124711//06771 | Nystatine ERC 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 119515//06771 | Nystatine 100.000 E/ml, suspensie voor oraal gebruik | NYSTATINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -110,7 +120,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Voor dit middel is bij het CBG-MEB één geldige vergunning geregistreerd” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6) |
 
 <!-- review:end log -->

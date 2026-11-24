@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 description: "Alprostadil: voorspelde nieuwe indicatie Aortamisvorming (aortic malformation) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)"
@@ -89,9 +89,21 @@ Geen van de onderstaande publicaties onderzoekt aortamisvorming als zodanig in e
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115134 | Vitaros 300 microgram, crème (status: geldig) | Crème (volgens productnaam) | Niet beschikbaar in de samengestelde data |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 10041 | Prostin VR 0,5 mg/ml, concentraat voor oplossing voor infusie | ALPROSTADIL | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 109910 | Alprostadil Simple Pharma 300 microgram, crème | ALPROSTADIL | Crème | Geldig |
+| RVG 109919 | Vitaros, 300 microgram Crème | ALPROSTADIL | Crème | Geldig |
+| RVG 115134 | Vitaros 300 microgram, crème | ALPROSTADIL | Crème | Geldig |
+| RVG 115997 | Alprostadil Recordati 2 mg/g Crème | ALPROSTADIL | Crème | Geldig |
+| RVG 116002 | Alprostadil Recordati 3 mg/g Crème | ALPROSTADIL | Crème | Geldig |
+| RVG 135152 | Propedix 0,5 mg/ml concentraat voor oplossing voor infusie | ALPROSTADIL | Concentraat voor oplossing voor infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

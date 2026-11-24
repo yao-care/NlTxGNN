@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carvedilol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 34)"
 ---
 
@@ -68,9 +68,36 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor deze voorspelling.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 107596 | Carvedilol Aurobindo 25 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28745 | Carvedilol Sandoz 3,125 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 28746 | Carvedilol Sandoz 6,25 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 28747 | Carvedilol Sandoz 12,5 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 28748 | Carvedilol Sandoz 25 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 28749 | Carvedilol Sandoz 50 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 29077 | Carvedilol Teva 3,125 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 29078 | Carvedilol Teva 6,25 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 29079 | Carvedilol Teva 12,5 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 29080 | Carvedilol Teva 25 mg, tabletten | CARVEDILOL | Tablet | Geldig |
+| RVG 30017 | Carvedilol Viatris 3,125 mg, filmomhulde tabletten | CARVEDILOL | Filmomhulde tablet | Geldig |
+| RVG 30018 | Carvedilol Viatris 6,25 mg, filmomhulde tabletten | CARVEDILOL | Filmomhulde tablet | Geldig |
+| RVG 30019 | Carvedilol Viatris 25 mg, filmomhulde tabletten | CARVEDILOL | Filmomhulde tablet | Geldig |
+| RVG 107593 | Carvedilol Aurobindo 3,125 mg, filmomhulde tabletten | CARVEDILOL | Filmomhulde tablet | Geldig |
+| RVG 107594 | Carvedilol Aurobindo 6,25 mg, filmomhulde tabletten | CARVEDILOL | Filmomhulde tablet | Geldig |
+| RVG 107595 | Carvedilol Aurobindo 12,5 mg, filmomhulde tabletten | CARVEDILOL | Filmomhulde tablet | Geldig |
+| RVG 107596 | Carvedilol Aurobindo 25 mg, filmomhulde tabletten | CARVEDILOL | Filmomhulde tablet | Geldig |
+| RVG 117806 | Carivalan 6,25 mg/5 mg filmomhulde tabletten | CARVEDILOL, IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 117808 | Carivalan 6,25 mg/7,5 mg filmomhulde tabletten | CARVEDILOL, IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 117809 | Carivalan 12,5 mg/5 mg filmomhulde tabletten | CARVEDILOL, IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 117810 | Carivalan 12,5 mg/7,5 mg filmomhulde tabletten | CARVEDILOL, IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bleomycin: voorspelde nieuwe indicatie Caudaequinaneoplasma (cauda equina neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)"
 ---
 
@@ -70,9 +70,17 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114717//105676 | Bleomycine 15000 IU (Ph. Eur.) Eureco-Pharma, poeder voor oplossing voor injectie | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 105676 | Bleomedac, poeder voor oplossing voor injectie 15000 IU (Ph. Eur.) | BLEOMYCINESULFAAT, BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie | Geldig |
+| RVG 114717//105676 | Bleomycine 15000 IU (Ph. Eur.) Eureco-Pharma, poeder voor oplossing voor inject… | BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie | Geldig |
+| RVG 117383 | Bleomycine Accord 15000 IE Poeder voor oplossing voor injectie/infusie | BLEOMYCINESULFAAT | Poeder voor oplossing voor injectie of infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Cytotoxiciteit
 

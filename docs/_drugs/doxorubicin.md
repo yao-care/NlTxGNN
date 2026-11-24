@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxorubicin: voorspelde nieuwe indicatie Ewing-sarcoom (Ewing sarcoma) (bewijsniveau L2). In Nederland, CBG-vergunningen: 7 (geldig: 7)"
 ---
 
@@ -83,9 +83,21 @@ Er is momenteel geen relevante literatuur beschikbaar die aan deze voorspelling 
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113860 | Doxorubicine HCl Hikma 2 mg/ml, concentraat voor oplossing voor infusie | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/00/141 | Myocet liposomaal 50 mg poeder, dispersie en oplosmiddel voor concentraat voor… | DOXORUBICINEHYDROCHLORIDE | – | Geldig |
+| EU/1/22/1629 | Zolsketil pegylated liposomal 2 mg/ml concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| EU/1/96/011 | Caelyx, 2 mg/ml concentraat voor oplossing voor intraveneuze infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 102758 | Doxorubicine hydrochloride 2 mg/ml PCH, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 103617 | Doxorubicine Accord 2 mg/ml concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 109099 | Doxorubicine HCl Eugia 2 mg/ml, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 113860 | Doxorubicine HCl Hikma 2 mg/ml, concentraat voor oplossing voor infusie | DOXORUBICINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Cytotoxiciteit
 

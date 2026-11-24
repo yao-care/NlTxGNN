@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 description: "Gemcitabine: voorspelde nieuwe indicatie Rectum mucinous adenocarcinoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 22 (geldig: 22)"
@@ -91,7 +91,7 @@ Voor deze indicatie zijn vooral overzichtsartikelen gevonden; er zijn geen geran
 
 <!-- review:begin nl-lic-20261106-gemcitabine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worden nagegaan in het CBG-MEB-register.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worden nagegaan in het CBG-MEB-register.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-gemcitabine-1 -->
 
@@ -112,9 +112,36 @@ Voor deze indicatie zijn vooral overzichtsartikelen gevonden; er zijn geen geran
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 117786 | Gemcitabine SUN 2200 mg oplossing voor infusie | Niet vermeld | Niet vermeld (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 100527 | Gemcitabine SUN 1000 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 101088 | Gemcitabine 200 mg PCH, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 101089 | Gemcitabine 1000 mg PCH, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 102546 | Gemcitabine Hikma 200 mg, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 102550 | Gemcitabine Hikma 1 g, poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 106596 | Gemcitabine Sandoz 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 109019 | Gemcitabine Accord 100 mg/ml Concentraat voor Oplossing voor Infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 113984 | Gemcitabine Fresenius Kabi 38 mg/ml concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 116483 | Gemcitabine SUN 1200 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 116660 | Gemcitabine ratiopharm 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 116668 | Gemcitabine Eugia 40 mg/ml, concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 117647 | Gemcitabine Koanaa 200 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 117648 | Gemcitabine Koanaa 1000 mg poeder voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 117781 | Gemcitabine SUN 1600 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 117782 | Gemcitabine SUN 1700 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 117784 | Gemcitabine SUN 1800 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 117785 | Gemcitabine SUN 2000 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 117786 | Gemcitabine SUN 2200 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 121182 | Gemcitabine SUN 1400 mg oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 124450 | Gemcitabine Hikma 38 mg/ml concentraat voor oplossing voor infusie | GEMCITABINEHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+
+Getoond worden 20 van de 22 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -157,7 +184,7 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC en de bijsl
 
 <!-- review:begin nl-lic-20261106-gemcitabine-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De actuele registratiestatus van gemcitabine in Nederland controleren, omdat het enige gevonden product is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De actuele registratiestatus van gemcitabine in Nederland controleren, omdat het enige gevonden product is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-gemcitabine-2 -->
 
@@ -187,8 +214,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worde” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “omdat het enige gevonden product is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Het enige gevonden product is doorgehaald. Dit hoeft niet te betekenen dat gemcitabine in Nederland niet beschikbaar is, maar dat moet worde” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “omdat het enige gevonden product is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-20 | "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank zijn niet beschikbaar in de data die voor dit rapport zijn samengesteld. De bovenstaande beschrijving komt uit de mechanistische onderbouwing van de voorspelling" replaced with a sourced mechanism-of-action statement | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
 
 <!-- review:end log -->

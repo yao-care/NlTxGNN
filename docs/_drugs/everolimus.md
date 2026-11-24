@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Everolimus: voorspelde nieuwe indicatie Liposarcoom (liposarcoma) (bewijsniveau L2). In Nederland, CBG-vergunningen: 60 (geldig: 59)"
 ---
 
@@ -64,7 +64,7 @@ Gededifferentieerd liposarcoom wordt gekenmerkt door amplificatie van CDK4 en MD
 
 <!-- review:begin nl-lic-20261112-everolimus-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 60, waarvan geldig: 59; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-everolimus-1 -->
 
@@ -91,9 +91,36 @@ Gededifferentieerd liposarcoom wordt gekenmerkt door amplificatie van CDK4 en MD
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109317//30043 | Certican 0,75 mg, tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/09/538 | Afinitor 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| EU/1/11/710 | Votubia 2,5 mg tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 30041 | Certican 0,25, tabletten 0,25 mg | EVEROLIMUS | Tablet | Geldig |
+| RVG 30043 | Certican 0,75, tabletten 0,75 mg | EVEROLIMUS | Tablet | Geldig |
+| RVG 30046 | Certican Dispers 0,25, dispergeerbare tabletten 0,25 mg | EVEROLIMUS | Dispergeerbare tablet | Geldig |
+| RVG 119153 | Everolimus Teva 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 119154 | Everolimus Teva 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 119155 | Everolimus Teva 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120360 | Everolimus CF 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120361 | Everolimus CF 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120363 | Everolimus CF 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120846 | Everolimus Synthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120847 | Everolimus Synthon 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120848 | Everolimus Synthon 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120850 | Everolimus Synthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120851 | Everolimus Synthon 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120852 | Everolimus Synthon 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120853 | Everolimus Genthon 2,5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120854 | Everolimus Genthon 5 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+| RVG 120855 | Everolimus Genthon 10 mg, tabletten | EVEROLIMUS | Tablet | Geldig |
+
+Getoond worden 20 van de 60 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -140,7 +167,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert 1 geldige vergunning voor een product met alleen everolimus als werkzame stof” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a) |
 
 <!-- review:end log -->

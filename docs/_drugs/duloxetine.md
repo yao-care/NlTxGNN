@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 124
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Duloxetine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (bewijsniveau L5). Oorspronkelijke indicatie: Unipolaire depressie (verder o.a. majeure depressieve stoornis…"
 monitor_inn: "duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
@@ -82,15 +82,42 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118228 | Duloxetine Sandoz 60 mg, harde maagsapresistente capsules (status: geldig) | Harde maagsapresistente capsule | – |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/04/280 | Yentreve 40 mg, maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| EU/1/04/296 | Cymbalta 30 mg, maagsapresistente capsule, hard | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| EU/1/04/297 | Xeristar 60 mg, maagsapresistente capsule, hard | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| EU/1/14/972 | Duloxetine Lilly 60 mg, maagsapresistente capsules, hard | DULOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| EU/1/15/1010 | Duloxetine Viatris 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| EU/1/15/1028 | Duloxetine Zentiva 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116063 | Duloxetine Krka 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116064 | Duloxetine Krka 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116065 | Dutilox 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116067 | Dutilox 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116073 | Dulodet 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116074 | Dulodet 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116075 | Dulasolan 30 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116076 | Dulasolan 60 mg harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116083 | Duloxetine Sandoz 20 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116084 | Duloxetine Sandoz 40 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116085 | Duloxetine Sandoz 20 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116086 | Duloxetine Sandoz 40 mg, maagsapresistente harde capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116089 | Duloxetine Aurobindo 30 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 116091 | Duloxetine Aurobindo 60 mg, harde maagsapresistente capsules | DULOXETINEHYDROCHLORIDE | Maagsapresistente capsule, hard | Geldig |
+
+Getoond worden 20 van de 48 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter van de duloxetinepreparaten, bijvoorbeeld via EMA-procedures.
 
 <!-- review:begin nl-lic-20261112-duloxetine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter van de duloxetinepreparaten, bijvoorbeeld via EMA-procedures.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 48, waarvan geldig: 48; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter van de duloxetinepreparaten, bijvoorbeeld via EMA-procedures.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-duloxetine-1 -->
 
@@ -129,7 +156,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het middel is in Nederland op de markt en er is 1 geldige vergunning van de 1 vergunning bij het CBG-MEB” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b) |
 
 <!-- review:end log -->

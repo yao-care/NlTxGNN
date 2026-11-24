@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 244
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam: voorspelde nieuwe indicatie Wernicke-Korsakoff syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)"
@@ -96,9 +96,16 @@ Hieronder staat een selectie van de meest relevante publicaties. Merk op dat het
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 56702 | Nitrazepam CF 5 mg, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geschrapt) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 50283 | Nitrazepam Auro 5 mg, tabletten | NITRAZEPAM | Tablet | Geldig |
+| RVG 56702 | Nitrazepam CF 5 mg, tabletten | NITRAZEPAM | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De enige bekende registratie is geschrapt.
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Iloprost"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
@@ -68,15 +68,28 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120173//15696 | Ilomedine 0,1 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie (afgeleid uit de productnaam) | Niet vermeld in de verzamelde gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/03/255 | Ventavis 10 microgram/ml, verneveloplossing | ILOPROST | Verneveloplossing | Geldig |
+| RVG 118323 | Iloprost Waymade 20 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST TROMETAMOL | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 118334 | Iloprost Waymade 100 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST TROMETAMOL | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 122553 | Iloprost Teva 100 microgram/ml, concentraat voor oplossing voor infusie | ILOPROST | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 125463 | Iloprost RAFARM 10 microgram/ml verneveloplossing | ILOPROST TROMETAMOL | Verneveloplossing | Geldig |
+| RVG 125464 | Iloprost RAFARM 20 microgram/ml verneveloplossing | ILOPROST TROMETAMOL | Verneveloplossing | Geldig |
+| RVG 126966 | Iloprost hameln 0,1 mg/ml, concentraat voor oplossing voor infusie | ILOPROST | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 120173//15696 | Ilomedine 0,1 mg/ml, concentraat voor oplossing voor infusie | ILOPROST | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Deze vergunning (CBG-MEB) is **geldig**. Het product is op de markt.
 
 <!-- review:begin nl-lic-20261112-iloprost-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en het product is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 7; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en het product is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-iloprost-1 -->
 
@@ -96,7 +109,7 @@ Raadpleeg voor waarschuwingen en overige veiligheidsinformatie de SmPC (Samenvat
 
 <!-- review:begin nl-lic-20261112-iloprost-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op het model (bewijsniveau L5), zonder studies of publicaties. Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 7; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op het model (bewijsniveau L5), zonder studies of publicaties. Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-iloprost-2 -->
 
@@ -116,8 +129,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 voor een iloprost-product in de verzamelde gegevens, en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het werkingsmechanisme is niet gedocumenteerd en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
 
 <!-- review:end log -->

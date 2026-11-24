@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 193
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 description: "Lactulose: voorspelde nieuwe indicatie Acute urate nephropathy (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)"
@@ -95,9 +95,21 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 104843 | Lactulosesiroop Resolution 667 mg/ml Stroop (status: geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 01467 | Duphalac, stroop 667 mg/ml | LACTULOSE | Stroop | Geldig |
+| RVG 19196 | Laxeerdrank Lactulose Sanias 667 mg/ml, stroop | LACTULOSE | Stroop | Geldig |
+| RVG 20869 | Duphalac lactulosesiroop, stroop 667 mg/ml | LACTULOSE | Stroop | Geldig |
+| RVG 34633 | Lactulose CCH, stroop 667 mg/ml | LACTULOSE | Stroop | Geldig |
+| RVG 102976 | Duphalac Fruit 667 mg/ml, stroop | LACTULOSE | Stroop | Geldig |
+| RVG 104843 | Lactulosesiroop Resolution 667 mg/ml Stroop | LACTULOSE | Stroop | Geldig |
+| RVG 32393 | Transulose, pasta voor oraal gebruik | LACTULOSE, PARAFFINE, VLOEIBAAR (E905), PARAFFINE, ZACHT (E 905) | Pasta voor oraal gebruik | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,7 +137,7 @@ Hieronder staan de meest relevante publicaties (maximaal 10), met voorrang voor 
 
 <!-- review:begin nl-lic-20261031-lactulose-1 -->
 
-> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning). / Beoordeling van de contra-indicaties uit de kennisgraaf (zoals diabetes en galactosemie) bij de doelgroep.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning). / Beoordeling van de contra-indicaties uit de kennisgraaf (zoals diabetes en galactosemie) bij de doelgroep.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261031-lactulose-1 -->
 
@@ -152,7 +164,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-10-31 | Verwijderd: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-10-31 | Verwijderd: “Opheldering over de vergunningsstatus in Nederland (alleen een doorgehaalde vergunning)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
 
 <!-- review:end log -->

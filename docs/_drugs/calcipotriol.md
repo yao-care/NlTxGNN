@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 67
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Calcipotriol: voorspelde nieuwe indicatie Seborroïsche keratose (bewijsniveau L3). Oorspronkelijke indicatie: Niet vastgelegd in de beschikbare vergunningsgegevens (de indicatiete…"
 monitor_inn: "Calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -85,15 +85,38 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 101242 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | Niet vermeld (oplossing voor cutaan gebruik) | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 33257 | Calcipotriol Nevik 50 microgram/g, zalf | CALCIPOTRIOL | Zalf | Geldig |
+| RVG 33409 | Calcipotriol 0,05 mg/g, zalf | CALCIPOTRIOL | Zalf | Geldig |
+| RVG 33410 | Calcipotriol Sandoz zalf 0,05 mg/g, zalf | CALCIPOTRIOL | Zalf | Geldig |
+| RVG 101239 | Calcipotriol Sandoz lotion 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 101240 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 27095 | Dovobet 50 microgram/0,5 mg/g zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Geldig |
+| RVG 100401 | Dovobet 50 microgram/0,5 mg/g gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Geldig |
+| RVG 112323 | Calcipotriol/Betamethason Teva 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Zalf | Geldig |
+| RVG 116941 | Calcipotriol/Betamethason Sandoz 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Geldig |
+| RVG 117172 | Enstilar 50 microgram/g + 0,5mg/g, schuim voor cutaan gebruik | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Schuim voor cutaan gebruik | Geldig |
+| RVG 117920 | Calcipotriol/Betamethason Sandoz 50 microgram/g + 0,5 mg/g, zalf | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Zalf | Geldig |
+| RVG 126775 | Calcipotriol/Betamethason Aristo 50 microgram/g + 0,5 mg/g, gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Geldig |
+| RVG 127013 | Wynzora, 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Geldig |
+| RVG 131715 | Crysalis 50 microgram/g + 0,5 mg/g, gel | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL 1-WATER | Gel | Geldig |
+| RVG 133237//127013 | Wynzora 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Geldig |
+| RVG 133640//127013 | Wynzora 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Geldig |
+| RVG 136800//127013 | Winxory 50 microgram/g + 0,5 mg/g crème | BETAMETHASONDIPROPIONAAT, CALCIPOTRIOL | Crème | Geldig |
+| RVG 101242 | Calcipotriol Sandoz 0,05 mg/ml, oplossing voor cutaan gebruik | CALCIPOTRIOL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het middel is op de markt.
 
 <!-- review:begin nl-lic-20261112-calcipotriol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is momenteel 1 geldige vergunning van de 1 vergunning(en) voor calcipotriol in de gebruikte gegevens; het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 18, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is momenteel 1 geldige vergunning van de 1 vergunning(en) voor calcipotriol in de gebruikte gegevens; het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-calcipotriol-1 -->
 
@@ -138,7 +161,7 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 
 <!-- review:begin nl-lic-20261112-calcipotriol-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie. Voor de overige voorspelde indicaties is het bewijs nog zwakker.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 18, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie. Voor de overige voorspelde indicaties is het bewijs nog zwakker.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-calcipotriol-2 -->
 
@@ -157,8 +180,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 vergunning(en) voor calcipotriol in de gebruikte gegevens; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 vergunning(en) voor calcipotriol in de gebruikte gegevens; h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken gegevens over de officiële veiligheidsinformatie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

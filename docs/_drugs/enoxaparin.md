@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "enoxaparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Enoxaparin: voorspelde nieuwe indicatie Trombofilie door proteïne C-deficiëntie, autosomaal recessief (thrombophilia due to protein C deficiency… (bewijsniveau L5). Oorspronkelijke indicatie: Niet ve…"
 ---
 
@@ -70,11 +70,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120766//13068 | Clexane 10.000 IE (100mg)/1,0ml, oplossing voor injectie | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
 
-Er is één registratie (parallelimport/handelsvergunning) in de lokale gegevens opgenomen. De lijst is volledig.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/16/1132 | Inhixa 6000 IE (60 mg)/0,6 ml oplossing voor injectie | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 116134 | Enoxaparine Becat 10.000 IE (100 mg)/1 ml oplossing voor injectie in een voorge… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 117177 | Ghemaxan 10.000 IE (100 mg)/1 ml oplossing voor injectie in een voorgevulde spu… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 117179 | Ghemaxan 15.000 IE (150 mg)/1 ml oplossing voor injectie in een voorgevulde spu… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 120700 | Enoxaparine Becat 8.000 IE (80 mg)/0,8 ml oplossing voor injectie in een voorge… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 120701 | Enoxaparine Becat 6.000 IE (60 mg)/0,6 ml oplossing voor injectie in een voorge… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 120702 | Enoxaparine Becat 4.000 IE (40 mg)/0,4 ml oplossing voor injectie in een voorge… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 120703 | Enoxaparine Becat 2.000 IE (20 mg)/0,2 ml oplossing voor injectie in een voorge… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 121945 | Ghemaxan 2.000 IE (20 mg)/0,2 ml oplossing voor injectie in een voorgevulde spu… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 121947 | Ghemaxan 4.000 IE (40 mg)/0,4 ml oplossing voor injectie in een voorgevulde spu… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 121948 | Ghemaxan 6.000 IE (60 mg)/0,6 ml oplossing voor injectie in een voorgevulde spu… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 121949 | Ghemaxan 8.000 IE (80 mg)/0,8 ml oplossing voor injectie in een voorgevulde spu… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 121950 | Ghemaxan 12.000 IE (120 mg)/0,8 ml oplossing voor injectie in een voorgevulde s… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 130356//116134 | Enoxaparine Medcor 10.000 IE (100 mg)/1 ml oplossing voor injectie in een voorg… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 133991//120702 | Enoxaparine ERC 4.000 IE (40 mg)/0,4 ml, oplossing voor injectie in een voorgev… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 133993//120701 | Enoxaparine ERC 6.000 IE (60 mg)/0,6 ml, oplossing voor injectie in een voorgev… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 133997//120700 | Enoxaparine ERC 8.000 IE (80 mg)/0,8 ml, oplossing voor injectie in een voorgev… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 134599//116134 | Enoxaparine ERC 10.000 IE (100 mg)/1 ml, oplossing voor injectie in een voorgev… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 135413//120702 | Enoxaparine Medcor 4.000 IE (40 mg)/0,4 ml oplossing voor injectie in een voorg… | ENOXAPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 120766//13068 | Clexane 10.000 IE (100mg)/1,0ml, oplossing voor injectie | ENOXAPARINE NATRIUM | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Er is één registratie (parallelimport/handelsvergunning) in de lokale gegevens opgenomen.
 
 ## Veiligheidsoverwegingen
 

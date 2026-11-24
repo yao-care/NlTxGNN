@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 129
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Emtricitabine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (kattenaids) (bewijsniveau L5). Oorspronkelijke indicatie: Hiv-infectie en aids (de gegevens over de Nederlandse v…"
 monitor_inn: "Emtricitabine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -84,21 +84,42 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117316 (niet geregistreerd) | Ictastan 200mg/245mg, filmomhulde tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261115-emtricitabine-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/03/261 | Emtriva 10 mg/ml, drank | EMTRICITABINE | Drank | Geldig |
+| EU/1/04/305 | Truvada 200 mg/245 mg, filmomhulde tablet | EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/11/737 | Eviplera 200 mg/25 mg/245 mg, filmomhulde tabletten | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/13/830 | Stribild 150 mg/150 mg/200 mg/245 mg filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/15/1061 | Genvoya 90 mg/90 mg/120 mg/6 mg, filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/16/1099 | Descovy 200 mg/10 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/16/1112 | Odefsey 200 mg/25 mg/25 mg filmomhulde tabletten | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/16/1133 | Emtricitabine/Tenofovirdisoproxil Mylan 200 mg/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Geldig |
+| EU/1/16/1148 | Emtricitabine/Tenofovirdisoproxil Zentiva 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
+| EU/1/16/1151 | Emtricitabine/tenofovirdisoproxil Krka 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
+| EU/1/17/1182 | Emtricitabine/tenofovir disoproxil Krka d.d. 200/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
+| EU/1/17/1210 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva 600-200-245 filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
+| EU/1/17/1222 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan 600 mg/200 mg/245 mg filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Geldig |
+| EU/1/17/1225 | Symtuza 675 mg/150 mg/200 mg/10 mg filmomhulde tabletten | COBICISTAT, DARUNAVIRETHANOLAAT, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/17/1263 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka 600 mg/200 mg/245 mg, filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
+| EU/1/18/1289 | Biktarvy 30 mg/120 mg/15 mg filmomhulde tabletten | BICTEGRAVIRNATRIUM, EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/25/1952 | Emtricitabine/tenofoviralafenamide Viatris 200 mg/10 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIRALAFENAMIDEFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/25/1966 | Emtricitabine/rilpivirine/tenofoviralafenamide Viatris 200 mg/25 mg/25 mg filmo… | EMTRICITABINE, RILPIVIRINEHYDROCHLORIDE, TENOFOVIRALAFENAMIDEMONOFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 117050 | Emtricitabine/Tenofovirdisoproxil Teva 200mg/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
+| RVG 117310 | Emtricitabine/Tenofovirdisoproxil DOC Generici, 200 mg/245 mg filmomhulde table… | EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 117316 (ingetrokken)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 42 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261115-emtricitabine-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Raadpleeg de actuele SmPC en bijsluiter voor productinformatie.
 
 <!-- review:begin nl-lic-20261112-emtricitabine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit middel is in Nederland geregistreerd en op de markt: 1 geldige vergunning van de 1 vergunning(en) (CBG-MEB). Raadpleeg de actuele SmPC en bijsluiter voor productinformatie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 42, waarvan geldig: 41; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit middel is in Nederland geregistreerd en op de markt: 1 geldige vergunning van de 1 vergunning(en) (CBG-MEB). Raadpleeg de actuele SmPC en bijsluiter voor productinformatie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-emtricitabine-1 -->
 
@@ -142,8 +163,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Dit middel is in Nederland geregistreerd en op de markt: 1 geldige vergunning van de 1 vergunning(en) (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “RVG 117316 (ingetrokken)” → “RVG 117316 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Dit middel is in Nederland geregistreerd en op de markt: 1 geldige vergunning van de 1 vergunning(en) (CBG-MEB)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 117316 (ingetrokken)” → “RVG 117316 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f) |
 
 <!-- review:end log -->

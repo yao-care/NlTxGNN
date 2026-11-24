@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 description: "Atomoxetine: voorspelde nieuwe indicatie Specifieke ontwikkelingsstoornis (specific developmental disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 43 (geldig: 42)"
@@ -88,15 +88,36 @@ De onderstaande publicaties zijn indirect. Geen ervan onderzoekt atomoxetine bij
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116879//100389 | Strattera 80 mg, harde capsules (niet geregistreerd) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-atomoxetine-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 120972 | Atofab 10 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 120973 | Atofab 18 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 120974 | Atofab 25 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 120975 | Atofab 40 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 120976 | Atofab 60 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 120977 | Atofab 80 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 120978 | Atofab 100 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121221 | Atomoxetine Teva 10 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121222 | Atomoxetine Teva 18 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121223 | Atomoxetine Teva 25 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121224 | Atomoxetine Teva 40 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121225 | Atomoxetine Teva 60 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121226 | Atomoxetine Teva 80 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121227 | Atomoxetine Teva 100 mg, harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121262 | Atomoxetine Glenmark 10 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121264 | Atomoxetine Glenmark 18 mg harde capsules | ATOMOXETINE | Capsule, hard | Geldig |
+| RVG 121270 | Atomoxetine Glenmark 25 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121271 | Atomoxetine Glenmark 40 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121272 | Atomoxetine Glenmark 60 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121273 | Atomoxetine Glenmark 80 mg harde capsules | ATOMOXETINEHYDROCHLORIDE | Capsule, hard | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 116879//100389 / Strattera 80 mg, harde capsules (geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 116879//100389 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 43 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-atomoxetine-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Deze vergunning is geldig. De registratie valt onder het CBG-MEB. Zie voor de officiële productinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 
@@ -135,7 +156,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 116879//100389: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 116879//100389: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) |
 
 <!-- review:end log -->

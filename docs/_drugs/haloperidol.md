@@ -78,9 +78,28 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Status |
-|---------|------|------|------|
-| RVG 103083//03185 | Haldol oplossing voor injectie 5 mg/ml | Oplossing voor injectie | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 03185 | Haldol oplossing voor injectie 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Geldig |
+| RVG 03186 | Haldol 2 mg/ml, drank | HALOPERIDOL | Drank | Geldig |
+| RVG 08840 | Haldol tabletten 10 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
+| RVG 55601 | Haloperidol CF 5 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
+| RVG 55776 | Haloperidol CF 1 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
+| RVG 56277 | Haloperidol Teva 1 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
+| RVG 56278 | Haloperidol Teva 5 mg, tabletten | HALOPERIDOL | Tablet | Geldig |
+| RVG 128567//03186 | Haloperidol Eureco-Pharma 2mg/ml, drank | HALOPERIDOL | Drank | Geldig |
+| RVG 131957//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Geldig |
+| RVG 131964//03186 | Haldol 2 mg/ml, drank | HALOPERIDOL | Drank | Geldig |
+| RVG 134702//03186 | Haloperidol ERC 2 mg/ml, drank | HALOPERIDOL | Drank | Geldig |
+| RVG 135778//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Geldig |
+| RVG 137215//03185 | Haldol 5 mg/ml, oplossing voor injectie | HALOPERIDOL | Oplossing voor injectie | Geldig |
+| RVG 103083//03185 | Haldol oplossing voor injectie 5 mg/ml, oplossing voor injectie | HALOPERIDOL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Voor dit product is een geldige vergunning geregistreerd bij het CBG-MEB. Raadpleeg de SmPC en de bijsluiter voor de officiële productinformatie.
 

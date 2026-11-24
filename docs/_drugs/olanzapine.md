@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Olanzapine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de l…"
@@ -76,7 +76,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261112-olanzapine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning bij het CBG-MEB is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 69, waarvan geldig: 68; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning bij het CBG-MEB is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-olanzapine-1 -->
 
@@ -84,15 +84,36 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 112855 | Malanxin 20 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-olanzapine-3 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/07/415 | Zalasta 10 mg, orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Geldig |
+| EU/1/07/427 | Olanzapine Teva 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| EU/1/08/475 | Olanzapine Viatris 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| EU/1/09/587 | Olanzapine Glenmark 5 mg, tabletten | OLANZAPINE | Tablet | Geldig |
+| EU/1/09/588 | Olanzapine Glenmark Europe 5 mg orale smelttabletten, orodispergeerbare tablett… | OLANZAPINE | Orodispergeerbare tablet | Geldig |
+| EU/1/09/592 | Olazax Disperzi 5 mg, orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Geldig |
+| EU/1/09/597 | Olazax 5 mg, tabletten | OLANZAPINE | Tablet | Geldig |
+| EU/1/96/022 | Zyprexa 7.5 mg, omhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| EU/1/99/125 | Zyprexa Velotab 20 mg, orodispergeerbare tablet | OLANZAPINE | Orodispergeerbare tablet | Geldig |
+| RVG 34684 | Olanzapine Sandoz 2,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 34685 | Olanzapine Sandoz 5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 34687 | Olanzapine Sandoz 10 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 34688 | Olanzapine Sandoz 15 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 34689 | Olanzapine Sandoz 20 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 35012 | Olanzapine Neuraxpharm 2,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 35013 | Olanzapine Neuraxpharm 5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 35014 | Olanzapine Neuraxpharm 7,5 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 35015 | Olanzapine Neuraxpharm 10 mg, filmomhulde tabletten | OLANZAPINE | Filmomhulde tablet | Geldig |
+| RVG 102517 | Olanzapine SUN 5 mg orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Geldig |
+| RVG 102518 | Olanzapine SUN 10 mg orodispergeerbare tabletten | OLANZAPINE | Orodispergeerbare tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 112855 / Malanxin 20 mg, filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 112855 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 69 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-olanzapine-3 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,7 +135,7 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor de veiligheidsinfo
 
 <!-- review:begin nl-lic-20261112-olanzapine-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn geen studies of publicaties, er is geen plausibel mechanisme en toepassing bij zuigelingen zou grote veiligheidsrisico's met zich meebrengen. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 69, waarvan geldig: 68; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn geen studies of publicaties, er is geen plausibel mechanisme en toepassing bij zuigelingen zou grote veiligheidsrisico's met zich meebrengen. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-olanzapine-2 -->
 
@@ -141,9 +162,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige bekende vergunning bij het CBG-MEB is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 112855: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige bekende vergunning bij het CBG-MEB is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 112855: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 
 <!-- review:end log -->

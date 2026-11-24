@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabergoline: voorspelde nieuwe indicatie Progeria-kleine gestalte-gepigmenteerde naevi-syndroom (progeria-short stature-pigmented nevi syndrome) (bewijsniveau L5). Oorspronkelijke indicatie: Niet ver…"
 ---
 
@@ -68,9 +68,20 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 105105 | Cabergoline Sandoz tablet 0,5 mg | Tablet | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 15375 | Dostinex, tabletten 0,5 mg | CABERGOLINE | Tablet | Geldig |
+| RVG 34176 | Cabergoline 0,5 PCH, tabletten 0,5 mg | CABERGOLINE | Tablet | Geldig |
+| RVG 128298//15375 | Dostinex, tabletten 0,5 mg | CABERGOLINE | Tablet | Geldig |
+| RVG 129447 | Cabergoline Aurobindo 0,5 mg, tabletten | CABERGOLINE | Tablet | Geldig |
+| RVG 131086 | Cabergoline Renata, tabletten 0,5 mg | CABERGOLINE | Tablet | Geldig |
+| RVG 105105 | Cabergoline Sandoz tablet 0,5 mg, tabletten | CABERGOLINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de lokale gegevens is de marktstatus "In de handel". De registratiegegevens zijn afkomstig van het CBG-MEB.
 

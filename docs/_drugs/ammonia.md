@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ammonia"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ammonia: voorspelde nieuwe indicatie acrodermatitis chronica atrophicans (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 2)"
 ---
 
@@ -78,9 +78,16 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109655 | Temozolomide Fair-Med 100mg, Capsules harde | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/07/436 | Isentress 100 mg, granulaat voor orale suspensie | AMMONIA (E 527), RALTEGRAVIR | Filmomhulde tablet | Geldig |
+| RVG 109655 | Temozolomide Fair-Med 100mg, Capsules harde | TEMOZOLOMIDE, AMMONIA (E 527) | Capsule, hard | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Let op: dit is de enige in de gegevens opgenomen vergunning. De productnaam wijst op een ander product (temozolomide) dan ammoniak, dus deze vergunning zegt niets over een geregistreerd gebruik van ammoniak. De vergunningsgegevens zijn zoals aangeleverd en bevatten geen indicatietekst.
 

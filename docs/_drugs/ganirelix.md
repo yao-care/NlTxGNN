@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 169
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ganirelix: voorspelde nieuwe indicatie Hypertrichose (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de verzamelde gegevens (vergunningstekst ontbreekt)"
 monitor_inn: "ganirelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial male-limited precocious puberty", "persistent fetal circulation syndrome", "aromatase excess syndrome", "centra precocious puberty 1", "familial isolated trichomegaly"]
@@ -83,15 +83,25 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 111978 | Fyremadel, 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde spuit | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-Deze vergunning heeft de status geldig.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/00/130 | Orgalutran, 0,25 mg/0,5 ml oplossing voor injectie | GANIRELIXACETAAT | Oplossing voor injectie | Geldig |
+| EU/1/22/1658 | Ganirelix Gedeon Richter 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde… | GANIRELIXACETAAT | Oplossing voor injectie | Geldig |
+| RVG 111978 | Fyremadel, 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde spuit | GANIRELIXDIACETAAT | Oplossing voor injectie | Geldig |
+| RVG 129745 | Ganirelix Theramex 0,25 mg/0,5 ml, oplossing voor injectie in een voorgevulde s… | GANIRELIXACETAAT | Oplossing voor injectie | Geldig |
+| RVG 130194 | Ganirelix Fagron 0,25 mg/0,5 ml, oplossing voor injectie in een voorgevulde spu… | GANIRELIXACETAAT | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+De vergunning RVG 111978 (Fyremadel, 0,25 mg/0,5 ml oplossing voor injectie in voorgevulde spuit) heeft de status geldig.
 
 <!-- review:begin nl-lic-20261112-ganirelix-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Deze vergunning heeft de status geldig. Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze vergunning heeft de status geldig. Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-ganirelix-1 -->
 
@@ -136,7 +146,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonidine: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
 ---
 
@@ -69,9 +69,19 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120087//06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 56917 | Clonidine HCl CF 0,025 mg, tabletten | CLONIDINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 56919 | Clonidine HCl CF 0,150 mg, tabletten | CLONIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 129913//06055 | Clonidinehydrochloride Eureco-Pharma oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 120087//06055 | Catapresan, oplossing voor injectie 0,150 mg/ml | CLONIDINEHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De gegevens bevatten 1 vergunning; deze is volgens de lokale gegevens geschrapt. Raadpleeg het CBG-MEB voor de actuele status.
 

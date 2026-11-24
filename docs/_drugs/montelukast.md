@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 239
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L2). In Nederland, CBG-vergunningen: 34 (geldig: 33)"
@@ -102,21 +102,42 @@ Let op: de verschillende vormen verschillen sterk in pathofysiologie en mogen ni
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119166//23164 | Singulair 10 mg, filmomhulde tabletten (status: niet geregistreerd) | Filmomhulde tablet | – |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-montelukast-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 23164 | Singulair 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
+| RVG 23165 | Singulair 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 25800 | Singulair 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 100911 | Montelukast 10 mg Teva, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
+| RVG 100923 | Montelukast 4 mg Teva, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 100924 | Montelukast 5 mg Teva, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 102885 | Montelukast Sandoz 10 mg, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
+| RVG 103804 | Montelukast Sandoz kauwtablet 4 mg, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 103805 | Montelukast Sandoz kauwtablet 5 mg, kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 104604 | Singulair 4 mg granulaat | MONTELUKAST NATRIUM | Granulaat | Geldig |
+| RVG 104690 | Montelukast Viatris 10 mg, filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
+| RVG 104963 | Montelukast Glenmark 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
+| RVG 104974 | Montelukast Glenmark 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 104975 | Montelukast Glenmark 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 106626 | Montelukast Accord 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 106634 | Montelukast Accord 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 107185 | Montelukast Krka 4 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 107189 | Montelukast Krka 5 mg kauwtabletten | MONTELUKAST NATRIUM | Kauwtablet | Geldig |
+| RVG 107190 | Montelukast Krka 10 mg filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
+| RVG 108516 | Montelukast Accord 10 mg Filmomhulde tabletten | MONTELUKAST NATRIUM | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119166//23164 / Singulair 10 mg, filmomhulde tabletten (status: geldig) / Filmomhulde tablet / –” Gecorrigeerd: registratienummer RVG 119166//23164 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-montelukast-2 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De regionale beschikbaarheid moet worden bevestigd.
 
 <!-- review:begin nl-lic-20261112-montelukast-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één vergunning, en die is doorgehaald. De regionale beschikbaarheid moet worden bevestigd.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 34, waarvan geldig: 33; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één vergunning, en die is doorgehaald. De regionale beschikbaarheid moet worden bevestigd.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-montelukast-1 -->
 
@@ -154,8 +175,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Er is één vergunning, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119166//23164: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is één vergunning, en die is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119166//23164: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842) |
 
 <!-- review:end log -->

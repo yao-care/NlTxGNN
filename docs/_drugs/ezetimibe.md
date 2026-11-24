@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ezetimibe: voorspelde nieuwe indicatie Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokal…"
 ---
 
@@ -73,15 +73,38 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120037//28626 | Ezetrol 10 mg, tabletten | Tablet | – |
-| RVG 114010 | Ridutrin 40 mg/10 mg capsule, hard | Capsule | – |
-| RVG 120559//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | – |
-| RVG 114008 | Ridutrin 10 mg/10 mg capsule, hard | Capsule | – |
-| RVG 119659//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | – |
+<!-- licenses:begin -->
 
-De lijst toont de eerste 5 van de beschikbare vergunningen; indicatieteksten zijn in de lokale gegevens niet vastgelegd.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28626 | Ezetrol 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 113553 | Ezetimibe Viatris 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 113711 | Ezetimibe Sandoz 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 115256 | Ezetimibe Glenmark 10 mg tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 115415 | Ezetimibe Noucor 10 mg tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 116783 | Ezetimibe Teva 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 117229 | Ezetimibe Accord 10 mg tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 117623 | Ezetimibe CF 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 118541 | Ezetimibe Krka 10 mg tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 118587 | Ezdivule 10 mg omhulde tabletten | EZETIMIB | Omhulde tablet | Geldig |
+| RVG 118956 | Ezetimibe Medical Valley 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 120688 | Ezetimibe Aurobindo 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 120958 | Ezetimibe Aristo 10 mg tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 123146 | Ezetimibe Biohorm 10 mg tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 130330//28626 | Ezetrol 10 mg, tabletten | EZETIMIB | Tablet | Geldig |
+| RVG 131128 | Ezetimibe Vivanta 10 mg tabletten | EZETIMIB | Tablet | Geldig |
+| EU/1/20/1424 | Nustendi 180 mg/10 mg filmomhulde tabletten | BEMPEDOÏNEZUUR, EZETIMIB | Filmomhulde tablet | Geldig |
+| EU/1/26/2056 | Evlarco 10 mg/10 mg filmomhulde tabletten | EZETIMIB, OBICETRAPIB HEMICALCIUM | Filmomhulde tablet | Geldig |
+| RVG 30927 | Inegy 10/10, tabletten 10 mg/10 mg | EZETIMIB, SIMVASTATINE | Tablet | Geldig |
+| RVG 30928 | Inegy 10/20, tabletten 10 mg/20 mg | EZETIMIB, SIMVASTATINE | Tablet | Geldig |
+
+Getoond worden 20 van de 237 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Indicatieteksten zijn in de lokale gegevens niet vastgelegd.
 
 ## Veiligheidsoverwegingen
 

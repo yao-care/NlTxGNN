@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 223
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 description: "Metformin: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 123 (geldig: 120)"
@@ -85,7 +85,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261112-metformin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt: 3 van de 3 vergunningen zijn geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 123, waarvan geldig: 120; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt: 3 van de 3 vergunningen zijn geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-metformin-1 -->
 
@@ -93,11 +93,36 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 112562 | Metfocell 1000 mg, filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar |
-| RVG 103395 | Metformine HCl/Glibenclamide Sandoz 500/5 mg, filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar |
-| RVG 119302//27246 | Glucovance 500 mg/5 mg filmomhulde tabletten | Filmomhulde tablet | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 30293 | Metformine HCl Sandoz 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 31685 | Metformine HCl Aurobindo 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 31686 | Metformine HCl Aurobindo 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 31687 | Metformine HCl Aurobindo 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100915 | Metformine HCl Sandoz 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100934 | Metformine HCl Sandoz 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100935 | Metformine HCl 1A Pharma tablet 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100936 | Metformine HCl 1A Pharma tablet 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103638 | Metformine HCl Viatris 500 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103639 | Metformine HCl Viatris 850 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103640 | Metformine HCl Viatris 1000 mg, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 111960 | Metformine HCl 500 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 111961 | Metformine HCl 850 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 111972 | Metformine HCl 1000 mg Teva, filmomhulde tabletten | METFORMINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 121455 | Glucient SR 1000 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 121458 | Glucient SR 750 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 122766 | Glucient SR 500 mg, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 123374 | Metformine HCl 1000 mg Focus, tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 124743 | Metformine hydrochloride Inventia 500 mg tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 124748 | Metformine hydrochloride Inventia 750 mg tabletten met verlengde afgifte | METFORMINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+
+Getoond worden 20 van de 123 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -135,7 +160,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het middel is in Nederland op de markt: 3 van de 3 vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het middel is in Nederland op de markt: 3 van de 3 vergunningen zijn geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

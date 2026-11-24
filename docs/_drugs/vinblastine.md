@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 342
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 description: "Vinblastine: voorspelde nieuwe indicatie Rhabdomyosarcoom (rhabdomyosarcoma (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 1 (geldig: 1)"
@@ -76,9 +76,15 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 101349 | Vinblastinesulfaat 1 mg/ml PCH, oplossing voor injectie (geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 101349 | Vinblastinesulfaat 1 mg/ml PCH, oplossing voor injectie | VINBLASTINESULFAAT | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De marktstatus is "In de handel"; de vergunning is geldig. Het CBG-MEB is de nationale vergunningsautoriteit.
 

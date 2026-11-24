@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 204
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Levocarnitine"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
 description: "Levocarnitine: voorspelde nieuwe indicatie Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de l…"
@@ -76,7 +76,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261106-levocarnitine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning voor deze stof en de status is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning voor deze stof en de status is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-levocarnitine-1 -->
 
@@ -84,9 +84,25 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 102436//11193 | Levocarnitine ERC drank 1 g/10 ml, drank | Drank (volgens productnaam) | Niet beschikbaar (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 11192 | Carnitene, 200 mg/ml oplossing voor injectie | LEVOCARNITINE | Oplossing voor injectie | Geldig |
+| RVG 11193 | Carnitene, 100 mg/ml drank | LEVOCARNITINE | Drank | Geldig |
+| RVG 11194 | Carnitene, 330 mg tabletten | LEVOCARNITINE | Tablet | Geldig |
+| RVG 31637 | Nefrocarnit 1000 mg/5 ml Injectievloeistof, oplossing voor injectie 200 mg/ml | LEVOCARNITINE | Oplossing voor injectie | Geldig |
+| RVG 100232//11193 | Levocarnitine, drank 1 g/10 ml | LEVOCARNITINE | Drank | Geldig |
+| RVG 102436//11193 | Levocarnitine ERC drank 1 g/10 ml, drank | LEVOCARNITINE | Drank | Geldig |
+| RVG 125461 | Carneus 1 g/10 ml drank | LEVOCARNITINE | Drank | Geldig |
+| RVG 125509//11192 | Levocarnitine Eureco-Pharma 200 mg/ml, oplossing voor injectie (1 g/5 ml) | LEVOCARNITINE | Oplossing voor injectie | Geldig |
+| RVG 127084//11193 | Levocarnitine Eureco-Pharma 100 mg/ml, drank | LEVOCARNITINE | Drank | Geldig |
+| RVG 129568//11192 | Levocarnitine ERC 200 mg/ml, oplossing voor injectie | LEVOCARNITINE | Oplossing voor injectie | Geldig |
+| RVG 133937 | Levocarnitine Expharma 330 mg, filmomhulde tabletten | LEVOCARNITINE | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -109,7 +125,7 @@ Voor de bijsluiterinformatie van het CBG-MEB (waarschuwingen en contra-indicatie
 
 <!-- review:begin nl-lic-20261106-levocarnitine-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning is ingetrokken en de veiligheidsinformatie uit de bijsluiter ontbreekt.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning is ingetrokken en de veiligheidsinformatie uit de bijsluiter ontbreekt.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-levocarnitine-2 -->
 
@@ -129,8 +145,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Dit is de enige vergunning voor deze stof en de status is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is ingetrokken en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Dit is de enige vergunning voor deze stof en de status is ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is ingetrokken en d” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

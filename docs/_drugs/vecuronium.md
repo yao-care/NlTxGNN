@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 340
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vecuronium: voorspelde nieuwe indicatie Slapeloosheid (insomnia) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (indicatietekst ontbr…"
 monitor_inn: "Vecuronium"
 predicted_indications: ["insomnia (disease)", "irritable bowel syndrome"]
@@ -82,9 +82,15 @@ Momenteel is er geen relevante literatuur beschikbaar.
 
 ## Marktinformatie Nederland
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118278 | Vecuronium SUN 10 mg poeder voor oplossing voor injectie en intraveneuze infusie (status: geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 118278 | Vecuronium SUN 10 mg poeder voor oplossing voor injectie en intraveneuze infusie | VECURONIUM BROMIDE | Poeder voor oplossing voor injectie of infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -109,7 +115,7 @@ Voor waarschuwingen en contra-indicaties zijn geen gegevens beschikbaar. Raadple
 
 <!-- review:begin nl-lic-20261106-vecuronium-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het werkingsmechanisme van vecuronium (verlamming zonder sedatie) staat haaks op een therapeutisch effect bij slapeloosheid. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-vecuronium-1 -->
 
@@ -127,7 +133,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: vecuronium bromide prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b012b1b1-9e59-4525-8f4d-dae98344d15f) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cimetidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Cimetidine: voorspelde nieuwe indicatie Maagzweerperforatie (peptic ulcer perforation) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 
@@ -79,9 +79,18 @@ Geen van de publicaties betreft een gecontroleerde studie naar cimetidine als be
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 56339 | Cimetidine CF 400 mg, tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 24021 | Cimetidine Accord 200 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Geldig |
+| RVG 24022 | Cimetidine Accord 400 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Geldig |
+| RVG 24023 | Cimetidine Accord 800 mg, filmomhulde tabletten | CIMETIDINE | Filmomhulde tablet | Geldig |
+| RVG 56339 | Cimetidine CF 400 mg, tabletten | CIMETIDINE | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

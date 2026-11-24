@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 234 (geldig: 234)"
@@ -82,9 +82,36 @@ De enige gevonden publicatie betreft een ander geneesmiddel en een preklinisch m
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114052 | Valsartan Jubilant 320 mg filmomhulde tabletten (vergunning geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 26939 | Diovan 80, 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 26940 | Diovan 160, 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 34472 | Diovan 320, 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 102762 | Valsartan 80 mg tabletten PCH, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 102764 | Valsartan 160 mg tabletten PCH, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103732 | Valsartan CF 40 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103736 | Valsartan CF 80 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103737 | Valsartan CF 160 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103738 | Valsartan CF 320 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103974 | Vagrecor 40 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103975 | Vagrecor 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103976 | Vagrecor 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103977 | Vagrecor 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103978 | Valsartan Xiromed 40 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103979 | Valsartan Xiromed 80 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103980 | Valsartan Xiromed 160 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 103981 | Valsartan Xiromed 320 mg filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 104962 | Valsartan Sandoz 40 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 104965 | Valsartan Sandoz 80 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+| RVG 104967 | Valsartan Sandoz 160 mg, filmomhulde tabletten | VALSARTAN | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 234 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

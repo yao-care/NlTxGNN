@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "cyclophosphamide"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclophosphamide: voorspelde nieuwe indicatie Wervelafwijkingen met variabele endocriene en T-celdysfunctie (vertebral anomalies and variable endocrine and T-cell dysfunction) (bewijsniveau L5)."
 ---
 
@@ -80,9 +80,32 @@ Momenteel geen gerelateerde literatuur beschikbaar voor deze voorspelde indicati
 
 Het CBG-MEB registreert voor dit geneesmiddel één vergunning, die geldig is. De goedgekeurde indicatietekst is niet vastgelegd in de lokale gegevens.
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113724 | Cyclofosfamide Cadiasun 2 g, poeder voor oplossing voor injectie | Poeder voor oplossing voor injectie | Niet vastgelegd in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 01155 | Endoxan omhulde tablet, omhulde tabletten 50 mg | CYCLOFOSFAMIDE 1-WATER | Omhulde tablet | Geldig |
+| RVG 08058 | Endoxan I.V., poeder voor oplossing voor injectie (lyofilisaat) 200 mg, 500 mg,… | CYCLOFOSFAMIDE 1-WATER, CYCLOFOSFAMIDE 1-WATER, CYCLOFOSFAMIDE 1-WATER, CYCLOFO… | Poeder voor oplossing voor injectie | Geldig |
+| RVG 114049 | Cyclofosfamide Sandoz 500 mg, poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 114050 | Cyclofosfamide Sandoz 1000 mg, poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 114051 | Cyclofosfamide Sandoz 2000 mg, poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 126404 | Cyclofosfamide Accord 500 mg, poeder voor oplossing voor injectie / infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie, Poeder voor… | Geldig |
+| RVG 126406 | Cyclofosfamide Accord 1000 mg, poeder voor oplossing voor injectie / infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie, Poeder voor… | Geldig |
+| RVG 127251 | Cyclofosfamide Accord 2000 mg, poeder voor oplossing voor injectie / infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 131346 | Cyclofosfamide Seacross 500 mg poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 131347 | Cyclofosfamide Seacross 1000 mg poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 131348 | Cyclofosfamide Seacross 2000 mg poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 131756//01155 | Endoxan 50 mg omhulde tabletten | CYCLOFOSFAMIDE 1-WATER | Omhulde tablet | Geldig |
+| RVG 133269 | Cyclofosfamide Hikma 200 mg poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 133270 | Cyclofosfamide Hikma 500 mg poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 133271 | Cyclofosfamide Hikma 1000 mg poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 133274 | Cyclofosfamide Hikma 2000 mg poeder voor oplossing voor injectie/infusie | CYCLOFOSFAMIDE 1-WATER | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 135796//01155 | Endoxan omhulde tablet, omhulde tabletten 50 mg | CYCLOFOSFAMIDE 1-WATER | Omhulde tablet | Geldig |
+| RVG 113724 | Cyclofosfamide Cadiasun 2 g, poeder voor oplossing voor injectie | CYCLOFOSFAMIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

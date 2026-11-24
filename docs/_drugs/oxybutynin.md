@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 description: "Oxybutynin: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 17)"
@@ -90,15 +90,37 @@ Ter context: voor de derde voorspelde indicatie (maagzweerziekte) zijn wel drie 
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 104980 | Oxybutynine HCl 5 mg ICC, tabletten (geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/03/270 | Kentera 3,9 mg / 24 uur, pleister voor transdermaal gebruik | OXYBUTYNINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 10528 | Dridase, stroop | OXYBUTYNINEHYDROCHLORIDE | Stroop | Geldig |
+| RVG 20796 | Oxybutyninehydrochloride Unichem 2,5 mg tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 20797 | Oxybutyninehydrochloride Unichem 5 mg tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 22822 | Oxybutynine HCl Viatris 2,5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 22823 | Oxybutynine HCl Viatris 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 23879 | Oxybutynine HCl Accord 5 mg Tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 23950 | Oxybutynine HCl Teva 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 24081 | Oxybutynine HCl Accord 2,5 mg Tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 25156 | Oxybutynine HCl Auro 2,5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 25157 | Oxybutynine HCl Auro 5 mg, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 104979 | Oxybutynine HCl 2,5 mg ICC, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 104980 | Oxybutynine HCl 5 mg ICC, tabletten | OXYBUTYNINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 121012 | VESOLOX 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Geldig |
+| RVG 127029 | Velariq 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Geldig |
+| RVG 127448 | Oxybutynine HCl Unimedic 0,5 mg/ml, oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Geldig |
+| RVG 134221//127029 | Velariq 1 mg/ml oplossing voor intravesicaal gebruik | OXYBUTYNINEHYDROCHLORIDE | Oplossing voor intravesicaal gebruik | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het middel is in Nederland op de markt.
 
 <!-- review:begin nl-lic-20261112-oxybutynin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB. Het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB. Het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-oxybutynin-1 -->
 
@@ -127,7 +149,7 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 
 <!-- review:begin nl-lic-20261112-oxybutynin-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een plausibel mechanisme ontbreekt, en anticholinergica kunnen de klachten mogelijk verergeren. Het middel is in Nederland wel op de markt, met 1 geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een plausibel mechanisme ontbreekt, en anticholinergica kunnen de klachten mogelijk verergeren. Het middel is in Nederland wel op de markt, met 1 geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-oxybutynin-2 -->
 
@@ -146,8 +168,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Het middel is in Nederland wel op de markt, met 1 geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1 in totaal) voor oxybutynine in de data van het CBG-MEB” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het middel is in Nederland wel op de markt, met 1 geldige vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
 
 <!-- review:end log -->

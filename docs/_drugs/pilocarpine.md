@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 268
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Pilocarpine: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -72,9 +72,20 @@ De kandidaten die het TxGNN-model voor Pilocarpine genereerde, zijn voor zover z
 
 ## Informatie over de Nederlandse markt
 
-| Registratie | Product | Toedieningsvorm | Status |
-|------|------|------|------|
-| RVG 117178//21111 | Salagen 5 mg, filmomhulde tabletten |  | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 09368 | Minims Pilocarpinenitraat 20 mg/ml, oogdruppels, oplossing | PILOCARPINE NITRAAT | Oogdruppels, oplossing | Geldig |
+| RVG 21111 | Salagen 5 mg filmomhulde tabletten | PILOCARPINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 123101//21111 | Salagen 5 mg, filmomhulde tabletten | PILOCARPINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 128402//21111 | Salagen 5 mg filmomhulde tabletten | PILOCARPINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 135002//21111 | Salagen 5 mg filmomhulde tabletten | PILOCARPINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 117178//21111 | Salagen 5 mg, filmomhulde tabletten | PILOCARPINEHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 247
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Norgestimate: voorspelde nieuwe indicatie Verhoogd zinkgehalte in plasma (bewijsniveau L5). Oorspronkelijke indicatie: Acne, postmenopauzale osteoporose, osteoporose, atrofische vaginitis"
 monitor_inn: "norgestimate"
 predicted_indications: ["zinc, elevated plasma"]
@@ -80,15 +80,16 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten (niet geregistreerd) | Filmomhulde tabletten | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-norgestimate-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 121703 | Norgestimaat/Ethinylestradiol Xiromed 0,25 mg/0,035 mg tabletten | ETHINYLESTRADIOL, NORGESTIMAAT | Tablet | Geldig |
+| RVG 119603//12846 | Cilest 0,250/0,035 mg, filmomhulde tabletten | ETHINYLESTRADIOL, NORGESTIMAAT | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119603//12846 / Cilest 0,250/0,035 mg, filmomhulde tabletten (geldig) / Filmomhulde tabletten / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 119603//12846 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-norgestimate-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -110,7 +111,7 @@ De voorspelling berust uitsluitend op een model (L5), zonder klinische of litera
 
 <!-- review:begin nl-lic-20261112-norgestimate-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een verhoogd plasmazink is bovendien geen duidelijke behandelbare ziekte. Het enige Nederlandse product is ingetrokken en de veiligheidsgegevens uit de officiële productinformatie ontbreken, waardoor veiligheidsscreening nog niet mogelijk is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 2, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een verhoogd plasmazink is bovendien geen duidelijke behandelbare ziekte. Het enige Nederlandse product is ingetrokken en de veiligheidsgegevens uit de officiële productinformatie ontbreken, waardoor veiligheidsscreening nog niet mogelijk is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-norgestimate-1 -->
 
@@ -129,8 +130,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het enige Nederlandse product is ingetrokken en de veiligheidsgegevens uit de officiële productinformatie ontbreken, waardoor veiligheidsscr” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119603//12846: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het enige Nederlandse product is ingetrokken en de veiligheidsgegevens uit de officiële productinformatie ontbreken, waardoor veiligheidsscr” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119603//12846: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

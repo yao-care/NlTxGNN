@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tetrabenazine: voorspelde nieuwe indicatie Polycysteuze nierziekte 3 met of zonder polycysteuze leverziekte (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Huntington (en aanverwante syndrom…"
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
@@ -78,15 +78,27 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 117369 | Tetrabenazine SUN 25 mg tabletten (status: geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 29852 | Xenazine 25, tabletten 25 mg | TETRABENAZINE | Tablet | Geldig |
+| RVG 102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Geldig |
+| RVG 117367 | Tetrabenazine SUN 12,5 mg tabletten | TETRABENAZINE | Tablet | Geldig |
+| RVG 117369 | Tetrabenazine SUN 25 mg tabletten | TETRABENAZINE | Tablet | Geldig |
+| RVG 129402//102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Geldig |
+| RVG 135867//102458 | Tetmodis 25 mg, tabletten | TETRABENAZINE | Tablet | Geldig |
+| RVG 136940//102458 | Tetmodis 25 mg tabletten | TETRABENAZINE | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Tetrabenazine is momenteel op de Nederlandse markt.
 
 <!-- review:begin nl-lic-20261112-tetrabenazine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning van 1 bij het CBG-MEB; tetrabenazine is momenteel op de Nederlandse markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 7, waarvan geldig: 7; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning van 1 bij het CBG-MEB; tetrabenazine is momenteel op de Nederlandse markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tetrabenazine-1 -->
 
@@ -114,7 +126,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 <!-- review:begin nl-lic-20261106-tetrabenazine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur, en er is geen plausibel mechanistisch verband tussen VMAT2-remming en deze indicatie. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op het model (bewijsniveau L5), zonder klinische studies of literatuur, en er is geen plausibel mechanistisch verband tussen VMAT2-remming en deze indicatie. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-tetrabenazine-1 -->
 
@@ -132,8 +144,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning van 1 bij het CBG-MEB; t” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning van 1 bij het CBG-MEB; t” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

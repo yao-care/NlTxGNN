@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 267
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 15 (geldig: 15)"
@@ -88,10 +88,29 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117640 | Fenylefrine Unimedic 0,1 mg/ml, oplossing voor injectie (geldig) | Oplossing voor injectie | Niet beschikbaar |
-| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie (geldig) | Oplossing voor injectie | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 01728 | Monofree Fenylefrine HCl 5%, oogdruppels 50 mg/ml | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 09366 | Minims Fenylefrinehydrochloride 100 mg/ml, oogdruppels, oplossing | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 14872 | Minims Fenylefrinehydrochloride 25 mg/ml, oogdruppels, oplossing | FENYLEFRINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 115929 | Fenylefrine Aguettant 50 microgram/ml, oplossing voor injectie in voorgevulde s… | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 117234 | Fenylefrine Added Pharma 50 microgram/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 117236 | Fenylefrine Added Pharma 100 microgram/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 117640 | Fenylefrine Unimedic 0,1 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 119736 | Fenylefrine Unimedic 10 mg/ml, concentraat voor oplossing voor injectie/infusie | FENYLEFRINEHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | Geldig |
+| RVG 124494 | Fenylefrine Aguettant 100 microgram/ml oplossing voor injectie of infusie | FENYLEFRINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
+| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER, FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Oplossing voor injectie | Geldig |
+| RVG 132181//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
+| RVG 135130//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
+| RVG 136928//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
+| RVG 136929//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergunningen voor fenylefrine als enkelvoudig of gecombineerd product.
 
@@ -119,7 +138,7 @@ De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties
 
 <!-- review:begin nl-lic-20261106-phenylephrine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties, maar er zijn geen geregistreerde klinische studies, het bewijs is indirect (L4), en beide Nederlandse registraties zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties, maar er zijn geen geregistreerde klinische studies, het bewijs is indirect (L4), en beide Nederlandse registraties zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-phenylephrine-1 -->
 
@@ -138,7 +157,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “en beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “en beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
 
 <!-- review:end log -->

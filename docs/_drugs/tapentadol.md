@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 309
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tapentadol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde data"
 monitor_inn: "tapentadol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -75,9 +75,36 @@ Voor de hoofdvoorspelling (migraine) is geen literatuur beschikbaar. Voor de ver
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 110731 | Palexia Retard 250 mg tabletten met verlengde afgifte (status: geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 110721 | Palexia 50 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 110722 | Palexia 75 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 110723 | Palexia 100 mg, filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 110724 | Palexia Retard 50 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 110728 | Palexia Retard 100 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 110729 | Palexia Retard 150 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 110730 | Palexia Retard 200 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 110731 | Palexia Retard 250 mg tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 120262 | Palexia Retard 25 mg, tabletten met verlengde afgifte | TAPENTADOLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 120265 | Palexia 4 mg/ml drank | TAPENTADOLHYDROCHLORIDE | Drank | Geldig |
+| RVG 120266 | Palexia 20 mg/ml drank | TAPENTADOLHYDROCHLORIDE | Drank | Geldig |
+| RVG 128166 | Tapentadol Retard Xiromed 25 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 128167 | Tapentadol Retard Xiromed 50 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 128168 | Tapentadol Retard Xiromed 100 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 128169 | Tapentadol Retard Xiromed 150 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 128170 | Tapentadol Retard Xiromed 200 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 128171 | Tapentadol Retard Xiromed 250 mg tabletten met verlengde afgifte | TAPENTADOLTARTRAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 129332 | Dolten 50 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 129334 | Dolten 75 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 129335 | Dolten 100 mg filmomhulde tabletten | TAPENTADOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 26 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -95,7 +122,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 <!-- review:begin nl-lic-20261106-tapentadol-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Opioïden worden bij migraine bovendien in het algemeen afgeraden. De enige Nederlandse registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Opioïden worden bij migraine bovendien in het algemeen afgeraden. De enige Nederlandse registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-tapentadol-1 -->
 
@@ -114,7 +141,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nucynta (tapentadol hydrochloride) prescribing information, Collegium Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80938c30-9fe3-4c7d-9d9c-5476638cfb2d) |
 
 <!-- review:end log -->

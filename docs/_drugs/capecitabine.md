@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Capecitabine: voorspelde nieuwe indicatie Gastrisch adenocarcinoom en proximale poliepose van de maag (gastric adenocarcinoma and proximal polyposis of the stoma… (bewijsniveau L5). Oorspronkelijke i…"
 ---
 
@@ -80,9 +80,33 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116927 | Capecitabine Mylan 500 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/00/163 | Xeloda 150 mg filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| EU/1/12/761 | Capecitabine Teva 500 mg filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| EU/1/12/762 | Capecitabine Accord 150 mg | CAPECITABINE | Filmomhulde tablet | Geldig |
+| EU/1/12/763 | Ecansya 500 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| EU/1/12/802 | Capecitabine medac 150 mg filmomhulde tablet | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 109386 | Capecitabine CF 150 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 109393 | Capecitabine CF 500 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 110067 | Coloxet 150 mg filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 110068 | Coloxet 300 mg filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 110069 | Coloxet 500 mg filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 110880 | Capecitabine Sandoz 150 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 110881 | Capecitabine Sandoz 500 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 110882 | Capecitabine Sandoz 150 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 110883 | Capecitabine Sandoz 500 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 128812 | Capecitabine Amarox 150 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 128813 | Capecitabine Amarox 500 mg, filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 130923 | Capecitabine Glenmark 150 mg filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 130924 | Capecitabine Glenmark 500 mg filmomhulde tabletten | CAPECITABINE | Filmomhulde tablet | Geldig |
+| RVG 116927 | Capecitabine Mylan 500 mg, filmomhulde tabletten | CAPECITABINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Epirubicin: voorspelde nieuwe indicatie Primair pulmonaal lymfoom (primary pulmonary lymphoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)"
 ---
 
@@ -77,9 +77,18 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 Marktstatus: **in de handel**. Dosisvorm en goedgekeurde indicatietekst zijn in de lokale gegevens niet vastgelegd.
 
-| RVG-nummer | Productnaam |
-|---------|------|
-| RVG 103859 | Epirubicinehydrochloride Fresenius Kabi 2 mg/ml, oplossing voor injectie of infusie |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 100134 | Epirubicinehydrochloride Accord 2 mg/ml oplossing voor injectie of infusie | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 101490 | Epirubicine HCl Pharmachemie 2 mg/ml, oplossing voor injectie of intraveneuze i… | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 101743 | Epirubicine Hikma 2 mg/ml, oplossing voor injectie | EPIRUBICINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 103859 | Epirubicinehydrochloride Fresenius Kabi 2 mg/ml, oplossing voor injectie of inf… | EPIRUBICINEHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Cytotoxiciteit
 

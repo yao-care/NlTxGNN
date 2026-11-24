@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 250
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "octreotide"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 description: "Octreotide: voorspelde nieuwe indicatie Vulvaire inverted follicular keratosis (vulvar inverted follicular keratosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 27 (geldig: 27)"
@@ -78,7 +78,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261106-octreotide-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is één vergunning, en deze is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is één vergunning, en deze is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-octreotide-1 -->
 
@@ -86,9 +86,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120241//18236 | Sandostatine LAR 20 mg | Niet vermeld | Niet vermeld (status: geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/25/1938 | Oczyesa 20 mg oplossing voor injectie met verlengde afgifte in een voorgevulde… | OCTREOTIDEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 18235 | Sandostatine LAR 10 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 18236 | Sandostatine LAR 20 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 18237 | Sandostatine LAR 30 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 32592 | Octreotide Sandoz 0,05 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 32593 | Octreotide Sandoz 0,1 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 32594 | Octreotide Sandoz 0,5 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 33390 | Octreotide Bendalis 0,05 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 33391 | Octreotide Bendalis 0,1 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 33392 | Octreotide Bendalis 0,5 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 33798 | Octreotide Bendalis 0,2 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 34198 | Octreotide Sandoz 0,2 mg/ml, oplossing voor injectie | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 112909 | Siroctid 0,05 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 112910 | Siroctid 0,1 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 112911 | Siroctid 0,5 mg/ml oplossing voor injectie in een voorgevulde spuit | OCTREOTIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 120241//18236 | Sandostatine LAR 20 mg | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 120963//18237 | Sandostatine LAR 30 mg, poeder en oplosmiddel voor suspensie voor injectie | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 122162 | Octreotide depot Teva 10 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 122164 | Octreotide depot Teva 20 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 122165 | Octreotide depot Teva 30 mg, poeder en oplosmiddel voor suspensie voor injectie… | OCTREOTIDEACETAAT | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+
+Getoond worden 20 van de 27 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,7 +141,7 @@ Voor de officiële waarschuwingen en contra-indicaties raadpleeg de SmPC en de b
 
 <!-- review:begin nl-lic-20261106-octreotide-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op een hoge modelscore, zonder klinische studies of literatuur (L5). Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een grote interactielast en is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op een hoge modelscore, zonder klinische studies of literatuur (L5). Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een grote interactielast en is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-octreotide-2 -->
 
@@ -133,8 +160,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Er is één vergunning, en deze is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een grote interactielast en is de enige Nederlandse” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Er is één vergunning, en deze is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarbij is de voorspelde indicatie goedaardig met effectieve lokale behandelingen, is er een grote interactielast en is de enige Nederlandse” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39) |
 
 <!-- review:end log -->

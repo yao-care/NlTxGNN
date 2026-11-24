@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Cytarabine"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cytarabine: voorspelde nieuwe indicatie Kleincellig longcarcinoom (small cell lung carcinoma) (bewijsniveau L3). In Nederland, CBG-vergunningen: 6 (geldig: 6)"
 ---
 
@@ -88,9 +88,20 @@ De overige gevonden publicaties gaan over andere ziektebeelden, andere middelen 
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 112666 | Cytarabine Accord 100 mg/ml, oplossing voor injectie of infusie | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 22860 | Cytarabine Hospira 100 mg/5 ml Onco-Tain, oplossing voor injectie 20 mg/ml | CYTARABINE | Oplossing voor injectie | Geldig |
+| RVG 22863 | Cytarabine Hospira 1000 mg/10 ml Onco-Tain, concentraat voor oplossing voor inf… | CYTARABINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 22864 | Cytarabine Hospira 2000 mg/20 ml Onco-Tain, concentraat voor oplossing voor inf… | CYTARABINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 109248 | Cytarabine Fresenius Kabi 100 mg/ml oplossing voor injectie of infusie | CYTARABINE | Oplossing voor injectie of infusie | Geldig |
+| RVG 112666 | Cytarabine Accord 100 mg/ml, oplossing voor injectie of infusie | CYTARABINE | Oplossing voor injectie of infusie | Geldig |
+| EU/1/18/1308 | Vyxeos liposomal 44 mg/100 mg poeder voor concentraat voor oplossing voor infus… | CYTARABINE, DAUNORUBICINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het CBG-MEB registreert 1 vergunning, die geldig is.
 

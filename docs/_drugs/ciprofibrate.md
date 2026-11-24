@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ciprofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "fibroma of prostate"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciprofibrate: voorspelde nieuwe indicatie Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lo…"
 ---
 
@@ -84,11 +84,18 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 111600 | Ciprofibraat Amdipharm 100 mg tabletten | Tablet | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
 
-Het product is in de handel in Nederland (CBG-MEB). De lijst is volledig.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 17863 | Modalim, tabletten 100 mg | CIPROFIBRAAT | Tablet | Geldig |
+| RVG 111600 | Ciprofibraat Amdipharm 100 mg tabletten | CIPROFIBRAAT | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Het product is in de handel in Nederland (CBG-MEB).
 
 ---
 

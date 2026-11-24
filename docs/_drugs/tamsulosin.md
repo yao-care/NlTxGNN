@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tamsulosin: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Benigne prostaathyperplasie (BPH)"
 monitor_inn: "tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
@@ -78,17 +78,40 @@ Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikba
 
 <!-- review:begin nl-lic-20261112-tamsulosin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 58, waarvan geldig: 56; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tamsulosin-1 -->
 
-| RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119227//30565 | Omnic Ocas 0,4, tabletten met verlengde afgifte 0,4 mg | Tablet met verlengde afgifte | Niet beschikbaar |
-| RVG 104130 | Combodart 0,5 mg/0,4 mg, harde capsules | Harde capsule | Niet beschikbaar |
-| RVG 116881//104130 | Dutasteride/tamsulosinehydrochloride Fisher 0,5 mg/0,4 mg, harde capsules | Harde capsule | Niet beschikbaar |
-| RVG 119725//111622 | Vesomni 6 mg/0,4 mg, tabletten met gereguleerde afgifte | Tablet met gereguleerde afgifte | Niet beschikbaar |
-| RVG 114181 | Volutsa 6 mg/0,4 mg tabletten met gereguleerde afgifte | Tablet met gereguleerde afgifte | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 17931 | Omnic 0,4, capsules met gereguleerde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 29682 | Tamsulosini Hydrochloridum, capsules met gereguleerde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 30565 | Omnic Ocas 0,4, tabletten met verlengde afgifte 0,4 mg | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 32576 | Tamsulosine hydrochloride Genthon 0,4 mg, harde capsules met gereguleerde afgif… | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 32577 | Tamsulosine HCl Retard Viatris 0,4 mg, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 32583 | Tamsulijn 0,4 mg, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 32584 | Tamsulosine HCl retard 0,4 mg Teva, harde capsules met gereguleerde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 34075 | Tamsulosine HCl SUN 0,4 mg , capsules met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 103584 | Tamsulosine HCl Sandoz retard tablet 0,4 mg, filmomhulde tabletten met verlengd… | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106163 | Taluso 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106164 | Talpro 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106165 | Tamsulosine HCl Retard Viatris 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106166 | Tamsulosine HCl Krka 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106170 | Protam 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106171 | Tamagsyn 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106172 | Tamsulosine HCl ratiopharm 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106173 | Tamsulosine HCl Synthon 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 106176 | Tamsuda 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 109375 | Tamsulosine HCl Aurobindo 0,4 mg, capsules met gereguleerde afgifte, hard | TAMSULOSINEHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 114204 | Tamsulosine HCl Zentiva 0,4 mg, tabletten met verlengde afgifte | TAMSULOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+
+Getoond worden 20 van de 58 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -106,7 +129,7 @@ De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zond
 
 <!-- review:begin nl-lic-20261112-tamsulosin-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zonder klinische studies, zonder literatuur en zonder plausibel farmacologisch mechanisme. Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 58, waarvan geldig: 56; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op het TxGNN-model (deep learning) (L5), zonder klinische studies, zonder literatuur en zonder plausibel farmacologisch mechanisme. Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tamsulosin-2 -->
 
@@ -130,8 +153,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | Verwijderd: “, gezien de ingetrokken vergunningsstatus” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f) |
 

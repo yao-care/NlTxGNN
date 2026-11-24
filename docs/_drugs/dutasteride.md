@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 125
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dutasteride: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Benigne prostaathyperplasie"
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
@@ -76,15 +76,37 @@ Deze publicatie betreft niet de primair voorspelde indicatie en is slechts indir
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118176 | Dutasteride 0,5 mg Teva, zachte capsules | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
 
-Deze vergunning is **geldig** en het middel is in de handel.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28317 | Avodart 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
+| RVG 32039//28317 | Avodart, zachte capsules 0,5 mg | DUTASTERIDE | Capsule, zacht | Geldig |
+| RVG 113598 | Dutasteride Teva 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
+| RVG 116317 | Dutasteride Strides 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
+| RVG 117221 | Dutasteride Xiromed 0,5 mg zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
+| RVG 117492 | Dutasteride Sandoz 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
+| RVG 119311 | Dutasteride Aurobindo 0,5 mg, zachte capsules | DUTASTERIDE | Capsule, zacht | Geldig |
+| RVG 104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 123100 | Dutasteride/Tamsulosine HCl Xiromed 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 123106 | Dutasteride/Tamsulosine HCl Viatris 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 123117 | Dutasteride/Tamsolusine HCl Aurobindo 0,5/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 123561 | Dutasteride/Tamsulosinehydrochloride Teva 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 123562 | Dutasteride/Tamsulosinehydrochloride Teva 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 126172 | Dutasteride/Tamsulosine HCl Sandoz 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 126701//104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 128295//104130 | Combodart 0,5 mg/0,4 mg, harde capsules | DUTASTERIDE, TAMSULOSINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 118176 | Dutasteride 0,5 mg Teva, zachte capsules | DUTASTERIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Bij het CBG-MEB zijn geldige vergunningen geregistreerd en het middel is in de handel (actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie).
 
 <!-- review:begin nl-lic-20261112-dutasteride-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Deze vergunning is **geldig**; er is momenteel 1 geldige vergunning (van 1) in de samengestelde data en het middel is in de handel.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 16; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze vergunning is **geldig**; er is momenteel 1 geldige vergunning (van 1) in de samengestelde data en het middel is in de handel.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-dutasteride-1 -->
 
@@ -104,7 +126,7 @@ De voorspelling berust uitsluitend op het model (evidentieniveau L5), zonder kli
 
 <!-- review:begin nl-lic-20261112-dutasteride-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op het model (evidentieniveau L5), zonder klinische studies of directe literatuur. Daarnaast is de enige Nederlandse vergunning ingetrokken en ontbreken zowel mechanistische gegevens als officiële veiligheidsinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 16; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling berust uitsluitend op het model (evidentieniveau L5), zonder klinische studies of directe literatuur. Daarnaast is de enige Nederlandse vergunning ingetrokken en ontbreken zowel mechanistische gegevens als officiële veiligheidsinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-dutasteride-2 -->
 
@@ -116,7 +138,7 @@ De voorspelling berust uitsluitend op het model (evidentieniveau L5), zonder kli
 
 <!-- review:begin nl-lic-20261112-dutasteride-3 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordelen of de voorspelling (overmatige haargroei) biologisch consistent is met het bekende effect van het middel op haarfollikels / Toedieningsroute en beschikbaarheid in Nederland nagaan, gezien de ingetrokken vergunning” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 16; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordelen of de voorspelling (overmatige haargroei) biologisch consistent is met het bekende effect van het middel op haarfollikels / Toedieningsroute en beschikbaarheid in Nederland nagaan, gezien de ingetrokken vergunning” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-dutasteride-3 -->
 
@@ -128,9 +150,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “er is momenteel 1 geldige vergunning (van 1) in de samengestelde data” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning ingetrokken en ontbreken zowel mechanistische gegevens als officiële veiligheidsinformatie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Toedieningsroute en beschikbaarheid in Nederland nagaan, gezien de ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “er is momenteel 1 geldige vergunning (van 1) in de samengestelde data” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning ingetrokken en ontbreken zowel mechanistische gegevens als officiële veiligheidsinformatie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Toedieningsroute en beschikbaarheid in Nederland nagaan, gezien de ingetrokken vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
 
 <!-- review:end log -->

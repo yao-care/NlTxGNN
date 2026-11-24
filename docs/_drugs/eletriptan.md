@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "eletriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eletriptan: voorspelde nieuwe indicatie Atrofoderma vermiculata (atrophoderma vermiculata) (bewijsniveau L5). In Nederland, CBG-vergunningen: 10 (geldig: 9)"
 ---
 
@@ -67,6 +67,25 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
+
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 26578 | Relpax 20, filmomhulde tabletten 20 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 112571 | Eletriptan Viatris 20 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 112572 | Eletriptan Viatris 40 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 114825 | ELETRIPTAN Biogaran 20 mg filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 114826 | ELETRIPTAN Biogaran 40 mg filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 121865 | Eletriptan Aurobindo 40 mg, filmomhulde tabletten | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 128113//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 131997//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 120564//26579 | Relpax 40, filmomhulde tabletten 40 mg | ELETRIPTANHYDROBROMIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (product: Relpax 40, filmomhulde tabletten 40 mg). Doseringsvorm en geregistreerde indicatietekst zijn niet vastgelegd in de lokale gegevens. Raadpleeg voor de actuele registratiestatus de CBG-MEB-database en de SmPC.
 

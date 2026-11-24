@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clozapine: voorspelde nieuwe indicatie Manische bipolaire stoornis (manic bipolar affective disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 47 (geldig: 46)"
 ---
 
@@ -80,9 +80,36 @@ Het bewijs ondersteunt dit vooral bij behandelresistente bipolaire stoornis. Een
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118549//10460 | Leponex 100 mg tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 10459 | Leponex 25 mg tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 10460 | Leponex 100 mg tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 21823 | Clozapine 25 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 21824 | Clozapine 50 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 21825 | Clozapine 100 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 23635=21823 | Clozapine Mylan 25 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 23636=21825 | Clozapine Mylan 100 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 23677=21823 | Clozapine 25 mg Teva, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 23678=21825 | Clozapine 100 mg Teva, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 25049 | Clozapine Sandoz 25, tabletten 25 mg | CLOZAPINE | Tablet | Geldig |
+| RVG 25050 | Clozapine Sandoz 50, tabletten 50 mg | CLOZAPINE | Tablet | Geldig |
+| RVG 25051 | Clozapine Sandoz 100, tabletten 100 mg | CLOZAPINE | Tablet | Geldig |
+| RVG 35271 | Clozapine Sandoz 200 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 103903 | Clozapine Leyden Delta 25 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 103904 | Clozapine Leyden Delta 100 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 103905 | Clozapine Leyden Delta 50 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 106835 | Clozapine CF 25 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 106836 | Clozapine CF 100 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 106837 | Clozapine CF 200 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+| RVG 116183 | Clozapine Accord 25 mg, tabletten | CLOZAPINE | Tablet | Geldig |
+
+Getoond worden 20 van de 47 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig. Voor de volledige productinformatie verwijzen wij naar de SmPC en de bijsluiter.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Domperidone: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (nephrogenic syndrome of inappropriate antidiuresis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld …"
 ---
 
@@ -70,10 +70,23 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109674 | Domperidon Kela 10 mg, tabletten | Niet vermeld | Niet vermeld |
-| RVG 115552//07679 | Motilium suspensie voor oraal gebruik 1 mg/ml | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 23565 | Domperidon Aurobindo 10 mg, tabletten | DOMPERIDONMALEAAT | Tablet | Geldig |
+| RVG 23949 | Domperidon Teva 10 mg, filmomhulde tabletten | DOMPERIDONMALEAAT | Filmomhulde tablet | Geldig |
+| RVG 24213 | Domperidon Accord 10 mg, tabletten | DOMPERIDONMALEAAT | Tablet | Geldig |
+| RVG 24277 | Domperidon HTP 10 mg, tabletten | DOMPERIDONMALEAAT | Tablet | Geldig |
+| RVG 26086=24277 | Domperidon CF 10 mg, tabletten | DOMPERIDONMALEAAT | Tablet | Geldig |
+| RVG 126771//07679 | Domperidon Eureco-Pharma suspensie voor oraal gebruik 1 mg/ml | DOMPERIDON | Suspensie voor oraal gebruik | Geldig |
+| RVG 135237 | Domperidon Medipha Sante 10 mg, orodispergeerbare tabletten | DOMPERIDON | Orodispergeerbare tablet | Geldig |
+| RVG 109674 | Domperidon Kela 10 mg, tabletten | DOMPERIDONMALEAAT | – | Niet geregistreerd |
+| RVG 115552//07679 | Motilium suspensie voor oraal gebruik 1 mg/ml | DOMPERIDON | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

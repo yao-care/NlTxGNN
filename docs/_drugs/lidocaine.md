@@ -72,14 +72,38 @@ Voor andere voorspelde oogaandoeningen is er alleen indirect materiaal. Een voor
 
 ## Informatie over de Nederlandse markt
 
-Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel. De lijst is volledig. Er is geen indicatietekst beschikbaar in de voor dit rapport verzamelde gegevens.
+Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel. Er is geen indicatietekst beschikbaar in de voor dit rapport verzamelde gegevens.
 
-| RVG-nummer | Productnaam | Toedieningsvorm |
-|---------|------|------|
-| RVG 118972//07831 | Xylocaine 100 mg/ml Spray | Spray |
-| RVG 115128 | Lidocaïne/Prilocaïne Teva 25 + 25 mg/g crème | Crème |
-| RVG 115964//11015 | Emla, hydrofiele creme 5% | Crème |
-| RVG 109762 | Pliaglis 70 mg/g + 70 mg/g crème | Crème |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00334 | Otalgan 5 mg/g, oordruppels | LIDOCAINEHYDROCHLORIDE 1-WATER | Oordruppels, oplossing | Geldig |
+| RVG 01553 | Xylocaine 50 mg/g zalf | LIDOCAÏNE | Zalf | Geldig |
+| RVG 03717 | Dentinox Suikervrij, oplossing voor dentaal gebruik 3,8 mg/ml | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor dentaal gebruik | Geldig |
+| RVG 07828 | Xylocaine 10 mg/ml oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 0-WATER, LIDOCAINEHYDROCHLORIDE 0-WATER | Oplossing voor injectie | Geldig |
+| RVG 07830 | Xylocaine 20 mg/g Gel, catheterslijm | LIDOCAINEHYDROCHLORIDE 1-WATER | Gel voor urethraal gebruik | Geldig |
+| RVG 07831 | Xylocaine 100 mg/ml Spray, spray | LIDOCAÏNE | Spray voor oromucosaal gebruik | Geldig |
+| RVG 30435 | Lidocaïne vaselinecrème 3% Tiofarma, crème 30 mg/g | LIDOCAÏNE | Crème | Geldig |
+| RVG 30619 | Trachisan 8 mg, zuigtabletten | LIDOCAINEHYDROCHLORIDE 1-WATER | Zuigtablet | Geldig |
+| RVG 51673 | Lidocainehydrochloride 10 mg/ml, injectievloeistof | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor infusie | Geldig |
+| RVG 51674 | Lidocainehydrochloride 20 mg/ml, injectievloeistof | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor infusie | Geldig |
+| RVG 55119 | Lidocaine HCL CF 100 mg/ml, concentraat voor oplossing voor intraveneuze infusie | LIDOCAINEHYDROCHLORIDE 1-WATER | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 55126 | Lidocaine HCL CF 20 mg/ml, oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor injectie of infusie | Geldig |
+| RVG 56835 | Lidocaïne HCl B. Braun 10 mg/ml, oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor injectie | Geldig |
+| RVG 56836 | Lidocaïne HCl B. Braun 20 mg/ml, oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor injectie | Geldig |
+| RVG 111018 | Lidocaïne HCl Baxter 10 mg/ml, oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor injectie | Geldig |
+| RVG 111019 | Lidocaïne HCl Baxter 20 mg/ml, oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor injectie | Geldig |
+| RVG 113488 | Dynexan Mondgel 20 mg/g, gel voor oromucosaal gebruik | LIDOCAINEHYDROCHLORIDE 1-WATER | Gel voor oromucosaal gebruik | Geldig |
+| RVG 113654 | Versatis 700 mg pleister | LIDOCAÏNE | Pleister | Geldig |
+| RVG 117020 | Lidocaïne Grindeks 20 mg/ml oplossing voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER | Oplossing voor injectie | Geldig |
+| RVG 117588//07831 | Xylocaine® 100 mg/ml, spray | LIDOCAÏNE | Spray voor oromucosaal gebruik | Geldig |
+
+Getoond worden 20 van de 95 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Opmerking: enkele producten bevatten naast lidocaïne ook prilocaïne. De vergunningsgegevens zijn in de verzamelde gegevens als enkelvoudig geclassificeerd. Geen van deze producten is vergund voor oogaandoeningen op basis van de beschikbare gegevens.
 

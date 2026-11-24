@@ -85,28 +85,42 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119827//23970 | Otrivin Xylometazoline HCl 1 mg/ml neusspray, oplossing | Neusspray (volgens productnaam) | Niet beschikbaar; niet geregistreerd |
-| RVG 119750//102338 | Otrivin Duo (xylometazolinehydrochloride & ipratropiumbromide, 0,5/0,6 mg/ml), neusspray, oplossing | Neusspray (volgens productnaam) | Niet beschikbaar; niet geregistreerd |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-xylometazoline-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 18444 | Otrivin XylometazolineHCl Menthol 1 mg/ml neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
+| RVG 18445 | Otrivin XylometazolineHCl Menthol 1 mg/ml neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 21065 | Otrivin XylometazolineHCl Care 0,5 mg/ml neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 21066 | Otrivin XylometazolineHCl Care 1 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 21774 | Otrivin XylometazolineHCl conserveermiddelvrij Menthol 1 mg/ml neusspray, oplos… | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 23967 | Otrivin XylometazolineHCl 0,5 mg/ml Neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
+| RVG 23968 | Otrivin XylometazolineHCl 0,5 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 23969 | Otrivin XylometazolineHCl 1 mg/ml Neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 23970 | Otrivin XylometazolineHCl 1 mg/ml Neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 32867 | Xylometazoline HCl neusspray 1 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 100748 | Albert Heijn Neusdruppels Xylometazoline HCl 1 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
+| RVG 100749 | Albert Heijn Kinderneusspray Xylometazoline HCl 0,5 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 100751 | Albert Heijn Neusspray Xylometazoline HCl 1 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 101210 | Kinderneusspray Xylometazoline HCl SAM 0,5 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 101212 | Neusspray Xylometazoline HCl SAM 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 101726 | Neusdruppels HTP Xylometazoline HCl 1,0 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
+| RVG 103451 | Xelf Xylometazoline HCl 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
+| RVG 105480 | DA Neusdruppels Xylometazoline HCl 1,0 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
+| RVG 105485 | DA Neusspray Xylometazoline HCl 1,0 mg/ml, neusspray, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 105489 | Etos Neusdruppels Xylometazoline HCl 1 mg/ml, neusdruppels, oplossing | XYLOMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119827//23970 / Otrivin Xylometazoline HCl 1 mg/ml neusspray, oplossing / Neusspray (volgens productnaam) / Niet beschikbaar; vergunning geldig” Gecorrigeerd: registratienummer RVG 119827//23970 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 100 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-xylometazoline-2 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:begin nl-lic-20261112-xylometazoline-3 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119750//102338 / Otrivin Duo (xylometazolinehydrochloride & ipratropiumbromide, 0,5/0,6 mg/ml), neusspray, oplossing / Neusspray (volgens productnaam) / Niet beschikbaar; vergunning geldig” Gecorrigeerd: registratienummer RVG 119750//102338 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-xylometazoline-3 -->
+<!-- licenses:end -->
 
 Het middel is op de markt.
 
 <!-- review:begin nl-lic-20261112-xylometazoline-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn geldig; het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 99, waarvan geldig: 97; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn geldig; het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-xylometazoline-1 -->
 
@@ -144,9 +158,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Beide registraties bij het CBG-MEB zijn geldig; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119827//23970: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119750//102338: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beide registraties bij het CBG-MEB zijn geldig; h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119827//23970: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119750//102338: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

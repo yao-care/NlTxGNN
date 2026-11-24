@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 301
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: voorspelde nieuwe indicatie Brain stem infarction (bewijsniveau L5). In Nederland, CBG-vergunningen: 76 (geldig: 73)"
@@ -103,29 +103,36 @@ Slechts twee studies (NCT00552097 en NCT00129402) geven direct bewijs voor een s
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118547//13194 | Zocor 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
-| RVG 119659//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (niet geregistreerd) |
-| RVG 120559//30930 | Inegy 10 mg/80 mg, tabletten | Tablet | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-simvastatin-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 13193 | Zocor 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 13194 | Zocor 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 13195 | Zocor 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 28508 | Simvastatine CF 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 28509 | Simvastatine CF 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 30104 | Simvastatine Viatris 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 30105 | Simvastatine Viatris 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 30106 | Simvastatine Viatris 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 30107 | Simvastatine Viatris 80 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 32196 | Simvastatine Sandoz 60 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 32904 | Simvastatine Aurobindo 5 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 32905 | Simvastatine Aurobindo 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 32906 | Simvastatine Aurobindo 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 32907 | Simvastatine Aurobindo 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 32908 | Simvastatine Aurobindo 80 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 33009 | Simvastatine Sandoz 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 33010 | Simvastatine Sandoz 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 33011 | Simvastatine Sandoz 40 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 33958 | Simvastatine 10 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
+| RVG 33959 | Simvastatine 20 mg, filmomhulde tabletten | SIMVASTATINE | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118547//13194 / Zocor 20 mg, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 118547//13194 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 76 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-simvastatin-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:begin nl-lic-20261112-simvastatin-2 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119659//30930 / Inegy 10 mg/80 mg, tabletten / Tablet / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 119659//30930 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-simvastatin-2 -->
-
-<!-- review:begin nl-lic-20261112-simvastatin-3 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120559//30930 / Inegy 10 mg/80 mg, tabletten / Tablet / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 120559//30930 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-simvastatin-3 -->
+<!-- licenses:end -->
 
 Let op: deze gegevens zijn beperkt en kunnen onvolledig zijn; controleer de actuele registerstatus bij het CBG-MEB.
 
@@ -174,9 +181,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 118547//13194: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119659//30930: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 120559//30930: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118547//13194: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119659//30930: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120559//30930: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

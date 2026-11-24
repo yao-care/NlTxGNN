@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 257
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 description: "Oxaliplatin: voorspelde nieuwe indicatie Maligne pleuraal mesothelioom (malignant pleural mesothelioma) (bewijsniveau L2). In Nederland, CBG-vergunningen: 6 (geldig: 5)"
@@ -95,15 +95,20 @@ Er is ook tegenbewijs: een kleine fase 2-studie met raltitrexed plus oxaliplatin
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 110045 | Oxaliplatine Cadiasun 5 mg/ml poeder voor oplossing voor infusie (niet geregistreerd) | Poeder voor oplossing voor infusie | Niet vermeld in de beschikbare gegevens |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-oxaliplatin-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 34033 | Oxalisin 5 mg/ml, concentraat voor oplossing voor infusie | OXALIPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 100834 | Oxaliplatine Fresenius Kabi 5 mg/ml concentraat voor oplossing voor infusie | OXALIPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 103779 | Oxaliplatine Accord 5 mg/ml concentraat voor oplossing voor infusie | OXALIPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 108042 | Oxaliplatine SUN 5 mg/ml, concentraat voor oplossing voor infusie | OXALIPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 126655 | Oxaliplatine Hikma 5 mg/ml concentraat voor oplossing voor infusie | OXALIPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 110045 | Oxaliplatine Cadiasun 5 mg/ml poeder voor oplossing voor infusie | OXALIPLATINE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 110045 / Oxaliplatine Cadiasun 5 mg/ml poeder voor oplossing voor infusie (vergunning geldig) / Poeder voor oplossing voor infusie / Niet vermeld in de beschikbare gegevens” Gecorrigeerd: registratienummer RVG 110045 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-oxaliplatin-2 -->
+<!-- licenses:end -->
 
 Voor actuele informatie over beschikbare producten (bijvoorbeeld via de gecentraliseerde EMA-procedure) raadpleegt u het CBG-MEB.
 
@@ -142,7 +147,7 @@ Voor de officiële waarschuwingen en contra-indicaties raadpleegt u de SmPC (Sam
 
 <!-- review:begin nl-lic-20261112-oxaliplatin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is geen fase 3-bewijs. Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de bijsluiter, wat vervolgstappen blokkeert.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is geen fase 3-bewijs. Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de bijsluiter, wat vervolgstappen blokkeert.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-oxaliplatin-1 -->
 
@@ -163,8 +168,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 110045: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarbovenop is het middel in Nederland op de markt met 1 geldige vergunning (van 1), maar ontbreken de officiële veiligheidsgegevens uit de ” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 110045: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->

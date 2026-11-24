@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flecainide: voorspelde nieuwe indicatie Beroerte (stroke disorder) (bewijsniveau L5). In Nederland, CBG-vergunningen: 33 (geldig: 32)"
 ---
 
@@ -82,11 +82,36 @@ Geen van deze publicaties onderzoekt direct flecainide als behandeling van beroe
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119258//10098 | Tambocor 100 mg tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-De lijst kan onvolledig zijn; raadpleeg het CBG-MEB voor actuele registratiegegevens.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 10098 | Tambocor 100, tabletten 100 mg | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 10099 | Tambocor, injectievloeistof 10 mg/ml | FLECAÏNIDEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 15854 | Tambocor 50, tabletten 50 mg | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 27131 | Tambocor CR 50, capsules met gereguleerde afgifte 50 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 27132 | Tambocor CR 100, capsules met gereguleerde afgifte 100 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 27133 | Tambocor CR 150, capsules met gereguleerde afgifte 150 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 27134 | Tambocor CR 200, capsules met gereguleerde afgifte 200 mg | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 27199 | Flecaïnideacetaat Viatris 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 27200 | Flecaïnideacetaat Viatris 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 31787 | Flecaïnideacetaat Sandoz 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 31788 | Flecaïnideacetaat Sandoz 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 34516 | Flecaïnideacetaat ratiopharm 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 110550 | Flecaïnideacetaat Aurobindo 50 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 110551 | Flecaïnideacetaat Aurobindo 100 mg, tabletten | FLECAÏNIDEACETAAT | Tablet | Geldig |
+| RVG 110875 | Flecaïnideacetaat retard 50 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 110876 | Flecaïnideacetaat retard 100 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 110877 | Flecaïnideacetaat retard 150 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 110878 | Flecaïnideacetaat retard 200 mg Teva, capsules met gereguleerde afgifte | FLECAÏNIDEACETAAT | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 111299 | Flecaïnideacetaat retard CF 50 mg, capsules met verlengde afgifte, hard | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 111300 | Flecaïnideacetaat retard CF 100 mg, capsules met verlengde afgifte, hard | FLECAÏNIDEACETAAT | Capsule met verlengde afgifte, hard | Geldig |
+
+Getoond worden 20 van de 33 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

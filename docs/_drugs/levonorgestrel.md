@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 208
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: voorspelde nieuwe indicatie Acne (acne (disease)) (bewijsniveau L2). In Nederland, CBG-vergunningen: 47 (geldig: 46)"
@@ -86,15 +86,36 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119957//16681 | Mirena, IUD 20 microgram/24 uur | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-levonorgestrel-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| RVG 32253 | Postinor 1500 microgram, tablet | LEVONORGESTREL | Tablet | Geldig |
+| RVG 32303 | NorLevo 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Geldig |
+| RVG 111790 | Levonorgestrel Teva 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Geldig |
+| RVG 111879 | Levonorgestrel Xiromed 1,5 mg tabletten | LEVONORGESTREL | Tablet | Geldig |
+| RVG 111881 | Tansy 750 microgram tabletten | LEVONORGESTREL | Tablet | Geldig |
+| RVG 111882 | Etos noodanticonceptie levonorgestrel, 1,5 mg tablet | LEVONORGESTREL | Tablet | Geldig |
+| RVG 111888 | Kruidvat noodanticonceptie levonorgestrel, 1,5 mg tablet | LEVONORGESTREL | Tablet | Geldig |
+| RVG 111889 | Isteranda 1,5 mg tabletten | LEVONORGESTREL | Tablet | Geldig |
+| RVG 111892 | Levonorgestrel 1,5 mg Leon Farma, tabletten | LEVONORGESTREL | Tablet | Geldig |
+| RVG 118175 | Levonorgestrel HTP 1,5 mg, tabletten | LEVONORGESTREL | Tablet | Geldig |
+| RVG 118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| RVG 121664 | Levonorgestrel Naari 1,5 mg tablet | LEVONORGESTREL | Tablet | Geldig |
+| RVG 121873//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| RVG 123879//118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| RVG 125012//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| RVG 126673 | Levosert afleveringsysteem voor intra-uterien gebruik 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| RVG 129637//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| RVG 129872//118462 | Kyleena 19,5 mg, afleveringsysteem voor intra-uterien gebruik | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
+| RVG 130191//16681 | Mirena, IUD 20 microgram/24 uur | LEVONORGESTREL | Afleveringsysteem voor intra-uterien gebruik | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119957//16681 / Mirena, IUD 20 microgram/24 uur / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 119957//16681 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 47 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-levonorgestrel-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De marktstatus is "In de handel". De lokale gegevens bevatten één vergunning, en die is geldig.
 
@@ -130,7 +151,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 119957//16681: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119957//16681: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
 
 <!-- review:end log -->

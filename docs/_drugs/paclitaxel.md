@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel: voorspelde nieuwe indicatie Parameningeal embryonal rhabdomyosarcoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 11)"
@@ -102,9 +102,25 @@ Er zijn 44 studies gevonden. Hieronder staan de 10 meest relevante: gerandomisee
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 102965 | Paclitaxel Accord 6 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet vermeld in de gegevens; vergunning geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/07/428 | Abraxane 5 mg/ml, lyofilisaat voor suspensie voor injectie | PACLITAXEL | – | Geldig |
+| EU/1/18/1317 | Pazenir 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
+| EU/1/23/1778 | Naveruclif 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
+| EU/1/24/1835 | Apexelsin 5 mg/ml poeder voor dispersie voor infusie. | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
+| RVG 30113 | Paclitaxin, concentraat voor oplossing voor infusie 6 mg/ml | PACLITAXEL | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 34659 | Paclitaxel Eugia 6 mg/ml, concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 101863 | Paclitaxel Fresenius Kabi 6 mg/ml concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 102965 | Paclitaxel Accord 6 mg/ml concentraat voor oplossing voor infusie | PACLITAXEL | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 129035 | Bugvi 5mg/ml, poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
+| RVG 129037 | Abutrax 5mg/ml, poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
+| RVG 133489 | Apacross 5 mg/ml poeder voor dispersie voor infusie | PACLITAXEL | Poeder voor dispersie voor infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Of er andere paclitaxelproducten op de Nederlandse markt zijn (bijvoorbeeld via EMA-procedures), moet apart worden nagegaan.
 

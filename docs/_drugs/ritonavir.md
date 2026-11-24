@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 294
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ritonavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Ritonavir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 8)"
@@ -82,9 +82,22 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115127 | Ritonavir Sandoz 100 mg, filmomhulde tabletten (geldig) | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/17/1242 | Ritonavir Viatris 100 mg, filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | Geldig |
+| EU/1/96/016 | Norvir 100 mg poeder voor orale suspensie | RITONAVIR | Poeder voor orale suspensie | Geldig |
+| RVG 115126 | Ritonavir Accord 100 mg filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | Geldig |
+| RVG 115127 | Ritonavir Sandoz 100 mg, filmomhulde tabletten | RITONAVIR | Filmomhulde tablet | Geldig |
+| EU/1/01/172 | Kaletra 200 mg/50 mg filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
+| EU/1/15/1067 | Lopinavir/Ritonavir Viatris 100 mg/25 mg, filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
+| EU/1/22/1625 | Paxlovid 150 mg filmomhulde tabletten (PF-12345678) en 100 mg filmomhulde table… | NIRMATRELVIR, RITONAVIR | Filmomhulde tablet | Geldig |
+| RVG 114962 | Lopinavir/Ritonavir Accord 200 mg/50 mg filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

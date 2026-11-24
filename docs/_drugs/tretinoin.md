@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "tretinoin"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 description: "Tretinoin: voorspelde nieuwe indicatie Reumatoïde nodulose (rheumatoid nodulosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)"
@@ -80,7 +80,7 @@ Voor reumatoïde nodulose is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261106-tretinoin-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-tretinoin-1 -->
 
@@ -88,16 +88,21 @@ Voor reumatoïde nodulose is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 101711//20455 | Vesanoid, capsules 10 mg (niet geregistreerd) | Capsule | Niet beschikbaar |
-| RVG 109745 | Treclinac 0,25 mg/g + 10 mg/g, gel (geldig) | Gel | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-tretinoin-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 20455 | Vesanoid, zachte capsules 10 mg | TRETINOINE | Capsule, zacht | Geldig |
+| RVG 127621//20455 | Vesanoid, zachte capsules 10 mg | TRETINOINE | Capsule, zacht | Geldig |
+| RVG 109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | TRETINOINE, CLINDAMYCINEDIWATERSTOFFOSFAAT | Gel | Geldig |
+| RVG 123881//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Geldig |
+| RVG 136056//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Geldig |
+| RVG 136567//109745 | Treclinac 0,25 mg/g + 10 mg/g, gel | CLINDAMYCINEDIWATERSTOFFOSFAAT, TRETINOINE | Gel | Geldig |
+| RVG 101711//20455 | Vesanoid, capsules 10 mg | TRETINOINE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 101711//20455 / Vesanoid, capsules 10 mg (geldig) / Capsule / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 101711//20455 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-tretinoin-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -164,8 +169,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Beide registraties bij het CBG-MEB zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 101711//20455: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Beide registraties bij het CBG-MEB zijn doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 101711//20455: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | “De geneesmiddelregistraties in Nederland zijn bovendien door” → “De veiligheidsgegevens uit de officiële productinformatie on” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->

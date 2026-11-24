@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Esomeprazole: voorspelde nieuwe indicatie Duodenale obstructie (duodenal obstruction) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de lokale gegevens"
 ---
 
@@ -68,10 +68,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118254 | Esomeprazol SUN Pharma 40 mg, poeder voor oplossing voor injectie en infusie | Niet vermeld | Niet vermeld in de lokale gegevens |
-| RVG 107240 | Esobax 40 mg, maagsapresistente tabletten | Maagsapresistente tablet | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/13/860 | Nexium Control 20 mg maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Geldig |
+| RVG 25387 | Nexium 20 mg, maagsapresistente tablet 20 mg | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Geldig |
+| RVG 25388 | Nexium 40 mg, maagsapresistente tablet 40 mg | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Geldig |
+| RVG 30091 | Nexium i.v. 40 mg poeder voor oplossing voor injectie/infusie | ESOMEPRAZOL NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 101600 | Nexium 10 mg, granulaat voor maagsapresistente suspensie voor oraal gebruik in… | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistent granulaat voor orale suspensie | Geldig |
+| RVG 107193 | Esomeprazol Sandoz 20 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
+| RVG 107194 | Esomeprazol Sandoz 40 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
+| RVG 107196 | Esomeprazol 20 mg PCH, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
+| RVG 107201 | Esomeprazol 40 mg PCH, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
+| RVG 107233 | Esomeprazol 20 mg Sun, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 107235 | Esomeprazol 40 mg Sun, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 107239 | Esobax 20 mg, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 107240 | Esobax 40 mg, maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 107659 | Esomeprazol Aristo 20 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente capsule, hard | Geldig |
+| RVG 107661 | Esomeprazol Aristo 40 mg, maagsapresistente capsules, hard | ESOMEPRAZOL MAGNESIUM 2-WATER | Maagsapresistente tablet | Geldig |
+| RVG 108347//101600 | Nexium 10 mg, maagsapresistent granulaat voor orale suspensie | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistent granulaat, Granulaat voor orale… | Geldig |
+| RVG 108387 | Esomeprazol SUN 40 mg poeder voor oplossing voor injectie en intraveneuze infus… | ESOMEPRAZOL NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 108868 | Esomeprazol Viatris 20 mg, harde maagsapresistente capsules | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente capsule, hard | Geldig |
+| RVG 108869 | Esomeprazol Viatris 40 mg, harde maagsapresistente capsules | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente capsule, hard | Geldig |
+| RVG 111060 | Esomeprazol Jubilant 20 mg maagsapresistente tabletten | ESOMEPRAZOL MAGNESIUM 3-WATER | Maagsapresistente tablet | Geldig |
+
+Getoond worden 20 van de 69 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De status van de vergunningen is in de lokale gegevens niet eenduidig vastgelegd, daarom wordt hierover geen uitspraak gedaan. Raadpleeg het CBG-MEB voor de actuele situatie.
 

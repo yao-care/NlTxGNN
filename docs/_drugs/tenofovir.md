@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tenofovir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Tenofovir: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
@@ -113,15 +113,23 @@ Voor de derde voorspelling is geen literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117135 | Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-tenofovir-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/13/830 | Stribild 150 mg/150 mg/200 mg/245 mg filmomhulde tabletten | COBICISTAT, ELVITEGRAVIR, EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/16/1151 | Emtricitabine/tenofovirdisoproxil Krka 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
+| EU/1/17/1182 | Emtricitabine/tenofovir disoproxil Krka d.d. 200/245 mg, filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
+| RVG 119677 | Emtricitabine/Tenofovirdisoproxil Glenmark 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
+| RVG 122434 | Emtricitabine/Tenofovir disoproxil Accordpharma 200 mg/245 mg filmomhulde table… | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 122437 | Emtricitabine/Tenofovirdisoproxil Amarox 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 123624 | Emtricitabine/Tenofovirdisoproxil Tillomed 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 125537 | Valdevon 200 mg/245 mg filmomhulde tabletten | EMTRICITABINE, TENOFOVIR, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 117135 | Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten | TENOFOVIR, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 117135 / Emtricitabine/Tenofovirdisoproxil Lupin 200 mg/245 mg filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 117135 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-tenofovir-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -148,7 +156,7 @@ Voor gevalideerde waarschuwingen, contra-indicaties en interacties raadpleegt u 
 
 <!-- review:begin nl-lic-20261112-tenofovir-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De humane toepassing (hiv) is al gevestigd, dus er is geen nieuwe humane indicatie. De enige Nederlandse vergunning is doorgehaald, en de voorspelling voor de neurologische stoornis mist elke onderbouwing.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De humane toepassing (hiv) is al gevestigd, dus er is geen nieuwe humane indicatie. De enige Nederlandse vergunning is doorgehaald, en de voorspelling voor de neurologische stoornis mist elke onderbouwing.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tenofovir-1 -->
 
@@ -166,8 +174,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald, en de voorspelling voor de neurologische stoornis mist elke onderbouwing” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 117135: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald, en de voorspelling voor de neurologische stoornis mist elke onderbouwing” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 117135: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

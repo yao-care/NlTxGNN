@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "tetracaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "cauda equina syndrome", "irritable bowel syndrome"]
 description: "Tetracaine: voorspelde nieuwe indicatie Acrodermatitis chronica atrophicans (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
@@ -111,7 +111,7 @@ De literatuur over het cauda equina-syndroom beschrijft tetracaïne als **oorzaa
 
 <!-- review:begin nl-lic-20261112-tetracaine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tetracaine-1 -->
 
@@ -119,9 +119,18 @@ De literatuur over het cauda equina-syndroom beschrijft tetracaïne als **oorzaa
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Doseringsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109762 | Pliaglis 70 mg/g + 70 mg/g crème (geldig) | Crème | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 09372 | Minims Tetracainehydrochloride 5 mg/ml, oogdruppels, oplossing | TETRACAINE HYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 09373 | Minims Tetracainehydrochloride 10 mg/ml, oogdruppels, oplossing | TETRACAINE HYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 100315 | Rapydan 70 mg/70 mg medicinale pleister | LIDOCAÏNE, TETRACAÏNE | Pleister | Geldig |
+| RVG 109762 | Pliaglis 70 mg/g + 70 mg/g crème | TETRACAÏNE, LIDOCAÏNE | Crème | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -149,7 +158,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 <!-- review:begin nl-lic-20261112-tetracaine-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Tetracaïne is in Nederland wel op de markt (1 van de 1 vergunningen is geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Tetracaïne is in Nederland wel op de markt (1 van de 1 vergunningen is geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tetracaine-2 -->
 
@@ -167,8 +176,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “(1 van de 1 vergunningen is geldig)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Tetracaïne is in Nederland op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “(1 van de 1 vergunningen is geldig)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: tetracaine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01fba5f8-a60a-444c-9abd-299540b8815a) |
 
 <!-- review:end log -->

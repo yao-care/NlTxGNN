@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ebastine: voorspelde nieuwe indicatie Coronaire hartziekte (coronary artery disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
 ---
 
@@ -70,11 +70,25 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117329//17708 | Kestine 10, filmomhulde tabletten 10 mg | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
 
-Bij de Nederlandse registratiegegevens (CBG-MEB) is de marktstatus "In de handel". De lijst hierboven is volledig volgens de beschikbare gegevens.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 17708 | Kestine 10, filmomhulde tabletten 10 mg | EBASTINE | Filmomhulde tablet | Geldig |
+| RVG 27500 | Kestine 20, filmomhulde tabletten 20 mg | EBASTINE | Filmomhulde tablet | Geldig |
+| RVG 29927 | Kestine Smelt 10 mg, lyophilisaat voor oraal gebruik | EBASTINE | Lyofilisaat voor oraal gebruik | Geldig |
+| RVG 29928 | Kestine Smelt 20 mg, lyophilisaat voor oraal gebruik | EBASTINE | Lyofilisaat voor oraal gebruik | Geldig |
+| RVG 107003 | Ebastine Teva smelt 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Geldig |
+| RVG 115463 | Notaxo 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Geldig |
+| RVG 115466 | Notaxo 20 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Geldig |
+| RVG 122907 | Ebastine Aurobindo Smelt 10 mg, orodispergeerbare tabletten | EBASTINE | Orodispergeerbare tablet | Geldig |
+| RVG 117329//17708 | Kestine 10, filmomhulde tabletten 10 mg | EBASTINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Bij de Nederlandse registratiegegevens (CBG-MEB) is de marktstatus "In de handel".
 
 ## Veiligheidsoverwegingen
 

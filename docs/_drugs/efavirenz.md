@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Efavirenz"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Efavirenz: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeven"
 ---
 
@@ -82,6 +82,29 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 | [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In-vitro | Antivir Ther | Gevoeligheid van HIV-2, SIV en SHIV voor anti-HIV-1-middelen |
 
 ## Informatie over de Nederlandse markt
+
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/11/742 | Efavirenz Teva 600 mg, filmomhulde tablet | EFAVIRENZ | Filmomhulde tablet | Geldig |
+| RVG 109766 | Efavirenz Viatris 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Geldig |
+| RVG 111314 | Efavirenz Sandoz 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Geldig |
+| RVG 113833 | Efavirenz Aurobindo 600 mg, filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Geldig |
+| RVG 114353 | Efavirenz Accord 600 mg filmomhulde tabletten | EFAVIRENZ | Filmomhulde tablet | Geldig |
+| EU/1/17/1210 | Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva 600-200-245 filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
+| EU/1/17/1222 | Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan 600 mg/200 mg/245 mg filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILMALEAAT | Filmomhulde tablet | Geldig |
+| EU/1/17/1263 | Efavirenz/Emtricitabine/Tenofovir disoproxil Krka 600 mg/200 mg/245 mg, filmomh… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILSUCCINAAT | Filmomhulde tablet | Geldig |
+| RVG 118667 | Efavirenz/Emtricitabine/Tenofovirdisoproxil Teva 600/200/245 mg, filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
+| RVG 118676 | Efavirenz/Emtricitabine/Tenofovirdisoproxil ratiopharm 600/200/245 mg, filmomhu… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
+| RVG 118677 | Efavirenz/Emtricitabine/Tenofovirdisoproxil Teva 600/200/245 mg, filmomhulde ta… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFOSFAAT | Filmomhulde tablet | Geldig |
+| RVG 122988 | Efavirenz/Emtricitabine/Tenofovir disoproxil Glenmark 600 mg/200 mg/245 mg film… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 123916 | Efavirenz/ Emtricitabine/ Tenofovirdisoproxil Aurobindo 600 mg/200 mg/245 mg, f… | EFAVIRENZ, EMTRICITABINE, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 117222 | Efavirenz Hetero Europe 600 mg filmomhulde tabletten | EFAVIRENZ | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de actuele registratiegegevens van het CBG zijn er voor efavirenz meerdere geldige vergunningen (actuele aantallen in het snelle overzicht). De hier genoemde vergunning (RVG 117222, Efavirenz Hetero Europe 600 mg filmomhulde tabletten, enkelvoudig product) komt niet voor in de actuele Geneesmiddeleninformatiebank (niet geregistreerd). Voor dit product is geen indicatietekst vastgelegd in de lokale gegevens.
 

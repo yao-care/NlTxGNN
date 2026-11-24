@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 261
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "oxymetazoline"
 predicted_indications: ["nasal cavity disease", "headache disorder"]
 description: "Oxymetazoline: voorspelde nieuwe indicatie Aandoening van de neusholte (nasal cavity disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 10 (geldig: 9)"
@@ -76,15 +76,24 @@ Slechts twee publicaties (1998 en 1996) zijn direct relevant; de overige noemen 
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120414//25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | Neusspray, oplossing | Niet vermeld in de beschikbare gegevens (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-oxymetazoline-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 05859 | Vicks Sinex met doseerpomp 0,5 mg/ml, neusspray, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 22718 | Nasivin zonder conserveermiddel 0,5 mg/ml doseerspray, neusspray | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 26124 | Nasivin zonder conserveermiddelen 0,25 mg/ml doseerspray, neusspray | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 29857 | Nasivin zonder conserveermiddelen 0,1 mg/ml, neusdruppels, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusdruppels, oplossing | Geldig |
+| RVG 107438 | Afrin 0,5 mg/ml neusspray, oplossing | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 107439 | Afrin 0,5 mg/ml neusspray, oplossing met menthol | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 107440 | Afrin 0,5 mg/ml neusspray, oplossing met glycerol | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 107441 | Afrin 0,5 mg/ml neusspray, oplossing met kamille | OXYMETAZOLINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 120414//25847 | Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing | OXYMETAZOLINEHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120414//25847 / Vicks Sinex Aloë 0,5 mg/ml, neusspray oplossing / Neusspray, oplossing / Niet vermeld in de beschikbare gegevens (vergunning geldig)” Gecorrigeerd: registratienummer RVG 120414//25847 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-oxymetazoline-2 -->
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -102,7 +111,7 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 
 <!-- review:begin nl-lic-20261112-oxymetazoline-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling is grotendeels een uitbreiding van het bestaande decongestieve gebruik. / Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 10, waarvan geldig: 9; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling is grotendeels een uitbreiding van het bestaande decongestieve gebruik. / Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-oxymetazoline-1 -->
 
@@ -126,8 +135,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 120414//25847: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het enige Nederlandse product is doorgehaald, en de ontbrekende bijsluiterinformatie vormt een blokkerend hiaat voor de veiligheidsscreening” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120414//25847: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Rhofade (oxymetazoline hydrochloride) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34298db6-647d-480d-88a8-dc53258a5164) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
 description: "Ofloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 16 (geldig: 15)"
@@ -66,7 +66,7 @@ Belangrijke kanttekening: fluorochinolonen worden als klasse al gebruikt bij pes
 
 <!-- review:begin nl-lic-20261031-ofloxacin-1 -->
 
-> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Dit is dus eerder een uitbreiding van het antibacteriële gebruik dan echte herpositionering. Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Dit is dus eerder een uitbreiding van het antibacteriële gebruik dan echte herpositionering. Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261031-ofloxacin-1 -->
 
@@ -101,7 +101,7 @@ Opmerking: enkele geselecteerde artikelen gaan over resistentie of andere organi
 
 <!-- review:begin nl-lic-20261112-ofloxacin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één vergunning, en die is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 16, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één vergunning, en die is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-ofloxacin-1 -->
 
@@ -109,15 +109,30 @@ Opmerking: enkele geselecteerde artikelen gaan over resistentie of andere organi
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115765 | Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing (niet geregistreerd) | Oogdruppels (oplossing) | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-ofloxacin-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 13510 | Trafloxal oogdruppels, oogdruppels 3mg/ml | OFLOXACINE | Oogdruppels, oplossing | Geldig |
+| RVG 13511 | Trafloxal oogzalf, oogzalf 3 mg/ml | OFLOXACINE | Oogzalf | Geldig |
+| RVG 27571 | Ofloxacine 200 PCH, filmomhulde tabletten 200 mg | OFLOXACINE | Filmomhulde tablet | Geldig |
+| RVG 27572 | Ofloxacine 400 PCH, filmomhulde tabletten 400 mg | OFLOXACINE | Filmomhulde tablet | Geldig |
+| RVG 27753 | Ofloxacine Viatris 200 mg, filmomhulde tabletten | OFLOXACINE | Filmomhulde tablet | Geldig |
+| RVG 27754 | Ofloxacine Viatris 400 mg, filmomhulde tabletten | OFLOXACINE | Filmomhulde tablet | Geldig |
+| RVG 29805 | Trafloxal E.D.O., oogdruppels 3 mg/ml, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
+| RVG 109911 | Ofloxacine Eberth 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
+| RVG 109912 | Ofloxacine Stulln Unit Dose 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
+| RVG 109913 | Ofloxacine Stulln 3 mg/ml oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
+| RVG 110894 | Ofloxacine-POS 3 mg/ml, oogdruppels, oplossing | OFLOXACINE | Oogdruppels, oplossing | Geldig |
+| RVG 113360 | Ofloxacine Devatis 3 mg/ml, oogdruppels, oplossing, verpakking voor éénmalig ge… | OFLOXACINE | Oogdruppels, oplossing | Geldig |
+| RVG 113973 | Otiflox Unit Dose 1,5 mg/0,5 ml oordruppels, oplossing | OFLOXACINE | Oordruppels, oplossing | Geldig |
+| RVG 133706//13510 | Trafloxal 3 mg/ml, oogdruppels | OFLOXACINE | Oogdruppels, oplossing | Geldig |
+| RVG 134497//113973 | Ofloxacine Unit Dose Medcor, 1,5 mg/0,5 ml oordruppels, oplossing | OFLOXACINE | Oordruppels, oplossing | Geldig |
+| RVG 115765 | Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing | OFLOXACINE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 115765 / Ofloxacine Bipharma 3 mg/ml oogdruppels, oplossing (geldig) / Oogdruppels (oplossing) / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 115765 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-ofloxacin-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -148,7 +163,7 @@ De officiële waarschuwingen en contra-indicaties uit de bijsluiter zijn in de v
 
 <!-- review:begin nl-lic-20261031-ofloxacin-2 -->
 
-> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Alle overige voorspellingen berusten alleen op het model (L5) zonder plausibel mechanisme. Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd bij pest.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Alle overige voorspellingen berusten alleen op het model (L5) zonder plausibel mechanisme. Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd bij pest.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261031-ofloxacin-2 -->
 
@@ -167,10 +182,10 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-10-31 | Verwijderd: “Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergun” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-10-31 | Verwijderd: “Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Er is één vergunning, en die is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 115765: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-10-31 | Verwijderd: “Andere fluorochinolonen (ciprofloxacine, levofloxacine) zijn beter gevestigd, en ofloxacine heeft in Nederland alleen een ingetrokken vergun” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-10-31 | Verwijderd: “Bovendien is ofloxacine in Nederland alleen met een ingetrokken vergunning vertegenwoordigd, en zijn andere fluorochinolonen beter gevestigd” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is één vergunning, en die is ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 115765: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
 
 <!-- review:end log -->

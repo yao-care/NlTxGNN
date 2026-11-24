@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 description: "Ramipril: voorspelde nieuwe indicatie Pulmonary hypertension with unclear multifactorial mechanism (bewijsniveau L5). In Nederland, CBG-vergunningen: 30 (geldig: 30)"
@@ -88,9 +88,36 @@ Alleen de publicatie met directe relevantie is opgenomen; de overige gevonden pu
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117718 | Ramipril Aurobindo 2,5 mg, tabletten | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28001 | Ramipril Sandoz 1,25, tabletten 1,25 mg | RAMIPRIL | Tablet | Geldig |
+| RVG 28002 | Ramipril Sandoz 2,5, tabletten 2,5 mg | RAMIPRIL | Tablet | Geldig |
+| RVG 28003 | Ramipril Sandoz 5, tabletten 5 mg | RAMIPRIL | Tablet | Geldig |
+| RVG 28004 | Ramipril Sandoz 10, tabletten 10 mg | RAMIPRIL | Tablet | Geldig |
+| RVG 30968 | Ramipril Mylan 1,25 mg, tabletten | RAMIPRIL | Tablet | Geldig |
+| RVG 30969 | Ramipril Mylan 2,5 mg, tabletten | RAMIPRIL | Tablet | Geldig |
+| RVG 30970 | Ramipril Mylan 5 mg, tabletten | RAMIPRIL | Tablet | Geldig |
+| RVG 30971 | Ramipril Mylan 10 mg, tabletten | RAMIPRIL | Tablet | Geldig |
+| RVG 34096 | Ramipril Brillpharma 1,25 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 34097 | Ramipril Brillpharma 2,5 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 34098 | Ramipril Brillpharma 5 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 34099 | Ramipril Brillpharma 10 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 103807 | Ramipril Aurobindo 5 mg, tabletten | RAMIPRIL | Tablet | Geldig |
+| RVG 103808 | Ramipril Aurobindo 10 mg, tabletten | RAMIPRIL | Tablet | Geldig |
+| RVG 105268 | Ramipril Aurobindo 1,25 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 105271 | Ramipril Aurobindo 2,5 mg capsules, hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 110566 | Ramipril Accord 1,25 mg, capsule hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 110567 | Ramipril Accord 2,5 mg, capsule hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 110568 | Ramipril Accord 5 mg, capsule hard | RAMIPRIL | Capsule, hard | Geldig |
+| RVG 110569 | Ramipril Accord 10 mg, capsule hard | RAMIPRIL | Capsule, hard | Geldig |
+
+Getoond worden 20 van de 30 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -122,7 +149,7 @@ Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bew
 
 <!-- review:begin nl-lic-20261106-ramipril-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies. Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de productinformatie, wat een blokkerende gegevenslacune is voor de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Ondanks de zeer hoge TxGNN-score (0,9993) is er alleen indirect, preklinisch bewijs bij de rat en zijn er geen klinische studies. Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de productinformatie, wat een blokkerende gegevenslacune is voor de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-ramipril-1 -->
 
@@ -142,7 +169,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de produ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Bovendien is de Nederlandse vergunning voor ramipril doorgehaald en ontbreken gegevens over waarschuwingen en contra-indicaties uit de produ” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
 
 <!-- review:end log -->

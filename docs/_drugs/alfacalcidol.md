@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alfacalcidol: voorspelde nieuwe indicatie craniofaciale conodysplasie (craniofacial conodysplasia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
 ---
 
@@ -70,15 +70,40 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115592//14698 | Etalpha i.v. 2 microgram/ml oplossing voor injectie | Oplossing voor injectie | Niet vastgelegd in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 07603 | Etalpha 1 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 08318 | Etalpha 0,25 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 09284 | Etalpha 2 microgram/ml druppels voor oraal gebruik, oplossing | ALFACALCIDOL | Druppels voor oraal gebruik, oplossing | Geldig |
+| RVG 10890 | Alfacalcidol Theramex 0,25 microgram, capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 10891 | Alfacalcidol Theramex 1 microgram, capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 14698 | Etalpha i.v. 2 microgram/ml, oplossing voor injectie | ALFACALCIDOL | Oplossing voor injectie | Geldig |
+| RVG 22263 | Etalpha 0,5 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 119268 | Alfacalcidol Aurobindo 0,25 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 119274 | Alfacalcidol Aurobindo 0,5 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 119275 | Alfacalcidol Aurobindo 1 microgram zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 122549 | Alfacalcidol Strides Pharma 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 122550 | Alfacalcidol Strides Pharma 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 122551 | Alfacalcidol Strides Pharma 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 128344 | Alfacalcidol CF 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 128349 | Alfacalcidol CF 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 128350 | Alfacalcidol CF 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 134933 | Alfacalcidol Crinex 0,25 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 134936 | Alfacalcidol Crinex 0,5 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 134937 | Alfacalcidol Crinex 1 microgram, zachte capsules | ALFACALCIDOL | Capsule, zacht | Geldig |
+| RVG 115592//14698 | Etalpha i.v. 2 microgram/ml oplossing voor injectie | ALFACALCIDOL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De marktstatus is «In de handel».
 
 <!-- review:begin nl-lic-20261112-alfacalcidol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één geldige vergunning voor een monopreparaat (CBG-MEB); de marktstatus is «In de handel».” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 20, waarvan geldig: 19; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is één geldige vergunning voor een monopreparaat (CBG-MEB); de marktstatus is «In de handel».” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-alfacalcidol-1 -->
 
@@ -107,7 +132,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Er is één geldige vergunning voor een monopreparaat (CBG-MEB); d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is één geldige vergunning voor een monopreparaat (CBG-MEB); d” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
 
 <!-- review:end log -->

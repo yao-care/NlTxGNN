@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sulpiride"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
 description: "Sulpiride: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) (bewijsniveau L5). Oorspronkelijke indicati…"
@@ -83,15 +83,19 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120540//06279 (niet geregistreerd) | Sulpiride ERC 50 mg, capsules | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261115-sulpiride-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Geldig |
+| RVG 19811 | Dogmatil 400, tabletten 400 mg | SULPIRIDE | Filmomhulde tablet | Geldig |
+| RVG 103957//06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Geldig |
+| RVG 129413//06279 | Dogmatil 50, capsules 50 mg | SULPIRIDE | Capsule, hard | Geldig |
+| RVG 120540//06279 | Sulpiride ERC 50 mg, capsules | SULPIRIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 120540//06279 (ingetrokken)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261115-sulpiride-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -129,7 +133,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-15 | “RVG 120540//06279 (ingetrokken)” → “RVG 120540//06279 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 120540//06279 (ingetrokken)” → “RVG 120540//06279 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26) |
 
 <!-- review:end log -->

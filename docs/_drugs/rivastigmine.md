@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivastigmine: voorspelde nieuwe indicatie Glaucoom (bewijsniveau L5). Oorspronkelijke indicatie: Ziekte van Alzheimer (en verwante aandoeningen…"
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
@@ -85,15 +85,42 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115384 | Rivastigmine Sandoz 13,3 mg/24 uur, pleisters voor transdermaal gebruik (geldig) | Transdermale pleister | Niet beschikbaar in de data |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/09/525 | Nimvastid 1,5 mg orodispergeerbare tablet, orodispergeerbare tablet | RIVASTIGMINEWATERSTOFTARTRAAT | Orodispergeerbare tablet | Geldig |
+| EU/1/09/585 | Rivastigmine 1A Pharma 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| EU/1/09/589 | Rivastigmine Hexal 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| EU/1/09/599 | Rivastigmine Sandoz 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| EU/1/11/693 | Rivastigmine Actavis 1,5 mg, harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| EU/1/98/066 | Exelon 6,0 mg, harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| EU/1/98/092 | Prometax 1.5 mg harde capsules | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 102697 | Rivastigmine Viatris 1,5 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 102698 | Rivastigmine Viatris 3 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 102699 | Rivastigmine Viatris 4,5 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 102700 | Rivastigmine Viatris 6 mg, harde capsule | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 103038 | Rivastigmine DEMO 1,5 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 103039 | Rivastigmine DEMO 3 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 103040 | Rivastigmine DEMO 4,5 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 103041 | Rivastigmine DEMO 6 mg, capsules, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 103057 | Rivastigmine DEMO 2 mg/ml, drank | RIVASTIGMINEWATERSTOFTARTRAAT | Drank | Geldig |
+| RVG 103326 | Ristidic 1,5 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 103327 | Ristidic 3,0 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 103328 | Ristidic 4,5 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+| RVG 103329 | Ristidic 6,0 mg, capsule, hard | RIVASTIGMINEWATERSTOFTARTRAAT | Capsule, hard | Geldig |
+
+Getoond worden 20 van de 38 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.
 
 <!-- review:begin nl-lic-20261106-rivastigmine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige bekende vergunning is ingetrokken. Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige bekende vergunning is ingetrokken. Dit kan de beschikbaarheid van een geschikte formulering voor oculair gebruik beperken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-rivastigmine-1 -->
 
@@ -119,7 +146,7 @@ Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en
 
 <!-- review:begin nl-lic-20261106-rivastigmine-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en een overzichtsartikel (bewijsniveau L4), zonder humane gegevens of klinische studies. Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu niet verantwoord is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en een overzichtsartikel (bewijsniveau L4), zonder humane gegevens of klinische studies. Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu niet verantwoord is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-rivastigmine-2 -->
 
@@ -131,7 +158,7 @@ Het bewijs bestaat uitsluitend uit een dierstudie, een computationele analyse en
 
 <!-- review:begin nl-lic-20261106-rivastigmine-3 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is / Een veiligheidsbeoordeling uitvoeren van oculaire en systemische cholinerge bijwerkingen (o.a. bradycardie, miosis, maag-darmklachten), mede gezien de in de kennisgraaf genoemde contra-indicaties” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is / Een veiligheidsbeoordeling uitvoeren van oculaire en systemische cholinerge bijwerkingen (o.a. bradycardie, miosis, maag-darmklachten), mede gezien de in de kennisgraaf genoemde contra-indicaties” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-rivastigmine-3 -->
 
@@ -143,9 +170,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De enige bekende vergunning is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige bekende vergunning is ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken en ontbreekt productgebonden veiligheidsinformatie, waardoor verdere beoordeling nu” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Beoordelen of een geschikte oculaire formulering mogelijk is en hoe de ingetrokken vergunning daarop van invloed is” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
 
 <!-- review:end log -->

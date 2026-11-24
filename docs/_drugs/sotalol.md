@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 description: "Sotalol: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 9)"
@@ -101,9 +101,23 @@ Geen van deze publicaties toont direct aan dat sotalol beroerte voorkomt.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117148 | Sotalol HCl Tiofarma 40 mg/4 ml, oplossing voor injectie (geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 17705 | Sotalol HCl Sandoz 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 17706 | Sotalol HCl Sandoz 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 19579 | Sotalol HCl Viatris 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 19580 | Sotalol HCl Viatris 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 20329 | Sotalol HCl 80 mg Focus, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 117148 | Sotalol HCl Tiofarma 40 mg/4 ml, oplossing voor injectie | SOTALOLHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 119823 | Sotalol HCl Aurobindo 40 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 119825 | Sotalol HCl Aurobindo 80 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 119826 | Sotalol HCl Aurobindo 160 mg, tabletten | SOTALOLHYDROCHLORIDE | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -126,7 +140,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de officiële tekst d
 
 <!-- review:begin nl-lic-20261106-sotalol-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De overige zes voorspellingen hebben geen of alleen veiligheidsgerelateerd bewijs. De enige Nederlandse registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De overige zes voorspellingen hebben geen of alleen veiligheidsgerelateerd bewijs. De enige Nederlandse registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-sotalol-1 -->
 
@@ -145,7 +159,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee) |
 
 <!-- review:end log -->

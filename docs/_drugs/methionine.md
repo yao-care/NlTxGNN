@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "tetanic cataract", "immature cataract", "diabetic cataract"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Methionine: voorspelde nieuwe indicatie Acne (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar (de vergunningsgegevens bevatten geen indicatietekst)"
 ---
 
@@ -83,16 +83,42 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 101722 | SmofKabiven Elektrolytenvrij, emulsie voor infusie | Emulsie voor infusie | Niet beschikbaar in de data |
-| RVG 105713 | OLIMEL N9E, emulsie voor infusie | Emulsie voor infusie | Niet beschikbaar in de data |
+<!-- licenses:begin -->
 
-De toedieningsvorm is afgeleid uit de productnaam. De lijst is volledig (2 van 2 vergunningen).
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/16/1157 | Suliqua 100 eenheden/ml + 50 microgram/ml oplossing voor injectie in een voorge… | INSULINE GLARGINE, LIXISENATIDE, METHIONINE, (L-) | Oplossing voor injectie | Geldig |
+| EU/1/25/1955 | Maapliv oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Geldig |
+| RVG 09570 | Vaminolact, infusievloeistof | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏNE (L-), FENYLALANIN… | Oplossing voor infusie | Geldig |
+| RVG 10289 | Vamin 18 zonder electrolyten, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏN… | Oplossing voor infusie | Geldig |
+| RVG 10914 | Nutriflex special 70/240, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE GLUTAMAAT, L-, ASPARAGINEZUUR, (L-),… | Oplossing voor infusie | Geldig |
+| RVG 12978 | Primene 10%, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Geldig |
+| RVG 15272 | Nutriflex plus 48/150, infusievloeistof, 500 ml, 1000 ml en 2000 ml | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE GLUTAMAAT, L-, ASPARAGINEZUUR, (L-),… | Oplossing voor infusie | Geldig |
+| RVG 16984 | Nutrineal PD4 met 11 g/l aminozuren, oplossing voor peritoneale dialyse | ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORIDE 2-WATER (E 509),… | Oplossing voor peritoneale dialyse | Geldig |
+| RVG 17375 | Clinimix N9 G15 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17376 | Clinimix N14 G30 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17377 | Clinimix N17 G35 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17378 | Clinimix N14 G30, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CHLORIDE (CL-), FENYLALANINE,… | Oplossing voor infusie | Geldig |
+| RVG 19631 | Glamin, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), FENYLALANINE, (L-), GLUTAM… | Oplossing voor infusie | Geldig |
+| RVG 24228 | Aminoven 5% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24229 | Aminoven 10% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24230 | Aminoven 15% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24292 | Kabiven, emulsie voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM… | Emulsie voor infusie | Geldig |
+| RVG 32127 | Aminomix 1 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Geldig |
+| RVG 32128 | Aminomix 2 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Geldig |
+| RVG 101688 | SmofKabiven, emulsie voor infusie | ALANINE, (L-), ARGININE, (L-), CALCIUMCHLORIDE 2-WATER (E 509), DINATRIUMGLYCER… | Emulsie voor infusie | Geldig |
+
+Getoond worden 20 van de 55 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+De toedieningsvorm is afgeleid uit de productnaam.
 
 <!-- review:begin nl-lic-20261112-methionine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide vergunningen zijn geldig en betreffen producten waarin methionine als bestanddeel voorkomt. De toedieningsvorm is afgeleid uit de productnaam.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 55, waarvan geldig: 55; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide vergunningen zijn geldig en betreffen producten waarin methionine als bestanddeel voorkomt. De toedieningsvorm is afgeleid uit de productnaam.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-methionine-1 -->
 
@@ -139,7 +165,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Beide vergunningen zijn geldig en betreffen producten waarin methionine als bestanddeel voorkomt” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beide vergunningen zijn geldig en betreffen producten waarin methionine als bestanddeel voorkomt” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 229
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 description: "Metronidazole: voorspelde nieuwe indicatie Pneumocystose (pneumocystosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 16)"
@@ -91,21 +91,37 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119834//14416 (niet geregistreerd) | Metronidazol Fisher 7,5 mg/g, gel | Gel | Niet beschikbaar in de gegevens |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261115-metronidazole-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00238 | Flagyl, ovula 500 mg | METRONIDAZOL | Ovule | Geldig |
+| RVG 07074 | Metronidazol Aurobindo 250 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Geldig |
+| RVG 08652 | Metronidazol Aurobindo 500 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Geldig |
+| RVG 12087 | Metronidazol B. Braun 5 mg/ml oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
+| RVG 13752 | Metronidazol Aurobindo 10 mg/g, hydrofiele crème | METRONIDAZOL | Crème | Geldig |
+| RVG 14416 | Rozex 7,5 mg/g, gel | METRONIDAZOL | Gel | Geldig |
+| RVG 17393 | Metronidazol 5 mg/ml in VIAFLO, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
+| RVG 33518 | Metrosa 7,5 mg/g, gel | METRONIDAZOL | Gel | Geldig |
+| RVG 56005 | Metronidazol 5 mg/ml Fresenius, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
+| RVG 116727 | Metronidazol Hikma 5 mg/ml oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
+| RVG 120196 | Metronidazol Noridem 5 mg/ml, oplossing voor infusie | METRONIDAZOL | Oplossing voor infusie | Geldig |
+| RVG 123350 | Metronidazol Auro 250 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Geldig |
+| RVG 123351 | Metronidazol Auro 500 mg, filmomhulde tabletten | METRONIDAZOL | Filmomhulde tablet | Geldig |
+| RVG 133365//00238 | Flagyl, ovula 500 mg | METRONIDAZOL | Ovule | Geldig |
+| RVG 133410//00238 | Flagyl 500 mg ovule | METRONIDAZOL | Ovule | Geldig |
+| RVG 135795 | Tryplera 140 mg/125 mg/125 mg capsules | BISMUTSUBCITRAATKALIUMHYDRAAT, METRONIDAZOL, TETRACYCLINE HYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 119834//14416 | Metronidazol Fisher 7,5 mg/g, gel | METRONIDAZOL | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 119834//14416 (doorgehaald)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261115-metronidazole-1 -->
+<!-- licenses:end -->
 
 Raadpleeg voor actuele informatie het CBG-MEB.
 
 <!-- review:begin nl-lic-20261112-metronidazole-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is op de markt: 1 van de 1 vergunningen is geldig. Raadpleeg voor actuele informatie het CBG-MEB.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 16; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is op de markt: 1 van de 1 vergunningen is geldig. Raadpleeg voor actuele informatie het CBG-MEB.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-metronidazole-1 -->
 
@@ -152,8 +168,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “RVG 119834//14416 (doorgehaald)” → “RVG 119834//14416 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 119834//14416 (doorgehaald)” → “RVG 119834//14416 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
 
 <!-- review:end log -->

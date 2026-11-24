@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clopidogrel: voorspelde nieuwe indicatie Migraine met hersenstamaura (migraine with brainstem aura) (bewijsniveau L5). In Nederland, CBG-vergunningen: 26 (geldig: 26)"
 ---
 
@@ -97,9 +97,36 @@ Opmerking: voor het bredere beeld "migraine" bestaan wel geregistreerde studies 
 
 De voor dit rapport samengestelde data bevatten één vergunning, die door het programma wordt weergegeven.
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 103071 | Clopidogrel (als hydrochloride) Sandoz 75 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/08/465 | Clopidogrel Zentiva 300 mg, filmomhulde tablet | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| EU/1/09/535 | Grepid 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Geldig |
+| EU/1/09/540 | Clopidogrel Teva 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| EU/1/09/553 | Zyllt 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| EU/1/09/555 | Clopidogrel TAD 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/09/556 | Clopidogrel Krka 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/09/558 | Clopidogrel BGR 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| EU/1/09/559 | Clopidogrel Taw Pharma 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/09/562 | Clopidogrel Krka d.d. 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/09/568 | Clopidogrel Viatris 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Geldig |
+| EU/1/10/651 | Clopidogrel HCS 75 mg filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/14/975 | Clopidogrel ratiopharm 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| EU/1/98/069 | Plavix 300 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| EU/1/98/070 | Iscover, filmomhulde tabletten 75 mg | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| RVG 103071 | Clopidogrel (als hydrochloride) Sandoz 75 mg, filmomhulde tabletten | CLOPIDOGRELHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 106384 | Clopidogrel Aurobindo 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| RVG 112752 | Clopidogrel Accord 75 mg filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| RVG 117857 | Clopidogrel CF 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| RVG 127239 | Clopidogrel Amarox 75 mg, filmomhulde tabletten | CLOPIDOGRELWATERSTOFSULFAAT | Filmomhulde tablet | Geldig |
+| RVG 127948 | Clopidogrel Xiromed 75 mg filmomhulde tabletten | CLOPIDOGRELBESILAAT | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 26 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

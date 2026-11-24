@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 264
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Palonosetron: voorspelde nieuwe indicatie Migraineaandoening (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens"
 monitor_inn: "palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
@@ -84,7 +84,7 @@ Opmerking: bij de voorspelling "gevoeligheid voor migraine met of zonder aura" i
 
 <!-- review:begin nl-lic-20261112-palonosetron-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-palonosetron-1 -->
 
@@ -92,9 +92,19 @@ Opmerking: bij de voorspelling "gevoeligheid voor migraine met of zonder aura" i
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117379 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie in een voorgevulde spuit | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/04/306 | Aloxi, 500 micrograms capsules, zacht | PALONOSETRONHYDROCHLORIDE | Capsule, zacht | Geldig |
+| EU/1/16/1104 | Palonosetron Accord 250 microgram oplossing voor injectie | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 117366 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 117379 | Palonosetron Fresenius Kabi 250 microgram, oplossing voor injectie in een voorg… | PALONOSETRONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| EU/1/15/1001 | Akynzeo 300 milligram / 500 microgram harde capsule | NETUPITANT, PALONOSETRONHYDROCHLORIDE | Capsule, hard | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -123,7 +133,7 @@ Het enige beschikbare bewijs wijst op een migraineachtige bijwerking in plaats v
 
 <!-- review:begin nl-lic-20261112-palonosetron-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een beoordeling van het QT-risico en van de interacties met majeure comedicatie / Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een beoordeling van het QT-risico en van de interacties met majeure comedicatie / Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-palonosetron-2 -->
 
@@ -135,8 +145,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clarithromycin: voorspelde nieuwe indicatie Polyklonaal hyperviscositeitssyndroom (polyclonal hyperviscosity syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
 ---
 
@@ -68,10 +68,34 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113261 | Claritromycine Fair-Med 500 mg filmomhulde tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
-| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / filmomhulde tablet | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 21555 | Klacid SR, 500 mg tablet met gereguleerde afgifte | CLARITROMYCINE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 29081 | Claritromycine Teva 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 29082 | Claritromycine Teva 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 29849 | Claritromycine SUN 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 29850 | Claritromycine SUN 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 30789 | Claritromycine Sandoz 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 30790 | Claritromycine Sandoz 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 30849 | Claritromycine Sandoz suspensie 125 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Geldig |
+| RVG 30850 | Claritromycine Sandoz suspensie 250 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Geldig |
+| RVG 34921 | Claritromycine Doc Generici 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 107044 | Claritromycine Aurobindo 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 107045 | Claritromycine Aurobindo 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 107886 | Claritromycine Sandoz 250 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 107902 | Claritromycine Sandoz 500 mg, filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 108098 | Claritromycine Sandoz 125 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Geldig |
+| RVG 108099 | Claritromycine Sandoz 250 mg/5 ml, granulaat voor orale suspensie | CLARITROMYCINE | Granulaat voor orale suspensie | Geldig |
+| RVG 118826 | Claritromycine Accord 250 mg filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 118827 | Claritromycine Accord 500 mg filmomhulde tabletten | CLARITROMYCINE | Filmomhulde tablet | Geldig |
+| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / f… | CLARITROMYCINE, AMOXICILLINE 3-WATER, PANTOPRAZOL NATRIUM 1,5-WATER | Filmomhulde tablet, Maagsapresistente tablet | Geldig |
+| RVG 113261 | Claritromycine Fair-Med 500 mg filmomhulde tabletten | CLARITROMYCINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de lokale registratiegegevens (CBG-MEB) is de marktstatus: in de handel.
 

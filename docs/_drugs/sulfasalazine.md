@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 305
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sulfasalazine"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 description: "Sulfasalazine: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
@@ -94,9 +94,19 @@ De overige zeven voorspellingen (o.a. WHIM-syndroom, myosclerose, acromesomele d
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie | Status |
-|---------|------|------|-----------|------|
-| RVG 57373=09645 | Sulfasalazine CF 500 mg, maagsapresistente tabletten | Niet vermeld | Niet vermeld | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00633 | Salazopyrine zetpil, zetpillen 500 mg | SULFASALAZINE | Zetpil | Geldig |
+| RVG 05705 | Salazopyrine E.C. tablet, maagsapresistente tabletten 500 mg | SULFASALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 09645 | Sulfasalazine Teva 500 mg, maagsapresistente tabletten | SULFASALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 15007 | Sulfasalazine Mylan 500 mg, maagsapresistente tabletten | SULFASALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 57373=09645 | Sulfasalazine CF 500 mg, maagsapresistente tabletten | SULFASALAZINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Raadpleeg voor actuele informatie het CBG-MEB.
 
@@ -138,7 +148,7 @@ Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de officiële
 
 <!-- review:begin nl-lic-20261112-sulfasalazine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor artrose: klinisch onderzoek of een systematische review, en een beoordeling van de toedieningsroute (zoals de intra-articulaire hyaluronzuurformulering uit de preklinische studie) / Een afweging van de marktstatus, omdat de enige Nederlandse registratie is ingetrokken” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor artrose: klinisch onderzoek of een systematische review, en een beoordeling van de toedieningsroute (zoals de intra-articulaire hyaluronzuurformulering uit de preklinische studie) / Een afweging van de marktstatus, omdat de enige Nederlandse registratie is ingetrokken” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-sulfasalazine-1 -->
 
@@ -150,7 +160,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Een afweging van de marktstatus, omdat de enige Nederlandse registratie is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Een afweging van de marktstatus, omdat de enige Nederlandse registratie is ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1) |
 
 <!-- review:end log -->

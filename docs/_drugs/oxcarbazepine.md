@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 259
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: voorspelde nieuwe indicatie Restless legs syndrome (bewijsniveau L4). In Nederland, CBG-vergunningen: 25 (geldig: 24)"
@@ -90,15 +90,36 @@ De onderstaande publicaties zijn algemeen van aard. Geen ervan onderzoekt oxcarb
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118970//24751 | Trileptal 300 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-oxcarbazepine-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 24751 | Trileptal 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 24752 | Trileptal 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 33444 | Oxcarbazepine Viatris 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 33445 | Oxcarbazepine Viatris 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 33446 | Oxcarbazepine Viatris 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 106160 | Oxcarbazepine Sandoz 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 106161 | Oxcarbazepine Sandoz 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 112691//26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 112779 | Oxcarbazepine Jubilant 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 112780 | Oxcarbazepine Jubilant 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 112781 | Oxcarbazepine Jubilant 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 125037//26830 | Trileptal 60 mg/ml, suspensie voor oraal gebruik | OXCARBAZEPINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 127890 | Oxcarbazepine ADOH 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 127892 | Oxcarbazepine ADOH 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 127893 | Oxcarbazepine ADOH 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 129012//24752 | Trileptal 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 131267 | Oxcarbazepine Umedica 150 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 131270 | Oxcarbazepine Umedica 300 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
+| RVG 131272 | Oxcarbazepine Umedica 600 mg, filmomhulde tabletten | OXCARBAZEPINE | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118970//24751 / Trileptal 300 mg, filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118970//24751 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 25 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-oxcarbazepine-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -152,7 +173,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 118970//24751: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118970//24751: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-20 | "Gedetailleerde gegevens over het werkingsmechanisme ontbreken in de voor dit rapport samengestelde data. Deze beschrijving is gebaseerd op algemene farmacologische kennis en op de analyse van de voorspelling" replaced with a sourced mechanism-of-action statement | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b) |
 
 <!-- review:end log -->

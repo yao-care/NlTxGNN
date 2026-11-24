@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 243
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Nebivolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 23)"
@@ -81,15 +81,42 @@ Ter informatie: voor de derde voorspelde indicatie (pulmonale hypertensie) zijn 
 
 <!-- review:begin nl-lic-20261031-nebivolol-1 -->
 
-> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Alleen deze ene, inmiddels ingetrokken vergunning is bekend.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Alleen deze ene, inmiddels ingetrokken vergunning is bekend.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261031-nebivolol-1 -->
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 111041 | Nebivolol Stada 5 mg tabletten (status: geldig) | Tablet | Niet beschikbaar in de gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 18849 | Nebilet 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 19317 | Hypoloc tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 27817 | Nebiloc tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 27818 | Lobivon tabletten 5 mg | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 33452 | Nebilet 1,25 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 33885 | Nebivolol CF 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 34388 | Nebilet 10 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 34556 | Nebivolol Sandoz 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 101610 | Nebivolol Glenmark 2,5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 101615 | Nebivolol Glenmark 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 102513 | Nebivolol Teva 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 111041 | Nebivolol Stada 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 119975 | Nebivolol Aurobindo 2,5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 119978 | Nebivolol Aurobindo 5 mg, tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 123723 | Nebivolol ARX 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 127007 | Nebivolol Accord 2,5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 127010 | Nebivolol Accord 5 mg tabletten | NEBIVOLOLHYDROCHLORIDE | Tablet | Geldig |
+| RVG 35172 | Lobiretic 5 mg/12,5 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 35173 | Lobiretic 5 mg/25 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 35174 | Hyporetic 5 mg/12,5 mg, filmomhulde tabletten | HYDROCHLOORTHIAZIDE, NEBIVOLOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -114,7 +141,7 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 
 <!-- review:begin nl-lic-20261106-nebivolol-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Bij pulmonale hypertensie: een specifieke veiligheidsbeoordeling van bètablokkade voor de rechterventrikelfunctie / Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Bij pulmonale hypertensie: een specifieke veiligheidsbeoordeling van bètablokkade voor de rechterventrikelfunctie / Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-nebivolol-2 -->
 
@@ -126,8 +153,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-10-31 | Verwijderd: “Alleen deze ene, inmiddels ingetrokken vergunning is bekend” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-10-31 | Verwijderd: “Alleen deze ene, inmiddels ingetrokken vergunning is bekend” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Opheldering over de status van de ingetrokken registratie en eventuele beschikbare alternatieve producten in Nederland” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

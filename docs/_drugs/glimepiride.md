@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 172
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glimepiride: voorspelde nieuwe indicatie Focal stiff limb syndrome (bewijsniveau L5). Oorspronkelijke indicatie: Type 2-diabetes mellitus"
 monitor_inn: "Glimepiride"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -100,9 +100,36 @@ Voor de negende voorspelling (pancreatic agenesis) is één publicatie gevonden,
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117722 | Glimepiride Aurobindo 4 mg, tabletten (geldig) | Tablet | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 17843 | Amaryl 1 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 17844 | Amaryl 2 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 17845 | Amaryl 3 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 17846 | Amaryl 4 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 17847 | Amaryl 6 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 31974 | Glimepiride Zentiva 1 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 31975 | Glimepiride Zentiva 2 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 31976 | Glimepiride Zentiva 3 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 31977 | Glimepiride Zentiva 4 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 31978 | Glimepiride Zentiva 6 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 32745 | Glimepiride Sandoz 1, tabletten 1 mg | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 32746 | Glimepiride Sandoz 2, tabletten 2 mg | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 32747 | Glimepiride Sandoz 3, tabletten 3 mg | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 32748 | Glimepiride Sandoz 4, tabletten 4 mg | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 32773 | Glimepiride Sandoz 6 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 102007 | Glimepiride Accord 1 mg tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 102016 | Glimepiride Accord 2 mg tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 102017 | Glimepiride Accord 3 mg tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 102018 | Glimepiride Accord 4 mg tabletten | GLIMEPIRIDE | Tablet | Geldig |
+| RVG 105175 | Glimepiride CF 6 mg, tabletten | GLIMEPIRIDE | Tablet | Geldig |
+
+Getoond worden 20 van de 26 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De enige Nederlandse registratie is geldig; er is momenteel een geldige vergunning (1 van 1) voor een glimepiridepreparaat in de voor dit rapport samengestelde gegevens, en het middel wordt op de markt gebracht.
 
@@ -128,7 +155,7 @@ Voor volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indicat
 
 <!-- review:begin nl-lic-20261106-glimepiride-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is geen plausibel farmacologisch mechanisme. De Nederlandse registratie is bovendien ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is geen plausibel farmacologisch mechanisme. De Nederlandse registratie is bovendien ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-glimepiride-1 -->
 
@@ -147,7 +174,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De Nederlandse registratie is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De Nederlandse registratie is bovendien ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
 
 <!-- review:end log -->

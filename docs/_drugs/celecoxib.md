@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Celecoxib: voorspelde nieuwe indicatie acromesomele dysplasie type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lok…"
 ---
 
@@ -68,9 +68,34 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116718 | Celecoxib Aurobindo 200 mg, harde capsules | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 25053 | Celebrex 100 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 25054 | Celebrex 200 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 109120 | Celecoxib Viatris 100 mg harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 109122 | Celecoxib Viatris 200 mg harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112744 | Bixocel 100 mg, capsules, hard | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112745 | Bixocel 200 mg, capsules, hard | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112746 | Celecoxib Sandoz 100 mg, capsules, hard | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112747 | Celecoxib Sandoz 200 mg, capsules, hard | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112748 | Licebril 100 mg, capsules, hard | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112749 | Licebril 200 mg, capsules, hard | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112750 | Celecoxib Accord 100 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112751 | Celecoxib Accord 200 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112946 | Celecoxib Krka 100 mg harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 112947 | Celecoxib Krka 200 mg harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 116717 | Celecoxib Aurobindo 100 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 116718 | Celecoxib Aurobindo 200 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 122127 | Clibex 100 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 122130 | Clibex 200 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 130946 | Celecoxib Teva 100 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+| RVG 130947 | Celecoxib Teva 200 mg, harde capsules | CELECOXIB | Capsule, hard | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

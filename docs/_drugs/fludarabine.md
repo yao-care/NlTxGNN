@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 156
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fludarabine: voorspelde nieuwe indicatie Plasmacelmyeloom (bewijsniveau L2). Oorspronkelijke indicatie: Niet beschikbaar (de enige vergunning bevat geen indicatietekst)"
 monitor_inn: "fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
@@ -96,9 +96,19 @@ Er is geen gerandomiseerde studie gevonden die fludarabine zelf bij myeloom onde
 
 ## Marktinformatie Nederland
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114133 | Fludarabinefosfaat Accord 25 mg/ml, concentraat voor oplossing voor injectie of infusie | Niet vermeld | Niet vermeld (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16849 | Fludara, poeder voor oplossing voor injectie of infusie 50 mg/flacon | FLUDARABINEFOSFAAT | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 26919 | Fludara 10 mg, filmomhulde tabletten | FLUDARABINEFOSFAAT | Filmomhulde tablet | Geldig |
+| RVG 33255 | Fludarabinefosfaat - PCH 25 mg/ml, concentraat voor oplossing voor injectie/inf… | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor infusie, Concentr… | Geldig |
+| RVG 34839 | Fludarabine Sandoz 25 mg/ml, concentraat voor oplossing voor injectie of infusie | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor injectie of infus… | Geldig |
+| RVG 114133 | Fludarabinefosfaat Accord 25 mg/ml, concentraat voor oplossing voor injectie of… | FLUDARABINEFOSFAAT | Concentraat voor oplossing voor injectie of infus… | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Cytotoxiciteit
 
@@ -127,7 +137,7 @@ Waarschuwingen en contra-indicaties zijn niet beschikbaar in de gegevens voor di
 
 <!-- review:begin nl-lic-20261106-fludarabine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs betreft echter het schema als geheel en niet fludarabine als zelfstandig antimyeloommiddel. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs betreft echter het schema als geheel en niet fludarabine als zelfstandig antimyeloommiddel. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-fludarabine-1 -->
 
@@ -140,7 +150,7 @@ Waarschuwingen en contra-indicaties zijn niet beschikbaar in de gegevens voor di
 
 <!-- review:begin nl-lic-20261106-fludarabine-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de huidige beschikbaarheid van fludarabine in Nederland, aangezien de enige vergunning in de gegevens is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de huidige beschikbaarheid van fludarabine in Nederland, aangezien de enige vergunning in de gegevens is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-fludarabine-2 -->
 
@@ -154,8 +164,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “aangezien de enige vergunning in de gegevens is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “aangezien de enige vergunning in de gegevens is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951) |
 
 <!-- review:end log -->

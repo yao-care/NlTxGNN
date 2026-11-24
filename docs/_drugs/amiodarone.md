@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiodarone: voorspelde nieuwe indicatie Catecholaminerge polymorfe ventrikeltachycardie (catecholaminergic polymorphic ventricular tachycardia) (bewijsniveau L5)."
 ---
 
@@ -78,9 +78,21 @@ De gevonden publicaties beschrijven de ziekte zelf, andere behandelingen of alge
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117253 | Amiodaron HCl Aurobindo 200 mg, tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 21966 | Amiodaron HCl Sandoz 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 24101=57505 | Amiodaron HCl Mylan 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 32850 | Amiodaron HCl Hikma, 50 mg/ml oplossing voor injectie | AMIODARONHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 57505 | Amiodaron HCl Mylan 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 117253 | Amiodaron HCl Aurobindo 200 mg, tabletten | AMIODARONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 121324 | Amiodaron HCl hameln 50 mg/ml, concentraat voor oplossing voor injectie/infusie | AMIODARONHYDROCHLORIDE | Concentraat voor oplossing voor injectie of infus… | Geldig |
+| RVG 125827 | Amiodaron HCl hameln 20 mg/ml, oplossing voor infusie | AMIODARONHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Er is 1 vergunning in de lokale gegevens opgenomen en deze is geldig.
 

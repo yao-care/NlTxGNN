@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 224
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methadone: voorspelde nieuwe indicatie Tourette-syndroom (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens over de Nederlandse vergunning"
 monitor_inn: "methadone"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
@@ -73,9 +73,36 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118673 | Methadon HCl Apotex 50 mg, tabletten (geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 34508 | Methadon HCl Tiofarma 5 mg, tablet | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 104280 | Methadon HCl Tiofarma 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 104281 | Methadon HCl Tiofarma 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 104483 | Methadon HCl Tiofarma 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 105797 | Methadon HCl Sandoz 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 108677 | Methadon HCl Sandoz 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 108682 | Methadon HCl Sandoz 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 111803 | Eptadone Drank Suikervrij 5 mg/ml | METHADONHYDROCHLORIDE | Drank | Geldig |
+| RVG 111804 | Eptadone Drank Suikervrij 10 mg/ml | METHADONHYDROCHLORIDE | Drank | Geldig |
+| RVG 114400 | Methadon HCl Aurobindo 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 114404 | Methadon HCl Aurobindo 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 114405 | Methadon HCl Aurobindo 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 114406 | Methadon HCl Aurobindo 40 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 114407 | Methadon HCl Aurobindo 50 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 117368 | Methadon HCl Tiofarma 20 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 117370 | Methadon HCl Tiofarma 40 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 117371 | Methadon HCl Tiofarma 80 mg tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 118669 | Methadon HCl Aurobindo 5 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 118670 | Methadon HCl Aurobindo 10 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 118671 | Methadon HCl Aurobindo 20 mg, tabletten | METHADONHYDROCHLORIDE | Tablet | Geldig |
+
+Getoond worden 20 van de 29 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -115,7 +142,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 <!-- review:begin nl-lic-20261106-methadone-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs is niet verder gekomen dan een onderzoeksvraag (L4). Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs is niet verder gekomen dan een onderzoeksvraag (L4). Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-methadone-1 -->
 
@@ -134,7 +161,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en zijn de veiligheidsgegevens uit de bijsluiter niet beschikbaar” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Methadose Dispersible (methadone hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=544483e6-6f9d-4371-9e93-313e54e0ea05) |
 
 <!-- review:end log -->

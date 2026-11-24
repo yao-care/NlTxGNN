@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: voorspelde nieuwe indicatie Puntvormige epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5)."
@@ -70,9 +70,36 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115744 | Levofloxacine Beximco 500 mg, filmomhulde tabletten | Filmomhulde tabletten (afgeleid van de productnaam) | Niet beschikbaar; registratie is geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/14/973 | Quinsair 240 mg verneveloplossing | LEVOFLOXACINE 0,5-WATER | Verneveloplossing | Geldig |
+| RVG 100799 | Levofloxacine Sandoz 250 mg, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 100802 | Levofloxacine Sandoz 500 mg, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 102216 | Levofloxacine Fresenius Kabi 5 mg/ml, oplossing voor infusie | LEVOFLOXACINE 0,5-WATER | Oplossing voor infusie | Geldig |
+| RVG 102705 | Levofloxacine 500 mg PCH, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 103392 | Levofloxacine Jubilant 250 mg filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 103401 | Levofloxacine Jubilant 500 mg filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 104005 | Levofloxacine STADA 250 mg, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 104011 | Levofloxacine STADA 500 mg, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 107787 | Levofloxacine Aurobindo 250 mg, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 107790 | Levofloxacine Aurobindo 500 mg, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 109166 | Levofloxacine Hikma 5 mg/ml, oplossing voor infusie | LEVOFLOXACINE 0,5-WATER | Oplossing voor infusie | Geldig |
+| RVG 115739 | Levofloxacine Beximco 250 mg, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 115744 | Levofloxacine Beximco 500 mg, filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 123923 | Levofloxacine Rafarm zonder conserveermiddel 5 mg/ml oogdruppels, oplossing | LEVOFLOXACINE 0,5-WATER | Oogdruppels, oplossing | Geldig |
+| RVG 126738 | Maddoflox 500 mg filmomhulde tabletten | LEVOFLOXACINE 0,5-WATER | Filmomhulde tablet | Geldig |
+| RVG 130617 | Levonic-Opto 5 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | LEVOFLOXACINE 0,5-WATER | Oogdruppels, oplossing | Geldig |
+| RVG 131208 | Levonic 5 mg/ml oplossing voor infusie | LEVOFLOXACINE 0,5-WATER | Oplossing voor infusie | Geldig |
+| RVG 133890 | Levolige 5 mg/ml oplossing voor infusie | LEVOFLOXACINE 0,5-WATER | Oplossing voor infusie | Geldig |
+| RVG 134365 | Levofloxacine Noridem 5 mg/ml oplossing voor infusie | LEVOFLOXACINE 0,5-WATER | Oplossing voor infusie | Geldig |
+
+Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

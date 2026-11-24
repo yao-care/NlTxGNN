@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Lormetazepam"
 predicted_indications: ["alcohol withdrawal delirium", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "anxiety", "cauda equina syndrome", "anxiety disorder", "benign paroxysmal torticollis of infancy"]
 description: "Lormetazepam: voorspelde nieuwe indicatie Alcoholontwenningsdelirium (alcohol withdrawal delirium) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
@@ -68,15 +68,19 @@ Er is momenteel geen relevante literatuur beschikbaar over lormetazepam bij alco
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118528//08606 | Noctamid 1,0 mg, tabletten | Niet vermeld | Niet vermeld (status: niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-lormetazepam-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 23458 | Lormetazepam Prolepha 1 mg, tabletten | LORMETAZEPAM | Tablet | Geldig |
+| RVG 23459 | Lormetazepam Prolepha 2 mg, tabletten | LORMETAZEPAM | Tablet | Geldig |
+| RVG 24657 | Lormetazepam Aurobindo 1 mg, tabletten | LORMETAZEPAM | Tablet | Geldig |
+| RVG 24658 | Lormetazepam Aurobindo 2 mg, tabletten | LORMETAZEPAM | Tablet | Geldig |
+| RVG 118528//08606 | Noctamid 1,0 mg, tabletten | LORMETAZEPAM | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118528//08606 / Noctamid 1,0 mg, tabletten / Niet vermeld / Niet vermeld (status: geldig)” Gecorrigeerd: registratienummer RVG 118528//08606 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-lormetazepam-1 -->
+<!-- licenses:end -->
 
 De goedgekeurde indicatie is niet vastgelegd in de lokale gegevens van het CBG-MEB die voor dit rapport zijn gebruikt.
 
@@ -108,7 +112,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 118528//08606: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118528//08606: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

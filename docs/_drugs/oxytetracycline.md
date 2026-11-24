@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 262
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "oxytetracycline"
 predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "punctate epithelial keratoconjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "otitis externa"]
 description: "Oxytetracycline: voorspelde nieuwe indicatie Chronic rhinosinusitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 4)"
@@ -80,28 +80,26 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor chronische rinosin
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | — (niet geregistreerd) |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | — (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-oxytetracycline-3 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 03542 | Terra-Cortril met polymyxine-B, oordruppels | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oordruppels, suspensie | Geldig |
+| RVG 03543 | Terra-Cortril met polymyxine-B, oogzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oogzalf | Geldig |
+| RVG 14873 | Terra-Cortril met polymyxine-B, oorzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oorzalf | Geldig |
+| RVG 124167//03542 | Terra-Cortril met polymyxine-B, oordruppels | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oordruppels, suspensie | Geldig |
+| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | – | Niet geregistreerd |
+| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | POLYMYXINE B SULFAAT, HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118022//03542 / Terra-Cortril met polymyxine-B, oordruppels / Oordruppels / — (geldig)” Gecorrigeerd: registratienummer RVG 118022//03542 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-oxytetracycline-3 -->
+<!-- licenses:end -->
 
-<!-- review:begin nl-lic-20261112-oxytetracycline-4 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113295//03543 / Terra-Cortril met polymyxine-B, oogzalf / Oogzalf / — (geldig)” Gecorrigeerd: registratienummer RVG 113295//03543 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-oxytetracycline-4 -->
-
-Beide registratienummers komen niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).
+De registratienummers RVG 118022//03542 en RVG 113295//03543 komen niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).
 
 <!-- review:begin nl-lic-20261115-oxytetracycline-1 -->
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Beide registraties zijn doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beide registraties zijn doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261115-oxytetracycline-1 -->
 
@@ -129,7 +127,7 @@ De registratietekst (SmPC) was voor dit rapport niet beschikbaar. Raadpleeg de S
 
 <!-- review:begin nl-lic-20261112-oxytetracycline-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het mechanisme kan niet worden getoetst en de registraties in Nederland zijn doorgehaald. / Het ontbreken van registratietekst over waarschuwingen en contra-indicaties is een blokkerend hiaat voor een veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het mechanisme kan niet worden getoetst en de registraties in Nederland zijn doorgehaald. / Het ontbreken van registratietekst over waarschuwingen en contra-indicaties is een blokkerend hiaat voor een veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-oxytetracycline-1 -->
 
@@ -142,7 +140,7 @@ De registratietekst (SmPC) was voor dit rapport niet beschikbaar. Raadpleeg de S
 
 <!-- review:begin nl-lic-20261112-oxytetracycline-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een systematische literatuur- en studieregistratiezoektocht specifiek voor oxytetracycline of tetracyclines bij chronische rinosinusitis. / Beoordeling van de toedieningsroute (systemisch of topisch) en van de beschikbaarheid van een geschikt product, gezien de doorgehaalde registraties.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 6, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een systematische literatuur- en studieregistratiezoektocht specifiek voor oxytetracycline of tetracyclines bij chronische rinosinusitis. / Beoordeling van de toedieningsroute (systemisch of topisch) en van de beschikbaarheid van een geschikt product, gezien de doorgehaalde registraties.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-oxytetracycline-2 -->
 
@@ -154,11 +152,11 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het mechanisme kan niet worden getoetst en de registraties in Nederland zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Beoordeling van de toedieningsroute (systemisch of topisch) en van de beschikbaarheid van een geschikt product, gezien de doorgehaalde regis” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “Beide registraties zijn doorgehaald.” → “Beide registratienummers komen niet voor in de actuele Genee” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het mechanisme kan niet worden getoetst en de registraties in Nederland zijn doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beoordeling van de toedieningsroute (systemisch of topisch) en van de beschikbaarheid van een geschikt product, gezien de doorgehaalde regis” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Beide registraties zijn doorgehaald.” → “Beide registratienummers komen niet voor in de actuele Genee” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517) |
 
 <!-- review:end log -->

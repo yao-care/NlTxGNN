@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "zidovudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Zidovudine: voorspelde nieuwe indicatie Feline acquired immunodeficiency syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 8)"
@@ -85,12 +85,25 @@ Er zijn geen gerandomiseerde gecontroleerde studies (RCT's) gevonden. De onderst
 
 Gegevens over de goedgekeurde indicatie zijn niet beschikbaar in de samengestelde data.
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Status |
-|---------|------|------|-----------|
-| RVG 112406 | Lamivudine/Zidovudine Hetero Europe 150 mg/300 mg | Filmomhulde tabletten | Niet geregistreerd |
-| RVG 108919 | Lamivudine/Zidovudine Hexal 150/300 mg | Filmomhulde tabletten | Niet geregistreerd |
-| RVG 110864 | Abacavir/Lamivudine/Zidovudine 300/150/300 mg Teva | Filmomhulde tabletten | Niet geregistreerd |
-| RVG 113105 | Abacavir/Lamivudine/Zidovudine Mylan 300 mg/150 mg/300 mg | Filmomhulde tabletten | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 12639 | Retrovir 100 mg capsules, hard | ZIDOVUDINE | Capsule, hard | Geldig |
+| RVG 15118 | Retrovir 100 mg/10 ml, drank | ZIDOVUDINE | Drank | Geldig |
+| RVG 16389 | Retrovir Infuus 10 mg/ml, concentraat voor oplossing voor infusie | ZIDOVUDINE | Concentraat voor oplossing voor infusie | Geldig |
+| EU/1/00/156 | Trizivir filmomhulde tabletten, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| EU/1/98/058 | Combivir, tabletten 150/300 mg | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| RVG 107779 | Lamivudine/Zidovudine Viatris 150/300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| RVG 111576 | Lamivudine/Zidovudine Aurobindo 150/300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| RVG 113105 | Abacavir/Lamivudine/Zidovudine Mylan 300 mg/150 mg/300 mg filmomhulde tabletten | ZIDOVUDINE, LAMIVUDINE 0-WATER, ABACAVIRSULFAAT | Filmomhulde tablet | Geldig |
+| RVG 108919 | Lamivudine/Zidovudine Hexal 150/300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER, ZIDOVUDINE | – | Niet geregistreerd |
+| RVG 110864 | Abacavir/Lamivudine/Zidovudine 300/150/300 mg Teva, filmomhulde tabletten | ZIDOVUDINE, ABACAVIR, LAMIVUDINE 0-WATER | – | Niet geregistreerd |
+| RVG 112406 | Lamivudine/Zidovudine Hetero Europe 150 mg/300 mg, filmomhulde tabletten | ZIDOVUDINE, LAMIVUDINE 0-WATER | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

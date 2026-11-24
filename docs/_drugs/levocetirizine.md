@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 205
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Levocetirizine: voorspelde nieuwe indicatie Reumatoïde artritis (rheumatoid arthritis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 14 (geldig: 13)"
@@ -82,15 +82,34 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120202 (33414) | Levocetirizine dihydrochloride Fisher 0,5 mg/ml, drank | Drank (oplossing voor oraal gebruik) | Niet beschikbaar |
+<!-- licenses:begin -->
 
-Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 26770 | Xyzal, 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 33414 | Xyzal 0,5 mg/ml drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
+| RVG 34946 | Levocetirizine diHCl 5 PCH, filmomhulde tabletten 5 mg | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 101132 | Levocetirizine diHCl Viatris 5 mg tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 101135 | Cetirmar 5 mg tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 102859 | Levocetirizine diHCL Sandoz 5 mg, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 102860 | Levocetirizine 2HCl Aurobindo 5 mg, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 109243 | Levocetirizine Krka 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112332 | Levocetirizine dihydrochloride Ipca, 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 123258//33414 | Xyzal 0,5 mg/ml, drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
+| RVG 125328=112332 | Levocetirizine diHCl 5 mg Focus Care, filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 128534//33414 | Xyzal 0,5 mg/ml drank | LEVOCETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
+| RVG 130650//26770 | Xyzal 5 mg filmomhulde tabletten | LEVOCETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 120202//33414 | Levocetirizine dihydrochloride Fisher 0,5 mg/ml, drank | LEVOCETIRIZINEDIHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Het registratienummer RVG 120202//33414 (Levocetirizine dihydrochloride Fisher 0,5 mg/ml, drank) komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.
 
 <!-- review:begin nl-lic-20261115-levocetirizine-1 -->
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Deze registratie is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze registratie is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261115-levocetirizine-1 -->
 
@@ -123,7 +142,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 <!-- review:begin nl-lic-20261112-levocetirizine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordeling van de beschikbare toedieningsroutes en formuleringen, gezien de doorgehaalde registratie / Een veiligheidsplan voor patiënten met nierfunctiestoornissen en voor combinaties met centraal dempende middelen” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordeling van de beschikbare toedieningsroutes en formuleringen, gezien de doorgehaalde registratie / Een veiligheidsplan voor patiënten met nierfunctiestoornissen en voor combinaties met centraal dempende middelen” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-levocetirizine-1 -->
 
@@ -135,8 +154,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Beoordeling van de beschikbare toedieningsroutes en formuleringen, gezien de doorgehaalde registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beoordeling van de beschikbare toedieningsroutes en formuleringen, gezien de doorgehaalde registratie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222) |
 
 <!-- review:end log -->

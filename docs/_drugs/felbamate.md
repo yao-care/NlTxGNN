@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 148
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "felbamate"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 description: "Felbamate: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (trigeminal nerve neoplasm) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 6)"
@@ -71,15 +71,20 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119849//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | Suspensie voor oraal gebruik | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-row-20261112-felbamate-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16889 | Taloxa-SUSP, 600 mg/5 ml suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | Geldig |
+| RVG 110909 | Taloxa-TABS 600 mg, tabletten | FELBAMAAT | Tablet | Geldig |
+| RVG 113640//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | Geldig |
+| RVG 119849//16889 | Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik | FELBAMAAT | Suspensie voor oraal gebruik | Geldig |
+| RVG 125326//110909 | Taloxa-TABS 600 mg, tabletten | FELBAMAAT | Tablet | Geldig |
+| RVG 134703//110909 | Taloxa-TABS 600 mg tabletten | FELBAMAAT | Tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119849//16889 (doorgehaald) / Taloxa-SUSP 600 mg/5 ml, suspensie voor oraal gebruik / Suspensie voor oraal gebruik / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 119849//16889 staat in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12) en is dus geldig ingeschreven. De vermelding “doorgehaald” in deze tabelregel is verwijderd; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-row-20261112-felbamate-1 -->
+<!-- licenses:end -->
 
 Er is een geldige vergunning bij het CBG-MEB (1 van 1 vergunning). Het middel is op de markt.
 
@@ -106,7 +111,7 @@ De voorspelling berust uitsluitend op een modelscore (evidentieniveau L5) zonder
 
 <!-- review:begin nl-lic-20261106-felbamate-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Een voorlopige afweging van de baten-risicoverhouding ten opzichte van carbamazepine en oxcarbazepine. / Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Een voorlopige afweging van de baten-risicoverhouding ten opzichte van carbamazepine en oxcarbazepine. / Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-felbamate-1 -->
 
@@ -118,8 +123,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119849//16889: “(doorgehaald)” verwijderd (geldig ingeschreven) | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119849//16889: “(doorgehaald)” verwijderd (geldig ingeschreven) | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66) |
 
 <!-- review:end log -->

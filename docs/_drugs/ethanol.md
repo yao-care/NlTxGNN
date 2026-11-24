@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ethanol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de vergunningsgegevens"
 monitor_inn: "ethanol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -96,9 +96,18 @@ De overige gevonden publicaties gaan over andere stoffen of algemene migrainegen
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117752 | Chloorhexidinetinctuur Fresenius Kabi, rood, oplossing voor cutaan gebruik 5 mg/ml / 70% v/v (status: geldig) | Oplossing voor cutaan gebruik | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 117750 | Chloorhexidinetinctuur Fresenius Kabi, oplossing voor cutaan gebruik 5 mg/ml /7… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 117752 | Chloorhexidinetinctuur Fresenius Kabi, rood , oplossing voor cutaan gebruik 5 m… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 120279 | Chloorhexidinedigluconaat 0,5% m/v in Alcohol 70% v/v Added Pharma, oplossing v… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 123416 | Chloorhexidinedigluconaat 0,5% m/v in Alcohol 70% v/v Melita, oplossing voor cu… | CHLOORHEXIDINEDIGLUCONAAT, ETHANOL | Oplossing voor cutaan gebruik | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

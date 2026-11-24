@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 description: "Trimethoprim: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale …"
@@ -70,9 +70,26 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 55723 | Trimethoprim CF 300 mg, tabletten (geldig) | Tablet | Geen indicatietekst beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28451=55722 | Trimethoprim Mylan 100 mg, tabletten | TRIMETHOPRIM | Tablet | Geldig |
+| RVG 28452=55723 | Trimethoprim Mylan 300 mg, tabletten | TRIMETHOPRIM | Tablet | Geldig |
+| RVG 55722 | Trimethoprim CF 100 mg, tabletten | TRIMETHOPRIM | Tablet | Geldig |
+| RVG 55723 | Trimethoprim CF 300 mg, tabletten | TRIMETHOPRIM | Tablet | Geldig |
+| RVG 07231 | Bactrimel, concentraat voor oplossing voor intraveneuze infusie 96 mg/ml | SULFAMETHOXAZOL, TRIMETHOPRIM | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 09044 | Polytrim, oogdruppels | POLYMYXINE B SULFAAT, TRIMETHOPRIM | Oogdruppels, oplossing | Geldig |
+| RVG 09239 | Rokiprim, oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | Geldig |
+| RVG 10550 | Co-trimoxazol Teva 200/40 mg/5 ml, suspensie voor oraal gebruik | SULFAMETHOXAZOL, TRIMETHOPRIM | Suspensie voor oraal gebruik | Geldig |
+| RVG 55505 | Co-trimoxazol CF 400 mg/80 mg, tabletten | SULFAMETHOXAZOL, TRIMETHOPRIM | Tablet | Geldig |
+| RVG 55506 | Co-trimoxazol forte CF 800 mg/160 mg, tabletten | SULFAMETHOXAZOL, TRIMETHOPRIM | Tablet | Geldig |
+| RVG 118785//09239 | Rokiprim, oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | Geldig |
+| RVG 133007//09239 | Rokiprim oplossing voor infusie | SULFAMETROLNATRIUM, TRIMETHOPRIM | Oplossing voor infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

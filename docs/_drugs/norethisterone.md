@@ -3,7 +3,7 @@ layout: default
 title: Norethisterone
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 246
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "norethisterone"
 description: "Norethisterone: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
@@ -49,22 +49,20 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114612//22819 | Activelle, filmomhulde tabletten (niet geregistreerd) | Niet vermeld | Niet vermeld |
-| RVG 119949//14942 | Kliogest, filmomhulde tabletten (niet geregistreerd) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-norethisterone-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 02179 | Primolut N, tabletten 5 mg | NORETHISTERON | Tablet | Geldig |
+| EU/1/21/1565 | Ryeqo 40 mg/1 mg/0.5 mg, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT, RELUGOLIX | Filmomhulde tablet | Geldig |
+| RVG 22819 | Activelle, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | Filmomhulde tablet | Geldig |
+| RVG 117326//22819 | Activelle 1 mg/0,5 mg, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | Filmomhulde tablet | Geldig |
+| RVG 114612//22819 | Activelle, filmomhulde tabletten | NORETHISTERONACETAAT, ESTRADIOL 0,5-WATER | – | Niet geregistreerd |
+| RVG 119949//14942 | Kliogest, filmomhulde tabletten | ESTRADIOL 0,5-WATER, NORETHISTERONACETAAT | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 114612//22819 / Activelle, filmomhulde tabletten (geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 114612//22819 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-norethisterone-1 -->
-
-<!-- review:begin nl-lic-20261112-norethisterone-2 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119949//14942 / Kliogest, filmomhulde tabletten (geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 119949//14942 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-norethisterone-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -86,8 +84,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 114612//22819: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119949//14942: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 114612//22819: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119949//14942: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

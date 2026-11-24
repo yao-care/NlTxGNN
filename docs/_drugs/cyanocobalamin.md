@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyanocobalamin: voorspelde nieuwe indicatie biotinemetabole ziekte (biotin metabolic disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)"
 ---
 
@@ -82,9 +82,18 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117795//15333 | Cernevit poeder voor oplossing voor injectie of voor intraveneuze infusie | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 50822 | Cyanocobalamine CF 1 mg/ml, injectievloeistof | CYANOCOBALAMINE | Oplossing voor injectie | Geldig |
+| RVG 09077 | Soluvit N, poeder voor oplossing voor intraveneuze infusie | BIOTINE, CYANOCOBALAMINE, FOLIUMZUUR, NATRIUMASCORBAAT (E 301), NICOTINAMIDE, P… | Poeder voor oplossing voor infusie | Geldig |
+| RVG 15333 | Cernevit, poeder voor oplossing voor injectie of intraveneuze infusie | ASCORBINEZUUR (E 300), BIOTINE, CHOLECALCIFEROL, COCARBOXYLASE 4-WATER, CYANOCO… | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 117795//15333 | Cernevit poeder voor oplossing voor injectie of voor intraveneuze infusie | COCARBOXYLASE 4-WATER, BIOTINE, CYANOCOBALAMINE, RIBOFLAVINE NATRIUMFOSFAAT 2-W… | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 *Opmerking: dit is een multivitaminepreparaat; de vergunning zegt niets over de wijze van registratie van cyanocobalamine als enkelvoudig middel.*
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 253
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Olmesartan: voorspelde nieuwe indicatie Prinzmetal-angina (vasospastische angina) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de beschikbare vergunningsgegevens"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -78,21 +78,44 @@ Momenteel geen gerelateerde literatuur beschikbaar voor prinzmetal-angina.
 
 ## Marktinformatie Nederland
 
-Het middel is momenteel op de Nederlandse markt. Hieronder een overzicht van de eerste vijf vergunningen (CBG-MEB). Gegevens over toedieningsvorm en goedgekeurde indicatie ontbreken in de beschikbare data.
+Het middel is momenteel op de Nederlandse markt. Gegevens over toedieningsvorm en goedgekeurde indicatie ontbreken in de beschikbare data.
 
 <!-- review:begin nl-lic-20261112-olmesartan-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle 11 vergunningen zijn geldig; het middel is momenteel op de Nederlandse markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 126, waarvan geldig: 123; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle 11 vergunningen zijn geldig; het middel is momenteel op de Nederlandse markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-olmesartan-1 -->
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 118854 | Olmesartanmedoxomil Aurobindo 40 mg, filmomhulde tabletten | Geldig |
-| RVG 115954//100986 | Sevikar 40 mg/5 mg, filmomhulde tabletten | Niet geregistreerd |
-| RVG 117957 | Olmesartanmedoxomil/Hydrochloorthiazide Aurobindo 40/12,5 mg, filmomhulde tabletten | Geldig |
-| RVG 115959//100987 | Sevikar 40 mg/10 mg, filmomhulde tabletten | Niet geregistreerd |
-| RVG 117958 | Olmesartanmedoxomil/Hydrochloorthiazide Aurobindo 40/25 mg, filmomhulde tabletten | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28782 | Olmetec 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 28783 | Olmetec 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 28784 | Olmetec 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 115135 | Olmesartan medoxomil Glenmark 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 115136 | Olmesartan medoxomil Glenmark 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 115137 | Olmesartan medoxomil Glenmark 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 115532 | Olmesartan medoxomil Jubilant 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 115533 | Olmesartan medoxomil Jubilant 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 115534 | Olmesartan medoxomil Jubilant 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 116942 | Olmesartan Medoxomil Accord 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 116943 | Olmesartan Medoxomil Accord 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 116944 | Olmesartan Medoxomil Accord 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 117240 | Olmesartan medoxomil Sandoz 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 117248 | Olmesartan medoxomil Sandoz 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 117249 | Olmesartan medoxomil Sandoz 40 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 117475 | Olmesartan medoxomil Krka 10 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 117476 | Olmesartan medoxomil Krka 20 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 117477 | Olmesartan medoxomil Krka 40 mg filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 118852 | Olmesartanmedoxomil Aurobindo 10 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+| RVG 118853 | Olmesartanmedoxomil Aurobindo 20 mg, filmomhulde tabletten | OLMESARTANMEDOXOMIL | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 126 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -139,7 +162,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Alle 11 vergunningen zijn geldig; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle 11 vergunningen zijn geldig; h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

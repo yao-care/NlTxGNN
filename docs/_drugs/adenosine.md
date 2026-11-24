@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adenosine: voorspelde nieuwe indicatie Verouderde bundeltakblok (obsolete bundle branch block) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 
@@ -68,9 +68,18 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114014 | Adenosine Fresenius Kabi 3 mg/ml, oplossing voor injectie in een voorgevulde spuit | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16617 | Adenocor, injectievloeistof voor intraveneuze toediening 3 mg/ml | ADENOSINE | Oplossing voor injectie | Geldig |
+| RVG 114014 | Adenosine Fresenius Kabi 3 mg/ml, oplossing voor injectie in een voorgevulde sp… | ADENOSINE | Oplossing voor injectie | Geldig |
+| RVG 124384 | Adenosine Hikma 6 mg/2 ml, oplossing voor injectie | ADENOSINE | Oplossing voor injectie | Geldig |
+| RVG 128962//16617 | Adenosine Eureco-Pharma, injectievloeistof voor intraveneuze toediening 3 mg/ml | ADENOSINE | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

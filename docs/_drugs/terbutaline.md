@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Terbutaline: voorspelde nieuwe indicatie Respiratoire malformatie (respiratory malformation) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 2)"
@@ -92,9 +92,17 @@ Geen van deze publicaties onderzoekt respiratoire malformatie als ziekte direct.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114188//12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | Inhalatiepoeder | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | TERBUTALINESULFAAT | Inhalatiepoeder | Geldig |
+| RVG 15959 | Bricanyl 250 Turbuhaler, inhalatiepoeder 250 microgram/dosis | TERBUTALINESULFAAT | Inhalatiepoeder | Geldig |
+| RVG 114188//12480 | Bricanyl 500 Turbuhaler, inhalatiepoeder 500 microgram/dosis | TERBUTALINESULFAAT | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig. De volledige indicatietekst staat in de SmPC.
 

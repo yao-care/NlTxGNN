@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoposide: voorspelde nieuwe indicatie Goed gedifferentieerd foetaal adenocarcinoom van de long (well-differentiated fetal adenocarcinoma of the lung) (bewijsniveau L5). Oorspronkelijke indicatie: Ni…"
 ---
 
@@ -82,9 +82,24 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119839//10375 | Vepesid 50 mg, capsules, zacht | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 08543 | Vepesid 100 mg, capsules, zacht | ETOPOSIDE | Capsule, zacht | Geldig |
+| RVG 10375 | Vepesid 50 mg, capsules, zacht | ETOPOSIDE | Capsule, zacht | Geldig |
+| RVG 16010 | Toposin 20 mg/ml, concentraat voor oplossing voor intraveneuze infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 16307 | Eposin, concentraat voor oplossing voor infusie 20 mg/ml | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 110921 | Etoposide Fresenius Kabi 20 mg/ml, concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 113482 | Etoposide Accord 20 mg/ml, concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 125732 | Etoposide Hikma 20 mg/ml concentraat voor oplossing voor infusie | ETOPOSIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 128540//08543 | Vepesid 100 mg capsules, zacht | ETOPOSIDE | Capsule, zacht | Geldig |
+| RVG 131742//08543 | Vepesid 100 mg capsules, zacht | ETOPOSIDE | Capsule, zacht | Geldig |
+| RVG 119839//10375 | Vepesid 50 mg, capsules, zacht | ETOPOSIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

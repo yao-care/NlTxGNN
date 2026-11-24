@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 222
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 description: "Mesalazine: voorspelde nieuwe indicatie Congenital hypotrichosis with juvenile macular dystrophy (bewijsniveau L5). In Nederland, CBG-vergunningen: 78 (geldig: 77)"
@@ -91,9 +91,36 @@ Er zijn geen RCT's. De gevonden publicaties zijn vooral reviews, bijwerkingenrap
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120321//102870 | Salofalk 1g, zetpillen | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 10115 | Salofalk zetpil 250, zetpillen 250 mg | MESALAZINE | Zetpil | Geldig |
+| RVG 11469 | Salofalk 4 g/60 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Geldig |
+| RVG 11737 | Asacol 400 tablet, maagsapresistente tabletten 400 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 11782 | Pentasa 1g/100 ml, suspensie voor rectaal gebruik | MESALAZINE | Suspensie voor rectaal gebruik | Geldig |
+| RVG 11836 | Salofalk zetpil 500, zetpillen 500 mg | MESALAZINE | Zetpil | Geldig |
+| RVG 12144 | Salofalk 500, maagsapresistente tabletten 500 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 14797 | Pentasa 500 mg, tabletten met verlengde afgifte | MESALAZINE | Tablet met verlengde afgifte | Geldig |
+| RVG 15064 | Pentasa 1 g zetpillen | MESALAZINE | Zetpil | Geldig |
+| RVG 15393 | Salofalk 2 g/30 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Geldig |
+| RVG 15845 | Salofalk 2 g/60 g, klysma | MESALAZINE | Oplossing voor rectaal gebruik | Geldig |
+| RVG 18636 | Asacol 800 tablet, maagsapresistente tabletten 800 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 18706 | Pentasa Compact 1 g, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Geldig |
+| RVG 24112 | Mesalazine Aurobindo 500 mg, zetpillen | MESALAZINE | Zetpil | Geldig |
+| RVG 26915 | Mesalazine Sandoz tablet EC 250, maagsapresistente tabletten 250 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 26916 | Mesalazine Sandoz tablet EC 500, maagsapresistente tabletten 500 mg | MESALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 27071 | Mesalazine Aurobindo EC 250 mg, maagsapresistente tabletten | MESALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 27072 | Mesalazine Aurobindo EC 500 mg, maagsapresistente tabletten | MESALAZINE | Maagsapresistente tablet | Geldig |
+| RVG 28130 | Salofalk 500 mg Granu-Stix, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Geldig |
+| RVG 28131 | Salofalk 1000 mg Granu-Stix, granulaat met verlengde afgifte | MESALAZINE | Granulaat met verlengde afgifte | Geldig |
+| RVG 28179 | Salofalk Schuim 1 g/dosis, schuim voor rectaal gebruik | MESALAZINE | Schuim voor rectaal gebruik | Geldig |
+
+Getoond worden 20 van de 78 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -129,7 +156,7 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor v
 
 <!-- review:begin nl-lic-20261112-mesalazine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor reumatoïde artritis ontbreken klinische studies met mesalazine, en het enige verband loopt via sulfasalazine, waarvan de werking waarschijnlijk niet aan het mesalazine-deel te danken is. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 78, waarvan geldig: 77; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor reumatoïde artritis ontbreken klinische studies met mesalazine, en het enige verband loopt via sulfasalazine, waarvan de werking waarschijnlijk niet aan het mesalazine-deel te danken is. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-mesalazine-1 -->
 
@@ -148,7 +175,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de SmPC, wat een blokkerend datagat is” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7) |
 
 <!-- review:end log -->

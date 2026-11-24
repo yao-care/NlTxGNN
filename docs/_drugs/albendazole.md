@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Albendazole: voorspelde nieuwe indicatie Coenurose (coenurosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 
@@ -108,9 +108,18 @@ De literatuur bestaat vooral uit overzichtsartikelen en casusbeschrijvingen over
 
 Marktstatus: **In de handel**. Er is 1 vergunning, en die is geldig.
 
-| RVG-nummer | Productnaam | Toedieningsvorm |
-|---------|------|------|
-| RVG 118764//15437 | Eskazole 400 mg, tabletten | Tablet |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 15437 | Eskazole 400 mg tabletten | ALBENDAZOL | Filmomhulde tablet | Geldig |
+| RVG 118764//15437 | Eskazole 400 mg, tabletten | ALBENDAZOL | Filmomhulde tablet | Geldig |
+| RVG 129033//15437 | Eskazole 400 mg, tabletten | ALBENDAZOL | Tablet | Geldig |
+| RVG 130397//15437 | Eskazole 400 mg tabletten | ALBENDAZOL | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Raadpleeg voor de officiële indicatietekst de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter via het CBG-MEB.
 

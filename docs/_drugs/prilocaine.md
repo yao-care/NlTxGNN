@@ -96,17 +96,26 @@ Belangrijke kanttekening: vrijwel al het bewijs betreft de combinatie met lidoca
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 112995 | Prilotekal, 20 mg/ml oplossing voor injectie | Niet beschikbaar | Niet beschikbaar (geldig) |
-| RVG 115128 | Lidocaïne/Prilocaïne Teva 25 + 25 mg/g crème | Niet beschikbaar | Niet beschikbaar (geldig) |
-| RVG 115964//11015 | Emla, hydrofiele creme 5% | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-prilocaine-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 07820 | Citanest 10 mg/ml, oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 07821 | Citanest 20 mg/ml, oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 112995 | Prilotekal, 20 mg/ml oplossing voor injectie | PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| EU/1/13/881 | Fortacin 150 mg/ml + 50 mg/ml huidspray, oplossing | LIDOCAÏNE, PRILOCAÏNE | Huidspray, oplossing | Geldig |
+| RVG 07824 | Citanest 3% - Octapressine DENTAL, injectievloeistof voor perineurale toedienin… | FELYPRESSINE, PRILOCAÏNEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 11015 | emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | Crème | Geldig |
+| RVG 15721 | Emla, pleister | LIDOCAÏNE, PRILOCAÏNE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 30847 | Oraqix, gel voor peri-odontaal gebruik 25 mg/g + 25 mg/g | LIDOCAÏNE, PRILOCAÏNE | Gel voor peri-odontaal gebruik | Geldig |
+| RVG 115128 | Lidocaïne/Prilocaïne Teva 25 + 25 mg/g crème | PRILOCAÏNE, LIDOCAÏNE | Crème | Geldig |
+| RVG 128718//11015 | Emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | Crème | Geldig |
+| RVG 134685 | Algyd 25 mg/25 mg pleister | LIDOCAÏNE, PRILOCAÏNE | Pleister | Geldig |
+| RVG 115964//11015 | Emla, hydrofiele creme 5% | LIDOCAÏNE, PRILOCAÏNE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 115964//11015 / Emla, hydrofiele creme 5% / Niet beschikbaar / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 115964//11015 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-prilocaine-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -148,7 +157,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 115964//11015: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 115964//11015: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41) |
 
 <!-- review:end log -->

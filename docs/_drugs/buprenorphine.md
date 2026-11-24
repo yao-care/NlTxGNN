@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "buprenorphine"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Buprenorphine: voorspelde nieuwe indicatie Acute intermitterende porfyrie (acute intermittent porphyria) (bewijsniveau L5). In Nederland, CBG-vergunningen: 62 (geldig: 62)"
 ---
 
@@ -80,10 +80,36 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114442//11872 | Temgesic 0,2 mg, tabletten voor sublinguaal gebruik | Niet vermeld | Niet vermeld in de lokale gegevens |
-| RVG 120053 | Buprenorfine Sandoz 70 microgram/uur, pleister voor transdermaal gebruik | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/18/1336 | Buvidal 16 mg oplossing voor injectie met verlengde afgifte | BUPRENORFINE | Oplossing voor injectie | Geldig |
+| EU/1/24/1809 | Buprenorfine Neuraxpharm 6 mg film voor sublinguaal gebruik | BUPRENORFINEHYDROCHLORIDE | Film voor sublinguaal gebruik | Geldig |
+| RVG 08725 | Temgesic 0,3 mg/ml oplossing voor injectie | BUPRENORFINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 11872 | Temgesic 0,2 mg tabletten voor sublinguaal gebruik | BUPRENORFINEHYDROCHLORIDE | Tablet voor sublinguaal gebruik | Geldig |
+| RVG 32909 | Transtec 35 µg/uur 4 dagen, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 32910 | Transtec 52,5 µg/uur 4 dagen, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 32911 | Transtec 70 µg/uur 4 dagen, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100975 | BuTrans 5 microgram/uur 7 dagen, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100978 | BuTrans 10 microgram/uur 7 dagen, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100979 | BuTrans 20 microgram/uur 7 dagen, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 102351 | Buprenorfine Viatris 0,4 mg, tabletten voor sublinguaal gebruik | BUPRENORFINEHYDROCHLORIDE | Tablet voor sublinguaal gebruik | Geldig |
+| RVG 102355 | Buprenorfine Viatris 2 mg, tabletten voor sublinguaal gebruik | BUPRENORFINEHYDROCHLORIDE | Tablet voor sublinguaal gebruik | Geldig |
+| RVG 102356 | Buprenorfine Viatris 8 mg, tabletten voor sublinguaal gebruik | BUPRENORFINEHYDROCHLORIDE | Tablet voor sublinguaal gebruik | Geldig |
+| RVG 106350 | Buprenorfine SUN 2 mg tabletten voor sublinguaal gebruik | BUPRENORFINEHYDROCHLORIDE | Tablet voor sublinguaal gebruik | Geldig |
+| RVG 106355 | Buprenorfine SUN 8 mg tabletten voor sublinguaal gebruik | BUPRENORFINEHYDROCHLORIDE | Tablet voor sublinguaal gebruik | Geldig |
+| RVG 114442//11872 | Temgesic 0,2 mg, tabletten voor sublinguaal gebruik | BUPRENORFINEHYDROCHLORIDE | Tablet voor sublinguaal gebruik | Geldig |
+| RVG 114799 | Buprenorfine Sandoz 5 microgram/uur, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 114800 | Buprenorfine Sandoz 10 microgram/uur, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 114801 | Buprenorfine Sandoz 15 microgram/uur, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 114802 | Buprenorfine Sandoz 20 microgram/uur, pleister voor transdermaal gebruik | BUPRENORFINE | Pleister voor transdermaal gebruik | Geldig |
+
+Getoond worden 20 van de 62 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

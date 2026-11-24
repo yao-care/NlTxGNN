@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil: voorspelde nieuwe indicatie Obsolete bundle branch block (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
@@ -109,15 +109,34 @@ Voor de voorspelling "maligne renovasculaire hypertensie" (rang 3) zijn twee pub
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 57532 | Verapamil HCl Apotex 120 mg, omhulde tabletten (niet geregistreerd) | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-verapamil-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 12102 | Isoptin SR 240, tabletten met gereguleerde afgifte 240 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 15481 | Isoptin SR 120, tabletten met gereguleerde afgifte 120 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 15853 | Isoptin SR 180, tabletten met gereguleerde afgifte 180 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 18013 | Verapamil HCl Sandoz 40 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 18014 | Verapamil HCl Sandoz 80 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 18015 | Verapamil HCl Sandoz 120 mg, filmomhulde tabletten | VERAPAMILHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 18016 | Verapamil HCl Sandoz retard 120 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 19936 | Verapamil HCl Sandoz retard 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 21976=18016 | Verapamil HCl retard Teva 120 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 21977=19936 | Verapamil HCl retard Teva 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 24174 | Verapamil HCl Dexcel 240 SR, tabletten met gereguleerde afgifte 240 mg | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 26239=24174 | Verapamil HCl Aurobindo Retard 240 mg, tabletten met gereguleerde afgifte | VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 56335 | Verapamil HCl CF 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 131207//56335 | Verapamil HCI Eureco-Pharma 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 131448//56335 | Verapamil HCl Medulent 2,5 mg/ml, oplossing voor injectie | VERAPAMILHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 16830 | Tarka 180 mg/2 mg, capsules met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 22638 | Tarka 180 mg/2 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 29700 | Tarka 240 mg/4 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 31430 | Tarka 240 mg/2 mg, tabletten met gereguleerde afgifte | TRANDOLAPRIL, VERAPAMILHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 57532 | Verapamil HCl Apotex 120 mg, omhulde tabletten | VERAPAMILHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 57532 / Verapamil HCl Apotex 120 mg, omhulde tabletten (geldig) / Niet beschikbaar / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 57532 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-verapamil-1 -->
+<!-- licenses:end -->
 
 Raadpleeg het CBG-MEB voor de actuele status.
 
@@ -160,7 +179,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 57532: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 57532: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

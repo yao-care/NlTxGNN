@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tadalafil: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Goedaardige prostaathyperplasie, pulmonale hypertensie…"
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -96,15 +96,36 @@ Voor de hoogst gerangschikte voorspelling (Ambras-type hypertrichosis) is moment
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118514 | Revestad 20 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-tadalafil-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/02/237 | CIALIS, filmomhulde tabletten 10 mg | TADALAFIL | Filmomhulde tablet | Geldig |
+| EU/1/08/476 | Adcirca 2 mg/ml orale suspensie | TADALAFIL | Suspensie voor oraal gebruik | Geldig |
+| EU/1/14/961 | Tadalafil Mylan 5 mg filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| EU/1/16/1153 | Talmanco 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| EU/1/17/1177 | Tadalafil Lilly 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 114629 | ZENAVIL 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 114632 | ZENAVIL 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 114633 | ZENAVIL 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 114748 | Tadalafil 20 mg Teva, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 114750 | Tadalafil Teva 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 114751 | Tadalafil Teva 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 114752 | Tadalafil Teva 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 116968 | Tadalafil Aurobindo 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 116969 | Tadalafil Aurobindo 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 116970 | Tadalafil Aurobindo 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 117128 | Tadalafil Accord 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 117129 | Tadalafil Accord 10 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 117130 | Tadalafil Accord 20 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 118129 | Tadalafil Sandoz 2,5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
+| RVG 118131 | Tadalafil Sandoz 5 mg, filmomhulde tabletten | TADALAFIL | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118514 / Revestad 20 mg, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118514 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 91 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-tadalafil-2 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -136,7 +157,7 @@ Raadpleeg voor waarschuwingen en formele contra-indicaties de SmPC (Samenvatting
 
 <!-- review:begin nl-lic-20261112-tadalafil-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het enige literatuursignaal bij de overige voorspellingen (migraine-aura) wijst op een mogelijke bijwerking en niet op een therapeutisch effect. / De enige Nederlandse vergunning (RVG 118514) is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 91, waarvan geldig: 90; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het enige literatuursignaal bij de overige voorspellingen (migraine-aura) wijst op een mogelijke bijwerking en niet op een therapeutisch effect. / De enige Nederlandse vergunning (RVG 118514) is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tadalafil-1 -->
 
@@ -155,8 +176,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning (RVG 118514) is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118514: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning (RVG 118514) is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118514: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
 
 <!-- review:end log -->

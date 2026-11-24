@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 269
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pimecrolimus"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: voorspelde nieuwe indicatie Seborrheic dermatitis (bewijsniveau L2). In Nederland, CBG-vergunningen: 2 (geldig: 1)"
@@ -95,15 +95,22 @@ Resultaten van deze studie zijn niet in de gegevens opgenomen, dus de werkzaamhe
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118923//28742 | Elidel 10 mg/g crème | Crème (naam van het product) | Niet beschikbaar in de gegevens |
+<!-- licenses:begin -->
 
-Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28742 | Elidel 10 mg/g, crème | PIMECROLIMUS | Crème | Geldig |
+| RVG 118923//28742 | Elidel 10 mg/g crème | PIMECROLIMUS | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Het registratienummer RVG 118923//28742 (Elidel 10 mg/g crème) komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.
 
 <!-- review:begin nl-lic-20261115-pimecrolimus-1 -->
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Deze vergunning is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze vergunning is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261115-pimecrolimus-1 -->
 
@@ -128,7 +135,7 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB ontbrek
 
 <!-- review:begin nl-lic-20261112-pimecrolimus-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is directe fase 2-evidentie (RCT, n=113) en meerdere systematische reviews van RCT's die pimecrolimus bij seborroïsche dermatitis als werkzaam en verdraagbaar beschrijven. De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 2, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is directe fase 2-evidentie (RCT, n=113) en meerdere systematische reviews van RCT's die pimecrolimus bij seborroïsche dermatitis als werkzaam en verdraagbaar beschrijven. De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-pimecrolimus-1 -->
 
@@ -140,7 +147,7 @@ De waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB ontbrek
 
 <!-- review:begin nl-lic-20261112-pimecrolimus-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordeling van het maligniteitsrisico en de beperking voor jonge kinderen als waarborgen. / Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 2, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordeling van het maligniteitsrisico en de beperking voor jonge kinderen als waarborgen. / Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-pimecrolimus-2 -->
 
@@ -161,9 +168,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “Deze vergunning is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De klinische studie heeft echter geen gepubliceerde resultaten in de gegevens, en de Nederlandse vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bepalen of een nieuwe vergunning of een alternatieve route (bijvoorbeeld via de EMA) nodig is, gezien de doorgehaalde Nederlandse vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Deze vergunning is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06) |
 
 <!-- review:end log -->

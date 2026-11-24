@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Allopurinol: voorspelde nieuwe indicatie Hepatische porfyrie (hepatic porphyria) (bewijsniveau L5). In Nederland, CBG-vergunningen: 24 (geldig: 23)"
 ---
 
@@ -83,9 +83,36 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Marktinformatie Nederland
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117526 | Allopurinol Sandoz tablet 300 mg, tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 05431 | Zyloric 100, tabletten 100 mg | ALLOPURINOL | Tablet | Geldig |
+| RVG 06846 | Allopurinol Sandoz 100 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 07210 | Allopurinol Sandoz 300 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 07238 | Zyloric 300, tabletten 300 mg | ALLOPURINOL | Tablet | Geldig |
+| RVG 09974 | Acepurin, poeder voor infusievloeistof 1 g/100 ml | ALLOPURINOL NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 11800 | Zyloric 200, tabletten 200 mg | ALLOPURINOL | Tablet | Geldig |
+| RVG 52185 | Allopurinol Auro 100 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 57732 | Allopurinol Auro 300 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 104252 | Allopurinol 100 mg PCH, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 104257 | Allopurinol 300 mg PCH, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 120982 | Allopurinol Aurobindo 100 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 120983 | Allopurinol Aurobindo 300 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 121996 | Allopurinol Accord 100 mg tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 121997 | Allopurinol Accord 300 mg tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 125891 | Allopurinol Aristo 100 mg tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 128225 | Allopurinol Amarox 100 mg tabletten | ALLOPURINOL | Filmomhulde tablet | Geldig |
+| RVG 128227 | Allopurinol Amarox 300 mg tabletten | ALLOPURINOL | Filmomhulde tablet | Geldig |
+| RVG 129877//11800 | Zyloric 200 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 133506 | Allopurinol CF 100 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+| RVG 133509 | Allopurinol CF 200 mg, tabletten | ALLOPURINOL | Tablet | Geldig |
+
+Getoond worden 20 van de 24 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

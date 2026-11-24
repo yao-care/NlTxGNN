@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 281
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: voorspelde nieuwe indicatie Fibrocystische borstziekte (breast fibrocystic disease) (bewijsniveau L4). In Nederland, CBG-vergunningen: 18 (geldig: 17)"
@@ -83,15 +83,32 @@ Selectie van de meest relevante publicaties (geen enkele is een interventiestudi
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | Niet vermeld (vaginale gel) | Niet vermeld; status: niet geregistreerd |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-progesterone-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 11473 | Utrogestan, capsules 100 mg | PROGESTERON | Capsule, zacht | Geldig |
+| RVG 102442 | Lutinus 100 mg, tabletten voor vaginaal gebruik | PROGESTERON | Tablet voor vaginaal gebruik | Geldig |
+| RVG 109696//11473 | Progesteron ERC 100 mg, zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
+| RVG 114730 | Crinone 80 mg/g gel voor vaginaal gebruik | PROGESTERON | Gel voor vaginaal gebruik | Geldig |
+| RVG 116958 | Progesteron Besins 100 mg zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
+| RVG 116959 | Progesteron Besins 200 mg zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
+| RVG 118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Geldig |
+| RVG 123999 | Utrogestan 200 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule, zacht | Geldig |
+| RVG 127083 | Prolutex 25 mg, oplossing voor injectie | PROGESTERON | Oplossing voor injectie | Geldig |
+| RVG 127102 | Utrogestan 300 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule voor vaginaal gebruik, zacht | Geldig |
+| RVG 129873 | Prolutex 25 mg, oplossing voor injectie in een voorgevulde spuit | PROGESTERON | Oplossing voor injectie | Geldig |
+| RVG 133041//118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Geldig |
+| RVG 133335 | Utrogestan 400 mg, zachte capsules voor vaginaal gebruik | PROGESTERON | Capsule voor vaginaal gebruik, zacht | Geldig |
+| RVG 134540//118749 | Cyclogest 400 mg, ovule | PROGESTERON | Ovule | Geldig |
+| RVG 134759 | Progesteron Xiromed 100 mg zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
+| RVG 134761 | Progesteron Xiromed 200 mg zachte capsules | PROGESTERON | Capsule, zacht | Geldig |
+| RVG 125821 | Bijuva 1 mg/100 mg zachte capsules | ESTRADIOL 0,5-WATER, PROGESTERON | Capsule, zacht | Geldig |
+| RVG 119743//114730 | Crinone 80 mg/gram gel voor vaginaal gebruik | PROGESTERON | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119743//114730 / Crinone 80 mg/gram gel voor vaginaal gebruik / Niet vermeld (vaginale gel) / Niet vermeld; status: geldig” Gecorrigeerd: registratienummer RVG 119743//114730 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-progesterone-1 -->
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -120,7 +137,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 119743//114730: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119743//114730: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
 
 <!-- review:end log -->

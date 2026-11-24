@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). In Nederland, CBG-vergunningen: 50 (geldig: 49)"
@@ -95,22 +95,42 @@ Voor de bredere context bij twaalfvingerige-darmzweer zijn bovendien meerdere RC
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120126//18300 | Pantozol 40 mg, maagsapresistente tabletten | Maagsapresistente tablet | Niet beschikbaar (niet geregistreerd) |
-| RVG 110766 | Panclamox 40 / 500 / 1000 mg, maagsapresistente tablet / filmomhulde tablet / filmomhulde tablet | Tablet (combinatieverpakking) | Niet beschikbaar (vergunning geldig) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-pantoprazole-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/09/515 | CONTROLOC Control 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| EU/1/09/516 | SOMAC Control 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| EU/1/09/517 | Pantozol Control 20 mg maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 18300 | Pantozol 40, maagsapresistente tabletten 40 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 22084 | Pantozol i.v., poeder voor oplossing voor injectie 40 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Geldig |
+| RVG 23513 | Pantozol 20, maagsapresistente tabletten 20 mg | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33650 | Pantoprazol 1A Pharma 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33651 | Pantoprazol 1A Pharma 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33652 | Pantoprazol Sandoz OTC 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33653 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33654 | Pantoprazol Sandoz 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33655 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33657 | Pantoprazol Sandoz 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33658 | Pantoprazol Sandoz 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 33902 | Pantoprazol Sandoz injectie 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Geldig |
+| RVG 33903 | Pantoprazol Sandoz injectie 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Geldig |
+| RVG 34884 | Pantoprazol CF 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 102490 | Pantoprazol SUN 40 mg, poeder voor oplossing voor injectie | PANTOPRAZOL NATRIUM 1,5-WATER | Poeder voor oplossing voor injectie | Geldig |
+| RVG 104919 | Pantoprazol Teva 20 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
+| RVG 104920 | Pantoprazol Teva 40 mg, maagsapresistente tabletten | PANTOPRAZOL NATRIUM 1,5-WATER | Maagsapresistente tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120126//18300 / Pantozol 40 mg, maagsapresistente tabletten / Maagsapresistente tablet / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 120126//18300 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 50 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-pantoprazole-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven. Raadpleeg het CBG-MEB voor de actuele vergunningsstatus.
 
 <!-- review:begin nl-lic-20261106-pantoprazole-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beide registraties zijn doorgehaald. Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beide registraties zijn doorgehaald. Dit moet worden getoetst aan de feitelijke beschikbaarheid van generieke producten, aangezien pantoprazol in de praktijk breed wordt voorgeschreven.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-pantoprazole-1 -->
 
@@ -134,7 +154,7 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn in de sam
 
 <!-- review:begin nl-lic-20261106-pantoprazole-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling is echter grotendeels bevestigend: de indicatie valt binnen het bestaande gebruik van pantoprazol. / De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling is echter grotendeels bevestigend: de indicatie valt binnen het bestaande gebruik van pantoprazol. / De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-pantoprazole-2 -->
 
@@ -153,9 +173,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Beide registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 120126//18300: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Beide registraties zijn doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De Nederlandse vergunningen zijn doorgehaald en veiligheidsgegevens uit de productinformatie ontbreken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120126//18300: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
 
 <!-- review:end log -->

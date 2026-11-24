@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 330
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
 description: "Trazodone: voorspelde nieuwe indicatie Obsessief-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L3). In Nederland, CBG-vergunningen: 11 (geldig: 10)"
@@ -64,7 +64,7 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 <!-- review:begin nl-lic-20261112-trazodone-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 11, waarvan geldig: 10; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-trazodone-1 -->
 
@@ -85,15 +85,25 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113007//09145 | Trazolan 100 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-trazodone-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 33876 | Trazodone HCl GenRx 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 33877 | Trazodone HCl GenRx 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 33878 | Trazodone HCl GenRx 150 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 109724 | Trazodon HCl Sandoz 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 109725 | Trazodon HCl Sandoz 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 111061 | Trazodon HCl Sandoz 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 119136 | Trazodon hydrochloride Accord 50 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 119137 | Trazodon hydrochloride Accord 100 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 119138 | Trazodon hydrochloride Accord 150 mg, tabletten | TRAZODONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 125027 | Trazodon HCl Xiromed 100 mg, filmomhulde tabletten | TRAZODONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 113007//09145 | Trazolan 100 mg, filmomhulde tabletten | TRAZODONHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113007//09145 / Trazolan 100 mg, filmomhulde tabletten / Niet beschikbaar / Niet beschikbaar (registratie geldig)” Gecorrigeerd: registratienummer RVG 113007//09145 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-trazodone-2 -->
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -136,8 +146,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 113007//09145: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113007//09145: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768) |
 
 <!-- review:end log -->

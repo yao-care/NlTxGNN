@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 323
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 description: "Tobramycin: voorspelde nieuwe indicatie Blootstellingskeratitis (exposure keratitis) (bewijsniveau L4). In Nederland, CBG-vergunningen: 20 (geldig: 16)"
@@ -91,43 +91,40 @@ Geen van deze publicaties toont werkzaamheid van tobramycine bij blootstellingsk
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 57430 | Tobramycine CF 40 mg/ml, injectievloeistof | Injectievloeistof | Niet beschikbaar (geldig) |
-| RVG 109689//10225 | Tobrex oogzalf 3 mg/g | Oogzalf | Niet beschikbaar (niet geregistreerd) |
-| RVG 117779//14223 | Tobradex, oogdruppels, suspensie | Oogdruppels, suspensie | Niet beschikbaar (niet geregistreerd) |
-| RVG 119042//14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | Oogdruppels, suspensie | Niet beschikbaar (niet geregistreerd) |
-| RVG 110613 | Tomidexofta 3 mg/ml + 1 mg/ml, oogdruppels, oplossing | Oogdruppels, oplossing | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-tobramycin-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/10/652 | TOBI Podhaler 28 mg, Inhalatiepoeder in harde capsule | TOBRAMYCINE | Inhalatiepoeder in harde capsule | Geldig |
+| EU/1/18/1350 | Vantobra 170 mg, verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
+| RVG 06890 | Obracin 80 mg/2 ml, oplossing voor injectie / infusie 40 mg/ml | TOBRAMYCINESULFAAT | Oplossing voor injectie of infusie | Geldig |
+| RVG 10225 | Tobrex, oogzalf 0,3% | TOBRAMYCINE | Oogzalf | Geldig |
+| RVG 25484 | Tobi 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
+| RVG 26393 | Tobrabact, oogdruppels, oplossing 3 mg/ml | TOBRAMYCINE | Oogdruppels, oplossing | Geldig |
+| RVG 33841 | Bramitob, verneveloplossing 300 mg/4 ml | TOBRAMYCINE | Verneveloplossing | Geldig |
+| RVG 57430 | Tobramycine CF 40 mg/ml, injectievloeistof | TOBRAMYCINE SULFAAT | Oplossing voor injectie | Geldig |
+| RVG 106999 | Tobramycine Steri-Neb 300 mg/5 ml, verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
+| RVG 117965 | Tobramycine SUN 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
+| RVG 121938 | Tobramycine Aristo, 300 mg/5 ml verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
+| RVG 129926//106999 | Tobramycine Steri-Neb 300 mg/5 ml, verneveloplossing | TOBRAMYCINE | Verneveloplossing | Geldig |
+| RVG 14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Geldig |
+| RVG 14224 | Tobradex 3 mg/g + 1 mg/g oogzalf | DEXAMETHASON, TOBRAMYCINE | Oogzalf | Geldig |
+| RVG 123316 | Bradexa 3 mg/ml + 1 mg/ml oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Geldig |
+| RVG 130620 | Tobramycine + Dexamethason Blumont 3 mg/ml + 1 mg/ml, oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | Oogdruppels, suspensie | Geldig |
+| RVG 109689//10225 | Tobrex oogzalf 3 mg/g, oogzalf | TOBRAMYCINE | – | Niet geregistreerd |
+| RVG 110613 | TOMIDEXOFTA 3 mg/ml + 1 mg/ml, oogdruppels, oplossing | DEXAMETHASONDINATRIUMFOSFAAT, TOBRAMYCINE | – | Niet geregistreerd |
+| RVG 117779//14223 | Tobradex, oogdruppels, suspensie | DEXAMETHASON, TOBRAMYCINE | – | Niet geregistreerd |
+| RVG 119042//14223 | Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie | TOBRAMYCINE, DEXAMETHASON | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 109689//10225 / Tobrex oogzalf 3 mg/g / Oogzalf / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 109689//10225 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-tobramycin-2 -->
-
-<!-- review:begin nl-lic-20261112-tobramycin-3 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 117779//14223 / Tobradex, oogdruppels, suspensie / Oogdruppels, suspensie / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 117779//14223 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-tobramycin-3 -->
-
-<!-- review:begin nl-lic-20261112-tobramycin-4 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119042//14223 / Tobradex 3 mg/ml + 1 mg/ml oogdruppels, suspensie / Oogdruppels, suspensie / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 119042//14223 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-tobramycin-4 -->
-
-<!-- review:begin nl-lic-20261112-tobramycin-5 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 110613 / Tomidexofta 3 mg/ml + 1 mg/ml, oogdruppels, oplossing / Oogdruppels, oplossing / Niet beschikbaar (geldig)” Gecorrigeerd: registratienummer RVG 110613 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-tobramycin-5 -->
+<!-- licenses:end -->
 
 Het middel wordt momenteel in Nederland verhandeld.
 
 <!-- review:begin nl-lic-20261112-tobramycin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig; het middel wordt momenteel in Nederland verhandeld.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 20, waarvan geldig: 16; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig; het middel wordt momenteel in Nederland verhandeld.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tobramycin-1 -->
 
@@ -170,11 +167,11 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig; h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 109689//10225: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 117779//14223: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119042//14223: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 110613: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig; h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 109689//10225: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 117779//14223: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119042//14223: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 110613: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

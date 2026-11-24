@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 296
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rocuronium: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (rocuronium wordt van…"
 monitor_inn: "rocuronium"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
@@ -89,15 +89,28 @@ Voor de verwante voorspelde indicatie *hoofdpijnaandoening* zijn twee publicatie
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113094 | Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie (niet geregistreerd) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-rocuronium-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16946 | Esmeron 10 mg/ml, oplossing voor injectie | ROCURONIUMBROMIDE | Oplossing voor injectie | Geldig |
+| RVG 100151 | Rocuroniumbromide-hameln 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 100154 | Rocuroniumbromide Fresenius Kabi 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 100155 | Rocuroniumbromide B.Braun 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 110257 | Rocuroniumbromide Viatris 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie | Geldig |
+| RVG 122315 | Rocuroniumbromide Kalceks 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 123915 | Rocuroniumbromide Noridem 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 126659//100154 | Rocuroniumbromide Eureco-Pharma 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 128477 | Rocuroniumbromide Accord 10 mg/ml oplossing voor injectie in een voorgevulde sp… | ROCURONIUMBROMIDE | Oplossing voor injectie | Geldig |
+| RVG 128904//100154 | Rocuroniumbromide ERC 10 mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 129496//100154 | Rocuroniumbromide Medcor 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 129706 | Rocuroniumbromide Aguettant 10 mg/ml oplossing voor injectie in een voorgevulde… | ROCURONIUMBROMIDE | Oplossing voor injectie | Geldig |
+| RVG 136718//100154 | Rocuroniumbromide Medcor 10 mg/ml oplossing voor injectie/infusie | ROCURONIUMBROMIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 113094 | Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie | ROCURONIUMBROMIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113094 / Rocuroniumbromide Hospira 10mg/ml, oplossing voor injectie/infusie (geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 113094 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-rocuronium-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -123,7 +136,7 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 
 <!-- review:begin nl-lic-20261112-rocuronium-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig (1 geldige registratie van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig (1 geldige registratie van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-rocuronium-1 -->
 
@@ -141,8 +154,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “(1 geldige registratie van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 113094: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “(1 geldige registratie van 1)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113094: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: rocuronium bromide prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a18fce42-0f3d-4354-845e-57c37ac3a147) |
 
 <!-- review:end log -->

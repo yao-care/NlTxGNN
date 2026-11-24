@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 195
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamotrigine: voorspelde nieuwe indicatie Trigeminuszenuwneoplasma (hoogst gerangschikte voorspelling met klinische… (bewijsniveau L2). Oorspronkelijke indicatie: Epilepsie (o.a. partiële epilepsie, Lennox…"
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
@@ -100,15 +100,42 @@ Selectie voor trigeminusneuralgie en de dichtstbijzijnde epilepsie-indicaties:
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119853//20926 | Lamictal Dispers 50 mg, kauwtabletten/dispergeerbare tabletten | Niet gespecificeerd | Niet gespecificeerd |
+<!-- licenses:begin -->
 
-Deze enige registratie bij het CBG-MEB is geldig. Het middel is dus in Nederland op de markt. Actuele marktstatus en andere lamotriginepreparaten moeten via het CBG-MEB worden gecontroleerd.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 19115 | Lamictal Dispers 5 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
+| RVG 19116 | Lamictal Dispers 25 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
+| RVG 19117 | Lamictal Dispers 100 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
+| RVG 20926 | Lamictal Dispers 50 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
+| RVG 20927 | Lamictal Dispers 200 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
+| RVG 25344 | Lamictal Dispers 2 mg, kauwtabletten/dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet, Kauwtablet | Geldig |
+| RVG 29665 | Lamotrigine CF 5 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 29666 | Lamotrigine CF 25 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 29667 | Lamotrigine CF 50 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 29668 | Lamotrigine CF 100 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 29669 | Lamotrigine CF 200 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 30302 | Lamotrigine Disper Mylan 25 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 30303 | Lamotrigine Disper Mylan 50 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 30304 | Lamotrigine Disper Mylan 100 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 30305 | Lamotrigine Disper Mylan 200 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+| RVG 103363 | Lamictal 25 mg, tabletten | LAMOTRIGINE | Tablet | Geldig |
+| RVG 103364 | Lamictal 50 mg, tabletten | LAMOTRIGINE | Tablet | Geldig |
+| RVG 103366 | Lamictal 100 mg, tabletten | LAMOTRIGINE | Tablet | Geldig |
+| RVG 103367 | Lamictal 200 mg, tabletten | LAMOTRIGINE | Tablet | Geldig |
+| RVG 105238 | Lamotrigine Aurobindo 5 mg, dispergeerbare tabletten | LAMOTRIGINE | Dispergeerbare tablet | Geldig |
+
+Getoond worden 20 van de 44 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Bij het CBG-MEB zijn geldige vergunningen geregistreerd (actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie).Het middel is dus in Nederland op de markt. Actuele marktstatus en andere lamotriginepreparaten moeten via het CBG-MEB worden gecontroleerd.
 
 <!-- review:begin nl-lic-20261112-lamotrigine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Deze enige registratie bij het CBG-MEB is geldig (1 geldige vergunning van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 44, waarvan geldig: 43; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze enige registratie bij het CBG-MEB is geldig (1 geldige vergunning van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-lamotrigine-1 -->
 
@@ -139,7 +166,7 @@ Deze enige registratie bij het CBG-MEB is geldig. Het middel is dus in Nederland
 
 <!-- review:begin nl-lic-20261112-lamotrigine-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Bevestiging van de actuele registratiestatus in Nederland, aangezien de enige gevonden vergunning is doorgehaald. / Grotere gerandomiseerde studies bij trigeminusneuralgie om het bewijs te versterken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 44, waarvan geldig: 43; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Bevestiging van de actuele registratiestatus in Nederland, aangezien de enige gevonden vergunning is doorgehaald. / Grotere gerandomiseerde studies bij trigeminusneuralgie om het bewijs te versterken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-lamotrigine-2 -->
 
@@ -151,8 +178,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Bevestiging van de actuele registratiestatus in Nederland, aangezien de enige gevonden vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bevestiging van de actuele registratiestatus in Nederland, aangezien de enige gevonden vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
 
 <!-- review:end log -->

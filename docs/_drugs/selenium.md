@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 299
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Selenium: voorspelde nieuwe indicatie Sclerosing cholangitis (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde gegevens"
 monitor_inn: "selenium"
 predicted_indications: ["sclerosing cholangitis"]
@@ -76,9 +76,24 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117396 | Nutryelt, concentraat voor oplossing voor infusie (status: geldig) | Concentraat voor oplossing voor infusie | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16517 | Peditrace, concentraat voor infusievloeistof | DINATRIUMSELENIET 0-WATER, FLUORIDE (F-), JODIDE (I-), KALIUMJODIDE, KOPER (Cu2… | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 113147 | Kidiamix G10% Start, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM (C… | Oplossing voor infusie | Geldig |
+| RVG 113152 | Kidiamix G10%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM (C… | Oplossing voor infusie | Geldig |
+| RVG 113263 | Kidiamix G15%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Geldig |
+| RVG 113264 | Kidiamix G20%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Geldig |
+| RVG 113265 | Kidiamix G25%, oplossing voor infusie | ACETYLCYSTEÏNE, ALANINE, (L-), AMMONIUMMOLYBDAAT 4-WATER, ARGININE, (L-), ASPAR… | Oplossing voor infusie | Geldig |
+| RVG 117396 | Nutryelt, concentraat voor oplossing voor infusie | FERRODIGLUCONAAT 0-WATER, SELENIUM (SE4+), ZINKDIGLUCONAAT 0-WATER, CHROOMTRICH… | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 118027 | JUNYELT concentraat voor oplossing voor infusie | DINATRIUMSELENIET 0-WATER, JODIDE (I-), KALIUMJODIDE, KOPER (Cu2+), KOPERDIGLUC… | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 129368 | Kidtrayze concentraat voor oplossing voor infusie | DINATRIUMSELENIET 0-WATER, JODIDE (I-), KALIUMJODIDE, KOPER (Cu2+), KOPERDICHLO… | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 133394 | Tracusup concentraat voor oplossing voor infusie | CHROOM (Cr3+), CHROOMTRICHLORIDE 6-WATER, DINATRIUMSELENIET 5-WATER, FERRITRICH… | Concentraat voor oplossing voor infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -97,7 +112,7 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 
 <!-- review:begin nl-lic-20261106-selenium-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn geen klinische studies, en de literatuur is indirect en beschrijft vooral veranderde seleniumstatus, geen therapeutisch effect. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn geen klinische studies, en de literatuur is indirect en beschrijft vooral veranderde seleniumstatus, geen therapeutisch effect. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-selenium-1 -->
 
@@ -110,7 +125,7 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 
 <!-- review:begin nl-lic-20261106-selenium-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Duidelijkheid over beschikbare toedieningsroutes en over de vraag of een nieuwe registratie of een ander product nodig is, omdat de huidige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Duidelijkheid over beschikbare toedieningsroutes en over de vraag of een nieuwe registratie of een ander product nodig is, omdat de huidige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-selenium-2 -->
 
@@ -122,8 +137,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “omdat de huidige vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “omdat de huidige vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

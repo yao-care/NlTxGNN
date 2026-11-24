@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "chlorambucil"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorambucil: voorspelde nieuwe indicatie ALK-positive large B-cell lymphoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 2 (geldig: 1)"
 ---
 
@@ -72,9 +72,16 @@ Dit is indirect bewijs: geen enkele geciteerde studie onderzoekt chlorambucil sp
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 112541//00256 | Leukeran 2 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00256 | Leukeran 2 mg, filmomhulde tabletten | CHLOORAMBUCIL | Filmomhulde tablet | Geldig |
+| RVG 112541//00256 | Leukeran 2 mg, filmomhulde tabletten | CHLOORAMBUCIL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Er is 1 registratie in de gegevens opgenomen; de registratiestatus van deze vergunning is in de lokale gegevens als geannuleerd weergegeven.
 

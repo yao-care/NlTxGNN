@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Chloramphenicol: voorspelde nieuwe indicatie Diffuse sclerodermie (diffuse scleroderma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 3)"
 ---
 
@@ -87,9 +87,18 @@ Geen van deze studies toont aan dat chloramfenicol een therapeutisch effect heef
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 57557 | Chlooramfenicol Teva 10 mg/g, oogzalf | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 10164 | Minims Chlooramfenicol 5 mg/ml oogdruppels, oplossing | CHLOORAMFENICOL | Oogdruppels, oplossing | Geldig |
+| RVG 17418 | Chlooramfenicol-POS 1%, oogzalf 10 mg/g | CHLOORAMFENICOL | Oogzalf | Geldig |
+| RVG 56086 | Chlooramfenicol 5 mg/ml Teva, oogdruppels | CHLOORAMFENICOL | Oogdruppels, oplossing | Geldig |
+| RVG 57557 | Chlooramfenicol Teva 10 mg/g, oogzalf | CHLOORAMFENICOL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Deze vergunning is geldig. Het gaat om een oogzalf; voor systemisch gebruik is in de lokale gegevens geen product vastgelegd.
 

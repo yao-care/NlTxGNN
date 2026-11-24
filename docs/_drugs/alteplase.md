@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Alteplase"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alteplase: voorspelde nieuwe indicatie Heparinecofactor-2-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
 ---
 
@@ -68,9 +68,22 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119660//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 12247 | Actilyse 20 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 15228 | Actilyse 10 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 103374 | Actilyse Cathflo 2 mg, poeder voor oplossing voor injectie en infusie | ALTEPLASE | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 122903//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 123324//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 124545//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 119660//12248 | Actilyse 50 mg, poeder en oplosmiddel voor oplossing voor injectie en infusie | ALTEPLASE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

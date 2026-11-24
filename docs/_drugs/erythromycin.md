@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Erythromycin: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5)."
 ---
 
@@ -72,9 +72,18 @@ Deze publicatie onderzoekt de voorspelde aandoening niet rechtstreeks. Daarom is
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120594//14095 | Inderm, applicatievloeistof 1% | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 01799 | Erythrocine 250 mg tabletten | ERYTROMYCINE STEARAAT | Omhulde tablet | Geldig |
+| RVG 14095 | Inderm, applicatievloeistof 1% | ERYTROMYCINE | Oplossing voor cutaan gebruik | Geldig |
+| RVG 115424//14095 | Inderm 10 mg/g, applicatievloeistof | ERYTROMYCINE | Oplossing voor cutaan gebruik | Geldig |
+| RVG 120594//14095 | Inderm, applicatievloeistof 1% | ERYTROMYCINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het CBG-MEB registreert voor erythromycine 1 vergunning, die geldig is.
 

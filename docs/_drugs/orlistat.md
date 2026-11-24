@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 256
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Orlistat"
 predicted_indications: ["hypervitaminosis"]
 description: "Orlistat: voorspelde nieuwe indicatie Hypervitaminose (hypervitaminosis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 3)"
@@ -84,9 +84,17 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Marktinformatie Nederland
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 105761 | Orlistat Sandoz 120 mg, harde capsules | Niet vermeld | Niet vermeld (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/07/401 | Alli 60 mg, harde capsules | ORLISTAT | Capsule, hard | Geldig |
+| EU/1/98/071 | Xenical, capsules 120 mg | ORLISTAT | Capsule, hard | Geldig |
+| RVG 105761 | Orlistat Sandoz 120 mg, harde capsules | ORLISTAT | Capsule, hard | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Eventuele toepassing zou daarom ook een nieuwe registratiestap vereisen.
 
@@ -116,7 +124,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 <!-- review:begin nl-lic-20261106-orlistat-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de geschiktheid van toedieningsroutes en vergelijking met de oorspronkelijke indicatie / Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de geschiktheid van toedieningsroutes en vergelijking met de oorspronkelijke indicatie / Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-orlistat-1 -->
 
@@ -128,7 +136,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Verduidelijking van de regulatoire route, gezien de ingetrokken vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e) |
 
 <!-- review:end log -->

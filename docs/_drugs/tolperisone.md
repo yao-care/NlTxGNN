@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 324
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tolperisone"
 predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "pulmonary valve disease", "orofacial clefting syndrome", "mitral valve disease", "heart disease", "disorder of fucoglycosan synthesis", "interventricular septum aneurysm"]
 description: "Tolperisone: voorspelde nieuwe indicatie Laubry-Pezzi syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 4)"
@@ -85,15 +85,19 @@ Voor andere voorspelde indicaties zijn enkele publicaties gekoppeld, maar die le
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118806//115493 | Tolperison Will Pharma 50 mg filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-tolperisone-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 115493 | Tolpermyo 50 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 115494 | Tolpermyo 150 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 123253//115494 | Tolperison ERC 150 mg, filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 123254//115493 | Tolperison ERC 50 mg, filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118806//115493 | Tolperison Will Pharma 50 mg filmomhulde tabletten | TOLPERISONHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118806//115493 / Tolperison Will Pharma 50 mg filmomhulde tabletten / Filmomhulde tabletten / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118806//115493 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-tolperisone-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -118,7 +122,7 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) voor veiligheidsinforma
 
 <!-- review:begin nl-lic-20261112-tolperisone-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Preklinisch of klinisch bewijs voordat een heroverweging mogelijk is / Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 5, waarvan geldig: 4; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Preklinisch of klinisch bewijs voordat een heroverweging mogelijk is / Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tolperisone-1 -->
 
@@ -130,8 +134,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118806//115493: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Opheldering van de regulatoire status, aangezien de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118806//115493: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

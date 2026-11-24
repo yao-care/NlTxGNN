@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "methylphenidate"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: voorspelde nieuwe indicatie Faciodigitogenitaal syndroom (faciodigitogenital syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 105 (geldig: 104)"
@@ -85,21 +85,42 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor faciodigitogenitaa
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118526//33227 | Equasym XL 10 mg capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte (volgens productnaam) | Niet vermeld; niet geregistreerd |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-methylphenidate-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/24/1907 | Tuzulby 30 mg kauwtabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Kauwtablet | Geldig |
+| RVG 03957 | Ritalin, tabletten 10 mg | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
+| RVG 27252 | Methylfenidaathydrochloride Teva 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
+| RVG 27253 | Methylfenidaat HCl 1A Pharma 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
+| RVG 28073 | Concerta 18 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 28074 | Concerta 36 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 28075 | Concerta 54 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 33227 | Equasym XL 10 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 33228 | Equasym XL 20 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 33229 | Equasym XL 30 mg capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 34024 | Medikinet 5 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
+| RVG 34025 | Medikinet 10 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
+| RVG 34026 | Medikinet 20 mg, tabletten | METHYLFENIDAATHYDROCHLORIDE | Tablet | Geldig |
+| RVG 34027 | Medikinet CR 10 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 34028 | Medikinet CR 20 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 34029 | Medikinet CR 30 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 34030 | Medikinet CR 40 mg, capsules met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 101739 | Concerta 27 mg, tabletten met verlengde afgifte | METHYLFENIDAATHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 108026 | Medikinet CR 5 mg, capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 111228 | Equasym XL 40 mg, capsule met gereguleerde afgifte, hard | METHYLFENIDAATHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118526//33227 / Equasym XL 10 mg capsules met gereguleerde afgifte, hard / Capsule met gereguleerde afgifte (volgens productnaam) / Niet vermeld; vergunning geldig” Gecorrigeerd: registratienummer RVG 118526//33227 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 105 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-methylphenidate-2 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het middel is in Nederland op de markt. De gegevens kunnen onvolledig zijn en dienen te worden geverifieerd bij het CBG-MEB.
 
 <!-- review:begin nl-lic-20261112-methylphenidate-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor methylfenidaat is in de voor dit rapport verzamelde gegevens 1 geldige vergunning gevonden (van 1 vermelde vergunning), en het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 105, waarvan geldig: 104; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor methylfenidaat is in de voor dit rapport verzamelde gegevens 1 geldige vergunning gevonden (van 1 vermelde vergunning), en het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-methylphenidate-1 -->
 
@@ -148,8 +169,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Voor methylfenidaat is in de voor dit rapport verzamelde gegevens 1 geldige vergunning gevonden (van 1 vermelde vergunning), en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118526//33227: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Voor methylfenidaat is in de voor dit rapport verzamelde gegevens 1 geldige vergunning gevonden (van 1 vermelde vergunning), en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118526//33227: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

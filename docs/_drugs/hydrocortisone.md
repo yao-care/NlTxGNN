@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 179
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). In Nederland, CBG-vergunningen: 65 (geldig: 63)"
@@ -92,28 +92,42 @@ De overige gevonden publicaties betreffen vooral dierstudies, een enquête, casu
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Oordruppels | Niet beschikbaar (niet geregistreerd) |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Oogzalf | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-hydrocortisone-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/11/715 | Plenadren 5 mg, tablet met gereguleerde afgifte | HYDROCORTISON | Tablet met gereguleerde afgifte | Geldig |
+| EU/1/21/1549 | Efmody 10 mg, harde capsules | HYDROCORTISON | Capsule, hard | Geldig |
+| RVG 00608 | Solu-Cortef, poeder voor injectievloeistof 100 mg | HYDROCORTISONNATRIUMSUCCINAAT | Poeder voor oplossing voor injectie | Geldig |
+| RVG 05909 | Locoid oleogel, zalf 1 mg/g | HYDROCORTISONBUTYRAAT | Zalf | Geldig |
+| RVG 05910 | Locoid scalp lotion, lotion 1 mg/ml | HYDROCORTISONBUTYRAAT | Oplossing voor cutaan gebruik | Geldig |
+| RVG 05911 | Locoid crème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Geldig |
+| RVG 09344 | Locoid vetcrème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Geldig |
+| RVG 10997 | Hydrocortison Tiofarma 10 mg/g, creme | HYDROCORTISON | Crème | Geldig |
+| RVG 14871 | Solu-Cortef, poeder voor injectievloeistof 100 mg + oplosmiddel | HYDROCORTISONNATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 15680//05911 | Locoid crème, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Geldig |
+| RVG 16163 | Locoid Crelo, emulsie voor cutaan gebruik 1 mg/g | HYDROCORTISONBUTYRAAT | Emulsie voor cutaan gebruik | Geldig |
+| RVG 20729 | Hydrocortison crème 10 mg/g FNA Fagron, crème | HYDROCORTISONACETAAT | Crème | Geldig |
+| RVG 23502//09344 | Locoid vetcrème 0,1%, crème 1 mg/g | HYDROCORTISONBUTYRAAT | Crème | Geldig |
+| RVG 25186 | Hydrocortison zalf 10 mg/g, zalf | HYDROCORTISON | Zalf | Geldig |
+| RVG 33245 | Zure oordruppels met hydrocortison DMB 1% FNA, oordruppels, oplossing 10 mg/g | HYDROCORTISON | Oordruppels, oplossing | Geldig |
+| RVG 33923 | Hydrocortison-vaselinecrème DMB 1% FNA, crème 10 mg/g | HYDROCORTISONACETAAT | Crème | Geldig |
+| RVG 50730 | Hydrocortison DMB 20 mg, tabletten | HYDROCORTISON | Tablet | Geldig |
+| RVG 113408//16163 | Locoid Crelo 1 mg/g, emulsie voor cutaan gebruik | HYDROCORTISONBUTYRAAT | Emulsie voor cutaan gebruik | Geldig |
+| RVG 113530//05910 | Locoid scalp lotion 1 mg/ml, lotion | HYDROCORTISONBUTYRAAT | Oplossing voor cutaan gebruik | Geldig |
+| RVG 116462 | Softacor 3,35 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | HYDROCORTISON DINATRIUM FOSFAAT | Oogdruppels, oplossing | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118022//03542 / Terra-Cortril met polymyxine-B, oordruppels / Oordruppels / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 118022//03542 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 65 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-hydrocortisone-2 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:begin nl-lic-20261112-hydrocortisone-3 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113295//03543 / Terra-Cortril met polymyxine-B, oogzalf / Oogzalf / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 113295//03543 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-hydrocortisone-3 -->
+<!-- licenses:end -->
 
 Voor vergunningsvoorwaarden en indicaties wordt verwezen naar de SmPC en de bijsluiter.
 
 <!-- review:begin nl-lic-20261112-hydrocortisone-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide vergunningen zijn geldig (CBG-MEB). Voor vergunningsvoorwaarden en indicaties wordt verwezen naar de SmPC en de bijsluiter.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 65, waarvan geldig: 63; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide vergunningen zijn geldig (CBG-MEB). Voor vergunningsvoorwaarden en indicaties wordt verwezen naar de SmPC en de bijsluiter.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-hydrocortisone-1 -->
 
@@ -148,9 +162,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Beide vergunningen zijn geldig (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beide vergunningen zijn geldig (CBG-MEB)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
 
 <!-- review:end log -->

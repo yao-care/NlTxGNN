@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 41
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Arginine: voorspelde nieuwe indicatie Gastroparese (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de verzamelde gegevens"
 monitor_inn: "arginine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -42,7 +42,7 @@ Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport ver
 
 <!-- review:begin nl-lic-20261106-arginine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding. Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport verzamelde gegevens geen indicatietekst beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding. Voor de oorspronkelijke geregistreerde indicatie zijn in de voor dit rapport verzamelde gegevens geen indicatietekst beschikbaar.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-arginine-1 -->
 
@@ -98,18 +98,38 @@ Opmerking: geen van deze publicaties is een gerandomiseerde studie bij mensen, e
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113026 | Aminoplasmal B. Braun 10% E, oplossing voor infusie (niet geregistreerd) | Niet beschikbaar | Niet beschikbaar |
-| RVG 115554 | Nutriflex Lipid peri, 32 g/l + 64 g/l, emulsie voor infusie (geldig) | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-arginine-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/19/1381 | LysaKare 25 g/25 g oplossing voor infusie | ARGININEHYDROCHLORIDE, (L-), LYSINEHYDROCHLORIDE, L- | Oplossing voor infusie | Geldig |
+| EU/1/25/1955 | Maapliv oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Geldig |
+| RVG 09570 | Vaminolact, infusievloeistof | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏNE (L-), FENYLALANIN… | Oplossing voor infusie | Geldig |
+| RVG 10289 | Vamin 18 zonder electrolyten, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏN… | Oplossing voor infusie | Geldig |
+| RVG 12978 | Primene 10%, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Geldig |
+| RVG 16984 | Nutrineal PD4 met 11 g/l aminozuren, oplossing voor peritoneale dialyse | ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORIDE 2-WATER (E 509),… | Oplossing voor peritoneale dialyse | Geldig |
+| RVG 17375 | Clinimix N9 G15 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17376 | Clinimix N14 G30 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17377 | Clinimix N17 G35 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17378 | Clinimix N14 G30, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CHLORIDE (CL-), FENYLALANINE,… | Oplossing voor infusie | Geldig |
+| RVG 19631 | Glamin, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), FENYLALANINE, (L-), GLUTAM… | Oplossing voor infusie | Geldig |
+| RVG 24228 | Aminoven 5% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24229 | Aminoven 10% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24230 | Aminoven 15% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24292 | Kabiven, emulsie voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM… | Emulsie voor infusie | Geldig |
+| RVG 32127 | Aminomix 1 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Geldig |
+| RVG 32128 | Aminomix 2 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Geldig |
+| RVG 101688 | SmofKabiven, emulsie voor infusie | ALANINE, (L-), ARGININE, (L-), CALCIUMCHLORIDE 2-WATER (E 509), DINATRIUMGLYCER… | Emulsie voor infusie | Geldig |
+| RVG 101722 | SmofKabiven Elektrolytenvrij, emulsie voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLUCOSE 1-WATER, GLYCINE (E… | Emulsie voor infusie | Geldig |
+| RVG 103099 | Smofkabiven Perifeer, emulsie voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Emulsie voor infusie | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113026 / Aminoplasmal B. Braun 10% E, oplossing voor infusie (geldig) / Niet beschikbaar / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 113026 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 54 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-arginine-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-Van de 2 registraties bij het CBG-MEB zijn er 2 geldig; het middel is momenteel op de markt.
+<!-- licenses:end -->
+
+Van de 54 registraties bij het CBG-MEB zijn er 53 geldig; het middel is momenteel op de markt.
 
 ---
 
@@ -136,7 +156,7 @@ Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), z
 
 <!-- review:begin nl-lic-20261106-arginine-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), zonder klinische studies of humane gegevens bij gastroparese. Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de veiligheidsscreening blokkeert.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs bestaat uitsluitend uit dierstudies en een model-voorspelling (L4), zonder klinische studies of humane gegevens bij gastroparese. Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de veiligheidsscreening blokkeert.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-arginine-2 -->
 
@@ -161,9 +181,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 113026: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Arginine is een aminozuur dat in Nederland alleen nog voorkomt in twee inmiddels doorgehaalde infusieproducten voor parenterale voeding” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast zijn de enige Nederlandse registraties doorgehaald en ontbreken de veiligheidsgegevens uit de officiële productinformatie, wat de ” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113026: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | Verwijderd: “en doorgehaald zijn” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->

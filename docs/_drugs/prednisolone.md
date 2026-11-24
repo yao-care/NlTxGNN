@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 277
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisolone: voorspelde nieuwe indicatie Alopecia areata (bewijsniveau L2). In Nederland, CBG-vergunningen: 21 (geldig: 21)"
@@ -93,15 +93,42 @@ Selectie van de meest relevante publicaties voor alopecia areata (RCT en systema
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 106140 | Prednisolon Sandoz 20 mg, tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00093 | Di-Adreson-F Aquosum 25 mg, poeder voor injectievloeistof | PREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 10169 | Minims Prednisolondinatriumfosfaat 5 mg/ml, oogdruppels, oplossing | PREDNISOLON DINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
+| RVG 11271 | Pred Forte 10 mg/ml, oogdruppels, suspensie | PREDNISOLONACETAAT | Oogdruppels, suspensie | Geldig |
+| RVG 14257=50969 | Prednisolon Sandoz 5, tabletten 5 mg | PREDNISOLON | Tablet | Geldig |
+| RVG 25347 | Prednisolon 30 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 33397 | Prednisolon 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 50766 | Prednisolon CF 5 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 50859 | Prednisolonnatriumsuccinaat CF 25 mg, poeder voor oplossing voor injectie | PREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor injectie | Geldig |
+| RVG 50969 | Prednisolon Teva 5 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 104785 | Prednisolon Mylan 30 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 105828 | Prednisolon Mylan 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 106136 | Prednisolon Sandoz 30 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 106140 | Prednisolon Sandoz 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 125521=33397 | Prednisolon Teva 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 125522=25347 | Prednisolon Teva 30 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 129391 | Provist-Opto 5 mg/ml, oogdruppels, oplossing | PREDNISOLON DINATRIUMFOSFAAT | Oogdruppels, oplossing | Geldig |
+| RVG 131893 | Prednisolon Auro 1 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 131894 | Prednisolon Auro 5 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 131895 | Prednisolon Auro 10 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+| RVG 131896 | Prednisolon Auro 20 mg, tabletten | PREDNISOLON | Tablet | Geldig |
+
+Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het middel wordt op de markt gebracht.
 
 <!-- review:begin nl-lic-20261112-prednisolone-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel wordt op de markt gebracht; 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 21, waarvan geldig: 21; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel wordt op de markt gebracht; 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-prednisolone-1 -->
 
@@ -136,7 +163,7 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties uit de
 
 <!-- review:begin nl-lic-20261106-prednisolone-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Verduidelijking van de registratiestatus, omdat de enige Nederlandse vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Verduidelijking van de registratiestatus, omdat de enige Nederlandse vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-prednisolone-1 -->
 
@@ -163,8 +190,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “omdat de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “omdat de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “1 van de 1 vergunningen is geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
 
 <!-- review:end log -->

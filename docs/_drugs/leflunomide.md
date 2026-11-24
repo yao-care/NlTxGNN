@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Leflunomide: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 15)"
@@ -80,15 +80,35 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 106347 | Leflunomide Mylan 100 mg, filmomhulde tabletten (status: geldig) | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/09/604 | Leflunomide Zentiva 100 mg filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| EU/1/10/637 | Leflunomide medac 15 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| EU/1/10/654 | Leflunomide ratiopharm 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| EU/1/99/118 | Arava 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 106041 | Leflunomide CF 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 106043 | Leflunomide CF 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 106093 | Leflunomide Sandoz 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 106094 | Leflunomide Sandoz 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 106344 | Leflunomide Viatris 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 106346 | Leflunomide Viatris 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 106347 | Leflunomide Mylan 100 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 124360 | Leflunomide Tillomed 10 mg, tabletten | LEFLUNOMIDE | Tablet | Geldig |
+| RVG 124361 | Leflunomide Tillomed 20 mg, tabletten | LEFLUNOMIDE | Tablet | Geldig |
+| RVG 128231 | Leflunomide Aurobindo 10 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+| RVG 128232 | Leflunomide Aurobindo 20 mg, filmomhulde tabletten | LEFLUNOMIDE | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het middel is op de markt. Voor het goedgekeurde gebruik is de SmPC (Samenvatting van de Productkenmerken) van toepassing.
 
 <!-- review:begin nl-lic-20261112-leflunomide-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-leflunomide-1 -->
 
@@ -116,7 +136,7 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC; de bijslui
 
 <!-- review:begin nl-lic-20261106-leflunomide-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Een plausibel mechanisme ontbreekt en het teratogene profiel van leflunomide pleit tegen een voordeel bij een aangeboren ontwikkelingsstoornis. Daarnaast is de enige Nederlandse vergunning ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Een plausibel mechanisme ontbreekt en het teratogene profiel van leflunomide pleit tegen een voordeel bij een aangeboren ontwikkelingsstoornis. Daarnaast is de enige Nederlandse vergunning ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-leflunomide-1 -->
 
@@ -128,7 +148,7 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC; de bijslui
 
 <!-- review:begin nl-lic-20261106-leflunomide-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de teratogeniteitsrisico's en van de relevante patiëntengroep / Verduidelijking van de status van de ingetrokken Nederlandse vergunning” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de teratogeniteitsrisico's en van de relevante patiëntengroep / Verduidelijking van de status van de ingetrokken Nederlandse vergunning” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-leflunomide-2 -->
 
@@ -140,9 +160,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Verduidelijking van de status van de ingetrokken Nederlandse vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Verduidelijking van de status van de ingetrokken Nederlandse vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is in Nederland (CBG-MEB) 1 geldige vergunning van 1 vergunning, en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52) |
 
 <!-- review:end log -->

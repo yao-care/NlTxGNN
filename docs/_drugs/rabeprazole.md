@@ -3,7 +3,7 @@ layout: default
 title: Rabeprazole
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 286
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Rabeprazole: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -70,9 +70,36 @@ Het TxGNN-model (score ≥ 0,99) leverde voor Rabeprazole kandidaten op. Alle ka
 
 ## Informatie over de Nederlandse markt
 
-| Registratie | Product | Toedieningsvorm | Status |
-|------|------|------|------|
-| RVG 120457//23211 | Pariet 20 mg, maagsapresistente tabletten |  | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 23210 | Pariet 10 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 23211 | Pariet 20 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 102611 | Rabeprazolnatrium 10 mg Teva, maagsapresistente tabletten | RABEPRAZOLNATRIUM X-WATER | Maagsapresistente tablet | Geldig |
+| RVG 102618 | Rabeprazolnatrium 20 mg Teva, maagsapresistente tabletten | RABEPRAZOLNATRIUM X-WATER | Maagsapresistente tablet | Geldig |
+| RVG 103372 | Rabeprazolnatrium Sandoz 10 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 103373 | Rabeprazolnatrium Sandoz 20 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 105048 | Rabeprazolnatrium Auro 10 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 105071 | Rabeprazolnatrium Auro 20 mg maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 105588 | Rabeprazolnatrium Krka 10 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 105589 | Rabeprazolnatrium Krka 20 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 105707 | Beryx 10 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 105708 | Beryx 20 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 105709 | Praber 10 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 105710 | Praber 20 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 107937 | Rabeprazolnatrium Viatris 10 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 107942 | Rabeprazolnatrium Viatris 20 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 107944 | Rabeprazolnatrium 10 mg Focus, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 107946 | Rabeprazolnatrium 20 mg Focus, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 112361 | Rabeprazolnatrium Nevik 10 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 112362 | Rabeprazolnatrium Nevik 20 mg, maagsapresistente tabletten | RABEPRAZOLNATRIUM | Maagsapresistente tablet | Geldig |
+
+Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

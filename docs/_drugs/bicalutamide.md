@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Bicalutamide"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bicalutamide: voorspelde nieuwe indicatie hypertrichose (hypertrichosis (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 14 (geldig: 13)"
 ---
 
@@ -82,9 +82,28 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119691//18356 | Casodex 50 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 18356 | Casodex-50, filmomhulde tabletten 50 mg | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 33520 | Bicalutamide 50, filmomhulde tablet 50 mg | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 34228 | Bilumide 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 34467 | Bicalutamide 50 PCH, filmomhulde tabletten 50 mg | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 34468 | Bicalutamide 150 PCH, filmomhulde tabletten 150 mg | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 34712 | Bicalutamide Aurobindo 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 100334 | Bicalutamide Accord 50mg filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 102249 | Biluron 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 102251 | Biluron 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 116494 | Bicalutamide Aurobindo 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 123578 | Bicalutamide Accord 150 mg filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 131397 | Bicalutamide Eugia 50 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 131399 | Bicalutamide Eugia 150 mg, filmomhulde tabletten | BICALUTAMIDE | Filmomhulde tablet | Geldig |
+| RVG 119691//18356 | Casodex 50 mg, filmomhulde tabletten | BICALUTAMIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De registratie valt onder het CBG-MEB (College ter Beoordeling van Geneesmiddelen). Raadpleeg voor de officiële productinformatie de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter.
 

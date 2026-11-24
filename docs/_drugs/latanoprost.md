@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 199
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 description: "Latanoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 34)"
@@ -78,9 +78,36 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115407 | Latanostad 50 microgram/ml oogdruppels, oplossing (status: geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/23/1763 | Catiolanze, 50 microgram/ml oogdruppels, emulsie | LATANOPROST | Oogdruppels, emulsie | Geldig |
+| RVG 21304 | Xalatan, oogdruppels, oplossing 50 microgram/ml | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 102633 | Latanoprost Auro 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 102637 | Latanoprost 50 microgram/ml Teva, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 102638 | Latanoprost Mylan 0,05 mg/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 102640 | Exprosol 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 104079 | Latanoprost Sandoz 0,05 mg/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 106488 | Latanoxam 50 microgram/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 107918 | Latanoprost Viatris 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 110246 | Monoprost 50 microgram/ml, oogdruppels, oplossing in verpakking voor éénmalig g… | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 115290 | Xalmono 0,05 mg/ml oogdruppels, oplossing in verpakking voor éénmalig gebruik | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 115407 | Latanostad 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 115689 | Monoprost 50 microgram/ml, oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 118920 | Xalof 0,05 mg/ml oogdruppels, oplossing in verpakking voor éénmalig gebruik | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 121126 | Vizilatan 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 125924 | Latanmono conserveermiddelvrij 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 132271 | Latanoprost Stulln zonder conserveermiddel 50 microgram/ml oogdruppels, oplossi… | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 133108 | Latanoprost Blumont 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 134766 | Latanoprost CF 0,05 mg/ml, oogdruppels, oplossing in verpakking voor éénmalig g… | LATANOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 134969 | Latanea 50 microgram/ml oogdruppels, oplossing | LATANOPROST | Oogdruppels, oplossing | Geldig |
+
+Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -108,7 +135,7 @@ Voor waarschuwingen en contra-indicaties volgens de officiële productinformatie
 
 <!-- review:begin nl-lic-20261106-latanoprost-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de huidige marktbeschikbaarheid van latanoprostproducten in Nederland, aangezien de enige vermelde vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling van de huidige marktbeschikbaarheid van latanoprostproducten in Nederland, aangezien de enige vermelde vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-latanoprost-1 -->
 
@@ -138,7 +165,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “aangezien de enige vermelde vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “aangezien de enige vermelde vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
 
 <!-- review:end log -->

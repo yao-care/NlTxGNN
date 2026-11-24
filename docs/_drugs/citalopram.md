@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Citalopram: voorspelde nieuwe indicatie Obsessieve-compulsieve stoornis (obsessive-compulsive disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 40 (geldig: 39)"
 ---
 
@@ -96,9 +96,36 @@ Geen van deze studies onderzoekt citalopram aantoonbaar als afzonderlijk middel.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 111055//22687 | Cipramil 40 mg/ml, druppelvloeistof | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 19593 | Cipramil 20 mg filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 19594 | Cipramil 40 mg filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 22687 | Cipramil 40 mg/ml druppels voor oraal gebruik, oplossing | CITALOPRAMHYDROCHLORIDE | Druppels voor oraal gebruik, oplossing | Geldig |
+| RVG 25147 | Citalopram CF 10 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 25148 | Citalopram CF 20 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 25149 | Citalopram CF 40 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 25150 | Citalopram ratiopharm 10 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 25151 | Citalopram ratiopharm 20 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 25152 | Citalopram ratiopharm 40 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 26734 | Citalopram Sandoz 20 mg, filmomhulde tabletten 20 mg | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 26735 | Citalopram Sandoz 30 mg, filmomhulde tabletten 30 mg | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 26736 | Citalopram Sandoz 40 mg, filmomhulde tabletten 40 mg | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 27619 | Citalopram 20 ct | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 27633 | Citalopram STADA 10 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 27634 | Citalopram STADA 20 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 27635 | Citalopram STADA 40 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 27643 | Citalopram ratiopharm 20 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 27644 | Citalopram ratiopharm 40 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 28672 | Citalopram Mylan 20 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+| RVG 28673 | Citalopram Mylan 40 mg, filmomhulde tabletten | CITALOPRAMHYDROBROMIDE | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 40 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De marktstatus is volgens de lokale gegevens "In de handel". Het CBG-MEB-register is hiervoor de bron.
 

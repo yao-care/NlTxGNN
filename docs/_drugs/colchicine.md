@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 96
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Colchicine: voorspelde nieuwe indicatie Plasmodium falciparum-malaria (bewijsniveau L5). Oorspronkelijke indicatie: Jicht"
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
@@ -85,9 +85,31 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115060 | Colchicine Tiofarma 1 mg, tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/26/2048 | Colchicine AGEPHA Pharma 0,5 mg tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 21347 | Colchicine Tiofarma 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 34100 | Colchicine Teva 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 103726 | Colchicine Mylan 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 105820 | Colchicine Sandoz 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 107614 | Colchicine CF 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 115060 | Colchicine Tiofarma 1 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 121364 | Colchicine Ria 0.5 mg tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 121365 | Colchicine Ria 1 mg tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 126243 | Colchicine DMB 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 126245 | Colchicine DMB 1 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 127055 | Colchicine DMB 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 127056 | Colchicine DMB 1 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 127592 | Colchicine Strides 0,5 mg tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 129579 | Colchicine Indoco 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 129718 | Colchicine Auro 0,5 mg, tabletten | COLCHICINE | Tablet | Geldig |
+| RVG 132800 | Gloricard 0,5 mg tabletten | COLCHICINE | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -126,7 +148,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 <!-- review:begin nl-lic-20261112-colchicine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De smalle therapeutische breedte van colchicine maakt de benodigde dosering voor antiparasitaire werking onwaarschijnlijk veilig. Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 17, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De smalle therapeutische breedte van colchicine maakt de benodigde dosering voor antiparasitaire werking onwaarschijnlijk veilig. Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-colchicine-1 -->
 
@@ -139,7 +161,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 <!-- review:begin nl-lic-20261106-colchicine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Besluit over de vergunningsstatus in Nederland (de enige vergunning is ingetrokken).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Besluit over de vergunningsstatus in Nederland (de enige vergunning is ingetrokken).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-colchicine-1 -->
 
@@ -151,8 +173,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “(de enige vergunning is ingetrokken)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “(de enige vergunning is ingetrokken)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Colchicine is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Mitigare (colchicine) prescribing information, Hikma Specialty USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 150
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Fentanyl: voorspelde nieuwe indicatie Nefrogeen syndroom van inadequate antidiurese (NSIAD) (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens (de vergunnings…"
 monitor_inn: "Fentanyl"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -74,15 +74,42 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118447//16846 | Durogesic 50 µg/uur, pleisters voor transdermaal gebruik | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16845 | Durogesic 25 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 16846 | Durogesic 50 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 16847 | Durogesic 75 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 16848 | Durogesic 100 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 31418 | Durogesic 12 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100316 | Fentanyl Sandoz matrixpleister 12 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100319 | Fentanyl Sandoz matrixpleister 25 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100320 | Fentanyl Sandoz matrixpleister 37 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100321 | Fentanyl Sandoz matrixpleister 50 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100322 | Fentanyl Sandoz matrixpleister 75 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 100323 | Fentanyl Sandoz matrixpleister 100 µg/uur, pleisters voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 101901 | Fentanyl Aurobindo 25 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 101902 | Fentanyl Aurobindo 50 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 101903 | Fentanyl Aurobindo 75 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 101904 | Fentanyl Aurobindo 100 microgram/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 105070 | Fentanyl CF 12 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 105082 | Fentanyl CF 25 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 105084 | Fentanyl CF 50 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 105085 | Fentanyl CF 75 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+| RVG 105086 | Fentanyl CF 100 µg/uur, pleister voor transdermaal gebruik | FENTANYL | Pleister voor transdermaal gebruik | Geldig |
+
+Getoond worden 20 van de 31 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Dit geneesmiddel is in Nederland op de markt.
 
 <!-- review:begin nl-lic-20261112-fentanyl-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit geneesmiddel is in Nederland op de markt; 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 31, waarvan geldig: 30; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Dit geneesmiddel is in Nederland op de markt; 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-fentanyl-1 -->
 
@@ -103,7 +130,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties volgens de bijsluitertekst de
 
 <!-- review:begin nl-lic-20261112-fentanyl-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor Tourette zijn het misbruikpotentieel en het veiligheidsprofiel van fentanyl zeer ongunstig. / De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 31, waarvan geldig: 30; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Voor Tourette zijn het misbruikpotentieel en het veiligheidsprofiel van fentanyl zeer ongunstig. / De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-fentanyl-2 -->
 
@@ -121,8 +148,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “1 van de 1 vergunningen is geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald, en de veiligheidsgegevens uit de bijsluiter ontbreken (blokkerende datalacune)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

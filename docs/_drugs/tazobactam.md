@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 310
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tazobactam: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -72,11 +72,36 @@ Alle kandidaten die het TxGNN-model voor Tazobactam heeft gegenereerd, zijn al b
 
 ## Informatie over de Nederlandse markt
 
-| Registratie | Product | Toedieningsvorm | Status |
-|------|------|------|------|
-| RVG 102350 | Piperacilline/Tazobactam Aurobindo 4g/0,5g, poeder voor oplo |  | Geldig |
-| RVG 114973 | Piperacilline/Tazobactam Stravencon 4 g/0,5 g poeder voor op |  | Niet geregistreerd |
-| RVG 100289 | Piperacilline/Tazobactam Fresenius Kabi 4 g/0,5 g poeder voo |  | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/15/1032 | Zerbaxa 1 g/0,5 g poeder voor concentraat voor oplossing voor infusie | CEFTOLOZAANSULFAAT, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 34034 | Piperacilline/Tazobactam 2 g/250 mg PCH, poeder voor oplossing voor injectie of… | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 34045 | Piperacilline/Tazobactam 4 g/500 mg PCH, poeder voor oplossing voor injectie of… | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 34088 | Piperacilline/Tazobactam 4 g/0,5 g, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 34089 | Piperacilline/Tazobactam Sandoz 2 g/250 mg, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 34090 | Piperacilline/Tazobactam Sandoz 4 g/500 mg, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 34905 | Piperacilline/Tazobactam Stragen 4 g/0,5 g, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 35003 | Piperacilline/Tazobactam Viatris 2 g/250 mg, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 35004 | Piperacilline/Tazobactam Viatris 4 g/500 mg, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 100288 | Piperacilline/Tazobactam Fresenius Kabi 2 g/0,25 g poeder voor oplossing voor i… | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 100289 | Piperacilline/Tazobactam Fresenius Kabi 4 g/0,5 g poeder voor oplossing voor in… | TAZOBACTAM NATRIUM, PIPERACILLINE NATRIUM 1-WATER | Poeder voor oplossing voor infusie | Geldig |
+| RVG 102348 | Piperacilline/Tazobactam Eugia 2 g/0,25 g poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 102350 | Piperacilline/Tazobactam Aurobindo 4g/0,5g, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 1-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 127163 | Piperacilline/Tazobactam Hikma 2 g/ 0,25 g, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 127164 | Piperacilline/Tazobactam Hikma 4 g/ 0,5 g, poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 127862 | Piperacilline/Tazobactam Tillomed 2 g/0,25 g poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 127865 | Piperacilline/Tazobactam Tillomed 4 g/0,5 g poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 129130 | Piperacilline/Tazobactam Kalceks 2 g/0,25 g poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 129131 | Piperacilline/Tazobactam Kalceks 4 g/0,5 g poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 130176 | Pitaz 2 g/0,25 g poeder voor oplossing voor infusie | PIPERACILLINE NATRIUM 0-WATER, TAZOBACTAM NATRIUM | Poeder voor oplossing voor infusie | Geldig |
+
+Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

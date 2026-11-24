@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 189
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ivabradine: voorspelde nieuwe indicatie Hypertrichose (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van het CBG-MEB (indicatietekst ontbr…"
 monitor_inn: "ivabradine"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -94,17 +94,40 @@ Het middel is op de markt. Gegevens over toedieningsvorm en geregistreerde indic
 
 <!-- review:begin nl-lic-20261112-ivabradine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig en het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 50, waarvan geldig: 47; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig en het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-ivabradine-1 -->
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 118317 | Ivabradine BioOrganics 7,5 mg, filmomhulde tabletten | Niet geregistreerd |
-| RVG 117832 | Prescoriel 25 mg/7,5 mg filmomhulde tabletten | Geldig |
-| RVG 114311 | Arparial 25 mg/7,5 mg, filmomhulde tabletten | Niet geregistreerd |
-| RVG 117830 | Prescoriel 12,5 mg/7,5 mg filmomhulde tabletten | Geldig |
-| RVG 114312 | Arparial 50 mg/7,5 mg, filmomhulde tabletten | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/05/316 | Procoralan 7,5 mg, filmomhulde tablet | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/05/317 | Corlentor 5 mg, filmomhulde tablet | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/15/1041 | Ivabradine Anpharm 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/16/1144 | Ivabradine Zentiva 7,5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/17/1190 | Ivabradine Accord 7,5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118292 | Ivabradine Synthon 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118293 | Ivabradine Synthon 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118294 | Ivabradine Synthon 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118295 | Ivabradine DOC Generici 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118296 | Ivabradine DOC Generici 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118297 | Ivabradine DOC Generici 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118298 | Ivabradine Glenmark 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118300 | Ivabradine Glenmark 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118301 | Ivabradine Glenmark 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118310 | Ivabradine CF 2,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118311 | Ivabradine CF 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118312 | Ivabradine CF 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118319 | Ivabradine Aurobindo 5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118320 | Ivabradine Aurobindo 7,5 mg, filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118321 | Ivabradine Xiromed 5 mg filmomhulde tabletten | IVABRADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 50 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -141,7 +164,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig en h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Corlanor (ivabradine) prescribing information, Amgen Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92018a65-38f6-45f7-91d4-a34921b81d0d) |
 
 <!-- review:end log -->

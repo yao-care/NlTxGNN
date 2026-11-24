@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 233
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "midazolam"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 37 (geldig: 36)"
@@ -93,16 +93,36 @@ De overige gevonden publicaties (preklinische zolpidemstudie, casuïstiek en een
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 110837 | Midazolam Sandoz 5 mg/ml, oplossing voor injectie (geldig) | Niet vermeld | Niet vermeld |
-| RVG 112883 | Midazolam Orpha 15 mg, filmomhulde tabletten (niet geregistreerd) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-midazolam-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/11/709 | Buccolam 10mg/2ml, oplossing voor oromucosaal gebruik | MIDAZOLAMHYDROCHLORIDE | Oplossing voor oromucosaal gebruik | Geldig |
+| RVG 10064 | Dormicum 5 mg/ml oplossing voor injectie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 10539 | Dormicum 15 mg, filmomhulde tabletten | MIDAZOLAMMALEAAT | Filmomhulde tablet | Geldig |
+| RVG 13027 | Dormicum 7,5 mg, filmomhulde tabletten | MIDAZOLAMMALEAAT | Filmomhulde tablet | Geldig |
+| RVG 22579 | Midazolam-hameln 1 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 22580 | Midazolam-hameln 2 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 22581 | Midazolam-hameln 5 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 22582 | Midazolam Hikma 1 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 22584 | Midazolam Hikma 5 mg/ml, oplossing voor injectie/infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 22594 | Midazolam Eugia 1 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Geldig |
+| RVG 22595 | Midazolam Eugia 2 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Geldig |
+| RVG 22596 | Midazolam Eugia 5 mg/ml, oplossing voor injectie/infusie of rectale toediening | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie, Oplossing voo… | Geldig |
+| RVG 100470 | Midazolam Accord 1 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 100485 | Midazolam Accord 5 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 110832 | Midazolam Sandoz 1 mg/ml, oplossing voor injectie of infusie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 110837 | Midazolam Sandoz 5 mg/ml, oplossing voor injectie | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 119990 | Ozalin 2 mg/ml drank in verpakking voor eenmalig gebruik | MIDAZOLAM | Drank | Geldig |
+| RVG 124214 | Miprosed 5mg/ml drank | MIDAZOLAM | Drank | Geldig |
+| RVG 124774 | Midazolam Accord 1 mg/ml oplossing voor injectie/infusie in voorgevulde spuit | MIDAZOLAMHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 125603 | Midazolam Xiromed 2,5 mg oplossing voor oromucosaal gebruik | MIDAZOLAMHYDROCHLORIDE | Oplossing voor oromucosaal gebruik | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 112883 / Midazolam Orpha 15 mg, filmomhulde tabletten (geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 112883 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 37 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-midazolam-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -130,7 +150,7 @@ Raadpleeg voor volledige waarschuwingen de SmPC en bijsluiter (CBG-MEB), aangezi
 
 <!-- review:begin nl-lic-20261106-midazolam-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling ten opzichte van reeds beschikbare hypnotica, inclusief tolerantie- en afhankelijkheidsrisico / Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beoordeling ten opzichte van reeds beschikbare hypnotica, inclusief tolerantie- en afhankelijkheidsrisico / Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-midazolam-1 -->
 
@@ -142,8 +162,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 112883: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Analyse van de praktische haalbaarheid gezien de ingetrokken registraties en de beschikbare toedieningswegen” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 112883: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e) |
 
 <!-- review:end log -->

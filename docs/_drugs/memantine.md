@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Memantine: voorspelde nieuwe indicatie Pulmonale hypertensie (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de vergunningsgegevens (algemeen bekend: matige tot e…"
 monitor_inn: "memantine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -83,15 +83,36 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114719 | Memantine 10 mg/ml Focus, drank | Drank (volgens productnaam) | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-memantine-3 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/02/218 | Axura 20 mg filmomhulde tablet | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/02/219 | Ebixa 5 mg/pompbeweging, oplossing voor oraal gebruik | MEMANTINEHYDROCHLORIDE | Druppels voor oraal gebruik, oplossing | Geldig |
+| EU/1/12/799 | Memantine-Merz 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/13/820 | Marixino 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/13/824 | Nemdatine 5 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/13/827 | Memantine Mylan 10 mg, filmomhulde tablet | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/13/836 | Memantine Ratiopharm 15 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/13/880 | Memantine Accord 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112072 | Memantine Chanelle 10 mg/ml drank | MEMANTINEHYDROCHLORIDE | Drank | Geldig |
+| RVG 112073 | Memantine CF 10 mg/ml, drank | MEMANTINEHYDROCHLORIDE | Drank | Geldig |
+| RVG 112074 | Memantine Sandoz 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112079 | Memantine Sandoz 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112085 | Xapimant 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112086 | Xapimant 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112097 | Memantine Synthon 10 mg, tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112098 | Memantine Synthon 20 mg, tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112099 | Memantine Synthon 5 mg + 10 mg + 15 mg + 20 mg, tabletten | MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTI… | Filmomhulde tablet | Geldig |
+| RVG 112196 | Memantine CF 10 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112198 | Memantine CF 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 112199 | Memantine CF 5 mg + 10 mg + 15 mg + 20 mg, filmomhulde tabletten | MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTINEHYDROCHLORIDE, MEMANTI… | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 114719 / Memantine 10 mg/ml Focus, drank / Drank (volgens productnaam) / Niet beschikbaar (vergunning geldig)” Gecorrigeerd: registratienummer RVG 114719 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 32 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-memantine-3 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -116,7 +137,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 <!-- review:begin nl-lic-20261112-memantine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling berust vrijwel alleen op een hoge modelscore, zonder klinische studies of direct ondersteunende literatuur (bewijsniveau L5). / De enige Nederlandse vergunning is ingetrokken, waardoor er geen actief geregistreerd product is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 32, waarvan geldig: 31; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling berust vrijwel alleen op een hoge modelscore, zonder klinische studies of direct ondersteunende literatuur (bewijsniveau L5). / De enige Nederlandse vergunning is ingetrokken, waardoor er geen actief geregistreerd product is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-memantine-1 -->
 
@@ -127,7 +148,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 <!-- review:begin nl-lic-20261112-memantine-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De officiële productinformatie (waarschuwingen en contra-indicaties) via het CBG-MEB. / Een beoordeling van de regulatoire route, gezien de ingetrokken vergunning en de ontbrekende vergunde indicatie in de data.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 32, waarvan geldig: 31; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De officiële productinformatie (waarschuwingen en contra-indicaties) via het CBG-MEB. / Een beoordeling van de regulatoire route, gezien de ingetrokken vergunning en de ontbrekende vergunde indicatie in de data.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-memantine-2 -->
 
@@ -141,9 +162,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is ingetrokken, waardoor er geen actief geregistreerd product is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Een beoordeling van de regulatoire route, gezien de ingetrokken vergunning en de ontbrekende vergunde indicatie in de data” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 114719: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is ingetrokken, waardoor er geen actief geregistreerd product is” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Een beoordeling van de regulatoire route, gezien de ingetrokken vergunning en de ontbrekende vergunde indicatie in de data” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 114719: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

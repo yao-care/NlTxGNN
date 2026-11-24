@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "digoxin"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Digoxin: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
 ---
 
@@ -70,11 +70,24 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120674//01363 | Lanoxin 250, tabletten 0,250 mg | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-Volgens de lokale registratiegegevens (CBG-MEB) is de marktstatus "In de handel". Er is één registratie in de lijst opgenomen.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 01363 | Lanoxin 250, tabletten 0,25 mg | DIGOXINE | Tablet | Geldig |
+| RVG 01364 | Lanoxin Injectie, oplossing voor injectie 0,5 mg=2 ml | DIGOXINE | Oplossing voor injectie | Geldig |
+| RVG 07548 | Lanoxin PG, tabletten 0,0625 mg | DIGOXINE | Tablet | Geldig |
+| RVG 08963 | Lanoxin 125, tabletten 0,125 mg | DIGOXINE | Tablet | Geldig |
+| RVG 120450//08963 | Lanoxin 125, tabletten 0,125 mg | DIGOXINE | Tablet | Geldig |
+| RVG 121000//01363 | Lanoxin 250, tabletten 0,25 mg | DIGOXINE | Tablet | Geldig |
+| RVG 126327//01364 | Digoxine Eureco-Pharma, oplossing voor injectie 0,5 mg/2 ml | DIGOXINE | Oplossing voor injectie | Geldig |
+| RVG 120674//01363 | Lanoxin 250, tabletten 0,250 mg | DIGOXINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Volgens de lokale registratiegegevens (CBG-MEB) is de marktstatus "In de handel".
 
 ## Veiligheidsoverwegingen
 

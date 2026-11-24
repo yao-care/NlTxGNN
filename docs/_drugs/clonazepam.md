@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "Clonazepam"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonazepam: voorspelde nieuwe indicatie Restless legs syndroom (restless legs syndrome) (bewijsniveau L2). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
 ---
 
@@ -65,7 +65,7 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 <!-- review:begin nl-lic-20261112-clonazepam-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De status is "In de handel": de gegevens van het CBG-MEB vermelden één geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De status is "In de handel": de gegevens van het CBG-MEB vermelden één geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-clonazepam-1 -->
 
@@ -86,9 +86,23 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109867 | Clonazepam Sandoz 2 mg, tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06870 | Rivotril tabletten 0,5 mg, tabletten | CLONAZEPAM | Tablet | Geldig |
+| RVG 06871 | Rivotril tabletten 2 mg , tabletten | CLONAZEPAM | Tablet | Geldig |
+| RVG 06872 | Rivotril druppels, druppels voor oraal gebruik, oplossing 2,5 mg/ml | CLONAZEPAM | Druppels voor oraal gebruik, oplossing | Geldig |
+| RVG 06873 | Rivotril concentraat voor oplossing voor injectie, concentraat voor oplossing v… | CLONAZEPAM | Concentraat voor oplossing voor injectie | Geldig |
+| RVG 129008 | Clonazepam TZF 0,5 mg, tabletten | CLONAZEPAM | Tablet | Geldig |
+| RVG 129009 | Clonazepam TZF 2 mg, tabletten | CLONAZEPAM | Tablet | Geldig |
+| RVG 131093 | Clonazepam Double-e Pharma 0,5 mg tabletten | CLONAZEPAM | Tablet | Geldig |
+| RVG 131094 | Clonazepam Double-e Pharma 2 mg tabletten | CLONAZEPAM | Tablet | Geldig |
+| RVG 109867 | Clonazepam Sandoz 2 mg, tabletten | CLONAZEPAM | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheid
 
@@ -122,7 +136,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De status is "In de handel": de gegevens van het CBG-MEB vermelden één geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De status is "In de handel": de gegevens van het CBG-MEB vermelden één geldige vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1) |
 
 <!-- review:end log -->

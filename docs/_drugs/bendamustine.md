@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 51
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bendamustine: voorspelde nieuwe indicatie Mantelcellymfoom (bewijsniveau L1). Oorspronkelijke indicatie: Folliculair lymfoom"
 monitor_inn: "bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
@@ -102,15 +102,26 @@ De tabel toont een selectie van de meest relevante studies bij mantelcellymfoom 
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119787 | Bendamustine Fresenius Kabi 2,5 mg/ml poeder voor concentraat voor oplossing voor infusie | Poeder voor concentraat voor oplossing voor infusie | Niet beschikbaar (registratie geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 117807 | Bendamustine HCl medac 2,5 mg/ml, poeder voor concentraat voor oplossing voor i… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 117843 | Bendamustine Accord 2,5 mg/ml poeder voor concentraat voor oplossing voor infus… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 118758 | Bendamustine HCl Glenmark 2,5 mg/ml poeder voor concentraat voor oplossing voor… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 119787 | Bendamustine Fresenius Kabi 2,5 mg/ml poeder voor concentraat voor oplossing vo… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 121963 | Bendamustine Baxter 2,5 mg/ml poeder voor concentraat voor oplossing voor infus… | BENDAMUSTINEHYDROCHLORIDE | Poeder voor oplossing voor infusie | Geldig |
+| RVG 126621 | Bendamustine Accord 25 mg/ml concentraat voor oplossing voor infusie | BENDAMUSTINEHYDROCHLORIDE 1-WATER | Concentraat voor oplossing voor infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Dit is relevant voor de beschikbaarheid in Nederland.
 
 <!-- review:begin nl-lic-20261031-bendamustine-1 -->
 
-> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden. Dit is relevant voor de beschikbaarheid in Nederland.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden. Dit is relevant voor de beschikbaarheid in Nederland.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261031-bendamustine-1 -->
 
@@ -147,7 +158,7 @@ De waarschuwingen en contra-indicaties uit de officiële productinformatie ontbr
 
 <!-- review:begin nl-lic-20261106-bendamustine-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald. Ook ontbreken de veiligheidsgegevens uit de productinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald. Ook ontbreken de veiligheidsgegevens uit de productinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-bendamustine-2 -->
 
@@ -181,8 +192,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-10-31 | Verwijderd: “Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-10-31 | Verwijderd: “Voor het CBG-MEB is alleen deze ene, doorgehaalde registratie gevonden” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De nationale beschikbaarheid is beperkt: de enige Nederlandse registratie is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Vivimusta (bendamustine hydrochloride) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bf0e08b3-50ab-48e0-a52b-89c04787a75f) |
 
 <!-- review:end log -->

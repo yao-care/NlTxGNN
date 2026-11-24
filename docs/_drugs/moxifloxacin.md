@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 description: "Moxifloxacin: voorspelde nieuwe indicatie Polyclonal hyperviscosity syndrome (bewijsniveau L5). In Nederland, CBG-vergunningen: 10 (geldig: 10)"
@@ -80,7 +80,7 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261106-moxifloxacin-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-moxifloxacin-2 -->
 
@@ -88,9 +88,24 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118540 | Moxifloxacine VIOSER 400 mg/250 ml oplossing voor infusie (status: geldig) | Oplossing voor infusie (afgeleid uit de productnaam) | Niet beschikbaar in de gecompileerde gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 102202 | Vigamox 5 mg/ml oogdruppels, oplossing | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 113080 | Moxifloxacine Fresenius Kabi 400mg/250ml oplossing voor infusie | MOXIFLOXACINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 113376 | Moxifloxacine Teva 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 116180 | Moxifloxacine Sandoz 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 117979 | Moxifloxacine Aurobindo 400 mg, filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118540 | Moxifloxacine VIOSER 400 mg/250 ml oplossing voor infusie | MOXIFLOXACINEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 121751 | Erelan 400 mg filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 123145 | Moxifloxacine MSN 400 mg filmomhulde tabletten | MOXIFLOXACINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 126651 | Moxifloxacine Stulln 5 mg/ml oogdruppels, oplossing | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 126652 | Moxifloxacine Stulln zonder conserveermiddel 5 mg/ml, oogdruppels, oplossing in… | MOXIFLOXACINEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -119,7 +134,7 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie zij
 
 <!-- review:begin nl-lic-20261031-moxifloxacin-1 -->
 
-> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Het bewijsniveau is L5 (alleen modelvoorspelling). / Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samengestelde gegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Het bewijsniveau is L5 (alleen modelvoorspelling). / Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samengestelde gegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261031-moxifloxacin-1 -->
 
@@ -138,8 +153,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-10-31 | Verwijderd: “Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samenges” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-10-31 | Verwijderd: “Daarnaast heeft moxifloxacine in Nederland alleen een doorgehaalde registratie, en de officiële veiligheidsgegevens ontbreken in de samenges” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Dit is de enige vergunning bij het CBG-MEB, en die is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5) |
 
 <!-- review:end log -->

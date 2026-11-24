@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: voorspelde nieuwe indicatie Brachydactylie-syndactylie-syndroom (brachydactyly-syndactyly syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 48 (geldig: 48)"
@@ -86,7 +86,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261106-naproxen-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het CBG-MEB-register laat voor naproxen in de verzamelde gegevens slechts één vergunning zien, en die is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het CBG-MEB-register laat voor naproxen in de verzamelde gegevens slechts één vergunning zien, en die is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-naproxen-1 -->
 
@@ -94,9 +94,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 108255 | Naproxen Aurobindo 500 mg, tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 09006 | Aleve Feminax bij menstruatiepijn 275, filmomhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
+| RVG 09007 | Aleve Select 275 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
+| RVG 11195 | Naproxen Mylan 250 mg, tabletten | NAPROXEN | Tablet | Geldig |
+| RVG 11196 | Naproxen Mylan 500 mg, tabletten | NAPROXEN | Tablet | Geldig |
+| RVG 12570 | Naproxen 250 mg Teva, tabletten | NAPROXEN | Tablet | Geldig |
+| RVG 12571 | Naproxen 500 mg Teva, tabletten | NAPROXEN | Tablet | Geldig |
+| RVG 14484 | Aleve Intense 550 mg, omhulde tablet | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
+| RVG 19630 | Aleve Classic bij pijn en koorts 220, omhulde tabletten 220 mg | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
+| RVG 20535 | PROXA 250 mg, tabletten | NAPROXEN | Tablet | Geldig |
+| RVG 20536 | PROXA 500 mg, tabletten | NAPROXEN | Tablet | Geldig |
+| RVG 21931 | Naproxen Aurobindo EC 250 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
+| RVG 21932 | Naproxen Aurobindo EC 500 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
+| RVG 24058 | Naproxen Accord 250 mg Tabletten, tabletten | NAPROXEN | Tablet | Geldig |
+| RVG 24059 | Naproxen Accord 500 mg Tabletten, tabletten | NAPROXEN | Tablet | Geldig |
+| RVG 24967 | Naproxen EC Mylan 250 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
+| RVG 24968 | Naproxen EC Mylan 500 mg, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
+| RVG 25044 | Naproxennatrium Aurobindo 275 mg, filmomhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
+| RVG 27371 | Naproxennatrium HTP 220 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
+| RVG 28323=27371 | Etos Naproxennatrium 220 mg, omhulde tabletten | NAPROXENNATRIUM | Filmomhulde tablet | Geldig |
+| RVG 30325 | Naproxen MSR 250 mg Teva, maagsapresistente tabletten | NAPROXEN | Maagsapresistente tablet | Geldig |
+
+Getoond worden 20 van de 48 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -122,7 +149,7 @@ De waarschuwingen en contra-indicaties uit de productinformatie (SmPC) ontbreken
 
 <!-- review:begin nl-lic-20261106-naproxen-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling is uitsluitend modelgebaseerd (L5), zonder klinische studies of literatuur, en er is geen biologisch aannemelijke koppeling tussen COX-remming en deze aangeboren ontwikkelingsstoornissen. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de SmPC.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling is uitsluitend modelgebaseerd (L5), zonder klinische studies of literatuur, en er is geen biologisch aannemelijke koppeling tussen COX-remming en deze aangeboren ontwikkelingsstoornissen. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de SmPC.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-naproxen-2 -->
 
@@ -141,8 +168,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Het CBG-MEB-register laat voor naproxen in de verzamelde gegevens slechts één vergunning zien, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de SmPC” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Het CBG-MEB-register laat voor naproxen in de verzamelde gegevens slechts één vergunning zien, en die is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de veiligheidsgegevens uit de SmPC” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
 
 <!-- review:end log -->

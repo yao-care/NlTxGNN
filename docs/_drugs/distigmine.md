@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "distigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly", "fetal akinesia deformation sequence", "congenital myasthenic syndrome with tubular aggregates", "myasthenia, congenital, refractory to acetylcholinesterase inhibitors"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Distigmine: voorspelde nieuwe indicatie Auto-immuunziekte van het perifere zenuwstelsel (autoimmune disease of peripheral nervous system) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in…"
 ---
 
@@ -68,9 +68,17 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118766//07887 | Ubretid 5 mg, tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 07887 | Ubretid, tabletten 5 mg | DISTIGMINEDIBROMIDE | Tablet | Geldig |
+| RVG 128191//07887 | Ubretid 5 mg tabletten | DISTIGMINEDIBROMIDE | Tablet | Geldig |
+| RVG 118766//07887 | Ubretid 5 mg, tabletten | DISTIGMINEDIBROMIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

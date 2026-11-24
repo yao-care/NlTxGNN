@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 description: "Topotecan: voorspelde nieuwe indicatie Mammacarcinoom (female breast carcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
@@ -95,15 +95,28 @@ De klinische onderbouwing is zwak. Er is geen fase 3-onderzoek of gerandomiseerd
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 112402 | Topotecan Fresenius Kabi 1 mg/ml | Concentraat voor oplossing voor infusie | – |
+<!-- licenses:begin -->
 
-Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/10/633 | Topotecan Hospira 1 mg/ml, concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| EU/1/10/660 | Potactasol 1 mg/ml, poeder voor concentraat voor oplossing voor injectie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| EU/1/96/027 | Hycamtin 1,0mg, Capsule, hard | TOPOTECANHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 105701 | Topotecan Sandoz 1 mg/ml, concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 107992 | Topotecan Hikma 1 mg poeder voor concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 107993 | Topotecan Hikma 4 mg poeder voor concentraat voor oplossing voor infusie | TOPOTECANHYDROCHLORIDE | Poeder voor concentraat voor oplossing voor infus… | Geldig |
+| RVG 109171 | Topotecan Accord 1 mg/ml Concentraat voor Oplossing voor Infusie | TOPOTECANHYDROCHLORIDE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 112402 | Topotecan Fresenius Kabi 1 mg/ml, concentraat voor oplossing voor infusie. | TOPOTECANHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Het registratienummer RVG 112402 (Topotecan Fresenius Kabi 1 mg/ml, concentraat voor oplossing voor infusie) komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.
 
 <!-- review:begin nl-lic-20261115-topotecan-1 -->
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Deze vergunning is doorgehaald. Bij een eventuele vervolgstap zou dit een belemmering voor de beschikbaarheid kunnen zijn.” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze vergunning is doorgehaald. Bij een eventuele vervolgstap zou dit een belemmering voor de beschikbaarheid kunnen zijn.” Verwijderd of herschreven: de bewering dat de vergunningen zijn doorgehaald of ingetrokken kwam niet overeen met de actuele registratiegegevens van het CBG (2026-11-15); er zijn geldige vergunningen. Actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261115-topotecan-1 -->
 
@@ -159,7 +172,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-15 | “Deze vergunning is doorgehaald. Bij een eventuele vervolgsta” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Deze vergunning is doorgehaald. Bij een eventuele vervolgsta” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
 
 <!-- review:end log -->

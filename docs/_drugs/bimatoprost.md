@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bimatoprost: voorspelde nieuwe indicatie Malformatiesyndroom met tand- en/of parodontale component (malformation syndrome with odontal and/or periodontal compon… (bewijsniveau L5). Oorspronkelijke in…"
 ---
 
@@ -68,9 +68,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114803 | Bimatoprost ratiopharm 0,1 mg/ml, oogdruppels, oplossing | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/02/205 | Lumigan 0,1 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 113250 | Bimatoprost Sandoz 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 113251 | BIMAGAN 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 113252 | Bimato-Vision 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114641 | Bimatoprost CF 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114643 | Bimatoprost CF 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114644 | Bimatoprost axunio 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114645 | Bimatoprost axunio 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114646 | Bimatoprost Sandoz 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114648 | Bimatoprost Viatris 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114650 | Bimato-Vision 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114651 | Bimagan 0,1 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 119752 | Bimatoprost Medicom 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 119753 | Bimatoprost Stulln zonder conserveermiddel 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 123465 | Ganmono conserveermiddelvrij 0,3 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 127138 | Bimatoprost Brown & Burk 0,3 mg/ml oogdruppels, oplossing, in verpakking voor e… | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 127534 | Bimeox 0,3 mg/ml oogdruppels, oplossing, in verpakking voor eenmalig gebruik | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 127608 | Bimatoprost NTC 0,3 mg/ml, oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 128172 | Bimatoprost SDZ 0,3 mg/ml oogdruppels, oplossing, in verpakking voor eenmalig g… | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 128173 | Bimatoprost SDZ 0,1 mg/ml oogdruppels, oplossing | BIMATOPROST | Oogdruppels, oplossing | Geldig |
+
+Getoond worden 20 van de 42 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

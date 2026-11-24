@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 228
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Methylprednisolone: voorspelde nieuwe indicatie Folliculaire mucinose (alopecia mucinosa) (bewijsniveau L5). In Nederland, CBG-vergunningen: 12 (geldig: 11)"
@@ -68,15 +68,32 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261112-methylprednisolone-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert één geldige vergunning voor dit enkelvoudige product.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 11; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert één geldige vergunning voor dit enkelvoudige product.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-methylprednisolone-1 -->
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116594 | Methylprednisolon Eurogenerics 16 mg tabletten | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00605 | Depo-Medrol 40 mg/ml, suspensie voor injectie | METHYLPREDNISOLONACETAAT | Suspensie voor injectie | Geldig |
+| RVG 05302 | Solu-Medrol 40mg/ml, poeder en oplosmiddel voor oplossing voor injectie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Oplossing voor injectie | Geldig |
+| RVG 06664 | Solu-Medrol, poeder voor oplossing voor infusie, 500 mg en 1000 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT, METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
+| RVG 07041 | Solu-Medrol 62,5mg/ml, poeder en oplosmiddel voor oplossing voor injectie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 127976//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 500 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
+| RVG 128516//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 1000 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
+| RVG 128535//07041 | Methylprednisolon Eureco-Pharma 62,5 mg/ml poeder en oplosmiddel voor oplossing… | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder en oplosmiddel voor oplossing voor injectie | Geldig |
+| RVG 129331//06664 | Methylprednisolon Eureco-Pharma poeder voor oplossing voor infusie, 500 mg | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
+| RVG 130082 | Methylprednisolon ACE 100 mg tabletten | METHYLPREDNISOLON | Tablet | Geldig |
+| RVG 135199//06664 | Methylprednisolon ERC 500 mg, poeder voor oplossing voor infusie | METHYLPREDNISOLON NATRIUMSUCCINAAT | Poeder voor oplossing voor infusie | Geldig |
+| RVG 07066 | Depo Medrol + Lidocaïne, suspensie voor injectie | LIDOCAINEHYDROCHLORIDE 1-WATER, METHYLPREDNISOLONACETAAT | Suspensie voor injectie | Geldig |
+| RVG 116594 | Methylprednisolon Eurogenerics 16 mg tabletten | METHYLPREDNISOLON | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -110,7 +127,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert één geldige vergunning voor dit enkelvoudige product” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert één geldige vergunning voor dit enkelvoudige product” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4) |
 
 <!-- review:end log -->

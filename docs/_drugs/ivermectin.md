@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
 description: "Ivermectin: voorspelde nieuwe indicatie Vulvovaginale candidiasis (vulvovaginal candidiasis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 17)"
@@ -80,7 +80,7 @@ Bij twee andere voorspelde indicaties is wel een publicatie gekoppeld, maar geen
 
 <!-- review:begin nl-lic-20261106-ivermectin-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige bij het CBG-MEB bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige bij het CBG-MEB bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-ivermectin-1 -->
 
@@ -93,9 +93,31 @@ Bij twee andere voorspelde indicaties is wel een publicatie gekoppeld, maar geen
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115310 | Soolantra 10 mg/g crème | Niet vermeld | Niet vermeld (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 28341 | Stromectol 3mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 115310 | Soolantra 10 mg/g crème | IVERMECTINE | Crème | Geldig |
+| RVG 120488 | IVERMECTIN SUBSTIPHARM 3 mg Tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 122092//115310 | Soolantra 10 mg/g crème | IVERMECTINE | Crème | Geldig |
+| RVG 125185 | Ivermectine Xiromed 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 125826 | Ivergalen 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 126400 | Iverscab 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 126402 | Posela 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 128929 | Ivesk 3 mg tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 128930 | Ivermectine Teva 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 129196 | Ivermectine CF 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 131432 | Ivermectine CF 10 mg/g, crème | IVERMECTINE | Crème | Geldig |
+| RVG 131821 | Ivermectine Glenmark 3 mg tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 131907//28341 | Stromectol 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 133481 | Ivermectine Orion 3 mg tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 133954 | Ivermectine Aristo 3 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+| RVG 133955 | Ivermectine Aristo 6 mg, tabletten | IVERMECTINE | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -118,7 +140,7 @@ Voor waarschuwingen en contra-indicaties volgens de officiële productinformatie
 
 <!-- review:begin nl-lic-20261106-ivermectin-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn geen klinische studies of relevante publicaties, en er is geen aannemelijk antischimmelmechanisme. De enige Nederlandse vergunning is bovendien doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn geen klinische studies of relevante publicaties, en er is geen aannemelijk antischimmelmechanisme. De enige Nederlandse vergunning is bovendien doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-ivermectin-2 -->
 
@@ -137,8 +159,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De enige bij het CBG-MEB bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige bij het CBG-MEB bekende vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

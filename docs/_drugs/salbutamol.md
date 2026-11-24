@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: voorspelde nieuwe indicatie Papillaire conjunctivitis (papillary conjunctivitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 33)"
@@ -68,17 +68,42 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261112-salbutamol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle drie de vergunningen zijn geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 34, waarvan geldig: 33; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle drie de vergunningen zijn geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-salbutamol-1 -->
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 112038//21440 | Ventolin 100 Inhalator CFK-vrij, aerosol, suspensie 100 microgram/dosis | Niet geregistreerd |
-| RVG 114132 | Ipratropiumbromide/Salbutamol Cipla 0,5/2,5 mg per 2,5 ml, verneveloplossing | Geldig |
-| RVG 118115 | Zerseos 0,5 mg/2,5 mg per 2,5 ml, verneveloplossing | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06676 | Ventolin 5 mg/ml verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
+| RVG 07686 | Ventolin Infuus, concentraat voor oplossing voor infusie 5 mg/5 ml | SALBUTAMOLSULFAAT | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 07687 | Ventolin Injectie, oplossing voor injectie 0,5 mg/ml | SALBUTAMOLSULFAAT | Oplossing voor injectie | Geldig |
+| RVG 12587 | Ventolin 2,5 Nebules,verneveloplossing 1 mg/ml | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
+| RVG 12939 | Salbutamol 200 Cyclocaps, inhalatiepoeder (in capsules) 200 microgram | SALBUTAMOLSULFAAT | Inhalatiepoeder in harde capsule | Geldig |
+| RVG 12940 | Salbutamol 400 Cyclocaps, inhalatiepoeder (in capsules) 400 microgram | SALBUTAMOLSULFAAT | Inhalatiepoeder in harde capsule | Geldig |
+| RVG 14590 | Ventolin 5,0 Nebules, verneveloplossing 2 mg/ml | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
+| RVG 18353 | Airomir inhalator, aerosol 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
+| RVG 19496 | Ventolin Diskus 200 microgram/dosis, inhalatiepoeder, voorverdeeld | SALBUTAMOLSULFAAT | Inhalatiepoeder, voorverdeeld | Geldig |
+| RVG 21440 | Ventolin 100 Inhalator CFK-vrij, aerosol, suspensie 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
+| RVG 22393 | Airomir Autohaler, aerosol 100 microgram/dosis | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
+| RVG 26833 | Salbutamol Teva 100 microgram per dosis CFK-vrije inhalator, aërosol, suspensie | SALBUTAMOL | Aërosol, suspensie | Geldig |
+| RVG 26971 | Salbutamol 100 Redihaler 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
+| RVG 29458 | Salbutamol Novolizer 100 microgram, inhalatiepoeder | SALBUTAMOLSULFAAT | Inhalatiepoeder | Geldig |
+| RVG 34424 | Salbutamol Sandoz aërosol 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
+| RVG 56751 | Salbutamol Teva 5 mg/ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
+| RVG 100333 | Salamol Steri-Neb 5 mg/2,5 ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
+| RVG 127467 | Salbutamol Neutec 2,5 mg per 2,5 ml, verneveloplossing | SALBUTAMOLSULFAAT | Verneveloplossing | Geldig |
+| RVG 131612 | Salbutamol Glenmark 100 microgram/dosis, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
+| RVG 134489 | Salbutamol Sandoz 100 microgram/dosis CFK-vrij, aërosol, suspensie | SALBUTAMOLSULFAAT | Aërosol, suspensie | Geldig |
+
+Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -107,7 +132,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Alle drie de vergunningen zijn geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Alle drie de vergunningen zijn geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
 
 <!-- review:end log -->

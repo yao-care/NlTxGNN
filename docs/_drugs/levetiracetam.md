@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: voorspelde nieuwe indicatie Beta-ketothiolase deficiency (bewijsniveau L5). In Nederland, CBG-vergunningen: 75 (geldig: 75)"
@@ -91,15 +91,36 @@ Selectie van de meest relevante publicaties (alle algemene aanvalspopulaties):
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118335 | Levetiracetam ADOH 100 mg/ml concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Geen indicatietekst beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-row-20261112-levetiracetam-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/00/146 | Keppra 750 mg filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| EU/1/11/702 | Levetiracetam ratiopharm 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| EU/1/11/711 | Matever 100 mg/ml concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
+| EU/1/11/712 | Levetiracetam Accord 750 mg, filmomhulde tablet | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| EU/1/11/713 | Levetiracetam Actavis 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| EU/1/11/738 | Levetiracetam Actavis Group 100 mg/ml, drank | LEVETIRACETAM | Drank | Geldig |
+| EU/1/11/741 | Levetiracetam SUN 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
+| EU/1/13/889 | Levetiracetam Hospira 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 108443 | Levetiracetam 100 mg/ml Teva, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 108486 | TRUND 100mg/ml, drank | LEVETIRACETAM | Drank | Geldig |
+| RVG 108489 | Levetiracetam Sandoz 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| RVG 108491 | Levetiracetam Sandoz 500 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| RVG 108492 | Levetiracetam Sandoz 750 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| RVG 108493 | Levetiracetam Sandoz 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| RVG 108496 | Levetiracetam Sandoz 100 mg/ml, drank | LEVETIRACETAM | Drank | Geldig |
+| RVG 108505 | Levetiracetam Sandoz infuus 100 mg/ml, concentraat voor oplossing voor infusie | LEVETIRACETAM | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 108512 | TRUND 250 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| RVG 108513 | TRUND 500 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| RVG 108514 | TRUND 750 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
+| RVG 108515 | TRUND 1000 mg, filmomhulde tabletten | LEVETIRACETAM | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118335 (ingetrokken) / Levetiracetam ADOH 100 mg/ml concentraat voor oplossing voor infusie / Concentraat voor oplossing voor infusie / Geen indicatietekst beschikbaar” Gecorrigeerd: registratienummer RVG 118335 staat in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12) en is dus geldig ingeschreven. De vermelding “ingetrokken” in deze tabelregel is verwijderd; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 75 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-row-20261112-levetiracetam-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -157,7 +178,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 118335: “(ingetrokken)” verwijderd (geldig ingeschreven) | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118335: “(ingetrokken)” verwijderd (geldig ingeschreven) | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e) |
 
 <!-- review:end log -->

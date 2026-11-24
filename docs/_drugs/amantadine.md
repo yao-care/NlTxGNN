@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amantadine: voorspelde nieuwe indicatie Rasmussen-encefalitis (Rasmussen subacute encephalitis) (bewijsniveau L5). In Nederland, CBG-vergunningen: 5 (geldig: 5)"
 ---
 
@@ -68,11 +68,21 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor Rasmussen-encefali
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119789//05352 | Symmetrel 100 mg capsules | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-De gegevens bevatten één vergunning voor een monopreparaat. De lijst kan uitsluitend de in de lokale CBG-MEB-gegevens vastgelegde vergunningen bevatten.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | Geldig |
+| RVG 119789//05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | Geldig |
+| RVG 133662 | Amantadine HCl Renata 100 mg harde capsules | AMANTADINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 134423 | Amypha 100 mg harde capsules | AMANTADINEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 134583//05352 | Symmetrel 100 mg capsules | AMANTADINEHYDROCHLORIDE | Capsule, zacht | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+De gegevens bevatten één vergunning voor een monopreparaat.
 
 ## Veiligheidsoverwegingen
 

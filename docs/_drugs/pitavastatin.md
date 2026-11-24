@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pitavastatin: voorspelde nieuwe indicatie Cholesterylester-transfereiwitdeficiëntie (cholesterol-ester transfer protein deficiency) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lo…"
 ---
 
@@ -68,11 +68,22 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 106928 | Livazo 1 mg filmomhulde tabletten | Filmomhulde tabletten (volgens productnaam) | Niet vermeld in de verzamelde gegevens |
+<!-- licenses:begin -->
 
-Er is één vergunning (CBG-MEB) en de lijst is volledig. Raadpleeg de SmPC en de bijsluiter voor de geregistreerde indicaties.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 103768 | Livazo 2 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
+| RVG 103769 | Livazo 4 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
+| RVG 106928 | Livazo 1 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
+| RVG 129348 | Vaspit 1 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
+| RVG 129349 | Vaspit 2 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
+| RVG 129350 | Vaspit 4 mg filmomhulde tabletten | PITAVASTATINE CALCIUM | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Er is één vergunning (CBG-MEB). Raadpleeg de SmPC en de bijsluiter voor de geregistreerde indicaties.
 
 ## Veiligheidsoverwegingen
 

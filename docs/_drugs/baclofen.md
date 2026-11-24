@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baclofen: voorspelde nieuwe indicatie ADHD (attention deficit-hyperactivity disorder) (bewijsniveau L5). Oorspronkelijke indicatie: Spasticiteit (algemeen bekend gebruik"
 monitor_inn: "Baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -92,15 +92,38 @@ Er zijn 9 publicaties gevonden. Geen daarvan onderzoekt baclofen bij ADHD.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115224 | Gablofen 2 mg/ml oplossing voor injectie/infusie (status: geldig) | – | – |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06347 | Lioresal 10, tabletten 10 mg | BACLOFEN | Tablet | Geldig |
+| RVG 09086 | Lioresal 5, tabletten 5 mg | BACLOFEN | Tablet | Geldig |
+| RVG 12153 | Baclofen Mylan 10 mg, tabletten | BACLOFEN | Tablet | Geldig |
+| RVG 12154 | Baclofen Mylan 25 mg, tabletten | BACLOFEN | Tablet | Geldig |
+| RVG 21618 | Baclofen Aurobindo 10 mg, tabletten | BACLOFEN | Tablet | Geldig |
+| RVG 114568 | Gablofen 0,05 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
+| RVG 114570 | Gablofen 0,5 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
+| RVG 114571 | Gablofen 1 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
+| RVG 114572 | Gablofen 2 mg/ml, oplossing voor injectie / infusie in een voorgevulde spuit | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
+| RVG 115222 | Gablofen 0,5 mg/ml, oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
+| RVG 115223 | Gablofen 1 mg/ml, oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
+| RVG 115224 | Gablofen 2 mg/ml oplossing voor injectie / infusie | BACLOFEN | Oplossing voor injectie of infusie | Geldig |
+| RVG 120888 | Baclofen Sintetica Intrathecaal 0,05 mg/ml oplossing voor injectie | BACLOFEN | Oplossing voor injectie | Geldig |
+| RVG 120889 | Baclofen Sintetica Intrathecaal 0,5 mg/ml oplossing voor infusie | BACLOFEN | Oplossing voor infusie | Geldig |
+| RVG 120890 | Baclofen Sintetica Intrathecaal 2 mg/ml oplossing voor infusie | BACLOFEN | Oplossing voor infusie | Geldig |
+| RVG 124488 | Baclofen Xiromed 10 mg, tabletten | BACLOFEN | Tablet | Geldig |
+| RVG 124493 | Baclofen Xiromed 25 mg, tabletten | BACLOFEN | Tablet | Geldig |
+| RVG 131867 | Leodizcol 1 mg/ml, drank | BACLOFEN | Drank | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het middel is in Nederland op de markt. Voor de actuele situatie en de goedgekeurde indicaties zijn de CBG-MEB-database en de SmPC (Samenvatting van de Productkenmerken) leidend.
 
 <!-- review:begin nl-lic-20261112-baclofen-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1 vergunning in totaal); het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 18, waarvan geldig: 18; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is 1 geldige vergunning (van 1 vergunning in totaal); het middel is in Nederland op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-baclofen-1 -->
 
@@ -144,7 +167,7 @@ Voor dezelfde stof is een tweede voorspelling gedaan met aanzienlijk meer bewijs
 
 <!-- review:begin nl-lic-20261106-baclofen-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de officiële bronnen ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning is doorgehaald en de veiligheidsgegevens uit de officiële bronnen ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-baclofen-1 -->
 
@@ -163,8 +186,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1 vergunning in totaal); h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1 vergunning in totaal); h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 232
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "miconazole"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: voorspelde nieuwe indicatie acne (acne (disease)) (bewijsniveau L4). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
@@ -89,15 +89,34 @@ Momenteel zijn er geen gerelateerde klinische trials geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109548//07461 | Daktarin nagellak 20 mg/ml, nagellak | Nagellak | Status: niet geregistreerd |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-miconazole-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06193 | Daktarin creme 20 mg/g, creme | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 06195 | Daktarin strooipoeder 20 mg/g,strooipoeder | MICONAZOLNITRAAT | Strooipoeder | Geldig |
+| RVG 07461 | Daktarin nagellak 20 mg/ml, oplossing voor cutaan gebruik | MICONAZOL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 07490 | Daktarin gel voor oraal gebruik 20 mg/g, gel | MICONAZOL | Gel voor oraal gebruik | Geldig |
+| RVG 15382 | Miconazolnitraat Teva 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 20409 | Miconazolnitraat ratiopharm, hydrofiele creme 20 mg/g | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 22843=15382 | miconazolnitraat antischimmelcrème Sanias 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 22848=15382 | Miconazolnitraat Sandoz crème 20, hydrofiele crème 20 mg/g | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 22899=15382 | Leidapharm Antischimmelcrème Miconazolnitraat 20 mg/g, crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 23178=15382 | Miconazolnitraat Sanias 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 23604=20409 | Antischimmelcrème HTP Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 28585=15382 | Kruidvat Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 113077 | Trekpleister Antischimmelcrème miconazolnitraat 20 mg/g, crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 123225=15382 | Livsane Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 123628=15382 | Etos Antischimmelcrème Miconazolnitraat 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 127691=15382 | Miconazolnitraat SAM 20 mg/g, hydrofiele crème | MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 133887//07461 | Daktarin nagellak 20 mg/ml, oplossing voor cutaan gebruik | MICONAZOL | Oplossing voor cutaan gebruik | Geldig |
+| RVG 09130 | Acnecare crème, 20 mg/g + 50 mg/g, crème | BENZOYLPEROXIDE n-WATER, MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 15469 | Miconazolnitraat/Hydrocortison Teva 20/10 mg/g, hydrofiele crème | HYDROCORTISON, MICONAZOLNITRAAT | Crème | Geldig |
+| RVG 109548//07461 | Daktarin nagellak 20 mg/ml, nagellak | MICONAZOL | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 109548//07461 / Daktarin nagellak 20 mg/ml, nagellak / Nagellak / Status: geldig (geen geldige registratie)” Gecorrigeerd: registratienummer RVG 109548//07461 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-miconazole-1 -->
+<!-- licenses:end -->
 
 Er is 1 vergunning geregistreerd, en deze is geldig. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor de exacte productinformatie.
 
@@ -144,7 +163,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 109548//07461: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 109548//07461: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

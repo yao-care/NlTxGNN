@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "dipyridamole"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Dipyridamole: voorspelde nieuwe indicatie Sick sinus syndrome 2, autosomal dominant (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 
@@ -80,10 +80,18 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 Volgens de lokale gegevens van het CBG-MEB zijn de onderstaande vergunningen geldig. De tekst van de goedgekeurde indicatie is in de lokale gegevens niet vastgelegd.
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113461 | Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte | Niet vastgelegd in de lokale gegevens |
-| RVG 109873 | Dipyridamol/Acetylsalicylzuur Sandoz 200/25 mg, capsules met gereguleerde afgifte, hard | Capsule met gereguleerde afgifte | Niet vastgelegd in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 12620 | Persantin, injectievloeistof 5 mg/ml | DIPYRIDAMOL | Oplossing voor injectie | Geldig |
+| RVG 113461 | Dipyridamol Sandoz retard 200 mg, capsules met gereguleerde afgifte, hard | DIPYRIDAMOL | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 122668 | Dipyridamol Glenmark 200 mg, harde capsules met gereguleerde afgifte | DIPYRIDAMOL | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 109873 | Dipyridamol/Acetylsalicylzuur Sandoz 200/25 mg, capsules met gereguleerde afgif… | DIPYRIDAMOL, ACETYLSALICYLZUUR | Capsule met gereguleerde afgifte, hard | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "flavoxate"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flavoxate: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit, overwegend onoplettend type (attention deficit hyperactivity disorder… (bewijsniveau L5). Oorspronkelijke indicatie…"
 ---
 
@@ -78,9 +78,16 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117414//08322 | Urispas, omhulde tabletten 200 mg | Omhulde tabletten | Niet vastgelegd in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 08322 | Urispas, omhulde tabletten 200 mg | FLAVOXAATHYDROCHLORIDE | Omhulde tablet | Geldig |
+| RVG 117414//08322 | Urispas, omhulde tabletten 200 mg | FLAVOXAATHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De lijst met vergunningen is door het programma samengesteld op basis van de CBG-MEB-gegevens. Raadpleeg de SmPC en de bijsluiter voor de actuele productinformatie.
 

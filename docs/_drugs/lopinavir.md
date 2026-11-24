@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 212
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lopinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Lopinavir: voorspelde nieuwe indicatie Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeven"
@@ -86,15 +86,18 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115086 (niet geregistreerd) | Lopinavir/Ritonavir Sandoz 200 mg/50 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261115-lopinavir-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/01/172 | Kaletra 200 mg/50 mg filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
+| EU/1/15/1067 | Lopinavir/Ritonavir Viatris 100 mg/25 mg, filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
+| RVG 114962 | Lopinavir/Ritonavir Accord 200 mg/50 mg filmomhulde tabletten | LOPINAVIR, RITONAVIR | Filmomhulde tablet | Geldig |
+| RVG 115086 | Lopinavir/Ritonavir Sandoz 200 mg/50 mg, filmomhulde tabletten | RITONAVIR, LOPINAVIR | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 115086 (ingetrokken)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261115-lopinavir-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -119,7 +122,7 @@ Voor volledige informatie over waarschuwingen en contra-indicaties wordt verweze
 
 <!-- review:begin nl-lic-20261112-lopinavir-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De overige twee voorspellingen berusten alleen op de modelscore (L5). Daarnaast heeft het enige Nederlandse product (RVG 115086) een ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 4, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De overige twee voorspellingen berusten alleen op de modelscore (L5). Daarnaast heeft het enige Nederlandse product (RVG 115086) een ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-lopinavir-1 -->
 
@@ -137,8 +140,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Daarnaast heeft het enige Nederlandse product (RVG 115086) een ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “RVG 115086 (ingetrokken)” → “RVG 115086 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast heeft het enige Nederlandse product (RVG 115086) een ingetrokken vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 115086 (ingetrokken)” → “RVG 115086 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729) |
 
 <!-- review:end log -->

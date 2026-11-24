@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Thiopental: voorspelde nieuwe indicatie Trichotillomanie (trichotillomania) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
@@ -78,7 +78,7 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261106-thiopental-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is één registratie bij het CBG-MEB en deze is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is één registratie bij het CBG-MEB en deze is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-thiopental-1 -->
 
@@ -86,9 +86,18 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117928//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | Niet vermeld | Niet vermeld (registratie geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 117928//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Geldig |
+| RVG 126683//11772 | Thiopentalnatrium Eureco-Pharma, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Geldig |
+| RVG 127206//11772 | Thiopentalnatrium Medcor, poeder voor oplossing voor injectie 500 mg | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Geldig |
+| RVG 127443//11772 | Thiopentalnatrium ERC 500 mg, poeder voor oplossing voor injectie | THIOPENTAL NATRIUM | Poeder voor oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -127,7 +136,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Er is één registratie bij het CBG-MEB en deze is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Er is één registratie bij het CBG-MEB en deze is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

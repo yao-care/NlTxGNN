@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diclofenac: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). In Nederland, CBG-vergunningen: 69 (geldig: 66)"
 ---
 
@@ -68,13 +68,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 107774//31377 | Voltaren Emulgel 1,16 % gel, gel 11,6 mg/g | Gel | – |
-| RVG 120046 | Diclofenac Na Dermapharm 3% gel | Gel | – |
-| RVG 108991 | Kruidvat Diclofenac kalium 12,5 mg, filmomhulde tabletten | Filmomhulde tabletten | – |
-| RVG 113367 | Diclofenacnatrium/Misoprostol Aurobindo Retard 50/0,2 mg | Tabletten met gereguleerde afgifte | – |
-| RVG 113370 | Diclofenacnatrium/Misoprostol Aurobindo Retard 75/0,2 mg | Tabletten met gereguleerde afgifte | – |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 11985 | Diclofenacnatrium Teva 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 11986 | Diclofenacnatrium Teva 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 12800 | Naclof, oogdruppels 1 mg/ml | DICLOFENAC NATRIUM | Oogdruppels, oplossing | Geldig |
+| RVG 13244 | Voltaren K 25 mg, omhulde tabletten | DICLOFENAC KALIUM | Omhulde tablet | Geldig |
+| RVG 16273 | Diclofenacnatrium Aurobindo 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 16274 | Diclofenacnatrium Aurobindo 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 16275 | Diclofenacnatrium Aurobindo Retard 100 mg, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM | Tablet met verlengde afgifte | Geldig |
+| RVG 16276 | Diclofenacnatrium Aurobindo 25 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
+| RVG 16277 | Diclofenacnatrium Aurobindo 50 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
+| RVG 16278 | Diclofenacnatrium Aurobindo 100 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
+| RVG 16483 | Naclof Unidose, oogdruppels 1 mg/ml | DICLOFENAC NATRIUM | Oogdruppels, oplossing | Geldig |
+| RVG 17256 | Diclofenac Na CF 25 mg/ml, oplossing voor injectie, 3 ml | DICLOFENAC NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 17257 | Diclofenac Na CF 25 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 17258 | Diclofenac Na CF 50 mg, maagsapresistente tabletten | DICLOFENAC NATRIUM | Maagsapresistente tablet | Geldig |
+| RVG 17260 | Diclofenac Na zetpil CF 50 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
+| RVG 17261 | Diclofenac Na zetpil CF 100 mg, zetpillen | DICLOFENAC NATRIUM | Zetpil | Geldig |
+| RVG 20982 | Voltaren K 12,5 mg, filmomhulde tabletten | DICLOFENAC KALIUM | Filmomhulde tablet | Geldig |
+| RVG 22690 | Diclofenacnatrium Aurobindo Retard 75 mg, tabletten met gereguleerde afgifte | DICLOFENAC NATRIUM | Tablet met verlengde afgifte | Geldig |
+| RVG 31377 | Voltaren Emulgel 1.16 % gel, gel 11.6 mg/g | DICLOFENAC DIETHYLAMINE | Gel | Geldig |
+| RVG 31532 | Eminocs 50 mg/ml, drank | DICLOFENAC KALIUM | Drank | Geldig |
+
+Getoond worden 20 van de 69 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Opmerking: de combinatieproducten met misoprostol (RVG 113367 en RVG 113370) zeggen niets over de registratie van diclofenac als enkelvoudig middel.
 

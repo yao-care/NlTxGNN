@@ -3,7 +3,7 @@ layout: default
 title: Flunarizine
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 157
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Flunarizine: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -71,9 +71,15 @@ De kandidaten die het TxGNN-model (score ≥ 0,99) voor Flunarizine heeft opgele
 
 ## Informatie over de Nederlandse markt
 
-| Registratie | Product | Toedieningsvorm | Status |
-|------|------|------|------|
-| RVG 56977 | Flunarizine CF 5 mg, capsules |  | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 56977 | Flunarizine CF 5 mg, capsules | FLUNARIZINEDIHYDROCHLORIDE | Capsule, hard | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

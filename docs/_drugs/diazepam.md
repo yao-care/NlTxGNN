@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L2). In Nederland, CBG-vergunningen: 28 (geldig: 28)"
 ---
 
@@ -87,9 +87,36 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118084 | Dalpam 10 mg tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 07606 | Stesolid 5 mg/2,5 ml rektiolen, oplossing voor rectaal gebruik | DIAZEPAM | Oplossing voor rectaal gebruik | Geldig |
+| RVG 07607 | Stesolid 10 mg/2,5 ml rektiolen, oplossing voor rectaal gebruik | DIAZEPAM | Oplossing voor rectaal gebruik | Geldig |
+| RVG 19798 | Diazepam Allgen rektiole 5 mg, oplossing voor rectaal gebruik 5 mg/2,5 ml | DIAZEPAM | Oplossing voor rectaal gebruik | Geldig |
+| RVG 19799 | Diazepam Allgen rektiole 10 mg, oplossing voor rectaal gebruik 10 mg/2,5 ml | DIAZEPAM | Oplossing voor rectaal gebruik | Geldig |
+| RVG 50280 | Diazepam Aurobindo 2 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 50281 | Diazepam Aurobindo 5 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 50282 | Diazepam Aurobindo 10 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 55374 | Diazepam Accord 2 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 55375 | Diazepam Accord 5 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 55376 | Diazepam Accord 10 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 56252 | Diazepam Teva 2 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 56253 | Diazepam Teva 5 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 56254 | Diazepam Teva 10 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 56679 | Diazepam CF 2 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 56680 | Diazepam CF 5 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 56681 | Diazepam CF 10 mg, tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 56691 | Diazepam CF 5 mg/ml, oplossing voor injectie | DIAZEPAM | Oplossing voor injectie | Geldig |
+| RVG 118082 | Dalpam 2 mg tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 118083 | Dalpam 5 mg tabletten | DIAZEPAM | Tablet | Geldig |
+| RVG 118084 | Dalpam 10 mg tabletten | DIAZEPAM | Tablet | Geldig |
+
+Getoond worden 20 van de 28 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de lokale gegevens van het CBG-MEB is de vergunning geldig en is het product in de handel.
 

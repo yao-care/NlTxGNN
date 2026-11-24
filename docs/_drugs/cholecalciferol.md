@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cholecalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Cholecalciferol: voorspelde nieuwe indicatie acromesomele dysplasie, type Campailla-Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (bewijsniveau L5). Oorspronkelijke indicatie: Niet …"
 ---
 
@@ -68,15 +68,42 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor deze voorspelde in
 
 <!-- review:begin nl-lic-20261112-cholecalciferol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Volgens de CBG-MEB-gegevens is er één geldige vergunning voor een monopreparaat.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 167, waarvan geldig: 166; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Volgens de CBG-MEB-gegevens is er één geldige vergunning voor een monopreparaat.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-cholecalciferol-1 -->
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119747//109398 | D-Cura 100.000 IE, drank | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 09766 | Devaron 400 IE, tabletten | CHOLECALCIFEROL, CHOLECALCIFEROL | Tablet | Geldig |
+| RVG 109397 | D-CURA 25.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | Geldig |
+| RVG 109398 | D-CURA 100.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | Geldig |
+| RVG 112986 | D-Cura 25.000 IE, harde capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, hard | Geldig |
+| RVG 112993 | D-Cura 2.400 I.E./ml druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL, CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Geldig |
+| RVG 117069 | Colecalciferol Benferol 800 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 117091 | Ben 400 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 117092 | Colecalciferol Benferol 25.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 117094 | Colecalciferol Benferol 50.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 117095 | Colecalciferol Benferol 100.000 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 117325//109397 | D-Cure 25.000 IE, drank | CHOLECALCIFEROL, CHOLECALCIFEROL | Drank | Geldig |
+| RVG 118130 | Colecalciferol Benferol 5.600 IE zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 119111 | Vitamine D3 STADA 800 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 119112 | Vitamine D3 STADA 3.200 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 119113 | Vitamine D3 STADA 20.000 IE zachte capsules | CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 119114 | Vitamine D3 STADA 10.000 IE/ml druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Geldig |
+| RVG 119115 | Vitamine D3 STADA 25.000 IE drank | CHOLECALCIFEROL | Drank | Geldig |
+| RVG 120373 | Colecalciferol Strides 800 IE, zachte capsules | CHOLECALCIFEROL, CHOLECALCIFEROL | Capsule, zacht | Geldig |
+| RVG 120818 | Thorens 10.000 IE/ml, druppels voor oraal gebruik, oplossing | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Geldig |
+| RVG 120820 | Thorens 25.000 IE/ 2,5 ml drank | CHOLECALCIFEROL | Druppels voor oraal gebruik, oplossing | Geldig |
+
+Getoond worden 20 van de 167 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -116,7 +143,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Volgens de CBG-MEB-gegevens is er één geldige vergunning voor een monopreparaat” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Volgens de CBG-MEB-gegevens is er één geldige vergunning voor een monopreparaat” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

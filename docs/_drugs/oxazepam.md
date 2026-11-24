@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 258
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
 description: "Oxazepam: voorspelde nieuwe indicatie Slapeloosheid (insomnia (disease)) (bewijsniveau L3). In Nederland, CBG-vergunningen: 10 (geldig: 10)"
@@ -89,9 +89,24 @@ De tabel toont de meest relevante publicaties (10 gevonden; ongerelateerde artik
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 55969 | Oxazepam CF 50 mg, tabletten | Niet vermeld (tablet volgens productnaam) | Niet vermeld; status: geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 53369 | Oxazepam Aurobindo 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 53370 | Oxazepam Aurobindo 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 55581 | Oxazepam Accord 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 55582 | Oxazepam Accord 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 55791 | Oxazepam Teva 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 55829 | Oxazepam Teva 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 55928 | Oxazepam CF 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 55969 | Oxazepam CF 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 131119 | Oxazepam Auro 10 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+| RVG 131120 | Oxazepam Auro 50 mg, tabletten | OXAZEPAM | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -126,7 +141,7 @@ Voor waarschuwingen en contra-indicaties uit de bijsluiter van het CBG-MEB zijn 
 
 <!-- review:begin nl-lic-20261106-oxazepam-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning (RVG 55969) is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning (RVG 55969) is doorgehaald en de veiligheidsgegevens uit de bijsluiter ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-oxazepam-1 -->
 
@@ -145,7 +160,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning (RVG 55969) is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “e enige Nederlandse vergunning (RVG 55969) is doorgehaald en d” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL568 (oxazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL568) |
 
 <!-- review:end log -->

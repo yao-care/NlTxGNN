@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Donepezil: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (psychogenic movement disorders) (bewijsniveau L5). In Nederland, CBG-vergunningen: 6 (geldig: 5)"
 ---
 
@@ -78,9 +78,20 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117888 | Donepezil HCl Aurobindo 5 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 111596 | Donepezilhydrochloride Ipca 5mg filmomhulde tabletten | DONEPEZIL, DONEPEZILHYDROCHLORIDE 1-WATER | Filmomhulde tablet | Geldig |
+| RVG 111597 | Donepezilhydrochloride Ipca 10mg filmomhulde tabletten | DONEPEZIL, DONEPEZILHYDROCHLORIDE 1-WATER | Filmomhulde tablet | Geldig |
+| RVG 128742//109058 | Donepezilhydrochloride Eureco-Pharma 5 mg, filmomhulde tabletten | DONEPEZILHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 134873 | Donepezil HCl Devatis 5 mg, filmomhulde tabletten | DONEPEZIL, DONEPEZILHYDROCHLORIDE 1-WATER | Filmomhulde tablet | Geldig |
+| RVG 134874 | Donepezil HCl Devatis 10 mg, filmomhulde tabletten | DONEPEZIL, DONEPEZILHYDROCHLORIDE 1-WATER | Filmomhulde tablet | Geldig |
+| RVG 117888 | Donepezil HCl Aurobindo 5 mg, filmomhulde tabletten | DONEPEZILHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

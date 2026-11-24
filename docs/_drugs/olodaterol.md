@@ -3,7 +3,7 @@ layout: default
 title: Olodaterol
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 254
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "olodaterol"
 description: "Olodaterol: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
@@ -48,17 +48,27 @@ Bewijsniveau: **N/A** | Voorspelde indicaties: **0**
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119377//112058 | Striverdi Respimat 2,5 microgram | Inhalatieoplossing | — |
-| RVG 119583//115528 | Spiolto Respimat 2,5 microgram/2,5 microgram | Inhalatieoplossing | — |
-| RVG 120292//115528 | Spiolto Respimat 2,5 microgram/2,5 microgram | Inhalatieoplossing | — |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | Geldig |
+| RVG 134230//112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | Geldig |
+| RVG 115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | Inhalatieoplossing | Geldig |
+| RVG 115529 | Yanimo Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | Inhalatieoplossing | Geldig |
+| RVG 120292//115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | TIOTROPIUMBROMIDE 1-WATER, OLODATEROLHYDROCHLORIDE | Inhalatieoplossing | Geldig |
+| RVG 119377//112058 | Striverdi Respimat 2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE | – | Niet geregistreerd |
+| RVG 119583//115528 | Spiolto Respimat 2,5 microgram/2,5 microgram, inhalatieoplossing | OLODATEROLHYDROCHLORIDE, TIOTROPIUMBROMIDE 1-WATER | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Alle drie de vergunningen hebben de status "geldig". Het middel is in Nederland op de markt. De indicatietekst per vergunning is niet in de gegevens opgenomen.
 
 <!-- review:begin nl-lic-20261112-olodaterol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt (3 van 3 vergunningen geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 7, waarvan geldig: 5; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt (3 van 3 vergunningen geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-olodaterol-1 -->
 
@@ -87,7 +97,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “(3 van 3 vergunningen geldig)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “(3 van 3 vergunningen geldig)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

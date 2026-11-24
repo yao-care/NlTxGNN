@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Fluconazole: voorspelde nieuwe indicatie Punctate epitheliale keratoconjunctivitis (punctate epithelial keratoconjunctivitis) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale g…"
 ---
 
@@ -68,9 +68,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119994//15758 | Diflucan 40 mg/ml, poeder voor orale suspensie | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 13038 | Diflucan 50 mg, capsule, hard | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 13039 | Diflucan 150 mg, capsule, hard | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 14767 | Diflucan 100 mg, capsule, hard | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 14768 | Diflucan 200 mg, capsule, hard | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 15757 | Diflucan 10 mg/ml, poeder voor orale suspensie | FLUCONAZOL | Poeder voor orale suspensie | Geldig |
+| RVG 15758 | Diflucan 40 mg/ml, poeder voor orale suspensie | FLUCONAZOL | Poeder voor orale suspensie | Geldig |
+| RVG 26692 | Fluconazol Sandoz 50 mg, harde capsules | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 26693 | Fluconazol Sandoz 100 mg, harde capsules | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 26694 | Fluconazol Sandoz 150 mg, harde capsules | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 26695 | Fluconazol Sandoz 200 mg, harde capsules | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 26719 | Fluconazol Sandoz 50 mg, harde capsules | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 26720 | Fluconazol Sandoz 100 mg, harde capsules | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 26721 | Fluconazol Sandoz 150 mg, harde capsules | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 26722 | Fluconazol Sandoz 200 mg, harde capsules | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 27715 | Fluconazol Pharmathen 50 mg, capsules, hard | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 27716 | Fluconazol Pharmathen 100 mg, capsules, hard | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 27717 | Fluconazol Pharmathen 150 mg, capsules, hard | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 27718 | Fluconazol Pharmathen 200 mg, capsules, hard | FLUCONAZOL | Capsule, hard | Geldig |
+| RVG 27719 | Fluconazol Pharmathen 2 mg/ml oplossing voor infusie | FLUCONAZOL | Oplossing voor infusie | Geldig |
+| RVG 28342 | Fluconazol Teva 50 mg, capsules | FLUCONAZOL | Capsule, hard | Geldig |
+
+Getoond worden 20 van de 40 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

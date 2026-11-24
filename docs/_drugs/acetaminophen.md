@@ -5,7 +5,7 @@ parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 16
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Acetaminophen: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 ---
@@ -72,9 +72,36 @@ Het TxGNN-deep-learningmodel (score ≥ 0,99) leverde kandidaten op voor Acetami
 
 ## Informatie over de Nederlandse markt
 
-| Registratie | Product | Toedieningsvorm | Status |
-|------|------|------|------|
-| RVG 119718 | Trekpleister Paracetamol Liquid caps 500 mg, zachte capsules |  | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06251 | Sinaspril paracetamol 120 vloeibaar, stroop 120 mg/5 ml | PARACETAMOL | Stroop | Geldig |
+| RVG 06566 | Daro Paracetamol vloeibaar, stroop 120 mg/5 ml | PARACETAMOL | Stroop | Geldig |
+| RVG 12941 | Sinaspril paracetamol 120, kauwtabletten 120 mg | PARACETAMOL | Kauwtablet | Geldig |
+| RVG 19255 | Paracetamol voor kinderen Sanias 120 mg, kauwtabletten | PARACETAMOL | Kauwtablet | Geldig |
+| RVG 20572 | Paracetamol Sanias 500 mg, tabletten | PARACETAMOL | Tablet | Geldig |
+| RVG 20652=53055 | Paracetamol HTP 500 mg, tabletten | PARACETAMOL | Tablet | Geldig |
+| RVG 21748=52239 | Leidapharm Paracetamol 500 mg, tabletten | PARACETAMOL | Tablet | Geldig |
+| RVG 21911=57797 | Leidapharm Paracetamol 120 mg, zetpillen | PARACETAMOL | Zetpil | Geldig |
+| RVG 21912=57798 | Leidapharm Paracetamol 240 mg, zetpillen | PARACETAMOL | Zetpil | Geldig |
+| RVG 21913=57799 | Leidapharm Paracetamol 500 mg, zetpillen | PARACETAMOL | Zetpil | Geldig |
+| RVG 21914=57800 | Leidapharm Paracetamol 1000 mg, zetpillen | PARACETAMOL | Zetpil | Geldig |
+| RVG 21952=19255 | Leidapharm Kinderparacetamol 120 mg, kauwtabletten | PARACETAMOL | Kauwtablet | Geldig |
+| RVG 22330 | Paracetamol RIA 500 mg, tabletten | PARACETAMOL | Tablet | Geldig |
+| RVG 22665=52239 | Kruidvat Paracetamol 500 mg, tabletten | PARACETAMOL | Tablet | Geldig |
+| RVG 22838 | Panadol Junior Zetpillen 125 mg voor Kinderen van 3 maanden tot 1 jaar, zetpill… | PARACETAMOL | Zetpil | Geldig |
+| RVG 22839 | Panadol Junior Zetpillen 250 mg voor Kinderen van 1 tot 6 jaar, zetpillen | PARACETAMOL | Zetpil | Geldig |
+| RVG 22840 | Panadol Junior Zetpillen 500 mg voor Kinderen vanaf 6 jaar, zetpillen | PARACETAMOL | Zetpil | Geldig |
+| RVG 22875 | AH Paracetamol 120 mg voor kinderen, zetpillen | PARACETAMOL | Zetpil | Geldig |
+| RVG 22876 | AH Paracetamol 240 mg voor kinderen, zetpillen | PARACETAMOL | Zetpil | Geldig |
+| RVG 22877 | AH Paracetamol 500 mg, zetpillen | PARACETAMOL | Zetpil | Geldig |
+
+Getoond worden 20 van de 279 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

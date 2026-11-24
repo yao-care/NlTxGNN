@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amoxicillin: voorspelde nieuwe indicatie Hyperamylasemie (hyperamylasemia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 98 (geldig: 97)"
 ---
 
@@ -70,9 +70,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 106886 | Amoxicilline Aurobindo 2000 mg, poeder voor oplossing voor infusie | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 11217 | Amoxicilline capsules Mylan 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
+| RVG 16913 | Amoxicilline Aurobindo 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
+| RVG 26684 | Amoxicilline Sandoz disper 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+| RVG 26685 | Amoxicilline Sandoz disper 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+| RVG 26686 | Amoxicilline Sandoz disper 1000 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+| RVG 29702 | Amoxicilline Sandoz 125 mg/5 ml, poeder voor orale suspensie | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Geldig |
+| RVG 29703 | Amoxicilline Sandoz Forte 250 mg/5 ml, poeder voor orale suspensie | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Geldig |
+| RVG 55123 | Amoxicilline RIA 500 mg, capsules | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
+| RVG 56827 | Amoxicilline dispers RIA 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+| RVG 56828 | Amoxicilline dispers RIA 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+| RVG 57303 | Amoxicilline forte suikervrij 250 mg/5 ml Focus Care, poeder voor orale suspens… | AMOXICILLINE 3-WATER | Poeder voor orale suspensie | Geldig |
+| RVG 57326 | Amoxicilline CF, poeder voor oplossing voor injectie of infusie 125, 250, 500 m… | AMOXICILLINE NATRIUM, AMOXICILLINE NATRIUM, AMOXICILLINE NATRIUM, AMOXICILLINE… | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 106883 | Amoxicilline Eugia 250 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 106884 | Amoxicilline Eugia 500 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 106885 | Amoxicilline Eugia 1000 mg, poeder voor oplossing voor injectie of infusie | AMOXICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 112292 | Amoxicilline Centrient 500 mg capsules, hard | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
+| RVG 115066 | Amoxicilline Centrient 500 mg, capsules, hard | AMOXICILLINE 3-WATER | Capsule, hard | Geldig |
+| RVG 116364 | Amoxicilline Centrient 1000 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+| RVG 116365 | Amoxicilline Centrient 500 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+| RVG 116366 | Amoxicilline Centrient 750 mg, dispergeerbare tabletten | AMOXICILLINE 3-WATER | Dispergeerbare tablet | Geldig |
+
+Getoond worden 20 van de 98 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De overige vergunningen in de lokale gegevens betreffen combinatieproducten (amoxicilline/clavulaanzuur) en worden hier niet gebruikt om de registratie van amoxicilline als enkelvoudig middel te beschrijven.
 

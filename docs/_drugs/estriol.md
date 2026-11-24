@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 138
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Estriol: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de samengestelde gegevens (de enige vergunning be…"
 monitor_inn: "Estriol"
 predicted_indications: ["amenorrhea (disease)"]
@@ -79,15 +79,22 @@ Alleen de eerste twee publicaties zijn direct relevant. De overige vier zijn his
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120453//08977 | Synapause-E3 1 mg/g, vaginale creme | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-estriol-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 08977 | Synapause-E3 1 mg/g, crème voor vaginaal gebruik | ESTRIOL | Crème voor vaginaal gebruik | Geldig |
+| RVG 08978 | Synapause-E3 0,5 mg, ovules | ESTRIOL | Ovule | Geldig |
+| RVG 09969 | Synapause-E3 1 mg, tabletten | ESTRIOL | Tablet | Geldig |
+| RVG 09970 | Synapause-E3 2 mg, tabletten | ESTRIOL | Tablet | Geldig |
+| RVG 30193//08978 | Synapause-E3 0,5 mg, ovules | ESTRIOL | Ovule | Geldig |
+| RVG 119018 | Blissel 50 microgram/g, gel voor vaginaal gebruik | ESTRIOL | Gel voor vaginaal gebruik | Geldig |
+| RVG 121712 | Estriol DR. KADE 0,03 mg ovules | ESTRIOL | Ovule | Geldig |
+| RVG 120453//08977 | Synapause-E3 1 mg/g, vaginale creme | ESTRIOL | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120453//08977 / Synapause-E3 1 mg/g, vaginale creme / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 120453//08977 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-estriol-2 -->
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -104,7 +111,7 @@ Er zijn in de samengestelde gegevens geen waarschuwingen of contra-indicaties va
 
 <!-- review:begin nl-lic-20261112-estriol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de officiële productinformatie. Dat laatste blokkeert de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 7; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de officiële productinformatie. Dat laatste blokkeert de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-estriol-1 -->
 
@@ -124,8 +131,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de officiële productinformatie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 120453//08977: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken veiligheidsgegevens uit de officiële productinformatie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120453//08977: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

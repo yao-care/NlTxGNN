@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dalteparin: voorspelde nieuwe indicatie Trombofilie door proteïne C-deficiëntie, autosomaal recessief (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonaire embolie, gedissemineerde intravasale sto…"
 monitor_inn: "dalteparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
@@ -95,21 +95,34 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 120289//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-dalteparin-4 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 12787 | Fragmin 2.500 IE/0,2 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 12788 | Fragmin 5.000 IE/0,2 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 20607 | Fragmin 7.500 IE/0,3 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 21896 | Fragmin 10.000 IE/0,4 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 21897 | Fragmin 12.500 IE/0,5 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 21899 | Fragmin 18.000 IE/0,72 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 128027//21899 | Fragmin 18.000 IE/0,72 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 128028//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 128030//20607 | Fragmin 7.500 IE/0,3 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 128031//21896 | Fragmin 10.000 IE/0,4 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 128033//21897 | Fragmin 12.500 IE/0,5 ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 129472 | Fragmin 2.500 IE/ml, oplossing voor injectie | DALTEPARINE NATRIUM | Oplossing voor injectie | Geldig |
+| RVG 120289//21898 | Fragmin 15.000 IE/0,6 ml, oplossing voor injectie | DALTEPARINE NATRIUM | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 120289//21898 / Fragmin 15.000 IE/0,6 ml, oplossing voor injectie / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 120289//21898 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-dalteparin-4 -->
+<!-- licenses:end -->
 
-De enige bekende vergunning bij het CBG-MEB is geldig.
+Bij het CBG-MEB zijn geldige vergunningen geregistreerd (actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie).
 
 <!-- review:begin nl-lic-20261112-dalteparin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige bekende vergunning bij het CBG-MEB is geldig. Het middel is op de markt: 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De enige bekende vergunning bij het CBG-MEB is geldig. Het middel is op de markt: 1 van de 1 vergunningen is geldig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-dalteparin-1 -->
 
@@ -147,7 +160,7 @@ De voorspelling is uitsluitend gebaseerd op het model (L5) zonder klinische stud
 
 <!-- review:begin nl-lic-20261112-dalteparin-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling is uitsluitend gebaseerd op het model (L5) zonder klinische studies of literatuur. Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie en antistolling).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling is uitsluitend gebaseerd op het model (L5) zonder klinische studies of literatuur. Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie en antistolling).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-dalteparin-2 -->
 
@@ -159,7 +172,7 @@ De voorspelling is uitsluitend gebaseerd op het model (L5) zonder klinische stud
 
 <!-- review:begin nl-lic-20261112-dalteparin-3 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald / Een afweging van het bloedingsrisico bij de voorspelde indicaties met bloedingsneiging (rang 2 en 3), waarvan verdere evaluatie niet wordt aanbevolen” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald / Een afweging van het bloedingsrisico bij de voorspelde indicaties met bloedingsneiging (rang 2 en 3), waarvan verdere evaluatie niet wordt aanbevolen” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-dalteparin-3 -->
 
@@ -171,10 +184,10 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 120289//21898: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “Het middel is op de markt: 1 van de 1 vergunningen is geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de Nederlandse vergunning doorgehaald en bestaat voor de patiëntengroep al een gevestigde standaardzorg (proteïne C-substitutie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Een beoordeling van de regulatoire route, aangezien de vergunning in Nederland is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 120289//21898: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Fragmin (dalteparin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=23527b8b-9b28-4e6d-9751-33b143975ac7) |
 
 <!-- review:end log -->

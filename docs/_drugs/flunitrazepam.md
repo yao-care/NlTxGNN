@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 158
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Flunitrazepam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
 description: "Flunitrazepam: voorspelde nieuwe indicatie Migraine disorder (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
@@ -92,9 +92,18 @@ Opmerking: twee van de gevonden publicaties (over een kruidenextract en over ben
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 57033 | Flunitrazepam CF 2 mg, tabletten | Niet vermeld (tabletten) | Niet vermeld; vergunning geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 10623 | Flunitrazepam 1 mg Teva, tabletten | FLUNITRAZEPAM | Tablet | Geldig |
+| RVG 10624 | Flunitrazepam 2 mg Teva, tabletten | FLUNITRAZEPAM | Tablet | Geldig |
+| RVG 57032 | Flunitrazepam CF 1 mg, tabletten | FLUNITRAZEPAM | Tablet | Geldig |
+| RVG 57033 | Flunitrazepam CF 2 mg , tabletten | FLUNITRAZEPAM | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -120,7 +129,7 @@ Raadpleeg voor officiële waarschuwingen en contra-indicaties de SmPC (Samenvatt
 
 <!-- review:begin nl-lic-20261106-flunitrazepam-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (misbruik, afhankelijkheid, rebound-insomnia, valrisico) zijn aanzienlijk.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De Nederlandse vergunning is doorgehaald en de veiligheidsrisico's (misbruik, afhankelijkheid, rebound-insomnia, valrisico) zijn aanzienlijk.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-flunitrazepam-1 -->
 
@@ -139,7 +148,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “e Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “e Nederlandse vergunning is doorgehaald en d” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Bumetanide"
 predicted_indications: ["acute pulmonary heart disease"]
 description: "Bumetanide: voorspelde nieuwe indicatie Acute pulmonale hartziekte (acute pulmonary heart disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 14 (geldig: 13)"
@@ -88,21 +88,32 @@ Geen van de onderstaande publicaties onderzoekt bumetanide direct bij acute pulm
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115707//12412 | Burinex 0,5 mg/ml, oplossing voor injectie | Oplossing voor injectie | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-bumetanide-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06785 | Burinex 1 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 08812 | Burinex 5 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 12412 | Burinex 0,5 mg/ml, oplossing voor injectie | BUMETANIDE | Oplossing voor injectie | Geldig |
+| RVG 18088 | Burinex 2 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 23048 | Bumetanide Sandoz tablet 1, tabletten 1 mg | BUMETANIDE | Tablet | Geldig |
+| RVG 23049 | Bumetanide Sandoz tablet 5, tabletten 5 mg | BUMETANIDE | Tablet | Geldig |
+| RVG 23140 | Bumetanide CF 1 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 23141 | Bumetanide CF 5 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 23385 | Bumetanide Unichem 1 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 23386 | Bumetanide Unichem 5 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 24312 | Bumetanide Sandoz tablet 2, tabletten 2 mg | BUMETANIDE | Tablet | Geldig |
+| RVG 24313 | Bumetanide CF 2 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 24314 | Bumetanide Unichem 2 mg, tabletten | BUMETANIDE | Tablet | Geldig |
+| RVG 115707//12412 | Burinex 0,5 mg/ml, oplossing voor injectie | BUMETANIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 115707//12412 / Burinex 0,5 mg/ml, oplossing voor injectie / Oplossing voor injectie / Niet beschikbaar (registratie geldig)” Gecorrigeerd: registratienummer RVG 115707//12412 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-bumetanide-2 -->
-
-De lijst is volledig.
+<!-- licenses:end -->
 
 <!-- review:begin nl-lic-20261112-bumetanide-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB-register vermeldt 1 geldige vergunning. De lijst is volledig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 14, waarvan geldig: 13; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Het CBG-MEB-register vermeldt 1 geldige vergunning. De lijst is volledig.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-bumetanide-1 -->
 
@@ -143,8 +154,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het CBG-MEB-register vermeldt 1 geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 115707//12412: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “Het CBG-MEB-register vermeldt 1 geldige vergunning. De lijst is volledig.” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 115707//12412: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Enbumyst (bumetanide) prescribing information, Corstasis USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6f752c5-d2bd-4f77-9611-ca2110066d1f) |
 
 <!-- review:end log -->

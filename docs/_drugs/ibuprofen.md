@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ibuprofen: voorspelde nieuwe indicatie Acromesomelische dysplasie, type Hunter-Thompson (bewijsniveau L5). Oorspronkelijke indicatie: Reumatoïde artritis, artrose, juveniele idiopathische artritis…"
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -70,9 +70,36 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119085 | Etos Ibuprofen Liquid Caps 200 mg, zachte capsules (geldig) | Zachte capsule | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/04/284 | Pedea 5 mg/ml, oplossing voor injectie | IBUPROFEN | Oplossing voor injectie | Geldig |
+| EU/1/23/1791 | Ibuprofen Gen.Orph 5 mg/ml-oplossing voor injectie | IBUPROFEN | Oplossing voor injectie | Geldig |
+| RVG 10674 | Nurofen 200 tablet, omhulde tabletten 200 mg | IBUPROFEN | Omhulde tablet | Geldig |
+| RVG 12471 | Advil, dragees 200 mg | IBUPROFEN | Omhulde tablet | Geldig |
+| RVG 13331 | Brufen Bruis, bruisgranulaat in sachets 600 mg | IBUPROFEN | Bruisgranulaat | Geldig |
+| RVG 13478 | Brufen Retard, tabletten met gereguleerde afgifte 800 mg | IBUPROFEN | Tablet met verlengde afgifte | Geldig |
+| RVG 18544 | Ibuprofen 400 mg, tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
+| RVG 18545 | Ibuprofen 600 mg, tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
+| RVG 19838 | Nurofen voor kinderen suikervrije suspensie, suspensie voor oraal gebruik 100 m… | IBUPROFEN | Suspensie voor oraal gebruik | Geldig |
+| RVG 20880 | Ibuprofen Auro 400 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
+| RVG 21902=56106 | Leidapharm Ibuprofen 200 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
+| RVG 21903=20880 | Leidapharm Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
+| RVG 22100 | Nurofen 400 tablet, omhulde tabletten 400 mg | IBUPROFEN | Filmomhulde tablet | Geldig |
+| RVG 22704=56106 | Kruidvat Ibuprofen 200 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
+| RVG 22730=20880 | Kruidvat Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
+| RVG 23679=20880 | Trekpleister Ibuprofen 400 mg, omhulde tabletten | IBUPROFEN | Omhulde tablet | Geldig |
+| RVG 23734 | Ibuprofen 400 mg RIA, filmomhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
+| RVG 23735 | Ibuprofen 600 mg RIA, filmomhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
+| RVG 23760 | Ibuprofen HTP 200 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
+| RVG 23761 | Ibuprofen HTP 400 mg, omhulde tabletten | IBUPROFEN | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 177 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -116,7 +143,7 @@ Alle onderstaande voorspellingen hebben bewijsniveau L5 en de aanbeveling Hold. 
 
 <!-- review:begin nl-lic-20261106-ibuprofen-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse registratie is vervallen, en gegevens over waarschuwingen en contra-indicaties ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige Nederlandse registratie is vervallen, en gegevens over waarschuwingen en contra-indicaties ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-ibuprofen-1 -->
 
@@ -135,7 +162,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is vervallen, en g” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is vervallen, en g” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
 
 <!-- review:end log -->

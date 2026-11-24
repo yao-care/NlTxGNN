@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 194
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 description: "Lamivudine: voorspelde nieuwe indicatie Simian immunodeficiëntievirus-infectie (simian immunodeficiency virus infection) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de lokale gegeve…"
@@ -89,9 +89,36 @@ De hieronder genoemde publicaties zijn vrijwel allemaal preklinisch; er zijn gee
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 112000 | Lamivudine Sandoz 300 mg, filmomhulde tabletten (geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/09/0596 | Lamivudine Teva Pharma BV, 150 mg filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
+| EU/1/09/566 | Lamivudine Teva 100 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
+| EU/1/09/596 | Lamivudine Teva Pharma BV, 300 mg filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
+| EU/1/96/015 | Epivir 300 mg, omhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| EU/1/99/114 | Zeffix 100 mg tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 110409 | Lamivudine Aurobindo 150 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 110414 | Lamivudine Aurobindo 300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 111863 | Lamivudine Accord 100 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 111864 | Lamivudine Accord 150 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 111866 | Lamivudine Accord 300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 111998 | Lamivudine Sandoz 100 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
+| RVG 111999 | Lamivudine Sandoz 150 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
+| RVG 112000 | Lamivudine Sandoz 300 mg, filmomhulde tabletten | LAMIVUDINE 0,2-WATER | Filmomhulde tablet | Geldig |
+| EU/1/00/156 | Trizivir filmomhulde tabletten, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| EU/1/04/298 | Kivexa 600/300 mg, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| EU/1/14/940 | Triumeq 50 mg/600 mg/300 mg filmomhulde tabletten | ABACAVIRSULFAAT, DOLUTEGRAVIR NATRIUM, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| EU/1/18/1333 | Delstrigo - Doravirine/Lamivudine/Tenofovir Disoproxil (as fumarate) MSD 100 mg… | DORAVIRINE, LAMIVUDINE 0-WATER, TENOFOVIRDISOPROXILFUMARAAT | Filmomhulde tablet | Geldig |
+| EU/1/19/1370 | Dovato 50 mg/300 mg filmomhulde tabletten | DOLUTEGRAVIR NATRIUM, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| EU/1/98/058 | Combivir, tabletten 150/300 mg | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| RVG 107779 | Lamivudine/Zidovudine Viatris 150/300 mg, filmomhulde tabletten | LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 31 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -114,7 +141,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 <!-- review:begin nl-lic-20261106-lamivudine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs is beperkt tot diermodellen (L4) zonder klinische studies; SIV-infectie is geen menselijke ziekte en lamivudine is al goedgekeurd voor hiv. De enige Nederlandse registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs is beperkt tot diermodellen (L4) zonder klinische studies; SIV-infectie is geen menselijke ziekte en lamivudine is al goedgekeurd voor hiv. De enige Nederlandse registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-lamivudine-1 -->
 
@@ -142,7 +169,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige Nederlandse registratie is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen: voorspelde nieuwe indicatie Acromesomele dysplasie, type Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type) (bewijsniveau L5)."
@@ -76,7 +76,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261112-flurbiprofen-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert voor dit middel één geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 11, waarvan geldig: 10; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert voor dit middel één geldige vergunning.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-flurbiprofen-1 -->
 
@@ -84,9 +84,25 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117524 | Flurbiprofen Sandoz sinaasappel suikervrij 8,75 mg, zuigtabletten | Zuigtablet (afgeleid uit de productnaam) | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 101477 | Strepfen Citroen & Honing 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
+| RVG 109114 | Strepfen Sinaasappel Suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
+| RVG 114130 | Strepfen Munt & Kers suikervrij 8,75 mg keelspray | FLURBIPROFEN | Spray voor oromucosaal gebruik | Geldig |
+| RVG 123653 | Strepfen Citroen & Honing Suikervrij 8,75 mg keelspray | FLURBIPROFEN | Spray voor oromucosaal gebruik | Geldig |
+| RVG 124484 | Strepfen met Honing- & Eucalyptussmaak suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
+| RVG 124486 | Strepfen met Honing- & Eucalyptussmaak suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
+| RVG 132543 | Kruidvat flurbiprofen citroen 8,75 mg suikervrij, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
+| RVG 133922 | Etos Flurbiprofen citroen 8,75 mg suikervrij, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
+| RVG 133923 | Flurbiprofen Healthypharm 8,75 mg sinaasappel, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
+| RVG 133924 | Flurbiprofen HTP 8,75 mg citroen, zuigtabletten | FLURBIPROFEN | Zuigtablet | Geldig |
+| RVG 117524 | Flurbiprofen Sandoz sinaasappel suikervrij 8,75 mg, zuigtabletten | FLURBIPROFEN | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -123,7 +139,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert voor dit middel één geldige vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert voor dit middel één geldige vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
 
 <!-- review:end log -->

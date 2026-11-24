@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: voorspelde nieuwe indicatie Tourette-syndroom (Tourette syndrome) (bewijsniveau L5). In Nederland, CBG-vergunningen: 9 (geldig: 8)"
@@ -68,15 +68,29 @@ Momenteel geen gerelateerde literatuur beschikbaar over zonisamide bij Tourette-
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 117887 | Zonisamide Aristo 100 mg harde capsules | Harde capsule | Niet vermeld |
+<!-- licenses:begin -->
 
-Dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/04/307 | Zonegran 100 mg, capsules hard | ZONISAMIDE | Capsule, hard | Geldig |
+| EU/1/16/1093 | Zonisamide Viatris 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
+| RVG 117188 | Zonisamide Sandoz 25 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
+| RVG 117190 | Zonisamide Sandoz 50 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
+| RVG 117191 | Zonisamide Sandoz 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
+| RVG 117375 | Zonisamide Heumann 25 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
+| RVG 117376 | Zonisamide Heumann 50 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
+| RVG 117377 | Zonisamide Heumann 100 mg, harde capsules | ZONISAMIDE | Capsule, hard | Geldig |
+| RVG 117887 | Zonisamide Aristo 100 mg harde capsules | ZONISAMIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Het registratienummer RVG 117887 (Zonisamide Aristo 100 mg harde capsules) komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Raadpleeg voor actuele productinformatie de SmPC en de bijsluiter.
 
 <!-- review:begin nl-lic-20261115-zonisamide-1 -->
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “Deze registratie is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze registratie is doorgehaald.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261115-zonisamide-1 -->
 
@@ -99,7 +113,7 @@ De voorspelling voor Tourette-syndroom is alleen modelmatig (L5), zonder klinisc
 
 <!-- review:begin nl-lic-20261112-zonisamide-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is bovendien een signaal dat anti-epileptica tics kunnen uitlokken. Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is bovendien een signaal dat anti-epileptica tics kunnen uitlokken. Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-zonisamide-1 -->
 
@@ -119,8 +133,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Daarnaast is de enige Nederlandse registratie doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Deze registratie is doorgehaald.” → “Dit registratienummer komt niet voor in de actuele Geneesmid” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
 
 <!-- review:end log -->

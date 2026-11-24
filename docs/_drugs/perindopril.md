@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Perindopril: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 124 (geldig: 114)"
@@ -93,15 +93,38 @@ Voor de pulmonale-hypertensie-indicatie zijn twee dierstudies in hypoxische ratt
 
 ## Marktinformatie Nederland
 
-Informatie over doseringsvorm en goedgekeurde indicatie ontbreekt in de gegevens. Hieronder staan de eerste 5 vergunningen.
+Informatie over doseringsvorm en goedgekeurde indicatie ontbreekt in de gegevens.
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|-----------|
-| RVG 117516//31959 | Coversyl arg 10 mg, filmomhulde tabletten | Niet geregistreerd |
-| RVG 108763 | Perindopril tert-butylamine Mylan 8 mg, tabletten | Geldig |
-| RVG 116528 | Bipressil 10 mg/5 mg filmomhulde tabletten | Niet geregistreerd |
-| RVG 107064 | Perindopril arginine/Indapamide Mylan 5/1,25 mg, filmomhulde tabletten | Geldig |
-| RVG 114414 | Prestalia 7 mg/5 mg, tabletten | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 31957 | COVERSYL arg 2,5 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Geldig |
+| RVG 31958 | COVERSYL arg 5 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Geldig |
+| RVG 31959 | COVERSYL arg 10 mg, filmomhulde tabletten | PERINDOPRIL ARGININE | Filmomhulde tablet | Geldig |
+| RVG 33331 | Perindopril tert-butylamine Teva 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 33332 | Perindopril tert-butylamine Teva 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 33698 | Perindopril tert-butylamine Glenmark 2 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 33699 | Perindopril tert-butylamine Glenmark 4 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 33700 | Perindopril tert-butylamine Glenmark 8 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 34512 | Perindopril tert-butylamine Sandoz 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 34513 | Perindopril tert-butylamine Sandoz 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 35200 | Perindopril tert-butylamine DOC Generici 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 35201 | Perindopril tert-butylamine DOC Generici 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 35208 | Perindopril tert-butylamine SUN 2 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 35209 | Perindopril tert-butylamine SUN 4 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 35210 | Perindopril tert-butylamine SUN 8 mg tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 101126 | Perindopril tert-butylamine Teva 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 101725 | Perindopril tert-butylamine Glenmark 2 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 101755 | Perindopril tert-butylamine Glenmark 4 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 101757 | Perindopril tert-butylamine Glenmark 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+| RVG 102219 | Perindopril tert-butylamine Sandoz 8 mg, tabletten | PERINDOPRIL-TERT-BUTYLAMINE | Tablet | Geldig |
+
+Getoond worden 20 van de 124 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

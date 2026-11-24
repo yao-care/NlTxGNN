@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glatiramer: voorspelde nieuwe indicatie Hemoglobinopathie (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de vergunningsgegevens (volgens algemene kennis: m…"
 monitor_inn: "glatiramer"
 predicted_indications: ["hemoglobinopathy"]
@@ -82,9 +82,23 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115993 | Glatirameeracetaat Mylan 20 mg/ml, oplossing voor injectie in een voorgevulde spuit (vergunning geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 30086 | Copaxone 20 mg/ml voorgevulde spuit, oplossing voor injectie | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| RVG 113849 | Copaxone 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| RVG 115980 | Brabio 20 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| RVG 115987 | Sclerthon 20 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| RVG 115993 | Glatirameeracetaat Mylan 20 mg/ml, oplossing voor injectie in een voorgevulde s… | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| RVG 119315 | Marcyto 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| RVG 119319 | Glatirameeracetaat Viatris 40 mg/ml, oplossing voor injectie in een voorgevulde… | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| RVG 119321 | Glatirameeracetaat Zentiva 40 mg/ml, oplossing voor injectie in een voorgevulde… | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+| RVG 119322 | Sclerthon 40 mg/ml, oplossing voor injectie in een voorgevulde spuit | GLATIRAMEERACETAAT | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -105,7 +119,7 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 
 <!-- review:begin nl-lic-20261106-glatiramer-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn geen klinische studies, de enige publicatie ondersteunt de indicatie niet, en het mechanisme is onbekend. Bovendien is de enige Nederlandse vergunning ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er zijn geen klinische studies, de enige publicatie ondersteunt de indicatie niet, en het mechanisme is onbekend. Bovendien is de enige Nederlandse vergunning ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-glatiramer-1 -->
 
@@ -118,7 +132,7 @@ Raadpleeg voor overige veiligheidsinformatie (waarschuwingen en contra-indicatie
 
 <!-- review:begin nl-lic-20261112-glatiramer-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een heroverweging van de marktstatus is niet nodig, aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 9, waarvan geldig: 9; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Een heroverweging van de marktstatus is niet nodig, aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-glatiramer-1 -->
 
@@ -130,8 +144,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Bovendien is de enige Nederlandse vergunning ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “aangezien het middel op de markt is en 1 van de 1 vergunningen geldig is” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 328
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "tranylcypromine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
 description: "Tranylcypromine: voorspelde nieuwe indicatie Benigne paroxismale torticollis van de kindertijd (benign paroxysmal torticollis of infancy) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in…"
@@ -70,15 +70,32 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261112-tranylcypromine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige in de data opgenomen registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 11; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige in de data opgenomen registratie is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tranylcypromine-1 -->
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 116661 | Tranylcypromine Tiofarma 10 mg, omhulde tabletten | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 115752 | Tracydal 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 124771 | Tranylcypromine Glenmark 10 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 124772 | Tranylcypromine Glenmark 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 125926 | Tranylcypromine Double-e Pharma 10 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 127472//115752 | Tranylcypromine Medcor 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 129127 | Tranylcypromine Aristo 10 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 129128 | Tranylcypromine Aristo 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 129243//115752 | Tranylcypromine Eureco-Pharma 20 mg, filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 129561//115752 | Tranylcypromine BModesto 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 129984//115752 | Tranylcypromine ERC 20 mg filmomhulde tabletten | TRANYLCYPROMINESULFAAT | Filmomhulde tablet | Geldig |
+| RVG 133078 | Tranylcypromine Activase 10 mg omhulde tabletten | TRANYLCYPROMINESULFAAT | Omhulde tablet | Geldig |
+| RVG 116661 | Tranylcypromine Tiofarma 10 mg, omhulde tabletten | TRANYLCYPROMINESULFAAT | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -104,7 +121,7 @@ Voor dit rapport zijn geen waarschuwingen of contra-indicaties uit de officiële
 
 <!-- review:begin nl-lic-20261112-tranylcypromine-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het veiligheidsprofiel van een onomkeerbare MAO-remmer is zeer ongunstig voor gebruik bij zuigelingen. / De enige Nederlandse registratie is bovendien doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 12, waarvan geldig: 11; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het veiligheidsprofiel van een onomkeerbare MAO-remmer is zeer ongunstig voor gebruik bij zuigelingen. / De enige Nederlandse registratie is bovendien doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tranylcypromine-2 -->
 
@@ -124,8 +141,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige in de data opgenomen registratie is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “De enige Nederlandse registratie is bovendien doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige in de data opgenomen registratie is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse registratie is bovendien doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Parnate (tranylcypromine sulfate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b72d8187-dfcc-4ea0-b5e9-c0be95b69a27) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "desmopressin"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desmopressin: voorspelde nieuwe indicatie Congenitale protrombinedeficiëntie (congenital prothrombin deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 41 (geldig: 40)"
 ---
 
@@ -82,11 +82,36 @@ Er is geen publicatie die de voorspelde aandoening zelf rechtstreeks onderzoekt.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117350//30855 | Minrin Melt 60 microgram, lyofilisaat voor oraal gebruik | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-De lijst met vergunningen is mogelijk niet volledig weergegeven; raadpleeg voor actuele registratiegegevens CBG-MEB.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 08868 | Minrin 4 microgram/ml oplossing voor injectie | DESMOPRESSINEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 12624 | Minrin 0,1 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Geldig |
+| RVG 12625 | Minrin 0,2 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Geldig |
+| RVG 13958 | Minrin 0,1 mg/ml neusspray, neusspray | DESMOPRESSINEACETAAT | Neusspray, oplossing | Geldig |
+| RVG 16174 | Octostim 15 microgram/ml oplossing voor injectie | DESMOPRESSINEACETAAT | Oplossing voor injectie | Geldig |
+| RVG 16175 | Octostim 1,5 mg/ml neusspray | DESMOPRESSINEACETAAT | Neusspray, oplossing | Geldig |
+| RVG 24110 | Desmopressine-acetaat Sandoz neusspray 0,1 mg/ml, neusspray, oplossing | DESMOPRESSINEACETAAT 1-WATER | Neusspray, oplossing | Geldig |
+| RVG 30506 | Desmopressine-acetaat Mylan 0,1 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Geldig |
+| RVG 30507 | Desmopressine-acetaat Mylan 0,2 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Geldig |
+| RVG 30855 | Minrin Melt 60 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Geldig |
+| RVG 30856 | Minrin Melt 120 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Geldig |
+| RVG 30857 | Minrin Melt 240 µg, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT | Lyofilisaat voor oraal gebruik | Geldig |
+| RVG 32002 | Desmopressine-acetaat Teva 0,1 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Geldig |
+| RVG 32003 | Desmopressine-acetaat Teva 0,2 mg, tabletten | DESMOPRESSINEACETAAT 0-WATER | Tablet | Geldig |
+| RVG 32841 | Desmopressine-acetaat Sandoz 0,1 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Geldig |
+| RVG 32842 | Desmopressine-acetaat Sandoz 0,2 mg, tabletten | DESMOPRESSINEACETAAT | Tablet | Geldig |
+| RVG 33078 | Desmopressine-acetaat Neusspray Aspire 0,1 mg/ml, neusspray, oplossing | DESMOPRESSINEACETAAT 3-WATER | Neusspray, oplossing | Geldig |
+| RVG 116910 | Desmopressine Melt Ferring 60 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Geldig |
+| RVG 116911 | Desmopressine Melt Ferring 120 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Geldig |
+| RVG 116912 | Desmopressine Melt Ferring 240 microgram, lyophilisaat voor oraal gebruik | DESMOPRESSINEACETAAT 0-WATER | Lyophilisaat voor oraal gebruik | Geldig |
+
+Getoond worden 20 van de 41 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 334
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "tryptophan"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: voorspelde nieuwe indicatie Rustelozebenensyndroom (restless legs syndrome) (bewijsniveau L3). In Nederland, CBG-vergunningen: 58 (geldig: 57)"
@@ -87,22 +87,42 @@ Currently no related clinical trials registered.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 105073 | NuTRIflex Omega special, emulsie voor infusie | Niet vermeld | Niet vermeld (niet geregistreerd) |
-| RVG 113263 | Kidiamix G15%, oplossing voor infusie | Niet vermeld | Niet vermeld (registratie geldig) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-tryptophan-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/25/1955 | Maapliv oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Geldig |
+| RVG 09570 | Vaminolact, infusievloeistof | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏNE (L-), FENYLALANIN… | Oplossing voor infusie | Geldig |
+| RVG 10289 | Vamin 18 zonder electrolyten, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEÏN… | Oplossing voor infusie | Geldig |
+| RVG 10914 | Nutriflex special 70/240, infusievloeistof | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE GLUTAMAAT, L-, ASPARAGINEZUUR, (L-),… | Oplossing voor infusie | Geldig |
+| RVG 12801 | Custodiol, oplossing voor cardioplegie | CALCIUMCHLORIDE 2-WATER (E 509), HISTIDINE, (L-), HISTIDINEMONOHYDROCHLORIDE 1-… | Oplossing voor cardioplegie | Geldig |
+| RVG 12978 | Primene 10%, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CYSTEINE (L-)HYDROCHLORIDE… | Oplossing voor infusie | Geldig |
+| RVG 15272 | Nutriflex plus 48/150, infusievloeistof, 500 ml, 1000 ml en 2000 ml | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE GLUTAMAAT, L-, ASPARAGINEZUUR, (L-),… | Oplossing voor infusie | Geldig |
+| RVG 16984 | Nutrineal PD4 met 11 g/l aminozuren, oplossing voor peritoneale dialyse | ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORIDE 2-WATER (E 509),… | Oplossing voor peritoneale dialyse | Geldig |
+| RVG 17375 | Clinimix N9 G15 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17376 | Clinimix N14 G30 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17377 | Clinimix N17 G35 E, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CALCIUM (Ca2+), CALCIUMCHLORI… | Oplossing voor infusie | Geldig |
+| RVG 17378 | Clinimix N14 G30, oplossing voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), CHLORIDE (CL-), FENYLALANINE,… | Oplossing voor infusie | Geldig |
+| RVG 19631 | Glamin, oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), FENYLALANINE, (L-), GLUTAM… | Oplossing voor infusie | Geldig |
+| RVG 24228 | Aminoven 5% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24229 | Aminoven 10% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24230 | Aminoven 15% oplossing voor infusie | ALANINE, (L-), ARGININE, (L-), FENYLALANINE, (L-), GLYCINE (E 640), HISTIDINE,… | Oplossing voor infusie | Geldig |
+| RVG 24292 | Kabiven, emulsie voor infusie | ACETAAT (C2H3O2-), ALANINE, (L-), ARGININE, (L-), ASPARAGINEZUUR, (L-), CALCIUM… | Emulsie voor infusie | Geldig |
+| RVG 32127 | Aminomix 1 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Geldig |
+| RVG 32128 | Aminomix 2 Novum, oplossing voor infusie | ALANINE, (L-), ALANINE, (L-), ARGININE, (L-), ARGININE, (L-), AZIJNZUUR (E 260)… | Oplossing voor infusie | Geldig |
+| RVG 101688 | SmofKabiven, emulsie voor infusie | ALANINE, (L-), ARGININE, (L-), CALCIUMCHLORIDE 2-WATER (E 509), DINATRIUMGLYCER… | Emulsie voor infusie | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 105073 / NuTRIflex Omega special, emulsie voor infusie / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 105073 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 58 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-tryptophan-2 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het middel wordt momenteel op de markt gebracht.
 
 <!-- review:begin nl-lic-20261112-tryptophan-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); het middel wordt momenteel op de markt gebracht.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 58, waarvan geldig: 57; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); het middel wordt momenteel op de markt gebracht.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tryptophan-1 -->
 
@@ -152,8 +172,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); h” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 105073: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 105073: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

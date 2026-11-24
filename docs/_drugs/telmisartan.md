@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 311
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 description: "Telmisartan: voorspelde nieuwe indicatie Prinzmetal-angina (Prinzmetal angina) (bewijsniveau L5). In Nederland, CBG-vergunningen: 73 (geldig: 72)"
@@ -80,21 +80,42 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117646 | Telmisartan 80 mg Focus, tabletten (status: niet geregistreerd) | – | – |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-telmisartan-3 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/09/610 | Telmisartan Teva 80 mg tabletten | TELMISARTAN | Tablet | Geldig |
+| EU/1/10/632 | Tolura 20 mg tabletten | TELMISARTAN | Tablet | Geldig |
+| EU/1/10/639 | Telmisartan Actavis 80 mg tabletten | TELMISARTAN | Tablet | Geldig |
+| EU/1/98/089 | Pritor 20 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| EU/1/98/090 | Micardis 40 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| EU/1/98/091 | Kinzalmono 80 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 104792 | Telmisartan Xiromed 20 mg tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 104793 | Telmisartan Xiromed 40 mg tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 104794 | Telmisartan Xiromed 80 mg tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105916 | Telmisartan Sandoz 20 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105917 | Telmisartan Sandoz 40 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105918 | Telmisartan Sandoz 80 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105920 | Telmisartan-1A Pharma 20 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105923 | Telmisartan-1A Pharma 40 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105924 | Telmisartan-1A Pharma 80 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105925 | Telmisartan HEXAL 20 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105926 | Telmisartan HEXAL 40 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 105927 | Telmisartan HEXAL 80 mg, tabletten | TELMISARTAN | Tablet | Geldig |
+| RVG 106142 | Telmisartan Glenmark 20 mg, Filmomhulde Tabletten | TELMISARTAN | Filmomhulde tablet | Geldig |
+| RVG 106144 | Telmisartan Glenmark 40 mg, Filmomhulde Tabletten | TELMISARTAN | Filmomhulde tablet | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 117646 / Telmisartan 80 mg Focus, tabletten (status: geldig) / – / –” Gecorrigeerd: registratienummer RVG 117646 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 73 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-telmisartan-3 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Controleer bij het CBG-MEB of er andere geldige telmisartanproducten op de Nederlandse markt zijn.
 
 <!-- review:begin nl-lic-20261112-telmisartan-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “In de samengestelde gegevens is slechts één vergunning gevonden, en die is doorgehaald. Controleer bij het CBG-MEB of er andere geldige telmisartanproducten op de Nederlandse markt zijn.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 73, waarvan geldig: 72; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “In de samengestelde gegevens is slechts één vergunning gevonden, en die is doorgehaald. Controleer bij het CBG-MEB of er andere geldige telmisartanproducten op de Nederlandse markt zijn.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-telmisartan-1 -->
 
@@ -133,7 +154,7 @@ Gegevens uit de SmPC (waarschuwingen en contra-indicaties) ontbreken in de samen
 
 <!-- review:begin nl-lic-20261112-telmisartan-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het bewijsniveau is daarmee L5. / De enige gevonden vergunning in Nederland is doorgehaald, en officiële veiligheidsgegevens ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 73, waarvan geldig: 72; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het bewijsniveau is daarmee L5. / De enige gevonden vergunning in Nederland is doorgehaald, en officiële veiligheidsgegevens ontbreken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-telmisartan-2 -->
 
@@ -154,9 +175,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “In de samengestelde gegevens is slechts één vergunning gevonden, en die is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “De enige gevonden vergunning in Nederland is doorgehaald, en officiële veiligheidsgegevens ontbreken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 117646: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “In de samengestelde gegevens is slechts één vergunning gevonden, en die is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige gevonden vergunning in Nederland is doorgehaald, en officiële veiligheidsgegevens ontbreken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 117646: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
 
 <!-- review:end log -->

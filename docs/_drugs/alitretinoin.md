@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "alitretinoin"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alitretinoin: voorspelde nieuwe indicatie Amenorroe (amenorrhea) (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 10)"
 ---
 
@@ -68,9 +68,25 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119813//100962 | Toctino 30 mg, capsules, zacht | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 100957 | Toctino 10 mg, capsules, zacht | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 100962 | Toctino 30 mg, capsules, zacht | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 121497 | Alizem 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 121499 | Alitretinoïne IFC 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 121500 | Alitretinoïne IFC 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 121503 | Alipalmtin 10 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 121504 | Alipalmtin 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 130529//121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 130557//121498 | Alizem 30 mg zachte capsules | ALITRETINOÏNE | Capsule, zacht | Geldig |
+| RVG 119813//100962 | Toctino 30 mg, capsules, zacht | ALITRETINOÏNE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

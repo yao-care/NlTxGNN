@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Biotin: voorspelde nieuwe indicatie Dyspepsie (bewijsniveau L5). Oorspronkelijke indicatie: Voedingsgerelateerd biotinetekort"
 monitor_inn: "biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
@@ -89,15 +89,17 @@ De gevonden publicaties zijn allemaal van lage bewijskracht (casuïstiek of obse
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117795//15333 (niet geregistreerd) | Cernevit, poeder voor oplossing voor injectie of voor intraveneuze infusie | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261115-biotin-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 09077 | Soluvit N, poeder voor oplossing voor intraveneuze infusie | BIOTINE, CYANOCOBALAMINE, FOLIUMZUUR, NATRIUMASCORBAAT (E 301), NICOTINAMIDE, P… | Poeder voor oplossing voor infusie | Geldig |
+| RVG 15333 | Cernevit, poeder voor oplossing voor injectie of intraveneuze infusie | ASCORBINEZUUR (E 300), BIOTINE, CHOLECALCIFEROL, COCARBOXYLASE 4-WATER, CYANOCO… | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 117795//15333 | Cernevit poeder voor oplossing voor injectie of voor intraveneuze infusie | COCARBOXYLASE 4-WATER, BIOTINE, CYANOCOBALAMINE, RIBOFLAVINE NATRIUMFOSFAAT 2-W… | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 117795//15333 (doorgehaald)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261115-biotin-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -124,7 +126,7 @@ Er zijn geen klinische studies en geen direct relevante literatuur voor biotine 
 
 <!-- review:begin nl-lic-20261112-biotin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op het TxGNN-model (deep learning). Bovendien is het product in Nederland op de markt, met 1 geldige vergunning van de 1 geregistreerde, en ontbreken de veiligheidsgegevens uit de officiële productinformatie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op het TxGNN-model (deep learning). Bovendien is het product in Nederland op de markt, met 1 geldige vergunning van de 1 geregistreerde, en ontbreken de veiligheidsgegevens uit de officiële productinformatie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-biotin-1 -->
 
@@ -135,7 +137,7 @@ Er zijn geen klinische studies en geen direct relevante literatuur voor biotine 
 
 <!-- review:begin nl-lic-20261112-biotin-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Systematisch literatuuronderzoek naar biotine bij dyspepsie en gastroparese, en zo nodig een proof-of-conceptstudie / Beoordelen of er een geschikte toedieningsvorm beschikbaar is op de Nederlandse markt, aangezien de enige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Systematisch literatuuronderzoek naar biotine bij dyspepsie en gastroparese, en zo nodig een proof-of-conceptstudie / Beoordelen of er een geschikte toedieningsvorm beschikbaar is op de Nederlandse markt, aangezien de enige vergunning is doorgehaald” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-biotin-2 -->
 
@@ -147,9 +149,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Bovendien is het product in Nederland op de markt, met 1 geldige vergunning van de 1 geregistreerde, en ontbreken de veiligheidsgegevens uit” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Beoordelen of er een geschikte toedieningsvorm beschikbaar is op de Nederlandse markt, aangezien de enige vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “RVG 117795//15333 (doorgehaald)” → “RVG 117795//15333 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bovendien is het product in Nederland op de markt, met 1 geldige vergunning van de 1 geregistreerde, en ontbreken de veiligheidsgegevens uit” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Beoordelen of er een geschikte toedieningsvorm beschikbaar is op de Nederlandse markt, aangezien de enige vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 117795//15333 (doorgehaald)” → “RVG 117795//15333 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

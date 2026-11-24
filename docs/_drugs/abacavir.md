@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abacavir: voorspelde nieuwe indicatie Simian immunodeficiency virus-infectie (simian immunodeficiency virus infection) (bewijsniveau L5). In Nederland, CBG-vergunningen: 17 (geldig: 16)"
 ---
 
@@ -74,9 +74,31 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117143 | Abacavir Hexal 300 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/99/112 | Ziagen 300 mg, filmomhulde tabletten | ABACAVIRSULFAAT | Filmomhulde tablet | Geldig |
+| RVG 117120 | Abacavir Accord 300 mg, filmomhulde tabletten | ABACAVIR | Filmomhulde tablet | Geldig |
+| RVG 117142 | Abacavir Sandoz 300 mg, filmomhulde tabletten | ABACAVIR | Filmomhulde tablet | Geldig |
+| EU/1/00/156 | Trizivir filmomhulde tabletten, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| EU/1/04/298 | Kivexa 600/300 mg, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| EU/1/14/940 | Triumeq 50 mg/600 mg/300 mg filmomhulde tabletten | ABACAVIRSULFAAT, DOLUTEGRAVIR NATRIUM, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 113105 | Abacavir/Lamivudine/Zidovudine Mylan 300 mg/150 mg/300 mg filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER, ZIDOVUDINE | Filmomhulde tablet | Geldig |
+| RVG 116725 | Abacavir/Lamivudine Sandoz 600 mg/300 mg, filmomhulde tabletten | ABACAVIRHYDROCHLORIDE 1-WATER, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 116893 | Abacavir/Lamivudine Teva 600/300 mg, filmomhulde tabletten | ABACAVIR, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 117314 | Abacavir/Lamivudine Accord 600 mg/300 mg, filmomhulde tabletten | ABACAVIR, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 117980 | Abacavir/Lamivudine Aurobindo 600/300 mg, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 118678 | Abacavir/Lamivudine Viatris 600 mg/300 mg, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 119924 | Abacavir/Lamivudine Glenmark 600 mg/300 mg filmomhulde tabletten | ABACAVIRHYDROCHLORIDE 1-WATER, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 120979 | Abacavir/Lamivudine Amarox 600 mg/300 mg, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 120980 | Varistren 600 mg/300 mg, filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 125871 | Abacavir/Lamivudine Macleods 600 mg/300mg filmomhulde tabletten | ABACAVIRSULFAAT, LAMIVUDINE 0-WATER | Filmomhulde tablet | Geldig |
+| RVG 117143 | Abacavir Hexal 300 mg, filmomhulde tabletten | ABACAVIR | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

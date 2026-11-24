@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 322
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 description: "Tizanidine: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L2). In Nederland, CBG-vergunningen: 17 (geldig: 16)"
@@ -93,15 +93,31 @@ Daarnaast is de PACE-studie (NCT02403687) gevonden, maar die richt zich op topic
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117382//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-tizanidine-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 10036 | Sirdalud 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 10037 | Sirdalud 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 31642 | Tizanidine Teva 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 31643 | Tizanidine Teva 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 126352 | Tizagelan 2 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 126353 | Tizagelan 4 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 130118 | Tizanidine 2 mg Focus Care, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 130119 | Tizanidine 4 mg Focus Care, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 130553 | Tizagelan 6 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 131476 | Chordyna 2 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 131477 | Chordyna 4 mg, tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 132753//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 133361 | Tizanidine Ascend 2 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 133363 | Tizanidine Ascend 4 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 133364 | Tizanidine Ascend 6 mg tabletten | TIZANIDINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 117382//12983 | Sirdalud MR 6 mg, capsules met gereguleerde afgifte | TIZANIDINEHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 117382//12983 / Sirdalud MR 6 mg, capsules met gereguleerde afgifte / Niet vermeld / Niet vermeld (registratie geldig)” Gecorrigeerd: registratienummer RVG 117382//12983 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-tizanidine-1 -->
+<!-- licenses:end -->
 
 ---
 
@@ -135,7 +151,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 117382//12983: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 117382//12983: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08) |
 
 <!-- review:end log -->

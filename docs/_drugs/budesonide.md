@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Budesonide: voorspelde nieuwe indicatie Eczeem (atopic eczema) (bewijsniveau L5). In Nederland, CBG-vergunningen: 68 (geldig: 67)"
 ---
 
@@ -81,9 +81,36 @@ Het merendeel van deze literatuur gaat over contactsensibilisatie en bijwerkinge
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120079//13698 | Pulmicort 200 Turbuhaler, inhalatiepoeder 200 microgram/dosis | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/17/1254 | Jorveza 1mg orodispergeerbare tabletten | BUDESONIDE | Orodispergeerbare tablet | Geldig |
+| EU/1/22/1657 | Kinpeygo 4 mg, harde capsules met gereguleerde afgifte | BUDESONIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 13698 | Pulmicort 200 Turbuhaler, 200 microgram/dosis, inhalatiepoeder | BUDESONIDE | Inhalatiepoeder | Geldig |
+| RVG 13699 | Pulmicort 400 Turbuhaler, 400 microgram/dosis, inhalatiepoeder | BUDESONIDE | Inhalatiepoeder | Geldig |
+| RVG 14758 | Pulmicort 100 Turbuhaler, 100 microgram/dosis, inhalatiepoeder | BUDESONIDE | Inhalatiepoeder | Geldig |
+| RVG 15660 | Entocort Klysma, suspensie voor rectaal gebruik 2 mg/100 ml | BUDESONIDE | Suspensie voor rectaal gebruik | Geldig |
+| RVG 18062 | Budesonide 200 Cyclocaps, inhalatiepoeder in harde capsule 200 microgram | BUDESONIDE | Inhalatiepoeder in harde capsule | Geldig |
+| RVG 18063 | Budesonide 400 Cyclocaps, inhalatiepoeder in harde capsule 400 microgram | BUDESONIDE | Inhalatiepoeder in harde capsule | Geldig |
+| RVG 18765 | Entocort capsules 3 mg, capsules met gereguleerde afgifte | BUDESONIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 22557 | Budenofalk, maagsapresistente capsules 3 mg | BUDESONIDE | Maagsapresistente capsule, hard | Geldig |
+| RVG 24012 | Budesonide Aurobindo nevel 50, 50 microgram/dosis, neusspray,suspensie | BUDESONIDE | Neusspray, suspensie | Geldig |
+| RVG 24013 | Budesonide Aurobindo nevel 100, 100 microgram/dosis, neusspray, suspensie | BUDESONIDE | Neusspray, suspensie | Geldig |
+| RVG 27395 | Budesonide 50 microgram/dosis Focus, neusspray, suspensie | BUDESONIDE | Neusspray, suspensie | Geldig |
+| RVG 28795 | Budesonide Novolizer 200 microgram, inhalatiepoeder | BUDESONIDE | Inhalatiepoeder | Geldig |
+| RVG 30314 | Budesonide Orion 100 Easyhaler, inhalatiepoeder, 100 microgram/dosis | BUDESONIDE | Inhalatiepoeder | Geldig |
+| RVG 30315 | Budesonide Orion 200 Easyhaler, inhalatiepoeder, 200 microgram/dosis | BUDESONIDE | Inhalatiepoeder | Geldig |
+| RVG 30316 | Budesonide Orion 400 Easyhaler, inhalatiepoeder, 400 microgram/dosis | BUDESONIDE | Inhalatiepoeder | Geldig |
+| RVG 32122 | Budesonide Sandoz 0,25 mg/ml, vernevelsuspensie in ampul | BUDESONIDE | Vernevelsuspensie | Geldig |
+| RVG 32123 | Budesonide Sandoz 0,5 mg/ml, vernevelsuspensie in ampul | BUDESONIDE | Vernevelsuspensie | Geldig |
+| RVG 32251 | Budesonide Allgen 200 CFK-vrije aërosol, aërosoloplossing 200 microgram/dosis | BUDESONIDE | Aërosol, oplossing | Geldig |
+
+Getoond worden 20 van de 68 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

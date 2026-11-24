@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 234
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
 description: "Midodrine: voorspelde nieuwe indicatie Variabel proteasegevoelige prionopathie (variably protease-sensitive prionopathy) (bewijsniveau L5)."
@@ -79,15 +79,28 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118685//16514 | Gutron 5 mg, tabletten | Niet vermeld | Niet vermeld (registratie geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 113044//16514 | Gutron 5 mg, tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 114951 | Midodrine HCl Brancaster 2,5 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 114952 | Midodrine HCl Brancaster 5 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 118685//16514 | Gutron 5 mg, tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 126366 | Midodrine HCl Brancaster 10 mg tabletten | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 135129//16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 135186//16514 | Gutron 5, tabletten 5 mg | MIDODRINEHYDROCHLORIDE | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De volledige productinformatie staat in de SmPC en de bijsluiter (PIL).
 
 <!-- review:begin nl-lic-20261112-midodrine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert voor midodrine in totaal 1 vergunning, die geldig is. De volledige productinformatie staat in de SmPC en de bijsluiter (PIL).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 8; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het CBG-MEB registreert voor midodrine in totaal 1 vergunning, die geldig is. De volledige productinformatie staat in de SmPC en de bijsluiter (PIL).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-midodrine-1 -->
 
@@ -123,7 +136,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert voor midodrine in totaal 1 vergunning, die geldig is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het CBG-MEB registreert voor midodrine in totaal 1 vergunning, die geldig is” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: midodrine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6705af-bb72-4edb-863a-93a351bd6dba) |
 
 <!-- review:end log -->

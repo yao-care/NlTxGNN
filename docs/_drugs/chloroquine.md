@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "chloroquine"
 predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Chloroquine: voorspelde nieuwe indicatie Reumafactor-positieve polyarticulaire juveniele idiopathische artritis (rheumatoid factor-positive polyarticular juveni… (bewijsniveau L5). Oorspronkelijke in…"
 ---
 
@@ -72,9 +72,15 @@ Er is dus geen studie in de aangeleverde data die chloroquine direct bij deze sp
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 106659 | A-CQ 100 Chloroquine 100 mg, tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 106659 | A-CQ 100 Chloroquine 100 mg, tabletten | CHLOROQUINEDIFOSFAAT | Tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

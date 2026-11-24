@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "labetalol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 description: "Labetalol: voorspelde nieuwe indicatie Malignant hypertensive renal disease (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 7)"
@@ -87,9 +87,21 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117413//07879 | Trandate Injectie, oplossing voor injectie of concentraat voor oplossing voor infusie 5 mg/ml | Niet vermeld | Niet vermeld (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 07879 | Trandate Injectie, oplossing voor injectie 5 mg/ml | LABETALOLHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 11106 | Labetalol HCl Mylan 100 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 11107 | Labetalol HCl Mylan 200 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 11108 | Labetalol HCl Mylan 400 mg, tabletten | LABETALOLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 116400//07879 | Trandate Injectie, 5 mg/ml oplossing voor injectie of concentraat voor oplossin… | LABETALOLHYDROCHLORIDE | Oplossing voor injectie, Concentraat voor oplossi… | Geldig |
+| RVG 117413//07879 | Trandate Injectie, oplossing voor injectie of concentraat voor oplossing voor i… | LABETALOLHYDROCHLORIDE | Oplossing voor injectie, Concentraat voor oplossi… | Geldig |
+| RVG 134811//07879 | Trandate Injectie, oplossing voor injectie 5 mg/ml | LABETALOLHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

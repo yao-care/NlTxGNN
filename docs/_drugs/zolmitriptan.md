@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: voorspelde nieuwe indicatie Atrophoderma vermiculata (bewijsniveau L5). In Nederland, CBG-vergunningen: 28 (geldig: 28)"
@@ -78,7 +78,7 @@ De onderstaande publicaties gaan over migraine en triptanen in het algemeen. Gee
 
 <!-- review:begin nl-lic-20261106-zolmitriptan-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De enige bekende vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-zolmitriptan-1 -->
 
@@ -99,9 +99,36 @@ De onderstaande publicaties gaan over migraine en triptanen in het algemeen. Gee
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109139 | Zolmitriptan Glenmark 5 mg orodispergeerbare tabletten (geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 31917 | Zomig-2,5, filmomhulde tabletten 2,5 mg | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 31918 | Zomig-5, filmomhulde tabletten 5 mg | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 31919 | Zomig ZIP-2,5, orodispergeerbare tabletten 2,5 mg | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 31920 | Zomig ZIP-5, orodispergeerbare tabletten 5 mg | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 101894 | Zolmitriptan Aurobindo Disper 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 106551 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 106554 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 106555 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 106556 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 106557 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 106558 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 106559 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 106560 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 106561 | Zolmitriptan Sandoz tablet 2,5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 106562 | Zolmitriptan Sandoz tablet 5 mg, filmomhulde tabletten | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 106564 | Zolmitriptan Sandoz smelttablet 2,5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 106565 | Zolmitriptan Sandoz smelttablet 5 mg, orodispergeerbare tabletten | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+| RVG 107118 | Zolmitriptan Jubilant 2,5 mg filmomhulde tablet | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 107120 | Zolmitriptan Jubilant 5 mg filmomhulde tablet | ZOLMITRIPTAN | Filmomhulde tablet | Geldig |
+| RVG 107124 | Zolmitriptan Jubilant 2,5 mg orodispergeerbare tablet | ZOLMITRIPTAN | Orodispergeerbare tablet | Geldig |
+
+Getoond worden 20 van de 28 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -136,7 +163,7 @@ Voor volledige veiligheidsinformatie en waarschuwingen: raadpleeg de SmPC (Samen
 
 <!-- review:begin nl-lic-20261106-zolmitriptan-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Een gerichte literatuurstudie en veiligheidsanalyse uitvoeren naar triptanen bij migraine met hersenstamaura (basilaire migraine), inclusief het cardiovasculaire en cerebrovasculaire risico. / Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Een gerichte literatuurstudie en veiligheidsanalyse uitvoeren naar triptanen bij migraine met hersenstamaura (basilaire migraine), inclusief het cardiovasculaire en cerebrovasculaire risico. / Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-zolmitriptan-2 -->
 
@@ -148,8 +175,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “De enige bekende vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Beoordelen of er een route van toediening en een beschikbaar product in Nederland is, gezien de doorgehaalde vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
 
 <!-- review:end log -->

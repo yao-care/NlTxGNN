@@ -5,7 +5,7 @@ parent: Sterk bewijs (L1-L2)
 nav_order: 248
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Nortriptyline: voorspelde nieuwe indicatie Aandachtstekortstoornis met hyperactiviteit (ADHD) (bewijsniveau L2). Oorspronkelijke indicatie: Angststoornis, neurotische stoornis, dysthyme stoornis"
 monitor_inn: "nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
@@ -94,15 +94,42 @@ Alleen titels en korte samenvattingen zijn beoordeeld; omvang en resultaten van 
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115499//03286 | Nortrilen 25 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
 
-De enige vergunning (CBG-MEB) is geldig.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 03285 | Nortrilen 10 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 03286 | Nortrilen 25 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 11407 | Nortrilen 50 mg, Filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 29213//03286 | Nortrilen 25, tabletten 25 mg | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 30336//03286 | Nortrilen 25 mg, tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 116782 | Nortriptyline Milstein 50 mg, tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 120984 | Nortriptyline Glenmark 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 120985 | Nortriptyline Glenmark 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 120986 | Nortriptyline Glenmark 50 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 121857 | Nortriptyline Viatris 10 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 121858 | Nortriptyline Viatris 25 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 122151 | Nortriptyline Viatris 50 mg, filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 126748 | Nortriptyline BB 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 126749 | Nortriptyline BB 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 126750 | Nortriptyline BB 50 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 127406 | Nortriptyline Double-e Pharma 10 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 127407 | Nortriptyline Double-e Pharma 25 mg filmomhulde tabletten | NORTRIPTYLINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 132490 | Nortriptyline RIA 10 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 132491 | Nortriptyline RIA 25 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Geldig |
+| RVG 132492 | Nortriptyline RIA 50 mg tabletten | NORTRIPTYLINEHYDROCHLORIDE | Tablet | Geldig |
+
+Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Bij het CBG-MEB zijn geldige vergunningen geregistreerd (actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie).
 
 <!-- review:begin nl-lic-20261112-nortriptyline-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De enige vergunning (CBG-MEB) is geldig; nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 21, waarvan geldig: 20; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De enige vergunning (CBG-MEB) is geldig; nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde gegevens.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-nortriptyline-1 -->
 
@@ -127,7 +154,7 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC, aangezien 
 
 <!-- review:begin nl-lic-20261112-nortriptyline-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Bovendien is de Nederlandse vergunning doorgehaald, ontbreken de officiële veiligheidsgegevens en is er een aanzienlijk cardiaal en interactierisico. Nortriptyline kan hooguit gelden als een tweede- of derdelijns onderzoeksoptie, niet als aanbevolen therapie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 21, waarvan geldig: 20; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Bovendien is de Nederlandse vergunning doorgehaald, ontbreken de officiële veiligheidsgegevens en is er een aanzienlijk cardiaal en interactierisico. Nortriptyline kan hooguit gelden als een tweede- of derdelijns onderzoeksoptie, niet als aanbevolen therapie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-nortriptyline-2 -->
 
@@ -147,8 +174,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde gegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Bovendien is de Nederlandse vergunning doorgehaald, ontbreken de officiële veiligheidsgegevens en is er een aanzienlijk cardiaal en interact” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “nortriptyline is momenteel op de markt met 1 geldige vergunning van de 1 in de samengestelde gegevens” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bovendien is de Nederlandse vergunning doorgehaald, ontbreken de officiële veiligheidsgegevens en is er een aanzienlijk cardiaal en interact” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

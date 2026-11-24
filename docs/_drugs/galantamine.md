@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 description: "Galantamine: voorspelde nieuwe indicatie Psychogene bewegingsstoornissen (rang 1) (bewijsniveau L5). In Nederland, CBG-vergunningen: 16 (geldig: 15)"
@@ -87,15 +87,30 @@ Veel van de overige opgehaalde publicaties betreffen algemene dementie- of choli
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109150 | Galantamine retard CF 24 mg, harde capsules met verlengde afgifte | Capsule met verlengde afgifte | Niet beschikbaar (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-galantamine-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 107501 | Galantamine Sandoz retard 8 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 107502 | Galantamine Sandoz retard 16 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 107503 | Galantamine Sandoz retard 24 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 107504 | Bergal SR 8 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 107505 | Bergal SR 16 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 107506 | Bergal SR 24 mg harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 107647 | Galantamine Retard Viatris 8 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 107649 | Galantamine Retard Viatris 16 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 107650 | Galantamine Retard Viatris 24 mg, capsules met verlengde afgifte, hard | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 109100 | Masparen retard 8 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 109101 | Masparen retard 16 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 109102 | Masparen retard 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 120785 | Galantamine Aurobindo Retard 8 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 120794 | Galantamine Aurobindo Retard 16 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 120795 | Galantamine Aurobindo Retard 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 109150 | Galantamine retard CF 24 mg, harde capsules met verlengde afgifte | GALANTAMINEHYDROBROMIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 109150 / Galantamine retard CF 24 mg, harde capsules met verlengde afgifte / Capsule met verlengde afgifte / Niet beschikbaar (registratie geldig)” Gecorrigeerd: registratienummer RVG 109150 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-galantamine-2 -->
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -118,7 +133,7 @@ Raadpleeg de SmPC voor volledige veiligheidsinformatie.
 
 <!-- review:begin nl-lic-20261112-galantamine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De registratie in Nederland is bovendien ingetrokken. Dyskinesie (rang 7) kan hooguit als onderzoeksvraag worden gezien.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 16, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De registratie in Nederland is bovendien ingetrokken. Dyskinesie (rang 7) kan hooguit als onderzoeksvraag worden gezien.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-galantamine-1 -->
 
@@ -136,8 +151,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De registratie in Nederland is bovendien ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 109150: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De registratie in Nederland is bovendien ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 109150: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1) |
 
 <!-- review:end log -->

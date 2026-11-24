@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "benzylpenicillin"
 predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "denture stomatitis", "chemotherapy-induced oral mucositis", "leukoplakia of gingiva"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzylpenicillin: voorspelde nieuwe indicatie Pericoronitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 24 (geldig: 23)"
 ---
 
@@ -80,9 +80,36 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117950//53418 | Natrium-penicilline G 1.000.000 IE, poeder voor oplossing voor injectie | Niet vermeld | Niet vermeld in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 118693 | Benzathinebenzylpenicilline Sandoz 600.000 IE, poeder en oplosmiddel voor suspe… | BENZYLPENICILLINEBENZATHINE 4-WATER | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 118694 | Benzathinebenzylpenicilline Sandoz 1.200.000 IE, poeder en oplosmiddel voor sus… | BENZYLPENICILLINEBENZATHINE 4-WATER | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 118695 | Benzathinebenzylpenicilline Sandoz 2.400.000 IE, poeder en oplosmiddel voor sus… | BENZYLPENICILLINEBENZATHINE 4-WATER | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 120396 | Natriumbenzylpenicilline Sandoz 500.000 IE, poeder voor oplossing voor injectie… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 120400 | Natriumbenzylpenicilline Sandoz 1.000.000 IE, poeder voor oplossing voor inject… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 120401 | Natriumbenzylpenicilline Sandoz 5.000.000 IE, poeder voor oplossing voor inject… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 120402 | Natriumbenzylpenicilline Sandoz 10.000.000 IE, poeder voor oplossing voor injec… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 122017//120402 | Natriumbenzylpenicilline Eureco-Pharma 10.000.000 IE, poeder voor oplossing voo… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 122024//120400 | Natriumbenzylpenicilline Eureco-Pharma 1.000.000 IE, poeder voor oplossing voor… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 124965 | Extencin 1.200.000 IE, poeder en oplosmiddel voor suspensie voor injectie | BENZYLPENICILLINEBENZATHINE 0-WATER | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 124966 | Extencin 2.400.000 IE, poeder en oplosmiddel voor suspensie voor injectie | BENZYLPENICILLINEBENZATHINE 0-WATER | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 125239//120400 | Natriumbenzylpenicilline Eureco-Pharma 1.000.000 IE, poeder voor oplossing voor… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 129813//124965 | Extencin 1.200.000 IE, poeder en oplosmiddel voor suspensie voor injectie | BENZYLPENICILLINEBENZATHINE 0-WATER | Poeder en oplosmiddel voor suspensie voor injectie | Geldig |
+| RVG 130497 | Penicilline G Kabi 1 000 000 IE poeder voor oplossing voor injectie/infusie | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 130499 | Penicilline G Kabi 2 000 000 IE poeder voor oplossing voor injectie/infusie | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 130500 | Penicilline G Kabi 5 000 000 IE poeder voor oplossing voor injectie/infusie | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 130501 | Penicilline G Kabi 10 000 000 IE poeder voor oplossing voor injectie/infusie | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 131822 | Natriumbenzylpenicilline Noridem 1.000.000 IE poeder voor oplossing voor inject… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 131823 | Natriumbenzylpenicilline Noridem 2.000.000 IE poeder voor oplossing voor inject… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+| RVG 131824 | Natriumbenzylpenicilline Noridem 5.000.000 IE poeder voor oplossing voor inject… | BENZYLPENICILLINE NATRIUM | Poeder voor oplossing voor injectie of infusie | Geldig |
+
+Getoond worden 20 van de 24 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Het CBG-MEB (College ter Beoordeling van Geneesmiddelen) is de bevoegde instantie voor de Nederlandse registratie.
 

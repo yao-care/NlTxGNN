@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetirizine: voorspelde nieuwe indicatie Neusholteaandoening (nasal cavity disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 26 (geldig: 26)"
 ---
 
@@ -86,9 +86,36 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120211//14635 | Zyrtec 1 mg/ml drank | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 13010 | Zyrtec 10 mg filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 25270 | Cetirizine 2HCl Sandoz 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 26723 | Cetirizine diHCl Viatris 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 26981 | Albert Heijn Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 29225 | Allergietabletten HTP Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 29446 | Reactine 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 32486 | Cetirizine 2HCl Teva 1 mg/ml, drank | CETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
+| RVG 35017 | Cetirizine diHCl SAM 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 35129 | Kruidvat hooikoortstabletten cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 35130 | DA Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100881 | Cetirizine diHCl Triangle Pharma 10 mg hooikoortstabletten, filmomhulde tablett… | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100976 | RXT Cetirizine diHCl 10 mg hooikoortstabletten, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 110375 | Etos Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 111430 | Cetirizine diHCl Teva 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 115971 | Prevalin Allerstop cetirizine 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 117667 | Cetirizine diHCl Aurobindo 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 117845 | Cetirizine diHCl Sanias 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 120211//14635 | Zyrtec 1 mg/ml drank | CETIRIZINEDIHYDROCHLORIDE | Drank | Geldig |
+| RVG 124832=111430 | Livsane Hooikoortstabletten Cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 127803=26981 | Trekpleister hooikoortstabletten cetirizine diHCl 10 mg, filmomhulde tabletten | CETIRIZINEDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 26 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

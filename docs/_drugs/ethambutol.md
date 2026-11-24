@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 139
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ethambutol: voorspelde nieuwe indicatie Epiglottitis (bewijsniveau L5). Oorspronkelijke indicatie: Pulmonale tuberculose"
 monitor_inn: "ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
@@ -80,15 +80,23 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 117584//06445 | Myambutol 400 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
+<!-- licenses:begin -->
 
-Het enige geregistreerde product is op de markt.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06445 | Myambutol, tabletten 400 mg | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 117584//06445 | Myambutol 400 mg, filmomhulde tabletten | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 122891//06445 | Myambutol 400 mg filmomhulde tabletten | ETHAMBUTOLDIHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Het product Myambutol 400 mg, filmomhulde tabletten (RVG 117584//06445) is op de markt.
 
 <!-- review:begin nl-lic-20261112-ethambutol-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het enige geregistreerde product is op de markt. Er is momenteel 1 geldige vergunning van de 1 vergunning voor ethambutol als enkelvoudig middel in de gegevens van het CBG-MEB die voor dit rapport zijn samengesteld.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 3, waarvan geldig: 3; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Het enige geregistreerde product is op de markt. Er is momenteel 1 geldige vergunning van de 1 vergunning voor ethambutol als enkelvoudig middel in de gegevens van het CBG-MEB die voor dit rapport zijn samengesteld.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-ethambutol-1 -->
 
@@ -112,7 +120,7 @@ Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC (Samenva
 
 <!-- review:begin nl-lic-20261106-ethambutol-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Epiglottitis door gangbare bacteriële verwekkers wordt niet door ethambutol gedekt. / Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscreening niet kan worden afgerond.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Epiglottitis door gangbare bacteriële verwekkers wordt niet door ethambutol gedekt. / Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscreening niet kan worden afgerond.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-ethambutol-1 -->
 
@@ -123,7 +131,7 @@ Raadpleeg voor de volledige waarschuwingen en contra-indicaties de SmPC (Samenva
 
 <!-- review:begin nl-lic-20261106-ethambutol-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Vaststellen of de beoogde indicatie beperkt blijft tot tuberculeuze epiglottis/larynx (reeds onder standaard tuberculosebehandeling) of daadwerkelijk epiglottitis betreft. / Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Vaststellen of de beoogde indicatie beperkt blijft tot tuberculeuze epiglottis/larynx (reeds onder standaard tuberculosebehandeling) of daadwerkelijk epiglottitis betreft. / Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-ethambutol-2 -->
 
@@ -135,9 +143,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscree” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 vergunning voor ethambutol als enkelvoudig middel in de gegevens van het CBG-MEB die voor dit ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast is de Nederlandse vergunning ingetrokken en ontbreken gegevens over waarschuwingen en contra-indicaties, waardoor veiligheidsscree” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Beoordelen of een nieuwe handelsvergunning of een alternatieve toegangsroute nodig is, gezien de ingetrokken vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “Er is momenteel 1 geldige vergunning van de 1 vergunning voor ethambutol als enkelvoudig middel in de gegevens van het CBG-MEB die voor dit ” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

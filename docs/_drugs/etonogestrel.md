@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 142
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etonogestrel: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunningstekst bevat geen indic…"
 monitor_inn: "Etonogestrel"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
@@ -89,15 +89,27 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 106801 | Implanon, 68 mg implantaat voor subdermaal gebruik | Niet vermeld | Niet vermeld (status: niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-etonogestrel-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | Geldig |
+| RVG 122756//21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | Geldig |
+| RVG 136394//21168 | Implanon NXT, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | Implantaat | Geldig |
+| RVG 25073 | NuvaRing 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 105733 | Circlet 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 118957 | Etonogestrel/Ethinylestradiol Xiromed 0,120 mg/0,015 mg per 24 uur, hulpmiddel… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 118961 | Etonogestrel/Ethinylestradiol Leon Farma 0,120 mg/0,015 mg per 24 uur, hulpmidd… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 118992 | DONGARING 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 118993 | Nillho 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 118994 | Ornibel 0,120 mg/0,015 mg per 24 uur, hulpmiddel voor vaginaal gebruik | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 118995 | Etonogestrel/Ethinylestradiol Sandoz 0,120 mg/0,015 mg per 24 uur, hulpmiddel v… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 118996 | Etonogestrel/Ethinylestradiol Exeltis 0,120 mg/0,015 mg per 24 uur, hulpmiddel… | ETHINYLESTRADIOL, ETONOGESTREL | Hulpmiddel voor vaginaal gebruik | Geldig |
+| RVG 106801 | Implanon, 68 mg implantaat voor subdermaal gebruik | ETONOGESTREL | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 106801 / Implanon, 68 mg implantaat voor subdermaal gebruik / Niet vermeld / Niet vermeld (status: geldig)” Gecorrigeerd: registratienummer RVG 106801 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-etonogestrel-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -125,7 +137,7 @@ hypertensie, epilepsie, angststoornis, porfyrie, nierziekte, leverziekte, galbla
 
 <!-- review:begin nl-lic-20261112-etonogestrel-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Amenorroe is een bijwerking van etonogestrel, geen therapeutisch doel, en er zijn geen relevante studies. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 13, waarvan geldig: 12; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Amenorroe is een bijwerking van etonogestrel, geen therapeutisch doel, en er zijn geen relevante studies. Bovendien is de enige Nederlandse vergunning doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-etonogestrel-1 -->
 
@@ -144,8 +156,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 106801: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Bovendien is de enige Nederlandse vergunning doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 106801: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594) |
 
 <!-- review:end log -->

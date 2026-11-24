@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 226
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 monitor_inn: "methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: voorspelde nieuwe indicatie Pulmonary blastoma (bewijsniveau L5). In Nederland, CBG-vergunningen: 134 (geldig: 133)"
@@ -78,15 +78,36 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 117707 (niet geregistreerd) | Methotrexaat Sigillata 30 mg = 0,75 ml, oplossing voor injectie in een voorgevulde spuit 40 mg/ml | Oplossing voor injectie (voorgevulde spuit) | Niet beschikbaar in de samengestelde gegevens |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261115-methotrexate-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/16/1124 | Nordimet 7,5 mg, oplossing voor injectie in voorgevulde pen | METHOTREXAAT | Oplossing voor injectie | Geldig |
+| EU/1/17/1172 | Jylamvo 2mg/ml, drank | METHOTREXAAT | Drank | Geldig |
+| RVG 08434 | Emthexate PF 2,5 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 08435 | Emthexate PF 25 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 08785 | Methotrexaat Teva 10 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Geldig |
+| RVG 09957 | Methotrexaat Teva 2,5 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Geldig |
+| RVG 10632 | Emthexate PF 100 mg/ml, oplossing voor injectie | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 28636 | Methotrexaat Sandoz 2,5 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Geldig |
+| RVG 28638 | Methotrexaat Sandoz 10 mg, tabletten | METHOTREXAAT DINATRIUM | Tablet | Geldig |
+| RVG 111355 | Methotrexaat Accord 25 mg/ml, oplossing voor injectie | METHOTREXAAT | Oplossing voor injectie | Geldig |
+| RVG 111626 | Methotrexaat Nordic 7,5 mg, oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111766 | Methotrexaat Nordic 10,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111767 | Methotrexaat Nordic 12,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111768 | Methotrexaat Nordic 15,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111769 | Methotrexaat Nordic 17,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111770 | Methotrexaat Nordic 20,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111771 | Methotrexaat Nordic 22,5 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111772 | Methotrexaat Nordic 25,0 mg, Oplossing voor injectie in een voorgevulde spuit | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111962 | Metoject PEN 7,5 mg=0,15 ml oplossing voor injectie in een voorgevulde pen | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
+| RVG 111963 | Metoject PEN 10 mg=0,2 ml oplossing voor injectie in een voorgevulde pen | METHOTREXAAT DINATRIUM | Oplossing voor injectie | Geldig |
 
-> **Controlecorrectie (2026-11-15)**: Oorspronkelijk stond er: “RVG 117707 (doorgehaald)” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-15); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot doorhaling of intrekking is genomen, blijkt niet uit de CBG-gegevens. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 134 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261115-methotrexate-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Raadpleeg het CBG-MEB voor de actuele status van andere methotrexaatproducten.
 
@@ -124,7 +145,7 @@ Officiële waarschuwingen en contra-indicaties uit de bijsluiter zijn niet besch
 
 <!-- review:begin nl-lic-20261112-methotrexate-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is alleen een modelvoorspelling (L5), zonder klinische studies of publicaties voor pulmonair blastoom. / De enige Nederlandse registratie is doorgehaald en veiligheidsinformatie uit de bijsluiter ontbreekt, wat een blokkerend gegevenstekort is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 134, waarvan geldig: 133; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is alleen een modelvoorspelling (L5), zonder klinische studies of publicaties voor pulmonair blastoom. / De enige Nederlandse registratie is doorgehaald en veiligheidsinformatie uit de bijsluiter ontbreekt, wat een blokkerend gegevenstekort is.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-methotrexate-1 -->
 
@@ -144,8 +165,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige Nederlandse registratie is doorgehaald en veiligheidsinformatie uit de bijsluiter ontbreekt, wat een blokkerend gegevenstekort is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-15 | “RVG 117707 (doorgehaald)” → “RVG 117707 (niet geregistreerd)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse registratie is doorgehaald en veiligheidsinformatie uit de bijsluiter ontbreekt, wat een blokkerend gegevenstekort is” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-15 | “RVG 117707 (doorgehaald)” → “RVG 117707 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

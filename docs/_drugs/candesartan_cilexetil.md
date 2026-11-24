@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "candesartan cilexetil"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Candesartan Cilexetil: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). Oorspronkelijke indicatie: Niet vermeld in de lokale gege…"
 ---
 
@@ -69,6 +69,37 @@ Momenteel geen gerelateerde klinische studies geregistreerd.
 Momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
+
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 21704 | Atacand 4, tabletten 4 mg | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 21705 | Atacand 8, tabletten 8 mg | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 21706 | Atacand 16, tabletten 16 mg | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 30755 | Atacand 32, tabletten 32 mg | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 100133 | Candesartan cilexetil Sandoz 4 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 100135 | Candesartan cilexetil Sandoz 8 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 100143 | Candesartan cilexetil Sandoz 16 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 100144 | Candesartan cilexetil Sandoz 32 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 104699 | Candesartan cilexetil Viatris 4 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 104700 | Candesartan cilexetil Viatris 8 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 104701 | Candesartan cilexetil Viatris 16 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 104702 | Candesartan cilexetil Viatris 32 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 107526 | Candesartan cilexetil Teva 8 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 107528 | Candesartan cilexetil Teva 4 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 107532 | Candesartan cilexetil Teva 16 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 107533 | Candesartan cilexetil Teva 32 mg, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 107581 | Kairasec 8 mg tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 107583 | Kairasec 16 mg tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 107584 | Kairasec 32 mg tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+| RVG 107585 | Candesartan cilexetil 8 mg Focus Care, tabletten | CANDESARTANCILEXETIL | Tablet | Geldig |
+
+Getoond worden 20 van de 73 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de gegevens van het CBG-MEB is het middel in Nederland **in de handel**, met geldige handelsvergunningen. Voor de goedgekeurde indicaties en productinformatie wordt verwezen naar de SmPC en de bijsluiter (PIL) van de betreffende producten.
 

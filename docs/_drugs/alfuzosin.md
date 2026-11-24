@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alfuzosin: voorspelde nieuwe indicatie Ambras-type hypertrichosis universalis congenita (bewijsniveau L5). Oorspronkelijke indicatie: Benigne prostaathyperplasie"
 monitor_inn: "alfuzosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -70,15 +70,23 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 110187//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte (status: niet geregistreerd) | Tablet met verlengde afgifte (volgens productnaam) | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-alfuzosin-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 31128 | Alfuzosine HCl CF 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 31635 | Alfuzosinehydrochloride 2,5 mg PCH, filmomhulde tabletten | ALFUZOSINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 32989 | Alfuzosine HCl SUN 10 mg tabletten, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 33134 | Alfuzosine HCl Sandoz retard 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 33407 | Alfuzosine HCl Retard Viatris 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 103826 | Alfuzosine HCl Aurobindo 2,5 mg, filmomhulde tabletten | ALFUZOSINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 105908 | Alfuzosine HCl Aurobindo 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 128378//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 110187//23923 | Xatral XR 10 mg, tabletten met verlengde afgifte | ALFUZOSINEHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 110187//23923 / Xatral XR 10 mg, tabletten met verlengde afgifte (status: geldig) / Tablet met verlengde afgifte (volgens productnaam) / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 110187//23923 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-alfuzosin-1 -->
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -98,7 +106,7 @@ De voorspelling bevindt zich op bewijsniveau L5: uitsluitend modelvoorspelling, 
 
 <!-- review:begin nl-lic-20261031-alfuzosin-1 -->
 
-> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “De voorspelling bevindt zich op bewijsniveau L5: uitsluitend modelvoorspelling, zonder klinische studies, literatuur of aannemelijk werkingsmechanisme. Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “De voorspelling bevindt zich op bewijsniveau L5: uitsluitend modelvoorspelling, zonder klinische studies, literatuur of aannemelijk werkingsmechanisme. Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinformatie.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261031-alfuzosin-1 -->
 
@@ -117,8 +125,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-10-31 | Verwijderd: “Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinform” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 110187//23923: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-10-31 | Verwijderd: “Daarnaast is het product in Nederland alleen nog als doorgehaalde registratie aanwezig, en ontbreken gegevens uit de officiële productinform” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 110187//23923: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3) |
 
 <!-- review:end log -->

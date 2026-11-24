@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "dorzolamide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dorzolamide: voorspelde nieuwe indicatie Hypotrichosis simplex van de hoofdhuid (hypotrichosis simplex of the scalp) (bewijsniveau L5). In Nederland, CBG-vergunningen: 23 (geldig: 18)"
 ---
 
@@ -67,6 +67,37 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
+
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 17618 | TRUSOPT 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 32633 | TRUSOPT conserveermiddelvrij, oogdruppels, oplossing in flacon voor eenmalig ge… | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 101854 | Dorzolamide Viatris 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 105562 | Dorzolamide Aurobindo 20 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 109493 | Dorzostill 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 123865 | Trusmono conserveermiddelvrij 20 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 126313 | Dorzolamide Brown & Burk zonder conserveermiddel 20 mg/ml oogdruppels, oplossin… | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 131908 | Odyral 20 mg/ml oogdruppels, oplossing in verpakking voor eenmalig gebruik | DORZOLAMIDEHYDROCHLORIDE | Oogdruppels, oplossing | Geldig |
+| RVG 22871 | COSOPT 20 mg/ml + 5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 33660 | COSOPT CONSERVEERMIDDELVRIJ, oogdruppels, oplossing in verpakking voor eenmalig… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 105541 | Dorzolamide/Timolol Aurobindo 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 105655 | Dorzolamide/Timolol Viatris 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 112681 | Dualkopt 20 mg/ml + 5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 120482 | Dorzolamide + Timolol Stulln 20 mg/ml + 5 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 120553 | Dorzolamide + Timolol Stulln zonder conserveermiddel 20 mg/ml + 5 mg/ml oogdrup… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 120935 | COSOPT Multidose conserveermiddelvrij 20 mg/ml + 5 mg/ml oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 131746 | Odyrtim 20 mg/ml + 5 mg/ml oogdruppels, oplossing in verpakking voor eenmalig g… | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 135045 | Dorzolamide/Timolol Sandoz 20/5 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE, TIMOLOLMALEAAT | Oogdruppels, oplossing | Geldig |
+| RVG 118454//17618 | TRUSOPT 20 mg/ml, oogdruppels, oplossing | DORZOLAMIDEHYDROCHLORIDE | – | Niet geregistreerd |
+| RVG 116218//33660 | Cosopt conserveermiddelvrij, oogdruppels, oplossing, flacon voor eenmalig gebru… | TIMOLOLMALEAAT, DORZOLAMIDEHYDROCHLORIDE, NATRIUMHYDROXIDE (E 524) | – | Niet geregistreerd |
+
+Getoond worden 20 van de 23 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Volgens de lokale registergegevens van het CBG-MEB is dorzolamide in Nederland **in de handel**. De vergunningsgegevens (RVG-nummers, producten en registratietekst) worden door het systeem apart toegevoegd.
 

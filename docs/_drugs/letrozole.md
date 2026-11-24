@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: voorspelde nieuwe indicatie Tepelcarcinoom (nipple carcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 20 (geldig: 19)"
@@ -93,19 +93,38 @@ Marktstatus: **in de handel**.
 
 <!-- review:begin nl-lic-20261112-letrozole-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Marktstatus: **in de handel**. Er is één geldige registratie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 20, waarvan geldig: 19; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Marktstatus: **in de handel**. Er is één geldige registratie.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-letrozole-1 -->
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Geregistreerde indicatie |
-|---------|------|------|-----------|
-| RVG 114435 | Letrozol 2,5 mg Focus, filmomhulde tabletten | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-letrozole-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 100787 | Letrozol Synthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 100790 | Letrozol Synthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 100792 | Letrozol Genthon 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 100805 | Etruzil 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 100807 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 100809 | Letrostar 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 100811 | Letrozin 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 102441 | Letrozol Accord 2,5 mg filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 102781 | Letrozol Glenmark 2,5 mg filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 102826 | Letrozol 2,5 mg Teva, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 104036 | Letrozol Viatris 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 104924 | Letrozol Devatis 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 104929 | Letrozol Denk 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 105802 | Letrozol SUN 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 106321 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 106322 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 106323 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 111266 | Letrozol Amarox 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 133221 | Letrozol Sandoz 2,5 mg, filmomhulde tabletten | LETROZOL | Filmomhulde tablet | Geldig |
+| RVG 114435 | Letrozol 2,5 mg Focus, filmomhulde tabletten | LETROZOL | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 114435 / Letrozol 2,5 mg Focus, filmomhulde tabletten / Niet vermeld / Niet vermeld (vergunning geldig)” Gecorrigeerd: registratienummer RVG 114435 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-letrozole-2 -->
+<!-- licenses:end -->
 
 ---
 
@@ -166,8 +185,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-10-31 | Verwijderd: “Dat de marktstatus "alleen doorgehaald" is en de oorspronkelijke indicatie ontbreekt, duidt waarschijnlijk op een databaseartefact” | Niet meer aanwezig nadat het rapport opnieuw is gegenereerd (2026-11-12: het rapport is in november 2026 opnieuw gegenereerd en bevat de vermelding niet meer; eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Er is één geldige registratie” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 114435: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is één geldige registratie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 114435: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Acenocoumarol"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Acenocoumarol: voorspelde nieuwe indicatie Heparinecofactor II-deficiëntie (heparin cofactor 2 deficiency) (bewijsniveau L5). In Nederland, CBG-vergunningen: 3 (geldig: 2)"
 ---
 
@@ -70,9 +70,17 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113318 | Acenocoumarol Teva 1 mg, tabletten | Tablet | Niet vastgelegd in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 50674 | Acenocoumarol CF 1 mg, tabletten | ACENOCOUMAROL | Tablet | Geldig |
+| RVG 128376 | Acenocoumarol Aurobindo 1 mg, tabletten | ACENOCOUMAROL | Tablet | Geldig |
+| RVG 113318 | Acenocoumarol Teva 1 mg, tabletten | ACENOCOUMAROL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

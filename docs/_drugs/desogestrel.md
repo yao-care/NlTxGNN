@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 107
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desogestrel: voorspelde nieuwe indicatie Amenorroe (bewijsniveau L5). Oorspronkelijke indicatie: Niet vastgelegd in de vergunningsgegevens (de vergunningstekst is lee…"
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
@@ -94,15 +94,42 @@ De overige gevonden publicaties zijn algemene overzichten van hormonale anticonc
 
 ## Marktinformatie Nederland
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115890 | Delamonie 75 microgram, filmomhulde tabletten (status: geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-Er is bij het CBG-MEB één vergunning bekend, en die is geldig. Het middel is in Nederland op de markt.
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 22743 | Cerazette, 75 microgram filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
+| RVG 106016 | Desogestrel Eugia 0,075 mg, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
+| RVG 111004 | Desogestrel 0,075 mg Theramex, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
+| RVG 113562 | Zarelle 75 microgram filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
+| RVG 115890 | Delamonie 75 microgram, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
+| RVG 126421 | Desogestrel Centrafarm 0,075 mg, filmomhulde tabletten | DESOGESTREL | Filmomhulde tablet | Geldig |
+| RVG 08859 | Marvelon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 11508 | Mercilon, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 108161 | Ethinylestradiol/Desogestrel 0,02/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 108164 | Ethinylestradiol/Desogestrel 0,03/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 108170 | Ethinylestradiol/Desogestrel Xiromed 0,02/0,15 mg, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 108171 | Ethinylestradiol/Desogestrel Xiromed 0,03/0,15 mg, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 110873 | Ethinylestradiol/Desogestrel 0,03 mg/0,15 mg Focus, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 110874 | Bryoronna 28 150/30 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 112197 | Ethinylestradiol/Desogestrel 0,02 mg/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 112201 | Ethinylestradiol/Desogestrel 0,03 mg/0,15 mg Teva, tabletten | DESOGESTREL, ETHINYLESTRADIOL | Tablet | Geldig |
+| RVG 112377 | Desogestrel/Ethinylestradiol Eugia 150/20 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 112378 | Desogestrel/Ethinylestradiol Eugia 150/30 microgram, filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 117546 | Desogestrel/Ethinylestradiol Xiromed 0,15 mg/0,02 mg filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+| RVG 117547 | Desogestrel/Ethinylestradiol Xiromed 0,15 mg/0,03 mg filmomhulde tabletten | DESOGESTREL, ETHINYLESTRADIOL | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 22 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
+
+Er zijn bij het CBG-MEB geldige vergunningen bekend (actuele aantallen staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie). Het middel is in Nederland op de markt.
 
 <!-- review:begin nl-lic-20261112-desogestrel-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er is bij het CBG-MEB één vergunning bekend, en die is geldig (1 geldige vergunning van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 22, waarvan geldig: 22; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er is bij het CBG-MEB één vergunning bekend, en die is geldig (1 geldige vergunning van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-desogestrel-1 -->
 
@@ -138,7 +165,7 @@ Raadpleeg voor volledige veiligheidsinformatie (waarschuwingen en contra-indicat
 
 <!-- review:begin nl-lic-20261112-desogestrel-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “In Nederland is het middel op de markt, met 1 geldige vergunning van 1; de veiligheidsgegevens uit de officiële productinformatie ontbreken.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 22, waarvan geldig: 22; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “In Nederland is het middel op de markt, met 1 geldige vergunning van 1; de veiligheidsgegevens uit de officiële productinformatie ontbreken.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-desogestrel-2 -->
 
@@ -162,8 +189,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “In Nederland is het middel op de markt, met 1 geldige vergunning van 1; d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “In Nederland is het middel op de markt, met 1 geldige vergunning van 1; d” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
 
 <!-- review:end log -->

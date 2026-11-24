@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "omeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole: voorspelde nieuwe indicatie Duodenal obstruction (bewijsniveau L5). In Nederland, CBG-vergunningen: 84 (geldig: 83)"
@@ -95,16 +95,36 @@ Dierstudies geven bovendien een veiligheidssignaal: zuurblokkade in combinatie m
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 114901 | Omeprazol Hetero 40 mg, harde maagsapresistente capsules (geldig) | Capsule (volgens productnaam) | Niet beschikbaar |
-| RVG 119910//21685 | Losec MUPS 40 mg, maagsapresistente tabletten (niet geregistreerd) | Tablet (volgens productnaam) | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-omeprazole-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 12438 | Losec 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 14905 | Losec 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 16745 | Losec 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 21683 | Losec MUPS 10 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 21684 | Losec MUPS 20 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 21685 | Losec MUPS 40 mg, maagsapresistente tabletten | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 25212 | Losecosan 10 mg, maagsapresistente tablet | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 25213 | Losecosan 20 mg, maagsapresistente tablet | OMEPRAZOL MAGNESIUM | Maagsapresistente tablet | Geldig |
+| RVG 25482 | Omeprazol Viatris 20 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 25660 | Omeprazol Distriquimica 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 25661 | Omeprazol Distriquimica 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 26015 | Omeprazol Viatris 10 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 26016 | Omeprazol Viatris 40 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 26724 | Omeprazol Aurobindo 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 29763 | Omeprazol capsules 40 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 29764 | Omeprazol capsules 20 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 29765 | Omeprazol capsules 10 mg, maagsapresistente capsules | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 29766 | Omeprazol Xiromed 10 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 29769 | Omeprazol Xiromed 40 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
+| RVG 29770 | Omeprazol Xiromed 20 mg, maagsapresistente capsules, hard | OMEPRAZOL | Maagsapresistente capsule, hard | Geldig |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119910//21685 / Losec MUPS 40 mg, maagsapresistente tabletten (geldig) / Tablet (volgens productnaam) / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 119910//21685 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Getoond worden 20 van de 84 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
 
-<!-- review:end nl-lic-20261112-omeprazole-1 -->
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -130,7 +150,7 @@ Voor volledige waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatt
 
 <!-- review:begin nl-lic-20261106-omeprazole-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De hoge modelscore weerspiegelt vooral de nabijheid van bestaande indicaties. / Beide Nederlandse registraties zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 2, waarvan geldig: 2; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De hoge modelscore weerspiegelt vooral de nabijheid van bestaande indicaties. / Beide Nederlandse registraties zijn doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-omeprazole-1 -->
 
@@ -155,8 +175,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119910//21685: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119910//21685: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 297
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 description: "Ropinirole: voorspelde nieuwe indicatie Attention deficit-hyperactivity disorder (bewijsniveau L3). In Nederland, CBG-vergunningen: 45 (geldig: 45)"
@@ -89,9 +89,36 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119000 | Ropinirol Retard Mylan 8 mg, tabletten met verlengde afgifte | Niet beschikbaar | Niet beschikbaar (registratie geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 20761 | Requip 0,25, filmomhulde tabletten 0,25 mg | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 20763 | Requip 1, filmomhulde tabletten 1 mg | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 20764 | Requip 2, filmomhulde tabletten 2 mg | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 20765 | Requip 5, filmomhulde tabletten 5 mg | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 34856 | Ropinirol Viatris 0,25 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 34857 | Ropinirol Viatris 0,5 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 34858 | Ropinirol Viatris 1 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 34859 | Ropinirol Viatris 2 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 34860 | Ropinirol Viatris 5 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100571 | Requip-Modutab 2 mg, tabletten met verlengde afgifte | ROPINIROLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 100574 | Requip-Modutab 4 mg, tabletten met verlengde afgifte | ROPINIROLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 100576 | Requip-Modutab 8 mg, tabletten met verlengde afgifte | ROPINIROLHYDROCHLORIDE | Tablet met verlengde afgifte | Geldig |
+| RVG 101690 | Ropinirol 0,25 mg PCH, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 101691 | Ropinirol 0,5 mg PCH, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 101692 | Ropinirol 1 mg PCH, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 101693 | Ropinirol 2 mg PCH, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103720 | Ropinirol Glenmark 0,25 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103721 | Ropinirol Glenmark 0,5 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103722 | Ropinirol Glenmark 1 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 103723 | Ropinirol Glenmark 2 mg, filmomhulde tabletten | ROPINIROLHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 45 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

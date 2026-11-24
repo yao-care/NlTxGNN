@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 245
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitroglycerin: voorspelde nieuwe indicatie Pulmonale hypertensie (bewijsniveau L3). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens van de Nederlandse vergunning (CBG-ME…"
 monitor_inn: "nitroglycerin"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -83,15 +83,32 @@ Het verband met de bekende toepassing is plausibel: het vaatverwijdende effect d
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119350//15864 | Minitran 5 mg/24 uur, pleister met gereguleerde afgifte (niet geregistreerd) | Pleister | Niet vermeld in de beschikbare gegevens |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-nitroglycerin-2 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 09672 | Transiderm-Nitro 5, pleister voor transdermaal gebruik 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 09673 | Transiderm-Nitro 10, pleister voor transdermaal gebruik 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 10393 | Nitro "Pohl" Infus voor perfusorpompsystemen 1mg/ml, oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | Geldig |
+| RVG 15864 | Minitran 5, pleister met gereguleerde afgifte 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 15865 | Minitran 10, pleister met gereguleerde afgifte 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 15866 | Minitran 15, pleister met gereguleerde afgifte 15 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 17464 | Deponit T 5, pleister voor transdermaal gebruik 5 mg/ 24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 17465 | Deponit T 10, pleister voor transdermaal gebruik 10 mg/ 24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 17730 | Nitrolingual Pompspray, spray voor oromucosaal gebruik 0,4 mg/dosis | NITROGLYCERINE | Spray voor oromucosaal gebruik | Geldig |
+| RVG 19511 | Nitroglycerine Teva 5 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 19512 | Nitroglycerine Teva 10 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 19513 | Nitroglycerine Teva 15 mg/24u, pleister voor transdermaal gebruik | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 21493 | Glytrin, 400 microgram per dosis, sublinguale spray | NITROGLYCERINE | Spray voor sublinguaal gebruik | Geldig |
+| RVG 119982 | Nitroglycerine-hameln 1 mg/ml, oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | Geldig |
+| RVG 123623//15865 | Minitran 10, pleister met gereguleerde afgifte 10 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 123625//15864 | Minitran 5, pleister met gereguleerde afgifte 5 mg/24 uur | NITROGLYCERINE | Pleister voor transdermaal gebruik | Geldig |
+| RVG 134753 | Nitroglycerine Macure 1 mg/ml oplossing voor infusie | NITROGLYCERINE | Oplossing voor infusie | Geldig |
+| RVG 119350//15864 | Minitran 5 mg/24 uur, pleister met gereguleerde afgifte | NITROGLYCERINE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 119350//15864 / Minitran 5 mg/24 uur, pleister met gereguleerde afgifte (geldig) / Pleister / Niet vermeld in de beschikbare gegevens” Gecorrigeerd: registratienummer RVG 119350//15864 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-nitroglycerin-2 -->
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -118,7 +135,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 <!-- review:begin nl-lic-20261112-nitroglycerin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn echter geen afgeronde fase 2/3-RCT's en geen langetermijnuitkomsten. / De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 18, waarvan geldig: 17; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Er zijn echter geen afgeronde fase 2/3-RCT's en geen langetermijnuitkomsten. / De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-nitroglycerin-1 -->
 
@@ -136,8 +153,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 119350//15864: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is doorgehaald en de officiële veiligheidsinformatie ontbreekt; dit blokkeert de veiligheidsscreening” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 119350//15864: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300) |
 
 <!-- review:end log -->

@@ -3,7 +3,7 @@ layout: default
 title: Diltiazem
 parent: Alleen bekend gebruik (geen nieuwe voorspellingen)
 nav_order: 115
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Diltiazem: bekende toepassingen en marktstatus in Nederland; momenteel geen nieuwe kandidaat-indicatie"
 predicted_indications: []
 indication_count: 0
@@ -71,9 +71,27 @@ Het TxGNN-model (score ≥ 0,99) heeft kandidaten voor Diltiazem opgeleverd. All
 
 ## Informatie over de Nederlandse markt
 
-| Registratie | Product | Toedieningsvorm | Status |
-|------|------|------|------|
-| RVG 112637 | Diltiazem HCl Sandoz retard 300 mg, capsules met verlengde a |  | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 17462 | Diltiazem HCl Auro retard 90 mg, tabletten met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 17463 | Diltiazem HCl Auro retard 120 mg, tabletten met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Tablet met gereguleerde afgifte | Geldig |
+| RVG 18110 | Diltiazem HCl Aurobindo 60 mg, tabletten | DILTIAZEMHYDROCHLORIDE | Tablet | Geldig |
+| RVG 22526 | Diltiazem HCl Retard SMB 120 mg, capsules met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 22527 | Diltiazem HCl Retard Mylan 180 mg, capsules met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 22528 | Diltiazem HCl Retard Mylan 240 mg, capsules met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 22529 | Diltiazem HCl Retard Mylan 300 mg, capsules met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 22530 | Diltiazem HCl Retard Mylan 360 mg, capsules met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 100833 | Diltiazem HCl Retard Mylan 200 mg, capsules met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 109446 | Diltiazem HCl retard 200 mg Teva, capsules met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 109448 | Diltiazem HCl retard 300 mg Teva, capsules met gereguleerde afgifte | DILTIAZEMHYDROCHLORIDE | Capsule met gereguleerde afgifte, hard | Geldig |
+| RVG 112636 | Diltiazem HCl Sandoz retard 200 mg, capsules met verlengde afgifte, hard | DILTIAZEMHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
+| RVG 112637 | Diltiazem HCl Sandoz retard 300 mg, capsules met verlengde afgifte, hard | DILTIAZEMHYDROCHLORIDE | Capsule met verlengde afgifte, hard | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

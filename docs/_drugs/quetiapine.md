@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 285
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
 description: "Quetiapine: voorspelde nieuwe indicatie Retinale dystrofie met of zonder extraoculaire afwijkingen (retinal dystrophy with or without extraocular anomalies) (bewijsniveau L5). Oorspronkelijke indicat…"
@@ -70,10 +70,36 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 119884//34625 | Seroquel XR 50 mg, tabletten met verlengde afgifte | Niet geregistreerd |
-| RVG 103463 | Quetiapine Farmaprojects 100 mg filmomhulde tabletten | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 20826 | Seroquel 25 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 20827 | Seroquel 100 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 20828 | Seroquel 200 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 25603 | Seroquel 300 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 34625 | Seroquel XR 50 mg, tabletten met verlengde afgifte | QUETIAPINEFUMARAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 34626 | Seroquel XR 200 mg, tabletten met verlengde afgifte | QUETIAPINEFUMARAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 34627 | Seroquel XR 300 mg, tabletten met verlengde afgifte | QUETIAPINEFUMARAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 34628 | Seroquel XR 400 mg, tabletten met verlengde afgifte | QUETIAPINEFUMARAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 100746 | Quetiapine 25 mg Teva, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 100752 | Quetiapine 100 mg Teva, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 100755 | Quetiapine 200 mg Teva, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 100761 | Quetiapine 300 mg Teva, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 101989 | Quetiapine Sandoz 25 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 102408 | Seroquel XR 150 mg, tabletten met verlengde afgifte | QUETIAPINEFUMARAAT | Tablet met verlengde afgifte | Geldig |
+| RVG 102974 | Quetiapine Sandoz 100 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 102992 | Quetiapine Sandoz 200 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 102993 | Quetiapine Sandoz 300 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 103589 | Quetiapine CF 25 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 103590 | Quetiapine CF 100 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+| RVG 103591 | Quetiapine CF 300 mg, filmomhulde tabletten | QUETIAPINEFUMARAAT | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 112 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Voor de goedgekeurde indicaties van andere quetiapineproducten verwijzen we naar de actuele SmPC.
 

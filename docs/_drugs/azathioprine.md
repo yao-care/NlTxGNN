@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Azathioprine: voorspelde nieuwe indicatie Colobomateuze microftalmie-rizomele dysplasiesyndroom (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (bewijsniveau L5). Oorspronkelijke indicati…"
 ---
 
@@ -68,9 +68,27 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 113802 | Azafalk 50 mg filmomhulde tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/21/1557 | Jayempi 10 mg/ml, orale suspensie | AZATHIOPRINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 10467 | Azathioprine Teva 50 mg, tabletten | AZATHIOPRINE | Tablet | Geldig |
+| RVG 24581 | Azathioprine 1A Pharma 25 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 24582 | Azathioprine 1A Pharma 50 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 24721 | Azathioprine Viatris 25 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 24722 | Azathioprine Viatris 50 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 27562 | Azathioprine Sandoz 25, filmomhulde tabletten 25 mg | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 27563 | Azathioprine Sandoz 50, filmomhulde tabletten 50 mg | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 27564 | Azathioprine 25 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 27565 | Azathioprine 50 mg, filmomhulde tablet | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 108782 | Azathioprine CF 25 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 108784 | Azathioprine CF 50 mg, filmomhulde tabletten | AZATHIOPRINE | Filmomhulde tablet | Geldig |
+| RVG 113802 | Azafalk 50 mg filmomhulde tabletten | AZATHIOPRINE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Bij de voor dit rapport samengestelde gegevens is één registratie opgenomen. De registratie is door het CBG-MEB in de gegevens als vervallen aangemerkt, terwijl de totale marktstatus "In de handel" luidt. Raadpleeg het CBG-MEB voor de actuele status.
 

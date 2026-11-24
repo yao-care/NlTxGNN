@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "levobupivacaine"
 predicted_indications: ["gastroduodenitis"]
 description: "Levobupivacaine: voorspelde nieuwe indicatie Gastroduodenitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 8)"
@@ -78,7 +78,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261106-levobupivacaine-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-levobupivacaine-1 -->
 
@@ -86,9 +86,22 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 115879 | Levobupivacaïne Molteni 7,5 mg/ml, oplossing voor injectie/infusie (geldig) | Oplossing voor injectie/infusie | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 113445 | Levobupivacaïne Fresenius Kabi 0,625 mg/ml, oplossing voor infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 113447 | Levobupivacaïne Fresenius Kabi 1,25 mg/ml, oplossing voor infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie | Geldig |
+| RVG 113448 | Levobupivacaïne Fresenius Kabi 2,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Geldig |
+| RVG 113449 | Levobupivacaïne Fresenius Kabi 5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Geldig |
+| RVG 113450 | Levobupivacaïne Fresenius Kabi 7,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor infusie, Oplossing voor injectie | Geldig |
+| RVG 115877 | Levobupivacaïne Molteni 2,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 115878 | Levobupivacaïne Molteni 5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 115879 | Levobupivacaïne Molteni 7,5 mg/ml, oplossing voor injectie/infusie | LEVOBUPIVACAÏNEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -112,7 +125,7 @@ Voor volledige waarschuwingen en contra-indicaties moet de SmPC (Samenvatting va
 
 <!-- review:begin nl-lic-20261106-levobupivacaine-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is geen aannemelijke toedieningsroute of therapeutische rationale voor gastroduodenitis, en de enige Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Er is geen aannemelijke toedieningsroute of therapeutische rationale voor gastroduodenitis, en de enige Nederlandse vergunning is doorgehaald.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-levobupivacaine-2 -->
 
@@ -131,8 +144,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Het CBG-MEB-register vermeldt voor dit middel uitsluitend een doorgehaalde vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “en de enige Nederlandse vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

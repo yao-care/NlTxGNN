@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Lynestrenol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Lynestrenol: voorspelde nieuwe indicatie Migraine (migraine disorder) (bewijsniveau L4). Oorspronkelijke indicatie: Niet vermeld in de voor dit rapport verzamelde vergunningsgegevens"
 ---
 
@@ -75,9 +75,18 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118686//00278 | Orgametril 5 mg, tabletten | Tabletten | Niet vermeld in de verzamelde gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 00278 | Orgametril, 5 mg tabletten | LYNESTRENOL | Tablet | Geldig |
+| RVG 06443 | Exluton, tabletten 0,5 mg | LYNESTRENOL | Tablet | Geldig |
+| RVG 128454//00278 | Orgametril 5 mg, tabletten | LYNESTRENOL | Tablet | Geldig |
+| RVG 118686//00278 | Orgametril 5 mg, tabletten | LYNESTRENOL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

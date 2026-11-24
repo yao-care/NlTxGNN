@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fosfomycin: voorspelde nieuwe indicatie Ontstekingsziekte van de baarmoeder (uterine inflammatory disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 7 (geldig: 6)"
 ---
 
@@ -85,9 +85,21 @@ De beschikbare studies ondersteunen dit niet. De twee klinische studies zijn alg
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 120135//13066 | Monuril 3000, granulaat voor drank 3 g | Granulaat voor drank (afgeleid uit de productnaam) | Niet vermeld in de beschikbare gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 13066 | Monuril 3000, granulaat voor drank 3 g | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Geldig |
+| RVG 115433 | Fomicyt 40 mg/ml poeder voor oplossing voor infusie | FOSFOMYCINE DINATRIUM | Poeder voor oplossing voor infusie | Geldig |
+| RVG 121956 | Fosfomycine Sandoz 3000 mg, poeder voor drank | FOSFOMYCINE TROMETAMOL | Poeder voor drank | Geldig |
+| RVG 121957 | Fosfomycine 1A Pharma 3000 mg, poeder voor drank | FOSFOMYCINE TROMETAMOL | Poeder voor drank | Geldig |
+| RVG 124189 | Fosfomycine 3 g Focus, granulaat voor drank in sachet | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Geldig |
+| RVG 135452 | Fosfomycine Aurobindo 3000 mg, granulaat voor drank | FOSFOMYCINE TROMETAMOL | Granulaat voor drank | Geldig |
+| RVG 120135//13066 | Monuril 3000, granulaat voor drank 3 g | FOSFOMYCINE TROMETAMOL | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Dit is een eencomponentproduct met fosfomycine, met de status geldig. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter bij het CBG-MEB voor de exacte goedgekeurde indicatie.
 

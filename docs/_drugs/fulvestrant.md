@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 167
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fulvestrant: voorspelde nieuwe indicatie HIV-infectie (bewijsniveau L4). Oorspronkelijke indicatie: Niet beschikbaar in de gegevens (de vergunning bevat geen indicatiete…"
 monitor_inn: "Fulvestrant"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -73,9 +73,29 @@ Momenteel zijn er geen gerelateerde klinische studies geregistreerd voor HIV-inf
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116708 | Fulvestrant Teva 250 mg, oplossing voor injectie in een voorgevulde spuit (status: geldig) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/03/269 | Faslodex 250 mg oplossing voor injectie | FULVESTRANT | Oplossing voor injectie | Geldig |
+| EU/1/17/1253 | Fulvestrant Mylan 250 mg oplossing voor injectie | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 115994 | Fulvestrant Sandoz 50 mg/ml, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 116708 | Fulvestrant Teva 250 mg, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 120916 | Fulvestrant SUN 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 121870 | Fulvestrant EVER Pharma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 123359 | Fulvestrant Accord 250 mg oplossing voor injectie in voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 125141 | Fulvestrant Zentiva 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 125142 | Vastaloma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 125853 | Fulvestrant Glenmark 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 126293 | Imarsa 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 126295 | Fulvestrant Xiromed 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 126297 | Fulvefar 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 126302 | Fulvestrant Leon Farma 250 mg oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+| RVG 128463 | Fulvestrant Eugia 250 mg, oplossing voor injectie in een voorgevulde spuit | FULVESTRANT | Oplossing voor injectie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Cytotoxiciteit
 
@@ -104,7 +124,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 <!-- review:begin nl-lic-20261106-fulvestrant-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs voor HIV-infectie is beperkt tot één preklinische in-vitro studie (L4) zonder klinische studies. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Het bewijs voor HIV-infectie is beperkt tot één preklinische in-vitro studie (L4) zonder klinische studies. Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-fulvestrant-1 -->
 
@@ -116,7 +136,7 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 <!-- review:begin nl-lic-20261112-fulvestrant-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Verduidelijking van de commerciële beschikbaarheid in Nederland, aangezien er 1 geldige vergunning (van 1) voor dit product is” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 15, waarvan geldig: 15; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Verduidelijking van de commerciële beschikbaarheid in Nederland, aangezien er 1 geldige vergunning (van 1) voor dit product is” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-fulvestrant-1 -->
 
@@ -128,8 +148,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “aangezien er 1 geldige vergunning (van 1) voor dit product is” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreken de officiële veiligheidsgegevens” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “aangezien er 1 geldige vergunning (van 1) voor dit product is” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a) |
 
 <!-- review:end log -->

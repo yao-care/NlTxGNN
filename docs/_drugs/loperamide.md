@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "Angelucci syndrome"]
 description: "Loperamide: voorspelde nieuwe indicatie Acute contagious conjunctivitis (bewijsniveau L5). In Nederland, CBG-vergunningen: 34 (geldig: 31)"
@@ -93,11 +93,36 @@ Voor andere hoog gescoorde voorspellingen zijn wel enkele publicaties gevonden. 
 
 Gegevens over farmaceutische vorm en goedgekeurde indicatie ontbreken.
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 116627//08423 | Imodium 0,2 mg/ml drank | Niet geregistreerd |
-| RVG 114697 | Loperuma 2 mg/125 mg, kauwtabletten | Niet geregistreerd |
-| RVG 113192 | Losiveca 2mg/ 125mg, tabletten | Niet geregistreerd |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 06945 | Imodium 2 mg harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 14220 | Loperamide HCl Teva 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 15140 | Loperamide HCl CF 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 17037 | Loperamide HCl Sandoz 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 20642=15140 | Diarreeremmer HTP loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 26866=15140 | Etos Diarreeremmer Loperamide HCI 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 28867=15140 | DA Diarreeremmende capsules Loperamide HCl 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 33724 | Imodium Instant smelttablet 2 mg orodispergeerbare tabletten | LOPERAMIDEHYDROCHLORIDE | Orodispergeerbare tablet | Geldig |
+| RVG 35307 | Diarreeremmer Loperamide HCl SAM 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 56839 | Loperamide HCl RXT 2 mg diarreeremmende capsules, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 57117 | Loperamide HCl Mylan 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 103775 | Albert Heijn Diarreeremmer Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 105036 | DA Diarreeremmende capsules Loperamide HCl 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 105493 | Diarreeremmer HTP Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 121134 | Loperamide HCl Sanias 2 mg, harde capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 123064=14220 | Livsane Diarreeremmer Loperamide HCl 2 mg, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 124077=14220 | Loperamide HCl Triangle Pharma 2 mg diarreeremmende capsules, capsules | LOPERAMIDEHYDROCHLORIDE | Capsule, hard | Geldig |
+| RVG 125424 | Loritax 2 mg, lyophilisaat voor oraal gebruik | LOPERAMIDEHYDROCHLORIDE | Lyophilisaat voor oraal gebruik | Geldig |
+| RVG 125439 | Loperamide HCl Viatris 2 mg, lyophilisaat voor oraal gebruik | LOPERAMIDEHYDROCHLORIDE | Lyophilisaat voor oraal gebruik | Geldig |
+| RVG 125673 | Kruidvat diarreeremmer loperamide HCl 2 mg smelttablet, orodispergeerbare table… | LOPERAMIDEHYDROCHLORIDE | Orodispergeerbare tablet | Geldig |
+
+Getoond worden 20 van de 34 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Aripiprazole: voorspelde nieuwe indicatie Familiaire horizontale blikparese met progressieve scoliose (gaze palsy, familial horizontal, with progressive scoliosis) (bewijsniveau L5)."
 ---
 
@@ -82,13 +82,40 @@ De marktstatus is **In de handel**.
 
 <!-- review:begin nl-lic-20261112-aripiprazole-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De marktstatus is **In de handel**. Er is één geldige vergunning (CBG-MEB).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 69, waarvan geldig: 68; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De marktstatus is **In de handel**. Er is één geldige vergunning (CBG-MEB).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-aripiprazole-1 -->
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116179 | Aripiprazol Unichem 30 mg, tabletten | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/04/276 | Abilify 15 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| EU/1/13/882 | Abilify Maintena 300 mg poeder en oplosmiddel voor suspensie voor injectie met… | ARIPIPRAZOL 1-WATER | Poeder en oplosmiddel voor suspensie voor injecti… | Geldig |
+| EU/1/15/1005 | Aripiprazole Mylan Pharma 30 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| EU/1/15/1009 | Aripiprazole Zentiva 5 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| EU/1/15/1029 | Aripiprazol Sandoz 15 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| EU/1/15/1045 | Aripiprazol Accord 15 mg tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| RVG 115581 | Aribit ODT 10 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
+| RVG 115582 | Aribit ODT 15 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
+| RVG 115583 | Aribit ODT 30 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
+| RVG 115588 | Aripiprazol Sandoz 10 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
+| RVG 115589 | Aripiprazol Sandoz 15 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
+| RVG 115590 | Aripiprazol Sandoz 30 mg orodispergeerbare tabletten | ARIPIPRAZOL | Orodispergeerbare tablet | Geldig |
+| RVG 115594 | Aripiprazol Amarox 5 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| RVG 115595 | Aripiprazol Amarox 10 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| RVG 115596 | Aripiprazol Amarox 15 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| RVG 115597 | Aripiprazol Amarox 20 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| RVG 115598 | Aripiprazol Amarox 30 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| RVG 115599 | Aripiprazol Teva 10 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| RVG 115600 | Aripiprazol Teva 15 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+| RVG 115602 | Aripiprazol Teva 30 mg, tabletten | ARIPIPRAZOL | Tablet | Geldig |
+
+Getoond worden 20 van de 69 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -133,7 +160,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Er is één geldige vergunning (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Er is één geldige vergunning (CBG-MEB)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

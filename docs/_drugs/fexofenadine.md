@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-24
 description: "Fexofenadine: voorspelde nieuwe indicatie Rosacea-conjunctivitis (bewijsniveau L5). Oorspronkelijke indicatie: Allergische rinitis, vasomotore rinitis…"
 monitor_inn: "fexofenadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -86,15 +86,33 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118299 | Fexofenadine Midas 180 mg, filmomhulde tabletten (status: niet geregistreerd) | Niet beschikbaar | Niet beschikbaar |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-fexofenadine-3 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 21624 | Allegra fexotabs, 120 mg filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 21625 | Telfast 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 28085 | Telfast Junior 30 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 35246 | Fexofenadine HCl Teva 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 35247 | Fexofenadine HCl Teva 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100529 | Fexofenadine HCl Mylan 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 100530 | Fexofenadine HCL Mylan 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 127014 | Fexofenadine HCL Amarox 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 127015 | Fexofenadine HCL Amarox 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 131240 | Fexofenadine HCl Viatris 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 131241 | Fexofenadine HCl Viatris 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 131257 | Fexofenadine HCl Aurobindo 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 131261 | Fexofenadine HCl Aurobindo 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 134526 | OtriFex 120 mg filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 136941=131257 | Kruidvat Hooikoortstabletten Fexofenadine HCl 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 136944=131257 | AH Fexofenadine HCl hooikoortstabletten 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 136945=131257 | Fexofenadine HCl hooikoortstabletten Sanias 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 136946=131257 | Etos Hooikoortstabletten Fexofenadine HCl 120 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 118299 | Fexofenadine Midas 180 mg, filmomhulde tabletten | FEXOFENADINEHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118299 / Fexofenadine Midas 180 mg, filmomhulde tabletten (status: geldig) / Niet beschikbaar / Niet beschikbaar” Gecorrigeerd: registratienummer RVG 118299 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-fexofenadine-3 -->
+<!-- licenses:end -->
 
 ---
 
@@ -116,7 +134,7 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie: ra
 
 <!-- review:begin nl-lic-20261112-fexofenadine-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op een hoge modelscore (bewijsniveau L5), zonder klinische studies of publicaties. Het mechanisme is biologisch beperkt plausibel, en de enige Nederlandse vergunning is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 19, waarvan geldig: 18; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “De voorspelling steunt alleen op een hoge modelscore (bewijsniveau L5), zonder klinische studies of publicaties. Het mechanisme is biologisch beperkt plausibel, en de enige Nederlandse vergunning is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-fexofenadine-1 -->
 
@@ -128,7 +146,7 @@ Voor waarschuwingen en contra-indicaties uit de officiële productinformatie: ra
 
 <!-- review:begin nl-lic-20261112-fexofenadine-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordelen of een formulering met voldoende blootstelling van het oogoppervlak nodig is (routecompatibiliteit is nog niet beoordeeld). / Het regelgevingsroute en de commerciële haalbaarheid heroverwegen gezien de ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 19, waarvan geldig: 18; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Beoordelen of een formulering met voldoende blootstelling van het oogoppervlak nodig is (routecompatibiliteit is nog niet beoordeeld). / Het regelgevingsroute en de commerciële haalbaarheid heroverwegen gezien de ingetrokken vergunning.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-fexofenadine-2 -->
 
@@ -140,9 +158,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Het mechanisme is biologisch beperkt plausibel, en de enige Nederlandse vergunning is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Het regelgevingsroute en de commerciële haalbaarheid heroverwegen gezien de ingetrokken vergunning” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118299: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het mechanisme is biologisch beperkt plausibel, en de enige Nederlandse vergunning is ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Het regelgevingsroute en de commerciële haalbaarheid heroverwegen gezien de ingetrokken vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118299: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | Verwijderd: “De ingetrokken marktstatus kan bovendien de praktische haalbaarheid beïnvloeden.” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->

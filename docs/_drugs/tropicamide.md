@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Tropicamide: voorspelde nieuwe indicatie Caudaequinasyndroom (bewijsniveau L5). Oorspronkelijke indicatie: Cycloplegie"
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
@@ -74,7 +74,7 @@ Ter volledigheid voorspelde het model ook twee andere indicaties, eveneens zonde
 
 <!-- review:begin nl-lic-20261106-tropicamide-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “**Prikkelbare darmsyndroom** (score 0,9912). Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleiten tegen haalbaarheid.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “**Prikkelbare darmsyndroom** (score 0,9912). Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleiten tegen haalbaarheid.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-tropicamide-1 -->
 
@@ -92,7 +92,7 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 <!-- review:begin nl-lic-20261106-tropicamide-2 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-tropicamide-2 -->
 
@@ -100,9 +100,24 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 56688 | Tropicamide 0,5% m/v, oogdruppels | Oogdruppels (volgens productnaam) | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 01777 | Monofree Tropicamide 0,5%, oogdruppels 5 mg/ml | TROPICAMIDE | Oogdruppels, oplossing | Geldig |
+| RVG 10166 | Minims Tropicamide 5 mg/ml, oogdruppels, oplossing | TROPICAMIDE | Oogdruppels, oplossing | Geldig |
+| RVG 10167 | Minims Tropicamide 10 mg/ml, oogdruppels, oplossing | TROPICAMIDE | Oogdruppels, oplossing | Geldig |
+| RVG 56688 | Tropicamide 0,5% m/v, oogdruppels | TROPICAMIDE | Oogdruppels, oplossing | Geldig |
+| RVG 33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
+| RVG 115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
+| RVG 132181//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
+| RVG 135130//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml, oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
+| RVG 136928//115295 | Mydrane 0,2 mg/ml + 3,1 mg/ml + 10 mg/ml oplossing voor injectie | FENYLEFRINEHYDROCHLORIDE, LIDOCAINEHYDROCHLORIDE 1-WATER, TROPICAMIDE | Oplossing voor injectie | Geldig |
+| RVG 136929//33701 | Mydriasert, ooginsert 0,28 mg en 5,4 mg | FENYLEFRINEHYDROCHLORIDE, TROPICAMIDE | Ooginsert | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 
@@ -125,7 +140,7 @@ Raadpleeg voor de officiële waarschuwingen en contra-indicaties de SmPC (Samenv
 
 <!-- review:begin nl-lic-20261106-tropicamide-3 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig en de enige Nederlandse registratie is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De indicatie is mechanistisch zwak, de systemische blootstelling bij een oogmiddel is twijfelachtig en de enige Nederlandse registratie is ingetrokken.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-tropicamide-3 -->
 
@@ -144,9 +159,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleit” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB)” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-06 | Verwijderd: “en de enige Nederlandse registratie is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Antimuscarinica worden klassegewijs gebruikt tegen krampen, maar systemische anticholinerge bijwerkingen en de ingetrokken registratie pleit” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Deze registratie is **ingetrokken**; er is geen actieve vergunning in Nederland (CBG-MEB)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “en de enige Nederlandse registratie is ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

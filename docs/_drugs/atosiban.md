@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atosiban: voorspelde nieuwe indicatie Primair erfelijk glaucoom (primary hereditary glaucoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 8 (geldig: 7)"
 ---
 
@@ -78,9 +78,22 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116897 | Atosiban Devrimed 37,5 mg/5 ml concentraat voor oplossing voor infusie | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/13/852 | Atosiban SUN 37.5 mg/5 ml concentraat voor oplossing voor infusie | ATOSIBANACETAAT | Concentraat voor oplossing voor infusie | Geldig |
+| EU/1/99/124 | Tractocile 6,75 mg/ 0,9 ml oplossing voor injectie | ATOSIBANACETAAT | Oplossing voor injectie | Geldig |
+| RVG 115743 | Atosiban Accord 37,5 mg/5 ml concentraat voor oplossing voor infusie | ATOSIBANACETAAT | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 117775 | Atosiban Ever Pharma 6,75 mg/0,9 ml oplossing voor injectie | ATOSIBANACETAAT | Oplossing voor injectie | Geldig |
+| RVG 117776 | Atosiban Ever Pharma 37,5 mg/5 ml concentraat voor oplossing voor infusie | ATOSIBANACETAAT | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 117777 | Atosiban Ever Pharma 75 mg/10 ml concentraat voor oplossing voor infusie | ATOSIBANACETAAT | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 120953 | Atosiban Accord 6,75 mg/0,9 ml oplossing voor injectie in een voorgevulde spuit | ATOSIBANACETAAT | Oplossing voor injectie | Geldig |
+| RVG 116897 | Atosiban Devrimed 37,5 mg/5 ml concentraat voor oplossing voor infusie | ATOSIBANACETAAT | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

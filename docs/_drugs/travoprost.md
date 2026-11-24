@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
 description: "Travoprost: voorspelde nieuwe indicatie Visceral calciphylaxis (bewijsniveau L5). In Nederland, CBG-vergunningen: 21 (geldig: 21)"
@@ -74,9 +74,36 @@ Voor "vaatziekte" en "hemangio-endothelioom" zijn publicaties gevonden, maar die
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 116772 | Vizitrav 40 microgram/ml oogdruppels, oplossing (geldig) | Oogdruppels, oplossing | Niet beschikbaar |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/01/199 | Travatan 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| EU/1/13/905 | Izba 30 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 111940 | Travoprost Pharmathen 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 111943 | Travoprost CF 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 112011 | Travoprost Sandoz 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 112273 | Travoprost Teva 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 112274 | Travoprost ratiopharm 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114244 | TRAVAPRESS 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 114248 | Travoprost Tiefenbacher 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 115990 | Leachim 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 116772 | Vizitrav 40 microgram/ml oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 125405 | Travoprost Viatris 40 microgram/ml, oogdruppels, oplossing | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 131082 | Travic-Opto 40 microgram/ml oogdruppels, oplossing in verpakking voor eenmalig… | TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| EU/1/06/338 | DuoTrav 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 119283 | Travoprost Teva 40 microgram/ml + Timolol 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 119304 | Travoprost/Timolol Viatris 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 119307 | Travoprost/Timolol CF 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 120088 | FILIOP 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 120089 | Kivizidiale 40 microgram/ml + 5 mg/ml oogdruppels, oplossing | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
+| RVG 131426 | Travitim-Opto 40 microgram/ml + 5 mg/ml oogdruppels, oplossing in een verpakkin… | TIMOLOLMALEAAT, TRAVOPROST | Oogdruppels, oplossing | Geldig |
+
+Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -94,7 +121,7 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 <!-- review:begin nl-lic-20261106-travoprost-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt. Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De voorspelling voor viscerale calciphylaxie berust uitsluitend op het model (L5), zonder studies of literatuur, en een plausibel mechanisme ontbreekt. Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-travoprost-1 -->
 
@@ -112,7 +139,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Het enige Nederlandse product is doorgehaald en lokale oogtoediening geeft nauwelijks systemische blootstelling” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
 
 <!-- review:end log -->

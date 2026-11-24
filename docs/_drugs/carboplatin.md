@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Carboplatin: voorspelde nieuwe indicatie Mucineus adenocarcinoom van het rectum (rectum mucinous adenocarcinoma) (bewijsniveau L5). In Nederland, CBG-vergunningen: 4 (geldig: 4)"
 ---
 
@@ -78,9 +78,18 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 108902 | Carboplatine Fresenius Kabi 10 mg/ml, concentraat voor oplossing voor infusie | Concentraat voor oplossing voor infusie | Niet vastgelegd in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 100101 | Carboplatin Accord 10 mg/ml, concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 108902 | Carboplatine Fresenius Kabi 10 mg/ml, concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 130696 | Carboplatine Hikma 10 mg/ml concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+| RVG 132842 | Carboplatine Venus 10 mg/ml concentraat voor oplossing voor infusie | CARBOPLATINE | Concentraat voor oplossing voor infusie | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ---
 

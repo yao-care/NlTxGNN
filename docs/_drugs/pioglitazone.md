@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Pioglitazone: voorspelde nieuwe indicatie Opsismodysplasie (opsismodysplasia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 11 (geldig: 10)"
@@ -70,15 +70,25 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor opsismodysplasie.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 108791 | Pioglitazon Sanovel 45 mg tabletten (status: niet geregistreerd) | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-pioglitazone-1 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/00/150 | Actos 15 mg tablet, tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
+| EU/1/00/151 | Glustin 45 mg tablet, tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
+| EU/1/11/722 | Pioglitazon Accord 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
+| EU/1/12/755 | Pioglitazone Actavis 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
+| EU/1/12/756 | Glidipion 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 108655 | Pioglitazon Aurobindo 30 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
+| RVG 108656 | Pioglitazon Aurobindo 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
+| EU/1/06/354 | Competact 15 mg/850 mg, tabletten | METFORMINEHYDROCHLORIDE, PIOGLITAZONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| EU/1/06/366 | Tandemact 30 mg/4 mg, tabletten | GLIMEPIRIDE, PIOGLITAZONHYDROCHLORIDE | Tablet | Geldig |
+| EU/1/13/842 | Incresync 25 mg/30 mg filmomhulde tablet | ALOGLIPTINEBENZOAAT, PIOGLITAZONHYDROCHLORIDE | Filmomhulde tablet | Geldig |
+| RVG 108791 | Pioglitazon Sanovel 45 mg tabletten | PIOGLITAZONHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 108791 / Pioglitazon Sanovel 45 mg tabletten (status: geldig) / Niet vermeld / Niet vermeld” Gecorrigeerd: registratienummer RVG 108791 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-pioglitazone-1 -->
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 
@@ -110,7 +120,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Tabelregel RVG 108791: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 108791: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c) |
 
 <!-- review:end log -->

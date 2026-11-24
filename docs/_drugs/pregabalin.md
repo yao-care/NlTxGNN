@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pregabalin: voorspelde nieuwe indicatie Tendinitis (bewijsniveau L5). Oorspronkelijke indicatie: Angststoornis, fibromyalgie, myofasciaal pijnsyndroom…"
 monitor_inn: "pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
@@ -87,9 +87,36 @@ Geen van onderstaande publicaties onderzoekt pregabaline bij tendinitis zelf. He
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Status |
-|---------|------|------|
-| RVG 118497 | Linefor 300 mg, harde capsules | Geldig |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/04/279 | Lyrica 150 mg orodispergeerbare tablet | PREGABALINE | Orodispergeerbare tablet | Geldig |
+| EU/1/14/916 | Pregabalin Viatris Pharma 25 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| EU/1/15/1011 | Pregabaline Sandoz 25 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| EU/1/15/1021 | Pregabaline Zentiva 150 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| EU/1/15/1027 | Pregabalin Accord 150 mg, hard capsules | PREGABALINE | Capsule, hard | Geldig |
+| EU/1/15/997 | Pregabaline Viatris 200 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| EU/1/15/998 | Pregabaline Mylan Pharma 75 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115800 | Pregabaline Amarox 25 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115801 | Pregabaline Amarox 50 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115802 | Pregabaline Amarox 75 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115803 | Pregabaline Amarox 100 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115804 | Pregabaline Amarox 150 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115805 | Pregabaline Amarox 200 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115806 | Pregabaline Amarox 225 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115807 | Pregabaline Amarox 300 mg, harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115813 | Pregamid 25 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115814 | Pregamid 50 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115815 | Pregamid 75 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115816 | Pregamid 100 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+| RVG 115817 | Pregamid 150 mg harde capsules | PREGABALINE | Capsule, hard | Geldig |
+
+Getoond worden 20 van de 110 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de gegevens voor dit rapport. Raadpleeg de CBG-MEB-database voor de actuele status van pregabalinebevattende producten.
 
@@ -123,7 +150,7 @@ Voor de volledige veiligheidsinformatie, waaronder waarschuwingen en contra-indi
 
 <!-- review:begin nl-lic-20261106-pregabalin-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen. / Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald".” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “De gevonden literatuur betreft vooral postoperatieve pijn of andere aandoeningen. / Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald".” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-pregabalin-1 -->
 
@@ -144,7 +171,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald"” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald"” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-20 | "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens. De beschrijving hierboven is de algemeen bekende farmacologie" replaced with a sourced mechanism-of-action statement | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 
 <!-- review:end log -->

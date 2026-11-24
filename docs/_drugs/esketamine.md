@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "esketamine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Esketamine: voorspelde nieuwe indicatie agorafobie (agoraphobia) (bewijsniveau L5). In Nederland, CBG-vergunningen: 15 (geldig: 14)"
 ---
 
@@ -68,9 +68,29 @@ Momenteel is er geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118733//22550 | Ketanest-S 5, oplossing voor injectie 5 mg/ml | Niet vermeld | Niet vermeld |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/19/1410 | Spravato 28 mg neusspray, oplossing | ESKETAMINEHYDROCHLORIDE | Neusspray, oplossing | Geldig |
+| RVG 22550 | Ketanest-S 5, oplossing voor injectie 5 mg/ml | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 24775 | Ketanest-S 5 Multi-dose, oplossing voor injectie 5 mg/ml | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 24776 | Ketanest-S 25 Multi-dose, oplossing voor injectie 25 mg/ml | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 121113 | Esketiv 5 mg/ml, oplossing voor injectie | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 121114 | Esketiv 25 mg/ml, oplossing voor injectie | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 122083 | Esketamine IDD 5 mg/ml, oplossing voor injectie/infusie | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 122084 | Esketamine IDD 25 mg/ml, oplossing voor injectie/infusie | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 126328 | Esketamine 5 mg/ml Focus, oplossing voor injectie / infusie | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie of infusie | Geldig |
+| RVG 126841//24776 | Ketanest-S 25 Multi-dose, oplossing voor injectie, 25 mg/ml | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 127511 | Esketamine Kalceks 5 mg/ml, oplossing voor injectie/infusie | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 127512 | Esketamine Kalceks 25 mg/ml, oplossing voor injectie/infusie | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie, Oplossing voor infusie | Geldig |
+| RVG 133558//24776 | Ketanest-S 25 Multi-dose, oplossing voor injectie, 25 mg/ml | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 135333//22550 | Ketanest-S 5, oplossing voor injectie, 5 mg | ESKETAMINEHYDROCHLORIDE | Oplossing voor injectie | Geldig |
+| RVG 118733//22550 | Ketanest-S 5, oplossing voor injectie 5 mg/ml | ESKETAMINEHYDROCHLORIDE | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Let op: de status van de vergunningen in de lokale gegevens is niet eenduidig; raadpleeg het CBG-MEB voor de actuele situatie.
 

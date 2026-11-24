@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 274
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "polymyxin b"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
 description: "Polymyxin B: voorspelde nieuwe indicatie Bronchitis (bewijsniveau L4). In Nederland, CBG-vergunningen: 8 (geldig: 6)"
@@ -44,7 +44,7 @@ Het bewijs voor deze voorspelling is daarmee zwak.
 
 <!-- review:begin nl-lic-20261112-polymyxin_b-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “In Nederland is het alleen nog als onderdeel van twee inmiddels doorgehaalde combinatieproducten (oordruppels en oogzalf) geregistreerd. / Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **bronchitis**, maar er zijn **0 geregistreerde klinische studies** en **12 publicaties** (vooral kleine, oude of dierstudies, met veiligheidssignalen bij inhalatie).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 6; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “In Nederland is het alleen nog als onderdeel van twee inmiddels doorgehaalde combinatieproducten (oordruppels en oogzalf) geregistreerd. / Het TxGNN-model voorspelt dat het werkzaam kan zijn bij **bronchitis**, maar er zijn **0 geregistreerde klinische studies** en **12 publicaties** (vooral kleine, oude of dierstudies, met veiligheidssignalen bij inhalatie).” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-polymyxin_b-1 -->
 
@@ -99,22 +99,22 @@ Het meeste bewijs betreft dus dierstudies of het gebruik van polymyxine B als pr
 
 ## Marktinformatie Nederland
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | Niet vermeld | Niet vermeld (niet geregistreerd) |
-| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | Niet vermeld | Niet vermeld (niet geregistreerd) |
+<!-- licenses:begin -->
 
-<!-- review:begin nl-lic-20261112-polymyxin_b-3 -->
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 03542 | Terra-Cortril met polymyxine-B, oordruppels | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oordruppels, suspensie | Geldig |
+| RVG 03543 | Terra-Cortril met polymyxine-B, oogzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oogzalf | Geldig |
+| RVG 06585 | Panotile, oordruppels | FLUDROCORTISONACETAAT, LIDOCAINEHYDROCHLORIDE 0-WATER, NEOMYCINESULFAAT, POLYMY… | Oordruppels, oplossing | Geldig |
+| RVG 09044 | Polytrim, oogdruppels | POLYMYXINE B SULFAAT, TRIMETHOPRIM | Oogdruppels, oplossing | Geldig |
+| RVG 14873 | Terra-Cortril met polymyxine-B, oorzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oorzalf | Geldig |
+| RVG 124167//03542 | Terra-Cortril met polymyxine-B, oordruppels | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | Oordruppels, suspensie | Geldig |
+| RVG 113295//03543 | Terra-Cortril met polymyxine-B, oogzalf | HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE, POLYMYXINE B SULFAAT | – | Niet geregistreerd |
+| RVG 118022//03542 | Terra-Cortril met polymyxine-B, oordruppels | POLYMYXINE B SULFAAT, HYDROCORTISONACETAAT, OXYTETRACYCLINEHYDROCHLORIDE | – | Niet geregistreerd |
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 118022//03542 / Terra-Cortril met polymyxine-B, oordruppels / Niet vermeld / Niet vermeld (geldig)” Gecorrigeerd: registratienummer RVG 118022//03542 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
 
-<!-- review:end nl-lic-20261112-polymyxin_b-3 -->
-
-<!-- review:begin nl-lic-20261112-polymyxin_b-4 -->
-
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “RVG 113295//03543 / Terra-Cortril met polymyxine-B, oogzalf / Niet vermeld / Niet vermeld (geldig)” Gecorrigeerd: registratienummer RVG 113295//03543 komt niet voor in de actuele Geneesmiddeleninformatiebank van het CBG (metadata.csv, 2026-11-12); de CBG-website vermeldt bij dit nummer “Niet geregistreerd geneesmiddel”. De vermelding “geldig” in deze tabelregel is daarom vervangen door “niet geregistreerd”; actuele aantallen staan in het snelle overzicht. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
-
-<!-- review:end nl-lic-20261112-polymyxin_b-4 -->
+<!-- licenses:end -->
 
 ---
 
@@ -154,7 +154,7 @@ Raadpleeg voor verdere veiligheidsinformatie de SmPC (Samenvatting van de Produc
 
 <!-- review:begin nl-lic-20261112-polymyxin_b-2 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen / Voor bronchitis: aanvullende gegevens over veiligheid en toedieningsroute (geïnhaleerde vs. systemische toepassing)” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Aantal vergunningen in de gegevens: 8, waarvan geldig: 6; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen / Voor bronchitis: aanvullende gegevens over veiligheid en toedieningsroute (geïnhaleerde vs. systemische toepassing)” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-polymyxin_b-2 -->
 
@@ -166,10 +166,10 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “In Nederland is het alleen nog als onderdeel van twee inmiddels doorgehaalde combinatieproducten (oordruppels en oogzalf) geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Verwijderd: “Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
-| 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “In Nederland is het alleen nog als onderdeel van twee inmiddels doorgehaalde combinatieproducten (oordruppels en oogzalf) geregistreerd” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Verwijderd: “Opheldering van de oorspronkelijke indicatie en de status van de doorgehaalde vergunningen” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 118022//03542: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-12 | Tabelregel RVG 113295//03543: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6) |
 
 <!-- review:end log -->

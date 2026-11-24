@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atenolol: voorspelde nieuwe indicatie Maligne hypertensieve nierziekte (malignant hypertensive renal disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 21 (geldig: 21)"
 ---
 
@@ -68,9 +68,36 @@ Er is momenteel geen gerelateerde literatuur beschikbaar voor deze aandoening.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 105226 | Atenolol Actavis 100 mg, filmomhulde tabletten | Filmomhulde tabletten | Niet vastgelegd in de lokale gegevens |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 16049 | Atenolol CF 25 mg, tabletten | ATENOLOL | Tablet | Geldig |
+| RVG 16050 | Atenolol CF 50 mg, tabletten | ATENOLOL | Tablet | Geldig |
+| RVG 16272 | Atenolol Teva 25 mg, tabletten | ATENOLOL | Tablet | Geldig |
+| RVG 20205 | Atenolol Sandoz 25 mg, filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 23281 | Atenolol Accord 25 mg Tabletten | ATENOLOL | Tablet | Geldig |
+| RVG 25366 | Atenolol Accord 50 mg tabletten | ATENOLOL | Tablet | Geldig |
+| RVG 25367 | Atenolol Accord 100 mg tabletten | ATENOLOL | Tablet | Geldig |
+| RVG 56331 | Atenolol Teva 50 mg, tabletten | ATENOLOL | Tablet | Geldig |
+| RVG 56332 | Atenolol Teva 100 mg, tabletten | ATENOLOL | Tablet | Geldig |
+| RVG 57552 | Atenolol Sandoz 50 mg, filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 57553 | Atenolol Sandoz 100 mg, filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 105214 | Atenolol Aurobindo 25 mg, filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 105225 | Atenolol Aurobindo 50 mg, filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 105226 | Atenolol Actavis 100 mg, filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 131113 | Atenolol Xiromed 25 mg filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 131115 | Atenolol Xiromed 50 mg filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 131116 | Atenolol Xiromed 100 mg filmomhulde tabletten | ATENOLOL | Filmomhulde tablet | Geldig |
+| RVG 17035 | Atenolol/Chloortalidon Sandoz 50/12,5 mg, filmomhulde tabletten | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Geldig |
+| RVG 17036 | Atenolol/Chloortalidon Sandoz 100/25 mg, filmomhulde tabletten | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Geldig |
+| RVG 18617 | Atenolol/Chloortalidon Aurobindo 62,5 mg, tabletten 50/12,5 mg | ATENOLOL, CHLOORTALIDON | Filmomhulde tablet | Geldig |
+
+Getoond worden 20 van de 21 registraties in de gegevens (geldige eerst, enkelvoudige middelen vóór combinatiepreparaten).
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

@@ -5,7 +5,7 @@ parent: Alleen modelvoorspelling (L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
 description: "Riluzole: voorspelde nieuwe indicatie Bilaterale parasagittale pariëto-occipitale polymicrogyrie (bilateral parasagittal parieto-occipital polymicrogyria) (bewijsniveau L5)."
@@ -80,9 +80,22 @@ Momenteel geen gerelateerde literatuur beschikbaar.
 
 Volgens de gegevens van het CBG-MEB is riluzol in Nederland in de handel. De hieronder vermelde vergunning is geldig.
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 109825 | Glentek 50 mg, filmomhulde tabletten | Niet vermeld | Niet vermeld (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| EU/1/12/768 | Riluzole Zentiva 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
+| EU/1/96/010 | Rilutek 50 mg, omhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
+| RVG 106635 | Riluzol Sandoz 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
+| RVG 106639 | Riluzol Hexal 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
+| RVG 106640 | Riluzol 1A Pharma 50 mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
+| RVG 109825 | Glentek 50mg, filmomhulde tabletten | RILUZOL | Filmomhulde tablet | Geldig |
+| RVG 128121 | Teglutik 5 mg/ml, suspensie voor oraal gebruik | RILUZOL | Suspensie voor oraal gebruik, Suspensie voor gast… | Geldig |
+| RVG 128985 | Emylif 50 mg orodispergeerbare film | RILUZOL | Orodispergeerbare film | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Raadpleeg voor de officiële indicatietekst de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter (PIL).
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluvastatin: voorspelde nieuwe indicatie Hiv-infectie (HIV infectious disease) (bewijsniveau L5). In Nederland, CBG-vergunningen: 10 (geldig: 9)"
 ---
 
@@ -86,9 +86,24 @@ Er zijn momenteel geen gerelateerde klinische studies geregistreerd.
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119599//25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | Tablet met verlengde afgifte | Niet beschikbaar in de data |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
+| RVG 34405 | Fluvastatine Sandoz 20 mg, harde capsules | FLUVASTATINE NATRIUM | Capsule, hard | Geldig |
+| RVG 34406 | Fluvastatine Sandoz 40 mg, harde capsules | FLUVASTATINE NATRIUM | Capsule, hard | Geldig |
+| RVG 34892 | Fluvastatine 20 mg PCH, capsules | FLUVASTATINE NATRIUM | Capsule, hard | Geldig |
+| RVG 34893 | Fluvastatine 40 mg PCH, capsules | FLUVASTATINE NATRIUM | Capsule, hard | Geldig |
+| RVG 35265 | Fluvastatine Retard Viatris 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
+| RVG 35306 | Fluvastatine Aurobindo SR 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
+| RVG 109965 | Fluvastatine Accord 80 mg tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
+| RVG 126567//25187 | Lescol XL 80 mg, tabletten met verlengde afgifte | FLUVASTATINE NATRIUM | Tablet met verlengde afgifte | Geldig |
+| RVG 119599//25187 | Lescol XL 80, tabletten met verlengde afgifte 80 mg | FLUVASTATINE NATRIUM | – | Niet geregistreerd |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 ## Veiligheidsoverwegingen
 

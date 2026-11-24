@@ -5,7 +5,7 @@ parent: Matig bewijs (L3-L4)
 nav_order: 290
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: voorspelde nieuwe indicatie Conjunctivitis (bewijsniveau L4). In Nederland, CBG-vergunningen: 8 (geldig: 8)"
@@ -93,15 +93,28 @@ Er zijn 19 publicaties gevonden. Hieronder staan de meest relevante. Alleen de s
 
 ## Informatie over de Nederlandse markt
 
-| RVG-nummer | Productnaam | Toedieningsvorm | Goedgekeurde indicatie |
-|---------|------|------|-----------|
-| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | Niet beschikbaar | Niet beschikbaar (vergunning geldig) |
+<!-- licenses:begin -->
+
+| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |
+|------|------|------|------|------|
+| RVG 05761 | Rifampicine Sandoz 150, capsules 150 mg | RIFAMPICINE | Capsule, hard | Geldig |
+| RVG 05764 | Rifadin, capsules 150 mg | RIFAMPICINE | Capsule, hard | Geldig |
+| RVG 05765 | Rifadin, capsules 300 mg | RIFAMPICINE | Capsule, hard | Geldig |
+| RVG 05766 | Rifadin, suspensie 20 mg/ml | RIFAMPICINE | Suspensie voor oraal gebruik | Geldig |
+| RVG 06090 | Rifampicine Sandoz 300, capsules 300 mg | RIFAMPICINE | Capsule, hard | Geldig |
+| RVG 08755 | Rifadin, poeder voor infusievloeistof 600 mg | RIFAMPICINE | Poeder en oplosmiddel voor oplossing voor infusie | Geldig |
+| RVG 15460 | Rifinah 300 mg/150 mg, filmomhulde tablet | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | Geldig |
+| RVG 119683//15460 | Rifinah 300 mg/150 mg, filmomhulde tabletten | ISONIAZIDE, RIFAMPICINE | Filmomhulde tablet | Geldig |
+
+Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werkzame stoffen en farmaceutische vorm in de oorspronkelijke Nederlandse bewoording van het CBG. „Niet geregistreerd”: het registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank.
+
+<!-- licenses:end -->
 
 Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.
 
 <!-- review:begin nl-lic-20261106-rifampicin-1 -->
 
-> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning in Nederland en die is ingetrokken. Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Aantal vergunningen in de gegevens: 1, waarvan geldig: 1; actuele aantallen staan in het snelle overzicht en bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Dit is de enige vergunning in Nederland en die is ingetrokken. Er is ook geen oogzalf of oogdruppel met rifampicine geregistreerd.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-rifampicin-1 -->
 
@@ -153,7 +166,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-06 | Verwijderd: “Dit is de enige vergunning in Nederland en die is ingetrokken” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-06 | Verwijderd: “Dit is de enige vergunning in Nederland en die is ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

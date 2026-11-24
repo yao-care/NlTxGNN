@@ -102,7 +102,13 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor v
 - Gegevens over het werkingsmechanisme van benzydamine, en onderbouwing van de rol van ontsteking bij benigne prostaathyperplasie.
 - Preklinische of klinische studies naar benzydamine bij benigne prostaathyperplasie.
 - Beoordeling van de SmPC op waarschuwingen en contra-indicaties.
-- Beoordeling van de toedieningsroute: benzydamine is hier geregistreerd als zuigtablet voor lokaal gebruik in de mond- en keelholte, wat niet vanzelfsprekend geschikt is voor een prostaatindicatie.
+- Beoordeling van de toedieningsroute: benzydamine is hier geregistreerd voor lokaal gebruik (crème; de registratie als zuigtablet komt niet voor in de actuele Geneesmiddeleninformatiebank), wat niet vanzelfsprekend geschikt is voor een prostaatindicatie.
+
+<!-- review:begin nl-lic-20261124b-benzydamine-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beoordeling van de toedieningsroute: benzydamine is hier geregistreerd als zuigtablet voor lokaal gebruik in de mond- en keelholte, wat niet vanzelfsprekend geschikt is voor een prostaatindicatie.” Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-benzydamine-2 -->
 
 <!-- review:begin log -->
 
@@ -114,6 +120,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610) |
 | 2026-11-24 | “Het CBG-MEB-register vermeldt voor dit middel één vergunning.” → “Het CBG-MEB-register vermeldt voor dit middel registraties (” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Beoordeling van de toedieningsroute: benzydamine is hier geregistreerd als zuigt” → “Beoordeling van de toedieningsroute: benzydamine is hier ger” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

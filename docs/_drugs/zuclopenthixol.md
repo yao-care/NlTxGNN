@@ -134,7 +134,13 @@ Aanvullend, vanuit de mechanistische beoordeling: antipsychotica geven neurologi
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de CBG-MEB-bijsluiter, die als blokkerend hiaat is aangemerkt
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Preklinisch of mechanistisch bewijs dat zuclopenthixol relevant maakt voor retinale dystrofie
-- Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de vergunning is geschrapt
+- Duidelijkheid over de beschikbaarheid van het middel in Nederland
+
+<!-- review:begin nl-lic-20261124b-zuclopenthixol-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de vergunning is geschrapt” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-zuclopenthixol-2 -->
 
 <!-- review:begin log -->
 
@@ -146,6 +152,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Deze vergunning is geldig: 1 van de 1 vergunningen is geldig en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-24 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning geschrapt.” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de ” → “Duidelijkheid over de beschikbaarheid van het middel in Nede” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

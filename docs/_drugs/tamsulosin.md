@@ -74,11 +74,11 @@ Ter volledigheid: voor de negende voorspelling (alopecia) zijn twee publicaties 
 
 ## Informatie over de Nederlandse markt
 
-Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.
+Vergunningsteksten met indicatie zijn niet beschikbaar in de samengestelde data; farmaceutische vorm en registratiehouder per registratie staan in de vergunningstabel.
 
 <!-- review:begin nl-lic-20261112-tamsulosin-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.” Gecorrigeerd: het aantal en de status van de vergunningen in de oorspronkelijke zin kwamen niet overeen met de registratiegegevens van het CBG; bovendien bevat de vergunningstabel bij de marktinformatie, die automatisch uit de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24) wordt gemaakt, per registratie de farmaceutische vorm en de registratiehouder. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tamsulosin-1 -->
 
@@ -153,7 +153,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “Alle vijf vergunningen zijn geldig” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsv” → “Vergunningsteksten met indicatie zijn niet beschikbaar in de” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Tamsulosine is in Nederland wel in de handel, met 5 geldige vergunningen van de 5” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-15 | Verwijderd: “, gezien de ingetrokken vergunningsstatus” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f) |

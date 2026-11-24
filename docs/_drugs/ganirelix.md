@@ -141,7 +141,13 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 - De bijsluiter en SmPC van het CBG-MEB ophalen en verwerken (waarschuwingen, contra-indicaties, goedgekeurde indicatie). Dit is een blokkerende leemte.
 - Gegevens over het werkingsmechanisme aanvullen, bijvoorbeeld via DrugBank.
 - Een gerichte literatuur- en studieverkenning uitvoeren voor ganirelix bij centrale precocieuze puberteit, als enige biologisch plausibele onderzoeksvraag.
-- Vaststellen of de geschrapte vergunning (RVG 111978) een commerciële of een veiligheidsreden had, en welke ganirelix-producten momenteel in Nederland beschikbaar zijn, bijvoorbeeld via centrale EMA-registratie.
+- Vaststellen welke ganirelix-producten momenteel in Nederland beschikbaar zijn, bijvoorbeeld via centrale EMA-registratie.
+
+<!-- review:begin nl-lic-20261124b-ganirelix-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Vaststellen of de geschrapte vergunning (RVG 111978) een commerciële of een veiligheidsreden had, en welke ganirelix-producten momenteel in Nederland beschikbaar zijn, bijvoorbeeld via centrale EMA-registratie.” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-ganirelix-2 -->
 
 <!-- review:begin log -->
 
@@ -154,6 +160,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-24 | Verwijderd: “Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1) |
 | 2026-11-24 | Verwijderd: “De enige Nederlandse vergunning is geschrapt, waardoor een veiligheidsbeoordeling op basis van de officiële pr” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Vaststellen of de geschrapte vergunning (RVG 111978) een commerciële of een veil” → “Vaststellen welke ganirelix-producten momenteel in Nederland” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

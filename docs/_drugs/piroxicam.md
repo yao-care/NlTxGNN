@@ -106,7 +106,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Er is één vergunning, en deze is geannuleerd. Piroxicam is daarmee in Nederland niet meer via deze vergunning beschikbaar, wat de praktische toepasbaarheid beperkt.
+Geen van de registraties in de gegevens komt voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); de status per registratie staat in de vergunningstabel. Piroxicam is daarmee in Nederland niet meer via deze vergunning beschikbaar, wat de praktische toepasbaarheid beperkt.
+
+<!-- review:begin nl-lic-20261124b-piroxicam-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er is één vergunning, en deze is geannuleerd.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-24); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot annulering is genomen, blijkt niet uit de CBG-gegevens. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-piroxicam-1 -->
 
 ---
 
@@ -134,13 +140,25 @@ Voor de officiële waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samen
 **Beslissing: Hold** (rang 1 tot en met 9); **JIA: onderzoeksvraag** (bewijsniveau L3)
 
 **Onderbouwing:**
-- Voor JIA is het mechanisme plausibel en is er ouder bewijs bij kinderen, maar het gaat om symptoombestrijding binnen een bestaande NSAID-klasse. De enige Nederlandse vergunning is bovendien geannuleerd.
+- Voor JIA is het mechanisme plausibel en is er ouder bewijs bij kinderen, maar het gaat om symptoombestrijding binnen een bestaande NSAID-klasse. Bovendien komt geen van de registraties in de gegevens voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).
+
+<!-- review:begin nl-lic-20261124b-piroxicam-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De enige Nederlandse vergunning is bovendien geannuleerd.” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-24); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot annulering is genomen, blijkt niet uit de CBG-gegevens. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-piroxicam-2 -->
 
 **Om verder te gaan is nodig:**
 - Bijsluitertekst/SmPC-gegevens van het CBG-MEB (waarschuwingen en contra-indicaties); dit is een blokkerende leemte voor de veiligheidsscreening
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank)
 - Voor JIA: beoordeling van de relevantie van de oudere kinderstudies, vergelijking met momenteel beschikbare NSAID's en een kinderspecifiek veiligheids- en doseringsprofiel
-- Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien de geannuleerde vergunning
+- Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien het ontbreken van een registratie in de actuele Geneesmiddeleninformatiebank van het CBG
+
+<!-- review:begin nl-lic-20261124b-piroxicam-3 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien de geannuleerde vergunning” Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-24); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot annulering is genomen, blijkt niet uit de CBG-gegevens. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-piroxicam-3 -->
 
 <!-- review:begin log -->
 
@@ -152,6 +170,9 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 57449: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
+| 2026-11-24 | “Er is één vergunning, en deze is geannuleerd.” → “Geen van de registraties in de gegevens komt voor in de actu” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “De enige Nederlandse vergunning is bovendien geannuleerd.” → “Bovendien komt geen van de registraties in de gegevens voor ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien de geannul” → “Beoordeling van de beschikbaarheid van piroxicam in Nederlan” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

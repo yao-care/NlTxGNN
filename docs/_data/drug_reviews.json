@@ -14440,24 +14440,24 @@
    "file": "tamsulosin.md",
    "action": "correct",
    "claim": "Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.",
-   "replacement": "Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.",
-   "note": "Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
-   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+   "replacement": "Vergunningsteksten met indicatie zijn niet beschikbaar in de samengestelde data; farmaceutische vorm en registratiehouder per registratie staan in de vergunningstabel.",
+   "note": "Gecorrigeerd: het aantal en de status van de vergunningen in de oorspronkelijke zin kwamen niet overeen met de registratiegegevens van het CBG; bovendien bevat de vergunningstabel bij de marktinformatie, die automatisch uit de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24) wordt gemaakt, per registratie de farmaceutische vorm en de registratiehouder. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）；2026-11-24 第二輪同 id 重發：程式表有劑型與持有人欄，前版更正文字留下的「doseringsvorm en fabrikant niet beschikbaar」不再成立",
    "sources": [
     {
      "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
      "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
-     "accessed": "2026-11-12"
+     "accessed": "2026-11-24"
     },
     {
      "title": "Geneesmiddeleninformatiebank",
      "url": "https://www.geneesmiddeleninformatiebank.nl/",
-     "accessed": "2026-11-12"
+     "accessed": "2026-11-24"
     }
    ],
-   "checked": "2026-11-12",
-   "summary": "Verwijderd: “Alle vijf vergunningen zijn geldig”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：license-rebuild local 2026-11-12（CBG 現行登記依成分重建）（2026-11-12）",
+   "checked": "2026-11-24",
+   "summary": "“Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsv” → “Vergunningsteksten met indicatie zijn niet beschikbaar in de”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）",
    "history": [
     {
      "id": "nl-lic-20261112-tamsulosin-1",
@@ -14485,6 +14485,33 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：license-rebuild local 2026-11-12（CBG 現行登記依成分重建）（2026-11-12）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定"
+    },
+    {
+     "id": "nl-lic-20261112-tamsulosin-1",
+     "drug": "tamsulosin",
+     "file": "tamsulosin.md",
+     "action": "correct",
+     "claim": "Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.",
+     "replacement": "Vergunningsteksten met indicatie, doseringsvorm en fabrikant zijn niet beschikbaar in de samengestelde data.",
+     "note": "Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+       "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+       "accessed": "2026-11-12"
+      },
+      {
+       "title": "Geneesmiddeleninformatiebank",
+       "url": "https://www.geneesmiddeleninformatiebank.nl/",
+       "accessed": "2026-11-12"
+      }
+     ],
+     "checked": "2026-11-12",
+     "summary": "Verwijderd: “Alle vijf vergunningen zijn geldig”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：license-rebuild local 2026-11-12（CBG 現行登記依成分重建）（2026-11-12）",
+     "retired": "2026-11-24",
+     "reason": "第二輪：前版更正文字留下依舊證據包的單數／不可得說法，跟現行 CBG 登記不符（程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定）"
     }
    ]
   },
@@ -24571,8 +24598,8 @@
    "drug": "epinephrine",
    "file": "epinephrine.md",
    "action": "correct",
-   "claim": "Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning is niet als geldig aangemerkt in de vergunninggegevens; of het middel",
-   "replacement": "Voor dit middel zijn in de lokale data geldige vergunningen geregistreerd (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie); of het middel",
+   "claim": "Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning is niet als geldig aangemerkt in de vergunninggegevens; of het middel momenteel daadwerkelijk wordt geleverd, moet worden nagegaan.",
+   "replacement": "Voor dit middel zijn in de lokale data geldige vergunningen geregistreerd (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie); of het middel momenteel daadwerkelijk wordt geleverd, moet worden nagegaan.",
    "note": "Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens als enige (geschrapte of vervallen) registratie; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
    "finding": "2026-11-24 第二輪：第一輪列進待查的正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷說法），對照證據包（Release data-20261123-162625）與快照事實層：52 張，51 有效（不是 1 張、也不是沒有有效）；更正文字不寫死張數，指向概覽表與程式表",
    "sources": [
@@ -25046,9 +25073,9 @@
    "drug": "chloramphenicol",
    "file": "chloramphenicol.md",
    "action": "correct",
-   "claim": "aangezien de enige Nederlandse vergunning een oogzalf betreft",
-   "replacement": "aangezien de Nederlandse vergunningen oogpreparaten (oogdruppels en oogzalf) betreffen",
-   "note": "Gecorrigeerd: er is niet één enkele Nederlandse vergunning volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie.",
+   "claim": "Een afweging van de risico's van systemische blootstelling, aangezien de enige Nederlandse vergunning een oogzalf betreft",
+   "replacement": "Een afweging van de risico's van systemische blootstelling, aangezien de Nederlandse vergunningen oogpreparaten (oogdruppels en oogzalf) betreffen",
+   "note": "Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie.",
    "finding": "2026-11-24 第二輪：第一輪列進待查的正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷說法），對照證據包（Release data-20261123-162625）與快照事實層：4 張：有效 oogdruppels 2、oogzalf 1；RVG 57557 oogzalf Niet geregistreerd；全部是眼用，原句「唯一一張是 oogzalf」不成立；更正文字不寫死張數，指向概覽表與程式表",
    "sources": [
     {
@@ -25063,7 +25090,7 @@
     }
    ],
    "checked": "2026-11-24",
-   "summary": "“aangezien de enige Nederlandse vergunning een oogzalf betreft” → “aangezien de Nederlandse vergunningen oogpreparaten (oogdrup”",
+   "summary": "“Een afweging van de risico's van systemische blootstelling, aangezien de enige N” → “Een afweging van de risico's van systemische blootstelling, ”",
    "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
   },
   {
@@ -25617,6 +25644,557 @@
    ],
    "checked": "2026-11-24",
    "summary": "“Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel.” → “Er zijn vergunningen voor lidocaïne als enkelvoudig middel e”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-atomoxetine-1",
+   "drug": "atomoxetine",
+   "file": "atomoxetine.md",
+   "action": "correct",
+   "claim": "Deze vergunning is geldig. De registratie valt onder het CBG-MEB.",
+   "replacement": "Er zijn geldige vergunningen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). De registraties vallen onder het CBG-MEB.",
+   "note": "Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：43 張，42 有效（原句單數「Deze vergunning」指舊表那 1 張）；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Deze vergunning is geldig. De registratie valt onder het CBG-MEB.” → “Er zijn geldige vergunningen (aantallen en de status per reg”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-chloramphenicol-2",
+   "drug": "chloramphenicol",
+   "file": "chloramphenicol.md",
+   "action": "correct",
+   "claim": "Deze vergunning is geldig. Het gaat om een oogzalf; voor systemisch gebruik is in de lokale gegevens geen product vastgelegd.",
+   "replacement": "De geldige vergunningen betreffen oogpreparaten (oogdruppels en oogzalf); voor systemisch gebruik is in de lokale gegevens geen product vastgelegd.",
+   "note": "Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：4 張：有效 oogdruppels 2、oogzalf 1，RVG 57557 oogzalf Niet geregistreerd；原句「這張有效、是 oogzalf」只講舊表那張；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Deze vergunning is geldig. Het gaat om een oogzalf; voor systemisch gebruik is i” → “De geldige vergunningen betreffen oogpreparaten (oogdruppels”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-dexketoprofen-1",
+   "drug": "dexketoprofen",
+   "file": "dexketoprofen.md",
+   "action": "correct",
+   "claim": " De vergunningentabel wordt door het programma toegevoegd.",
+   "replacement": "",
+   "note": "Gecorrigeerd: de vergunningstabel bij de marktinformatie wordt automatisch uit de actuele registratiegegevens van het CBG (metadata.csv) gemaakt en bevat per registratie de farmaceutische vorm en de registratiehouder; de oorspronkelijke opmerking hierover klopte niet meer. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：程式表已在段落裡，「表由程式補上」說明句多餘，刪掉；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "Verwijderd: “De vergunningentabel wordt door het programma toegevoegd.”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）",
+   "anchor": "Volgens de gegevens van het CBG-MEB is dexketoprofen in Nederland in de handel."
+  },
+  {
+   "id": "nl-lic-20261124b-esomeprazole-1",
+   "drug": "esomeprazole",
+   "file": "esomeprazole.md",
+   "action": "correct",
+   "claim": "De status van de vergunningen is in de lokale gegevens niet eenduidig vastgelegd, daarom wordt hierover geen uitspraak gedaan.",
+   "replacement": "Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "note": "Gecorrigeerd: de status van de registraties is volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24) eenduidig vastgelegd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：69 張全部有效，CBG 現行登記狀態明確；「狀態不明確、不作判斷」不成立；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“De status van de vergunningen is in de lokale gegevens niet eenduidig vastgelegd” → “Aantallen en de status per registratie staan in het snelle o”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-memantine-1",
+   "drug": "memantine",
+   "file": "memantine.md",
+   "action": "correct",
+   "claim": "De productinformatie van het CBG-MEB voor deze vergunning was niet beschikbaar.",
+   "replacement": "De productinformatie van het CBG-MEB voor de vergunningen in de gegevens was niet beschikbaar.",
+   "note": "Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：32 張（原句單數「deze vergunning」）；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“De productinformatie van het CBG-MEB voor deze vergunning was niet beschikbaar.” → “De productinformatie van het CBG-MEB voor de vergunningen in”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-pregabalin-1",
+   "drug": "pregabalin",
+   "file": "pregabalin.md",
+   "action": "correct",
+   "claim": "De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de gegevens voor dit rapport.",
+   "replacement": "De geregistreerde indicatietekst van deze vergunningen is niet beschikbaar in de gegevens voor dit rapport.",
+   "note": "Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：110 張（原句單數「deze vergunning」）；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de g” → “De geregistreerde indicatietekst van deze vergunningen is ni”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-selenium-1",
+   "drug": "selenium",
+   "file": "selenium.md",
+   "action": "correct",
+   "claim": "Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) is geregistreerd geweest. Voor deze registratie is in de voor dit rapport verzamelde gegevens geen goedgekeurde indicatietekst beschikbaar.",
+   "replacement": "Selenium is een spoorelement dat in Nederland geregistreerd is als bestanddeel van infuuspreparaten (onder meer het infuusconcentraat Nutryelt). Voor deze registraties is in de voor dit rapport verzamelde gegevens geen goedgekeurde indicatietekst beschikbaar.",
+   "note": "Gecorrigeerd: de oorspronkelijke zin beschreef de registratie in de verleden tijd en als enkele registratie, op basis van een oudere, onvolledige versie van de gegevens; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：10 張全部有效（Nutryelt RVG 117396 有效；另有 Junyelt、Peditrace、Kidiamix 等），「is geregistreerd geweest」（已不再登記）與單數不成立；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) i” → “Selenium is een spoorelement dat in Nederland geregistreerd ”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-thymol-1",
+   "drug": "thymol",
+   "file": "thymol.md",
+   "action": "correct",
+   "claim": "Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voorkwam als bestanddeel van een inhalatiezalf (Vicks VapoRub). Voor die vergunning is in de samengestelde gegevens geen goedgekeurde indicatietekst opgenomen.",
+   "replacement": "Thymol is een natuurlijke fenolische monoterpeen die op de Nederlandse markt voorkomt als bestanddeel van een inhalatiezalf (Vicks VapoRub). Voor deze vergunningen is in de samengestelde gegevens geen goedgekeurde indicatietekst opgenomen.",
+   "note": "Gecorrigeerd: de oorspronkelijke zin beschreef de registratie in de verleden tijd en als enkele registratie, op basis van een oudere, onvolledige versie van de gegevens; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：3 張 Vicks VapoRub（成分含 THYMOL），2 張有效、1 張 Niet geregistreerd；過去式「voorkwam」與單數不成立；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voo” → “Thymol is een natuurlijke fenolische monoterpeen die op de N”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-tramadol-2",
+   "drug": "tramadol",
+   "file": "tramadol.md",
+   "action": "correct",
+   "claim": "Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.",
+   "replacement": "Voor deze vergunningen is geen indicatietekst beschikbaar; de farmaceutische vorm per registratie staat in de vergunningstabel.",
+   "note": "Gecorrigeerd: de vergunningstabel bij de marktinformatie wordt automatisch uit de actuele registratiegegevens van het CBG (metadata.csv) gemaakt en bevat per registratie de farmaceutische vorm en de registratiehouder; de oorspronkelijke opmerking hierover klopte niet meer. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：程式表有 Farmaceutische vorm 欄，「沒有劑型」不再成立；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.” → “Voor deze vergunningen is geen indicatietekst beschikbaar; d”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-diazepam-1",
+   "drug": "diazepam",
+   "file": "diazepam.md",
+   "action": "correct",
+   "claim": "Volgens de lokale gegevens van het CBG-MEB is de vergunning geldig en is het product in de handel.",
+   "replacement": "Volgens de lokale gegevens van het CBG-MEB zijn er geldige vergunningen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie) en is het middel in de handel.",
+   "note": "Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：28 張（原句單數）；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Volgens de lokale gegevens van het CBG-MEB is de vergunning geldig en is het pro” → “Volgens de lokale gegevens van het CBG-MEB zijn er geldige v”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-labetalol-1",
+   "drug": "labetalol",
+   "file": "labetalol.md",
+   "action": "correct",
+   "claim": "Het product is in Nederland bovendien niet meer geldig geregistreerd, en de veiligheidsgegevens uit de SmPC ontbreken.",
+   "replacement": "De veiligheidsgegevens uit de SmPC ontbreken bovendien.",
+   "note": "Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：7 張全部有效；「已不再有效登記」前提不成立，只拿掉該子句，決策不動；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Het product is in Nederland bovendien niet meer geldig geregistreerd, en de veil” → “De veiligheidsgegevens uit de SmPC ontbreken bovendien.”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-epinephrine-2",
+   "drug": "epinephrine",
+   "file": "epinephrine.md",
+   "action": "correct",
+   "claim": "Opheldering van de formulering en het regelgevend traject in Nederland, aangezien de vergunning in de lokale data niet als geldig staat vermeld.",
+   "replacement": "Opheldering van de formulering en het regelgevend traject in Nederland.",
+   "note": "Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：52 張，51 有效；「沒有有效登記」前提不成立，待辦內容不動；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Opheldering van de formulering en het regelgevend traject in Nederland, aangezie” → “Opheldering van de formulering en het regelgevend traject in”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-zuclopenthixol-2",
+   "drug": "zuclopenthixol",
+   "file": "zuclopenthixol.md",
+   "action": "correct",
+   "claim": "Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de vergunning is geschrapt",
+   "replacement": "Duidelijkheid over de beschikbaarheid van het middel in Nederland",
+   "note": "Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：10 張全部有效；「登記已註銷」前提不成立，待辦內容不動；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de ” → “Duidelijkheid over de beschikbaarheid van het middel in Nede”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-ganirelix-2",
+   "drug": "ganirelix",
+   "file": "ganirelix.md",
+   "action": "correct",
+   "claim": "Vaststellen of de geschrapte vergunning (RVG 111978) een commerciële of een veiligheidsreden had, en welke ganirelix-producten momenteel in Nederland beschikbaar zijn, bijvoorbeeld via centrale EMA-registratie.",
+   "replacement": "Vaststellen welke ganirelix-producten momenteel in Nederland beschikbaar zijn, bijvoorbeeld via centrale EMA-registratie.",
+   "note": "Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：RVG 111978（Fyremadel）在 CBG 現行登記、有效；5 張全部有效；「已註銷的登記」前提不成立，待辦的其餘內容不動；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Vaststellen of de geschrapte vergunning (RVG 111978) een commerciële of een veil” → “Vaststellen welke ganirelix-producten momenteel in Nederland”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-phenylephrine-2",
+   "drug": "phenylephrine",
+   "file": "phenylephrine.md",
+   "action": "correct",
+   "claim": "Beoordeling van toedieningsroute en formulering (de vergunningen betreffen alleen injectie-oplossingen, terwijl neusgebruik een nasale toedieningsvorm vereist)",
+   "replacement": "Beoordeling van toedieningsroute en formulering (neusgebruik vereist een nasale toedieningsvorm; de vergunningen in de gegevens betreffen geen nasale toedieningsvorm)",
+   "note": "Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：15 張：oplossing voor injectie 8、oogdruppels 3、ooginsert 3、concentraat 1；「只有注射液」不成立（沒有鼻用劑型仍成立），待辦內容不動；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Beoordeling van toedieningsroute en formulering (de vergunningen betreffen allee” → “Beoordeling van toedieningsroute en formulering (neusgebruik”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-benzydamine-2",
+   "drug": "benzydamine",
+   "file": "benzydamine.md",
+   "action": "correct",
+   "claim": "Beoordeling van de toedieningsroute: benzydamine is hier geregistreerd als zuigtablet voor lokaal gebruik in de mond- en keelholte, wat niet vanzelfsprekend geschikt is voor een prostaatindicatie.",
+   "replacement": "Beoordeling van de toedieningsroute: benzydamine is hier geregistreerd voor lokaal gebruik (crème; de registratie als zuigtablet komt niet voor in de actuele Geneesmiddeleninformatiebank), wat niet vanzelfsprekend geschikt is voor een prostaatindicatie.",
+   "note": "Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：2 張：RVG 06636 crème 有效、RVG 117651 zuigtabletten Niet geregistreerd；「登記為 zuigtablet」不成立，待辦內容不動；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Beoordeling van de toedieningsroute: benzydamine is hier geregistreerd als zuigt” → “Beoordeling van de toedieningsroute: benzydamine is hier ger”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-allopurinol-1",
+   "drug": "allopurinol",
+   "file": "allopurinol.md",
+   "action": "correct",
+   "claim": "Allopurinol is een xanthine-oxidaseremmer die in Nederland als tablet is geregistreerd.",
+   "replacement": "Allopurinol is een xanthine-oxidaseremmer die in Nederland onder meer als tablet is geregistreerd.",
+   "note": "Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：23 張：tablet 20、filmomhulde tablet 2、poeder voor oplossing voor infusie 1；只寫錠劑不完整；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Allopurinol is een xanthine-oxidaseremmer die in Nederland als tablet is geregis” → “Allopurinol is een xanthine-oxidaseremmer die in Nederland o”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-eletriptan-1",
+   "drug": "eletriptan",
+   "file": "eletriptan.md",
+   "action": "correct",
+   "claim": "Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (product: Relpax 40, filmomhulde tabletten 40 mg).",
+   "replacement": "Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (onder meer Relpax 40, filmomhulde tabletten 40 mg).",
+   "note": "Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：10 張 filmomhulde tablet（Relpax 20／40、Biogaran、Viatris、Aurobindo 等），原句只寫一個產品；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (prod” → “Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederlan”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-lynestrenol-1",
+   "drug": "lynestrenol",
+   "file": "lynestrenol.md",
+   "action": "correct",
+   "claim": "Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland in de handel is als Orgametril 5 mg tabletten.",
+   "replacement": "Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland onder meer in de handel is als Orgametril 5 mg tabletten.",
+   "note": "Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：4 張：Orgametril 5 mg（3 張，1 張 Niet geregistreerd）、Exluton 0,5 mg（有效）；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland i” → “Lynestrenol is een progestageen (voorloper van norethisteron”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-piroxicam-1",
+   "drug": "piroxicam",
+   "file": "piroxicam.md",
+   "action": "correct",
+   "claim": "Er is één vergunning, en deze is geannuleerd.",
+   "replacement": "Geen van de registraties in de gegevens komt voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd); de status per registratie staat in de vergunningstabel.",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-24); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot annulering is genomen, blijkt niet uit de CBG-gegevens. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：證據包 1 張，不在 CBG 現行登記（cbg_not_listed，CBG 網站原文「Niet geregistreerd」）；「geannuleerd」暗示有撤銷決定，CBG 資料看不出，照 CBG 原文改寫（同 11-15 doorgehaald／ingetrokken 的處理）；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Er is één vergunning, en deze is geannuleerd.” → “Geen van de registraties in de gegevens komt voor in de actu”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-piroxicam-2",
+   "drug": "piroxicam",
+   "file": "piroxicam.md",
+   "action": "correct",
+   "claim": "De enige Nederlandse vergunning is bovendien geannuleerd.",
+   "replacement": "Bovendien komt geen van de registraties in de gegevens voor in de actuele Geneesmiddeleninformatiebank van het CBG (niet geregistreerd).",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-24); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot annulering is genomen, blijkt niet uit de CBG-gegevens. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：同上；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“De enige Nederlandse vergunning is bovendien geannuleerd.” → “Bovendien komt geen van de registraties in de gegevens voor ”",
+   "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
+  },
+  {
+   "id": "nl-lic-20261124b-piroxicam-3",
+   "drug": "piroxicam",
+   "file": "piroxicam.md",
+   "action": "correct",
+   "claim": "Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien de geannuleerde vergunning",
+   "replacement": "Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien het ontbreken van een registratie in de actuele Geneesmiddeleninformatiebank van het CBG",
+   "note": "Gecorrigeerd naar de formulering van het CBG: dit registratienummer komt niet voor in de actuele Geneesmiddeleninformatiebank (metadata.csv, 2026-11-24); de CBG-website vermeldt bij zulke nummers “Niet geregistreerd geneesmiddel”. Dat er een besluit tot annulering is genomen, blijkt niet uit de CBG-gegevens. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.",
+   "finding": "2026-11-24 第二輪：另寫的寬偵測（正文單數／全稱／註銷／劑型說法）全量掃出、正文句（依 10-31 前舊證據包 1～5 張寫的單數／全稱／註銷／劑型說法），對照證據包（Release data-20261123-162625）與快照事實層：同上；待辦內容不動，只改前提的措辭；更正文字不寫死張數，指向概覽表與程式表",
+   "sources": [
+    {
+     "title": "CBG-MEB – Geneesmiddeleninformatiebank (metadata)",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/metadata.csv",
+     "accessed": "2026-11-24"
+    },
+    {
+     "title": "Geneesmiddeleninformatiebank",
+     "url": "https://www.geneesmiddeleninformatiebank.nl/",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "summary": "“Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien de geannul” → “Beoordeling van de beschikbaarheid van piroxicam in Nederlan”",
    "method": "2026-11-24 第二輪人工查核（待查清單的正文許可證句逐句對照證據包與快照事實層；用戶 2026-11-24 決定）"
   }
  ]

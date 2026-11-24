@@ -118,7 +118,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de gegevens voor dit rapport. Raadpleeg de CBG-MEB-database voor de actuele status van pregabalinebevattende producten.
+De geregistreerde indicatietekst van deze vergunningen is niet beschikbaar in de gegevens voor dit rapport. Raadpleeg de CBG-MEB-database voor de actuele status van pregabalinebevattende producten.
+
+<!-- review:begin nl-lic-20261124b-pregabalin-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de gegevens voor dit rapport.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-pregabalin-1 -->
 
 ---
 
@@ -173,6 +179,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status "doorgehaald"” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-20 | "Gedetailleerde gegevens over het werkingsmechanisme uit DrugBank ontbreken in de voor dit rapport samengestelde gegevens. De beschrijving hierboven is de algemeen bekende farmacologie" replaced with a sourced mechanism-of-action statement | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron (herzien op 2026-11-20; eerdere versie bewaard in het record) | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
+| 2026-11-24 | “De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de g” → “De geregistreerde indicatietekst van deze vergunningen is ni” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

@@ -21,11 +21,11 @@
   "items_current": 8581
  },
  "reviews": {
-  "records": 669,
-  "pages": 307,
-  "public_pages_with_records": 307,
+  "records": 691,
+  "pages": 309,
+  "public_pages_with_records": 309,
   "by_action": {
-   "correct": 434,
+   "correct": 456,
    "mechanism": 235
   }
  },
@@ -168,7 +168,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 2,
+   "r": 5,
    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
   },
   {
@@ -238,13 +238,13 @@
    "i": "alopecia"
   },
   {
-   "t": "Polymyxin B",
-   "u": "/drugs/polymyxin-b/",
-   "l": "L4",
-   "lt": 8,
-   "lv": 6,
+   "t": "Piroxicam",
+   "u": "/drugs/piroxicam/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
    "r": 5,
-   "i": "bronchitis"
+   "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
   }
  ],
  "example": {
@@ -260,7 +260,7 @@
   {
    "t": "Zuclopenthixol",
    "u": "/drugs/zuclopenthixol/",
-   "s": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning geschrapt.”",
+   "s": "“Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de ” → “Duidelijkheid over de…",
    "d": "2026-11-24"
   },
   {
@@ -278,13 +278,19 @@
   {
    "t": "Tramadol",
    "u": "/drugs/tramadol/",
-   "s": "“Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen gel” → “Beoordeling van de…",
+   "s": "“Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.” → “Voor deze vergunningen is…",
    "d": "2026-11-24"
   },
   {
    "t": "Topiramate",
    "u": "/drugs/topiramate/",
    "s": "“Opheldering van de vergunningsstatus in Nederland (de enige vergunning is geannu” → “Opheldering van de…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Thymol",
+   "u": "/drugs/thymol/",
+   "s": "“Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voo” → “Thymol is een…",
    "d": "2026-11-24"
   },
   {
@@ -300,9 +306,21 @@
    "d": "2026-11-24"
   },
   {
+   "t": "Selenium",
+   "u": "/drugs/selenium/",
+   "s": "“Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) i” → “Selenium is een…",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Risperidone",
    "u": "/drugs/risperidone/",
    "s": "“De lokale gegevens bevatten één registratie, die geldig is.” → “De lokale gegevens bevatten geldige…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Pregabalin",
+   "u": "/drugs/pregabalin/",
+   "s": "“De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de g” → “De geregistreerde…",
    "d": "2026-11-24"
   },
   {
@@ -312,9 +330,15 @@
    "d": "2026-11-24"
   },
   {
+   "t": "Piroxicam",
+   "u": "/drugs/piroxicam/",
+   "s": "“Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien de geannul” → “Beoordeling van de…",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Phenylephrine",
    "u": "/drugs/phenylephrine/",
-   "s": "“Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergun” → “Er zijn momenteel…",
+   "s": "“Beoordeling van toedieningsroute en formulering (de vergunningen betreffen allee” → “Beoordeling van…",
    "d": "2026-11-24"
   },
   {
@@ -354,9 +378,21 @@
    "d": "2026-11-24"
   },
   {
+   "t": "Memantine",
+   "u": "/drugs/memantine/",
+   "s": "“De productinformatie van het CBG-MEB voor deze vergunning was niet beschikbaar.” → “De productinformatie van…",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Mannitol",
    "u": "/drugs/mannitol/",
    "s": "“Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafax” → “Opmerking: RVG 108589…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Lynestrenol",
+   "u": "/drugs/lynestrenol/",
+   "s": "“Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland i” → “Lynestrenol is een…",
    "d": "2026-11-24"
   },
   {
@@ -364,49 +400,13 @@
    "u": "/drugs/lidocaine/",
    "s": "“Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel.” → “Er zijn vergunningen voor lidocaïne als…",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Levonorgestrel",
-   "u": "/drugs/levonorgestrel/",
-   "s": "“De lokale gegevens bevatten één vergunning, en die is geldig.” → “De lokale gegevens bevatten geldige…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Haloperidol",
-   "u": "/drugs/haloperidol/",
-   "s": "“Voor dit product is een geldige vergunning geregistreerd bij het CBG-MEB.” → “Voor dit middel zijn geldige…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Granisetron",
-   "u": "/drugs/granisetron/",
-   "s": "“Beoordelen of er een toedieningsroute beschikbaar is die past bij de beoogde ind” → “Beoordelen of er een…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Goserelin",
-   "u": "/drugs/goserelin/",
-   "s": "“Het CBG-MEB-register vermeldt één vergunning, die geldig is.” → “Het CBG-MEB-register vermeldt geldige…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Glucagon",
-   "u": "/drugs/glucagon/",
-   "s": "“Er is 1 registratie, en die is geldig. Het bijbehorende product is een enkelvoud” → “Er zijn geldige…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Glimepiride",
-   "u": "/drugs/glimepiride/",
-   "s": "“De enige Nederlandse registratie is geldig; er is momenteel een geldige vergunni” → “Er zijn geldige…",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
    "t": "Zuclopenthixol",
    "u": "/drugs/zuclopenthixol/",
-   "s": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning geschrapt.”",
+   "s": "“Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de ” → “Duidelijkheid over de…",
    "d": "2026-11-24"
   },
   {
@@ -424,13 +424,19 @@
   {
    "t": "Tramadol",
    "u": "/drugs/tramadol/",
-   "s": "“Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen gel” → “Beoordeling van de…",
+   "s": "“Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.” → “Voor deze vergunningen is…",
    "d": "2026-11-24"
   },
   {
    "t": "Topiramate",
    "u": "/drugs/topiramate/",
    "s": "“Opheldering van de vergunningsstatus in Nederland (de enige vergunning is geannu” → “Opheldering van de…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Thymol",
+   "u": "/drugs/thymol/",
+   "s": "“Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voo” → “Thymol is een…",
    "d": "2026-11-24"
   },
   {
@@ -443,12 +449,6 @@
    "t": "Sertraline",
    "u": "/drugs/sertraline/",
    "s": "“Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.” → “Volgens de gegevens van het…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Risperidone",
-   "u": "/drugs/risperidone/",
-   "s": "“De lokale gegevens bevatten één registratie, die geldig is.” → “De lokale gegevens bevatten geldige…",
    "d": "2026-11-24"
   }
  ],

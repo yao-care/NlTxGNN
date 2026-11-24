@@ -38,7 +38,13 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **4**
 
 ## Samenvatting in één zin
 
-Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland in de handel is als Orgametril 5 mg tabletten. De TxGNN-voorspelling is dat het mogelijk werkzaam is bij **migraine** (*migraine disorder*). Daarvoor zijn **geen geregistreerde klinische studies** en **2 publicaties** gevonden: een recent overzichtsartikel en een Zweeds rapport uit 1963.
+Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland onder meer in de handel is als Orgametril 5 mg tabletten. De TxGNN-voorspelling is dat het mogelijk werkzaam is bij **migraine** (*migraine disorder*). Daarvoor zijn **geen geregistreerde klinische studies** en **2 publicaties** gevonden: een recent overzichtsartikel en een Zweeds rapport uit 1963.
+
+<!-- review:begin nl-lic-20261124b-lynestrenol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland in de handel is als Orgametril 5 mg tabletten.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-lynestrenol-1 -->
 
 ## Snel overzicht
 
@@ -110,6 +116,19 @@ Uit de literatuur komt één aandachtspunt: gecombineerde oestrogeenhoudende ant
 - Zo nodig een gecontroleerde pilotstudie bij menstruatiegerelateerde migraine overwegen.
 
 **Overige voorspellingen:** voor migraine met hersenstamaura, slapeloosheid en lepra is geen direct studiebewijs gevonden (bewijsniveau L5, besluit Hold). Voor lepra is geen aannemelijk mechanistisch verband gevonden.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland i” → “Lynestrenol is een progestageen (voorloper van norethisteron” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

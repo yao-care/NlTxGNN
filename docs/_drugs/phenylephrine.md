@@ -152,8 +152,14 @@ De voorspelling is mechanistisch plausibel en sluit aan bij bestaande indicaties
 - Opgehaalde en geanalyseerde bijsluiter/SmPC-gegevens van het CBG-MEB (waarschuwingen en contra-indicaties); dit is een blokkerend gegevensgat voor de veiligheidsscreening
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Controlled studies of registratie van klinische studies met fenylefrine bij aandoeningen van de neusholte
-- Beoordeling van toedieningsroute en formulering (de vergunningen betreffen alleen injectie-oplossingen, terwijl neusgebruik een nasale toedieningsvorm vereist)
+- Beoordeling van toedieningsroute en formulering (neusgebruik vereist een nasale toedieningsvorm; de vergunningen in de gegevens betreffen geen nasale toedieningsvorm)
 - Een veiligheidsplan voor patiënten met hypertensie en andere cardiovasculaire risicofactoren
+
+<!-- review:begin nl-lic-20261124b-phenylephrine-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beoordeling van toedieningsroute en formulering (de vergunningen betreffen alleen injectie-oplossingen, terwijl neusgebruik een nasale toedieningsvorm vereist)” Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-phenylephrine-2 -->
 
 <!-- review:begin log -->
 
@@ -166,6 +172,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-06 | Verwijderd: “en beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
 | 2026-11-24 | “Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergun” → “Er zijn momenteel geldige vergunningen bij het CBG-MEB voor ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Beoordeling van toedieningsroute en formulering (de vergunningen betreffen allee” → “Beoordeling van toedieningsroute en formulering (neusgebruik” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

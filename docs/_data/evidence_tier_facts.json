@@ -106,8 +106,8 @@
     "i": "Slapeloosheid",
     "lt": 28,
     "lv": 28,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Volgens de lokale gegevens van het CBG-MEB is de vergunning geldig en is het pro” → “Volgens de lokale…",
     "x": 0
    },
    {
@@ -289,7 +289,7 @@
   "with_current": 39,
   "none_current": 1,
   "without_data": 0,
-  "with_reviews": 39,
+  "with_reviews": 40,
   "rows": [
    {
     "t": "Acitretin",
@@ -551,8 +551,8 @@
     "i": "Migraine",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Lynestrenol is een progestageen (voorloper van norethisteron) dat in Nederland i” → “Lynestrenol is een…",
     "x": 0
    },
    {
@@ -628,8 +628,8 @@
     "i": "Aandoening van de neusholte",
     "lt": 15,
     "lv": 15,
-    "r": 3,
-    "rs": "“Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergun” → “Er zijn momenteel…",
+    "r": 4,
+    "rs": "“Beoordeling van toedieningsroute en formulering (de vergunningen betreffen allee” → “Beoordeling van…",
     "x": 0
    },
    {
@@ -694,8 +694,8 @@
     "i": "sclerosing cholangitis",
     "lt": 10,
     "lv": 10,
-    "r": 2,
-    "rs": "Verwijderd: “omdat de huidige vergunning is doorgehaald”",
+    "r": 3,
+    "rs": "“Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) i” → “Selenium is een…",
     "x": 0
    },
    {
@@ -755,7 +755,7 @@
   "with_current": 252,
   "none_current": 7,
   "without_data": 0,
-  "with_reviews": 243,
+  "with_reviews": 244,
   "rows": [
    {
     "t": "Valsartan",
@@ -863,8 +863,8 @@
     "i": "tendinitis",
     "lt": 110,
     "lv": 110,
-    "r": 2,
-    "rs": "Verwijderd: “Daarnaast heeft de enige Nederlandse vergunning in de gegevens de status \"doorgehaald\"”",
+    "r": 3,
+    "rs": "“De geregistreerde indicatietekst van deze vergunning is niet beschikbaar in de g” → “De geregistreerde…",
     "x": 0
    },
    {
@@ -1028,8 +1028,8 @@
     "i": "Duodenale obstructie",
     "lt": 69,
     "lv": 69,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“De status van de vergunningen is in de lokale gegevens niet eenduidig vastgelegd” → “Aantallen en de status…",
     "x": 0
    },
    {
@@ -1128,7 +1128,7 @@
     "lt": 58,
     "lv": 56,
     "r": 4,
-    "rs": "Verwijderd: “, gezien de ingetrokken vergunningsstatus”",
+    "rs": "“Alle vijf vergunningen zijn geldig. Vergunningsteksten met indicatie, doseringsv” → “Vergunningsteksten met…",
     "x": 0
    },
    {
@@ -1182,8 +1182,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 54,
     "lv": 52,
-    "r": 2,
-    "rs": "“Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen gel” → “Beoordeling van de…",
+    "r": 3,
+    "rs": "“Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.” → “Voor deze vergunningen is…",
     "x": 0
    },
    {
@@ -1193,8 +1193,8 @@
     "i": "Obstructieve longziekte",
     "lt": 52,
     "lv": 51,
-    "r": 2,
-    "rs": "“Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning” → “Voor dit middel zijn in…",
+    "r": 3,
+    "rs": "“Opheldering van de formulering en het regelgevend traject in Nederland, aangezie” → “Opheldering van de…",
     "x": 0
    },
    {
@@ -1281,8 +1281,8 @@
     "i": "Specifieke ontwikkelingsstoornis",
     "lt": 43,
     "lv": 42,
-    "r": 2,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 3,
+    "rs": "“Deze vergunning is geldig. De registratie valt onder het CBG-MEB.” → “Er zijn geldige vergunningen…",
     "x": 0
    },
    {
@@ -1457,8 +1457,8 @@
     "i": "pulmonary hypertension",
     "lt": 32,
     "lv": 31,
-    "r": 3,
-    "rs": "Verwijderd: “Een beoordeling van de regulatoire route, gezien de ingetrokken vergunning en de ontbrekende…",
+    "r": 4,
+    "rs": "“De productinformatie van het CBG-MEB voor deze vergunning was niet beschikbaar.” → “De productinformatie van…",
     "x": 0
    },
    {
@@ -1578,8 +1578,8 @@
     "i": "Hepatische porfyrie",
     "lt": 24,
     "lv": 23,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Allopurinol is een xanthine-oxidaseremmer die in Nederland als tablet is geregis” → “Allopurinol is een…",
     "x": 0
    },
    {
@@ -2337,8 +2337,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 10,
     "lv": 10,
-    "r": 2,
-    "rs": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning geschrapt.”",
+    "r": 3,
+    "rs": "“Duidelijkheid over de beschikbaarheid van het middel in Nederland, aangezien de ” → “Duidelijkheid over de…",
     "x": 0
    },
    {
@@ -2348,8 +2348,8 @@
     "i": "Atrofoderma vermiculata",
     "lt": 10,
     "lv": 9,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (prod” → “Volgens de lokale…",
     "x": 0
    },
    {
@@ -2634,8 +2634,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Het product is in Nederland bovendien niet meer geldig geregistreerd, en de veil” → “De veiligheidsgegevens…",
     "x": 0
    },
    {
@@ -2711,8 +2711,8 @@
     "i": "Peesontsteking",
     "lt": 7,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Verwijderd: “De vergunningentabel wordt door het programma toegevoegd.”",
     "x": 0
    },
    {
@@ -2876,8 +2876,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 5,
     "lv": 5,
-    "r": 3,
-    "rs": "Verwijderd: “De enige Nederlandse vergunning is geschrapt, waardoor een veiligheidsbeoordeling op basis van…",
+    "r": 4,
+    "rs": "“Vaststellen of de geschrapte vergunning (RVG 111978) een commerciële of een veil” → “Vaststellen welke…",
     "x": 0
    },
    {
@@ -3162,8 +3162,8 @@
     "i": "Diffuse sclerodermie",
     "lt": 4,
     "lv": 3,
-    "r": 1,
-    "rs": "“aangezien de enige Nederlandse vergunning een oogzalf betreft” → “aangezien de Nederlandse vergunningen…",
+    "r": 2,
+    "rs": "“Deze vergunning is geldig. Het gaat om een oogzalf; voor systemisch gebruik is i” → “De geldige vergunningen…",
     "x": 0
    },
    {
@@ -3404,8 +3404,8 @@
     "i": "interventricular septum aneurysm",
     "lt": 3,
     "lv": 2,
-    "r": 2,
-    "rs": "Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald”",
+    "r": 3,
+    "rs": "“Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voo” → “Thymol is een…",
     "x": 0
    },
    {
@@ -3415,8 +3415,8 @@
     "i": "Benigne prostaathyperplasie",
     "lt": 2,
     "lv": 1,
-    "r": 2,
-    "rs": "“Het CBG-MEB-register vermeldt voor dit middel één vergunning.” → “Het CBG-MEB-register vermeldt voor dit…",
+    "r": 3,
+    "rs": "“Beoordeling van de toedieningsroute: benzydamine is hier geregistreerd als zuigt” → “Beoordeling van de…",
     "x": 0
    },
    {
@@ -3602,8 +3602,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 1,
     "lv": 0,
-    "r": 2,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 5,
+    "rs": "“Beoordeling van de beschikbaarheid van piroxicam in Nederland, gezien de geannul” → “Beoordeling van de…",
     "x": 0
    }
   ],

@@ -87,7 +87,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (product: Relpax 40, filmomhulde tabletten 40 mg). Doseringsvorm en geregistreerde indicatietekst zijn niet vastgelegd in de lokale gegevens. Raadpleeg voor de actuele registratiestatus de CBG-MEB-database en de SmPC.
+Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (onder meer Relpax 40, filmomhulde tabletten 40 mg). Doseringsvorm en geregistreerde indicatietekst zijn niet vastgelegd in de lokale gegevens. Raadpleeg voor de actuele registratiestatus de CBG-MEB-database en de SmPC.
+
+<!-- review:begin nl-lic-20261124b-eletriptan-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (product: Relpax 40, filmomhulde tabletten 40 mg).” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-eletriptan-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -126,11 +132,12 @@ Eletriptan heeft vaatvernauwende eigenschappen. Dit is relevant als een nieuwe i
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Relpax (eletriptan hydrobromide) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a501dbd-3ea8-47e4-9fcb-07035b8c8c9e) |
+| 2026-11-24 | “Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederland in de handel (prod” → “Volgens de lokale CBG-MEB-gegevens is eletriptan in Nederlan” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

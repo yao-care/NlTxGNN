@@ -73,13 +73,19 @@ Momenteel is er geen gerelateerde literatuur beschikbaar voor de voorspelde indi
 
 ## Informatie over de Nederlandse markt
 
-Het middel is op de markt. Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.
+Het middel is op de markt. Voor deze vergunningen is geen indicatietekst beschikbaar; de farmaceutische vorm per registratie staat in de vergunningstabel.
 
 <!-- review:begin nl-lic-20261112-tramadol-1 -->
 
 > **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Alle drie de vergunningen zijn geldig en het middel is op de markt.” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-tramadol-1 -->
+
+<!-- review:begin nl-lic-20261124b-tramadol-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.” Gecorrigeerd: de vergunningstabel bij de marktinformatie wordt automatisch uit de actuele registratiegegevens van het CBG (metadata.csv) gemaakt en bevat per registratie de farmaceutische vorm en de registratiehouder; de oorspronkelijke opmerking hierover klopte niet meer. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-tramadol-2 -->
 
 <!-- licenses:begin -->
 
@@ -150,6 +156,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Alle drie de vergunningen zijn geldig en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-24 | “Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen gel” → “Beoordeling van de herregistratiestatus” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Voor deze vergunningen is geen indicatietekst of toedieningsvorm beschikbaar.” → “Voor deze vergunningen is geen indicatietekst beschikbaar; d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

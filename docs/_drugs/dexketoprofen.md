@@ -88,7 +88,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Volgens de gegevens van het CBG-MEB is dexketoprofen in Nederland in de handel. De vergunningentabel wordt door het programma toegevoegd.
+Volgens de gegevens van het CBG-MEB is dexketoprofen in Nederland in de handel.
+
+<!-- review:begin nl-lic-20261124b-dexketoprofen-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De vergunningentabel wordt door het programma toegevoegd.” Gecorrigeerd: de vergunningstabel bij de marktinformatie wordt automatisch uit de actuele registratiegegevens van het CBG (metadata.csv) gemaakt en bevat per registratie de farmaceutische vorm en de registratiehouder; de oorspronkelijke opmerking hierover klopte niet meer. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-dexketoprofen-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -106,6 +112,19 @@ Raadpleeg de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter voor v
 - Een vergelijking met reeds gebruikte NSAID's bij peesontsteking om de toegevoegde waarde vast te stellen.
 - Een beoordeling van de SmPC-waarschuwingen en contra-indicaties, omdat de veiligheidsgegevens in de samengestelde data ontbreken.
 - Gegevens over de toedieningsroute en dosering die passen bij de beoogde populatie.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | Verwijderd: “De vergunningentabel wordt door het programma toegevoegd.” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

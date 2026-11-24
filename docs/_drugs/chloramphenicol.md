@@ -100,7 +100,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Deze vergunning is geldig. Het gaat om een oogzalf; voor systemisch gebruik is in de lokale gegevens geen product vastgelegd.
+De geldige vergunningen betreffen oogpreparaten (oogdruppels en oogzalf); voor systemisch gebruik is in de lokale gegevens geen product vastgelegd.
+
+<!-- review:begin nl-lic-20261124b-chloramphenicol-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Deze vergunning is geldig. Het gaat om een oogzalf; voor systemisch gebruik is in de lokale gegevens geen product vastgelegd.” Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-chloramphenicol-2 -->
 
 ---
 
@@ -135,7 +141,7 @@ Aanvullend is bekend dat chloramfenicol bij systemisch gebruik geassocieerd is m
 
 <!-- review:begin nl-lic-20261124b-chloramphenicol-1 -->
 
-> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “aangezien de enige Nederlandse vergunning een oogzalf betreft” Gecorrigeerd: er is niet één enkele Nederlandse vergunning volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Een afweging van de risico's van systemische blootstelling, aangezien de enige Nederlandse vergunning een oogzalf betreft” Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261124b-chloramphenicol-1 -->
 
@@ -147,7 +153,8 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-24 | “aangezien de enige Nederlandse vergunning een oogzalf betreft” → “aangezien de Nederlandse vergunningen oogpreparaten (oogdrup” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Een afweging van de risico's van systemische blootstelling, aangezien de enige N” → “Een afweging van de risico's van systemische blootstelling, ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Deze vergunning is geldig. Het gaat om een oogzalf; voor systemisch gebruik is i” → “De geldige vergunningen betreffen oogpreparaten (oogdruppels” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

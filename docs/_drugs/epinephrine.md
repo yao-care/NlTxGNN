@@ -104,7 +104,7 @@ Voor dit middel zijn in de lokale data geldige vergunningen geregistreerd (aanta
 
 <!-- review:begin nl-lic-20261124b-epinephrine-1 -->
 
-> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning is niet als geldig aangemerkt in de vergunninggegevens; of het middel” Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens als enige (geschrapte of vervallen) registratie; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning is niet als geldig aangemerkt in de vergunninggegevens; of het middel momenteel daadwerkelijk wordt geleverd, moet worden nagegaan.” Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens als enige (geschrapte of vervallen) registratie; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261124b-epinephrine-1 -->
 
@@ -163,8 +163,14 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC (Samenvatti
 - Beperking tot goed omschreven subpopulaties (astmapatiënten; geselecteerde gevallen van bronchiolitis in de acute zorg).
 - Een cardiovasculair monitoringplan (tachycardie, hypertensie, aritmie).
 - Specifieke gegevens voor COPD voordat extrapolatie wordt overwogen.
-- Opheldering van de formulering en het regelgevend traject in Nederland, aangezien de vergunning in de lokale data niet als geldig staat vermeld.
+- Opheldering van de formulering en het regelgevend traject in Nederland.
 - Gegevens over het werkingsmechanisme en de officiële waarschuwingen en contra-indicaties uit de SmPC.
+
+<!-- review:begin nl-lic-20261124b-epinephrine-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Opheldering van de formulering en het regelgevend traject in Nederland, aangezien de vergunning in de lokale data niet als geldig staat vermeld.” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-epinephrine-2 -->
 
 <!-- review:begin log -->
 
@@ -176,6 +182,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
 | 2026-11-24 | “Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning” → “Voor dit middel zijn in de lokale data geldige vergunningen ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Opheldering van de formulering en het regelgevend traject in Nederland, aangezie” → “Opheldering van de formulering en het regelgevend traject in” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

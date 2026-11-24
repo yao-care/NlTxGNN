@@ -38,7 +38,13 @@ Bewijsniveau: **L4** | Voorspelde indicaties: **1**
 
 ## Samenvatting in één zin
 
-Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) is geregistreerd geweest. Voor deze registratie is in de voor dit rapport verzamelde gegevens geen goedgekeurde indicatietekst beschikbaar. Het TxGNN-model voorspelt dat selenium mogelijk werkzaam is bij **sclerosing cholangitis**, maar daar zijn **geen klinische studies** en slechts **5 publicaties** van indirecte aard (observationeel, preklinisch en overzichtsstudies) voor.
+Selenium is een spoorelement dat in Nederland geregistreerd is als bestanddeel van infuuspreparaten (onder meer het infuusconcentraat Nutryelt). Voor deze registraties is in de voor dit rapport verzamelde gegevens geen goedgekeurde indicatietekst beschikbaar. Het TxGNN-model voorspelt dat selenium mogelijk werkzaam is bij **sclerosing cholangitis**, maar daar zijn **geen klinische studies** en slechts **5 publicaties** van indirecte aard (observationeel, preklinisch en overzichtsstudies) voor.
+
+<!-- review:begin nl-lic-20261124b-selenium-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) is geregistreerd geweest. Voor deze registratie is in de voor dit rapport verzamelde gegevens geen goedgekeurde indicatietekst beschikbaar.” Gecorrigeerd: de oorspronkelijke zin beschreef de registratie in de verleden tijd en als enkele registratie, op basis van een oudere, onvolledige versie van de gegevens; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-selenium-1 -->
 
 ## Snel overzicht
 
@@ -139,6 +145,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning doorgehaald en ontbreekt veiligheidsinformatie uit de officiële productinformatie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “omdat de huidige vergunning is doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Selenium is een spoorelement dat in Nederland als infuusconcentraat (Nutryelt) i” → “Selenium is een spoorelement dat in Nederland geregistreerd ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

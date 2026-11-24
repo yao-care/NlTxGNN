@@ -124,7 +124,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
   - **Gering**: ranitidine, metformine, cimetidine en kaliumcitraat.
   - **Onbekend niveau**: onder andere glimepiride, doxycycline, lansoprazol, loperamide, famotidine en acetylsalicylzuur.
 
-Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van een geregistreerd memantineproduct. De productinformatie van het CBG-MEB voor deze vergunning was niet beschikbaar.
+Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de Productkenmerken) en de bijsluiter van een geregistreerd memantineproduct. De productinformatie van het CBG-MEB voor de vergunningen in de gegevens was niet beschikbaar.
+
+<!-- review:begin nl-lic-20261124b-memantine-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De productinformatie van het CBG-MEB voor deze vergunning was niet beschikbaar.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-memantine-1 -->
 
 ---
 
@@ -165,6 +171,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is ingetrokken, waardoor er geen actief geregistreerd product is” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Een beoordeling van de regulatoire route, gezien de ingetrokken vergunning en de ontbrekende vergunde indicatie in de data” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 114719: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “De productinformatie van het CBG-MEB voor deze vergunning was niet beschikbaar.” → “De productinformatie van het CBG-MEB voor de vergunningen in” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

@@ -38,7 +38,13 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 ## Samenvatting in één alinea
 
-Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voorkwam als bestanddeel van een inhalatiezalf (Vicks VapoRub). Voor die vergunning is in de samengestelde gegevens geen goedgekeurde indicatietekst opgenomen. Het TxGNN-model voorspelt dat thymol mogelijk werkzaam is bij **interventriculair septumaneurysma**, met een zeer hoge modelscore. Er zijn echter **0 klinische studies** en **0 publicaties** die specifiek deze indicatie ondersteunen. De voorspelling berust uitsluitend op een grafiekmodel.
+Thymol is een natuurlijke fenolische monoterpeen die op de Nederlandse markt voorkomt als bestanddeel van een inhalatiezalf (Vicks VapoRub). Voor deze vergunningen is in de samengestelde gegevens geen goedgekeurde indicatietekst opgenomen. Het TxGNN-model voorspelt dat thymol mogelijk werkzaam is bij **interventriculair septumaneurysma**, met een zeer hoge modelscore. Er zijn echter **0 klinische studies** en **0 publicaties** die specifiek deze indicatie ondersteunen. De voorspelling berust uitsluitend op een grafiekmodel.
+
+<!-- review:begin nl-lic-20261124b-thymol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voorkwam als bestanddeel van een inhalatiezalf (Vicks VapoRub). Voor die vergunning is in de samengestelde gegevens geen goedgekeurde indicatietekst opgenomen.” Gecorrigeerd: de oorspronkelijke zin beschreef de registratie in de verleden tijd en als enkele registratie, op basis van een oudere, onvolledige versie van de gegevens; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-thymol-1 -->
 
 ---
 
@@ -129,6 +135,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “De enige Nederlandse vergunning is bovendien doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 120425//03088: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Thymol is een natuurlijke fenolische monoterpeen die in de Nederlandse markt voo” → “Thymol is een natuurlijke fenolische monoterpeen die op de N” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

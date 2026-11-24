@@ -38,7 +38,13 @@ Bewijsniveau: **L5** | Voorspelde indicaties: **10**
 
 ## Samenvatting in één zin
 
-Allopurinol is een xanthine-oxidaseremmer die in Nederland als tablet is geregistreerd. Het TxGNN-model voorspelt een mogelijk effect bij **hepatische porfyrie (hepatic porphyria)**, maar voor deze indicatie zijn **geen klinische studies** en slechts **2 publicaties** gevonden, die het effect van allopurinol niet onderbouwen.
+Allopurinol is een xanthine-oxidaseremmer die in Nederland onder meer als tablet is geregistreerd. Het TxGNN-model voorspelt een mogelijk effect bij **hepatische porfyrie (hepatic porphyria)**, maar voor deze indicatie zijn **geen klinische studies** en slechts **2 publicaties** gevonden, die het effect van allopurinol niet onderbouwen.
+
+<!-- review:begin nl-lic-20261124b-allopurinol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Allopurinol is een xanthine-oxidaseremmer die in Nederland als tablet is geregistreerd.” Gecorrigeerd: de vermelding over de farmaceutische vorm was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-allopurinol-1 -->
 
 ---
 
@@ -142,11 +148,12 @@ Raadpleeg voor volledige veiligheidsinformatie de SmPC (Samenvatting van de Prod
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+| 2026-11-24 | “Allopurinol is een xanthine-oxidaseremmer die in Nederland als tablet is geregis” → “Allopurinol is een xanthine-oxidaseremmer die in Nederland o” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

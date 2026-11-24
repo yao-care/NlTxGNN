@@ -99,7 +99,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-De status van de vergunningen is in de lokale gegevens niet eenduidig vastgelegd, daarom wordt hierover geen uitspraak gedaan. Raadpleeg het CBG-MEB voor de actuele situatie.
+Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Raadpleeg het CBG-MEB voor de actuele situatie.
+
+<!-- review:begin nl-lic-20261124b-esomeprazole-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De status van de vergunningen is in de lokale gegevens niet eenduidig vastgelegd, daarom wordt hierover geen uitspraak gedaan.” Gecorrigeerd: de status van de registraties is volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24) eenduidig vastgelegd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-esomeprazole-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -124,11 +130,12 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
+| 2026-11-24 | “De status van de vergunningen is in de lokale gegevens niet eenduidig vastgelegd” → “Aantallen en de status per registratie staan in het snelle o” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

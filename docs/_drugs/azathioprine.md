@@ -90,7 +90,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Bij de voor dit rapport samengestelde gegevens is één registratie opgenomen. De registratie is door het CBG-MEB in de gegevens als vervallen aangemerkt, terwijl de totale marktstatus "In de handel" luidt. Raadpleeg het CBG-MEB voor de actuele status.
+In de voor dit rapport samengestelde gegevens zijn geldige registraties opgenomen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie); de marktstatus is "In de handel". Raadpleeg het CBG-MEB voor de actuele status.
+
+<!-- review:begin nl-lic-20261124b-azathioprine-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Bij de voor dit rapport samengestelde gegevens is één registratie opgenomen. De registratie is door het CBG-MEB in de gegevens als vervallen aangemerkt, terwijl de totale marktstatus "In de handel" luidt.” Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens als enige (geschrapte of vervallen) registratie; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-azathioprine-1 -->
 
 ## Cytotoxiciteit
 
@@ -123,6 +129,19 @@ Raadpleeg voor de volledige veiligheidsinformatie de SmPC (Samenvatting van de P
 - Preklinisch of ander onderzoek dat een verband met het syndroom aantoont
 - Volledige veiligheidsinformatie uit de SmPC van het CBG-MEB
 - Bevestiging van de actuele registratiestatus in Nederland
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “Bij de voor dit rapport samengestelde gegevens is één registratie opgenomen. De ” → “In de voor dit rapport samengestelde gegevens zijn geldige r” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

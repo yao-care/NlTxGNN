@@ -103,7 +103,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Het CBG-MEB-register vermeldt één vergunning, die geldig is. Raadpleeg de SmPC voor de geregistreerde indicaties.
+Het CBG-MEB-register vermeldt geldige vergunningen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). Raadpleeg de SmPC voor de geregistreerde indicaties.
+
+<!-- review:begin nl-lic-20261124b-goserelin-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Het CBG-MEB-register vermeldt één vergunning, die geldig is.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-goserelin-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -123,6 +129,18 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Gegevens over het werkingsmechanisme
 - Veiligheidsinformatie uit de SmPC van het CBG-MEB
 - Direct klinisch of preklinisch onderzoek bij de beoogde populatie
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “Het CBG-MEB-register vermeldt één vergunning, die geldig is.” → “Het CBG-MEB-register vermeldt geldige vergunningen (aantalle” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

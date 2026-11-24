@@ -72,7 +72,13 @@ Voor andere voorspelde oogaandoeningen is er alleen indirect materiaal. Een voor
 
 ## Informatie over de Nederlandse markt
 
-Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel. Er is geen indicatietekst beschikbaar in de voor dit rapport verzamelde gegevens.
+Er zijn vergunningen voor lidocaïne als enkelvoudig middel en als combinatiepreparaat (werkzame stoffen per registratie in de vergunningstabel). Er is geen indicatietekst beschikbaar in de voor dit rapport verzamelde gegevens.
+
+<!-- review:begin nl-lic-20261124b-lidocaine-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel.” Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens; de vermelding over enkelvoudige middelen en combinatiepreparaten klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-lidocaine-1 -->
 
 <!-- licenses:begin -->
 
@@ -134,6 +140,19 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC en de bijsluiter (CBG
 - Preklinisch of klinisch onderzoek dat lidocaïne direct bij deze aandoening onderzoekt, inclusief beoordeling van de veiligheid voor het hoornvlies.
 - Gegevens over het werkingsmechanisme en de veiligheidsinformatie uit de SmPC.
 - Een beoordeling van de geschikte toedieningsroute (oogheelkundige formulering). Geen van de huidige Nederlandse producten is hiervoor bedoeld.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel.” → “Er zijn vergunningen voor lidocaïne als enkelvoudig middel e” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

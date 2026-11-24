@@ -156,7 +156,13 @@ Voor waarschuwingen en contra-indicaties uit de productinformatie zijn geen gege
 - Gegevens over het werkingsmechanisme (nu niet beschikbaar) en onderzoek naar een eventuele relatie met tumorbiologie
 - Waarschuwingen en contra-indicaties uit de SmPC/bijsluiter (CBG-MEB), nodig voor de veiligheidsscreening
 - Gerichte literatuursearch naar topiramaat bij trigeminusgerelateerde aandoeningen (zoals trigeminusneuralgie) en bij reflexepilepsieën
-- Opheldering van de vergunningsstatus in Nederland (de enige vergunning is geannuleerd) en de beschikbare toedieningsvormen
+- Opheldering van de vergunningsstatus in Nederland en de beschikbare toedieningsvormen
+
+<!-- review:begin nl-lic-20261124b-topiramate-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Opheldering van de vergunningsstatus in Nederland (de enige vergunning is geannuleerd) en de beschikbare toedieningsvormen” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-topiramate-1 -->
 
 <!-- review:begin log -->
 
@@ -169,6 +175,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “Er is in Nederland 1 geldige vergunning van 1 (CBG-MEB)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Topamax is in Nederland wel op de markt met 1 geldige vergunning van 1” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
+| 2026-11-24 | “Opheldering van de vergunningsstatus in Nederland (de enige vergunning is geannu” → “Opheldering van de vergunningsstatus in Nederland en de besc” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

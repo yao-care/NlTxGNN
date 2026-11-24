@@ -94,7 +94,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Er is 1 vergunning in de lokale gegevens opgenomen en deze is geldig.
+Er zijn geldige vergunningen in de lokale gegevens opgenomen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie).
+
+<!-- review:begin nl-lic-20261124b-amiodarone-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er is 1 vergunning in de lokale gegevens opgenomen en deze is geldig.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-amiodarone-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -130,11 +136,12 @@ Voorbeelden van matige interacties (Moderate) zijn famotidine, aprepitant, bisac
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
+| 2026-11-24 | “Er is 1 vergunning in de lokale gegevens opgenomen en deze is geldig.” → “Er zijn geldige vergunningen in de lokale gegevens opgenomen” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

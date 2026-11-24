@@ -117,7 +117,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-De marktstatus is "In de handel". De lokale gegevens bevatten één vergunning, en die is geldig.
+De marktstatus is "In de handel". De lokale gegevens bevatten geldige vergunningen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie).
+
+<!-- review:begin nl-lic-20261124b-levonorgestrel-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De lokale gegevens bevatten één vergunning, en die is geldig.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-levonorgestrel-1 -->
 
 ---
 
@@ -153,6 +159,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 119957//16681: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
+| 2026-11-24 | “De lokale gegevens bevatten één vergunning, en die is geldig.” → “De lokale gegevens bevatten geldige vergunningen (aantallen ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

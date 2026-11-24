@@ -111,7 +111,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig. Voor de volledige productinformatie verwijzen wij naar de SmPC en de bijsluiter.
+Clozapine is geregistreerd bij het CBG-MEB (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). Voor de volledige productinformatie verwijzen wij naar de SmPC en de bijsluiter.
+
+<!-- review:begin nl-lic-20261124b-clozapine-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-clozapine-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -140,11 +146,12 @@ Uit de voor dit rapport samengestelde gegevens komen de volgende punten naar vor
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
+| 2026-11-24 | “Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig.” → “Clozapine is geregistreerd bij het CBG-MEB (aantallen en de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

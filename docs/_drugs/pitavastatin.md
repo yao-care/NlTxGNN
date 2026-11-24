@@ -83,7 +83,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Er is één vergunning (CBG-MEB). Raadpleeg de SmPC en de bijsluiter voor de geregistreerde indicaties.
+Er zijn vergunningen bij het CBG-MEB geregistreerd (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). Raadpleeg de SmPC en de bijsluiter voor de geregistreerde indicaties.
+
+<!-- review:begin nl-lic-20261124b-pitavastatin-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er is één vergunning (CBG-MEB).” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-pitavastatin-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -117,11 +123,12 @@ De modelscore is zeer hoog, maar er is geen enkele klinische studie of publicati
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
+| 2026-11-24 | “Er is één vergunning (CBG-MEB).” → “Er zijn vergunningen bij het CBG-MEB geregistreerd (aantalle” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

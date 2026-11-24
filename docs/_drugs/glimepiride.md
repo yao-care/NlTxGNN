@@ -131,7 +131,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-De enige Nederlandse registratie is geldig; er is momenteel een geldige vergunning (1 van 1) voor een glimepiridepreparaat in de voor dit rapport samengestelde gegevens, en het middel wordt op de markt gebracht.
+Er zijn geldige Nederlandse registraties voor glimepiridepreparaten (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie), en het middel wordt op de markt gebracht.
+
+<!-- review:begin nl-lic-20261124b-glimepiride-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De enige Nederlandse registratie is geldig; er is momenteel een geldige vergunning (1 van 1) voor een glimepiridepreparaat in de voor dit rapport samengestelde gegevens, en het middel wordt op de markt gebracht.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-glimepiride-1 -->
 
 ---
 
@@ -176,6 +182,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “De Nederlandse registratie is bovendien ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
+| 2026-11-24 | “De enige Nederlandse registratie is geldig; er is momenteel een geldige vergunni” → “Er zijn geldige Nederlandse registraties voor glimepiridepre” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

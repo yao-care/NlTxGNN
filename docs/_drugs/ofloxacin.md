@@ -171,8 +171,14 @@ De officiële waarschuwingen en contra-indicaties uit de bijsluiter zijn in de v
 - Formele veiligheidsinformatie uit de SmPC/bijsluiter van het CBG-MEB (blokkerende datalacune)
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Vergelijking met ciprofloxacine, levofloxacine en de huidige standaardbehandeling bij pest
-- Beoordeling van de beschikbaarheid van een geschikte toedieningsvorm (de enige vergunning betreft oogdruppels; voor systemische pest zijn orale of intraveneuze vormen nodig)
+- Beoordeling van de beschikbaarheid van een geschikte toedieningsvorm (voor systemische pest zijn orale of intraveneuze vormen nodig)
 - Veiligheidsbeoordeling voor risicogroepen (QT-verlenging, pees- en zenuwaandoeningen, nier- en leverfunctie)
+
+<!-- review:begin nl-lic-20261124b-ofloxacin-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beoordeling van de beschikbaarheid van een geschikte toedieningsvorm (de enige vergunning betreft oogdruppels; voor systemische pest zijn orale of intraveneuze vormen nodig)” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-ofloxacin-1 -->
 
 <!-- review:begin log -->
 
@@ -187,6 +193,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “Er is één vergunning, en die is ingetrokken” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 115765: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
+| 2026-11-24 | “Beoordeling van de beschikbaarheid van een geschikte toedieningsvorm (de enige v” → “Beoordeling van de beschikbaarheid van een geschikte toedien” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

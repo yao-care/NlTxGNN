@@ -111,7 +111,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Er is 1 registratie, en die is geldig. Het bijbehorende product is een enkelvoudig preparaat.
+Er zijn geldige registraties (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). Het betreft enkelvoudige preparaten (werkzame stoffen per registratie in de vergunningstabel).
+
+<!-- review:begin nl-lic-20261124b-glucagon-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er is 1 registratie, en die is geldig. Het bijbehorende product is een enkelvoudig preparaat.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-glucagon-1 -->
 
 ---
 
@@ -146,6 +152,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 120327//02011: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84) |
+| 2026-11-24 | “Er is 1 registratie, en die is geldig. Het bijbehorende product is een enkelvoud” → “Er zijn geldige registraties (aantallen en de status per reg” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

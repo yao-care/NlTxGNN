@@ -78,7 +78,13 @@ Er is momenteel geen gerelateerde literatuur beschikbaar.
 
 ## Informatie over de Nederlandse markt
 
-Voor bisoprolol zijn in de lokale gegevens 6 vergunningen opgenomen. De lijst hieronder bevat de vergunningen zoals vastgelegd; indicatieteksten, doseringsvormen en fabrikanten zijn in de lokale gegevens niet vermeld.
+Voor bisoprolol zijn in de lokale gegevens vergunningen opgenomen (aantallen in het snelle overzicht). De tabel hieronder bevat de registraties zoals vastgelegd, met farmaceutische vorm en registratiehouder; indicatieteksten zijn in de lokale gegevens niet vermeld.
+
+<!-- review:begin nl-lic-20261124b-bisoprolol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Voor bisoprolol zijn in de lokale gegevens 6 vergunningen opgenomen. De lijst hieronder bevat de vergunningen zoals vastgelegd; indicatieteksten, doseringsvormen en fabrikanten zijn in de lokale gegevens niet vermeld.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-bisoprolol-1 -->
 
 <!-- licenses:begin -->
 
@@ -138,11 +144,12 @@ Voor de beschikbare veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatt
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+| 2026-11-24 | “Voor bisoprolol zijn in de lokale gegevens 6 vergunningen opgenomen. De lijst hi” → “Voor bisoprolol zijn in de lokale gegevens vergunningen opge” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

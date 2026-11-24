@@ -122,7 +122,13 @@ Aanvullend, vanuit de mechanistische beoordeling: antipsychotica geven neurologi
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling is uitsluitend gebaseerd op een kennisgrafiek (bewijsniveau L5), zonder klinische studies, publicaties of aannemelijke mechanistische link. Daarnaast is de enige Nederlandse vergunning geschrapt.
+- De voorspelling is uitsluitend gebaseerd op een kennisgrafiek (bewijsniveau L5), zonder klinische studies, publicaties of aannemelijke mechanistische link.
+
+<!-- review:begin nl-lic-20261124b-zuclopenthixol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Daarnaast is de enige Nederlandse vergunning geschrapt.” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-zuclopenthixol-1 -->
 
 **Om verder te gaan is het volgende nodig:**
 - Veiligheidsinformatie (waarschuwingen en contra-indicaties) uit de CBG-MEB-bijsluiter, die als blokkerend hiaat is aangemerkt
@@ -139,6 +145,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Deze vergunning is geldig: 1 van de 1 vergunningen is geldig en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning geschrapt.” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

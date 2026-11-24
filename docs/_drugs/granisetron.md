@@ -171,8 +171,14 @@ Voor volledige veiligheidsinformatie (waarschuwingen en contra-indicaties volgen
 - De bijsluiter/SmPC-gegevens (waarschuwingen en contra-indicaties) van het CBG-MEB ophalen; dit is een blokkerende leemte voor de veiligheidsscreening
 - Gegevens over het werkingsmechanisme aanvullen vanuit DrugBank
 - Systematisch zoeken naar preklinische en klinische studies naar granisetron bij manie
-- Beoordelen of er een toedieningsroute beschikbaar is die past bij de beoogde indicatie (orale vorm voor psychiatrisch gebruik), gezien de enige bekende vergunning een injectievloeistof betrof
+- Beoordelen of er een toedieningsroute beschikbaar is die past bij de beoogde indicatie (orale vorm voor psychiatrisch gebruik)
 - Een cardiale veiligheidsbeoordeling (QT-verlenging) en een plan voor interactiebewaking, gezien de vele ernstige interacties
+
+<!-- review:begin nl-lic-20261124b-granisetron-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beoordelen of er een toedieningsroute beschikbaar is die past bij de beoogde indicatie (orale vorm voor psychiatrisch gebruik), gezien de enige bekende vergunning een injectievloeistof betrof” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-granisetron-1 -->
 
 <!-- review:begin log -->
 
@@ -185,6 +191,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “Er is 1 geldige vergunning (van 1) voor granisetron bij het CBG-MEB in de data aangetroffen; h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “(1 geldige vergunning van 1)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56) |
+| 2026-11-24 | “Beoordelen of er een toedieningsroute beschikbaar is die past bij de beoogde ind” → “Beoordelen of er een toedieningsroute beschikbaar is die pas” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

@@ -103,7 +103,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.
+Volgens de gegevens van het CBG-MEB zijn er geldige vergunningen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie).
+
+<!-- review:begin nl-lic-20261124b-sertraline-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-sertraline-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -142,6 +148,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-15 | “RVG 120699//16292 (doorgehaald)” → “RVG 120699//16292 (niet geregistreerd)” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.” → “Volgens de gegevens van het CBG-MEB zijn er geldige vergunni” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

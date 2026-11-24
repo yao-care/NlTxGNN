@@ -86,7 +86,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Er is een geldige vergunning bij het CBG-MEB (1 van 1 vergunning). Het middel is op de markt.
+Er zijn geldige vergunningen bij het CBG-MEB (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). Het middel is op de markt.
+
+<!-- review:begin nl-lic-20261124b-felbamate-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er is een geldige vergunning bij het CBG-MEB (1 van 1 vergunning).” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-felbamate-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -126,6 +132,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-06 | Verwijderd: “Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde registratie” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119849//16889: “(doorgehaald)” verwijderd (geldig ingeschreven) | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Felbatol (felbamate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f522701-397a-11de-8a39-0800200c9a66) |
+| 2026-11-24 | “Er is een geldige vergunning bij het CBG-MEB (1 van 1 vergunning).” → “Er zijn geldige vergunningen bij het CBG-MEB (aantallen en d” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

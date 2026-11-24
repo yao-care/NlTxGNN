@@ -132,7 +132,13 @@ Voor de bijsluiterteksten van het CBG-MEB (waarschuwingen en contra-indicaties) 
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank) en een biologische onderbouwing voor de voorspelde indicatie
 - De SmPC-veiligheidsinformatie van het CBG-MEB (waarschuwingen en contra-indicaties), zodat een veiligheidsscreening mogelijk is
 - Preklinisch of klinisch bewijs dat verder gaat dan symptomatische pijnstilling
-- Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen geldig zijn
+- Beoordeling van de herregistratiestatus
+
+<!-- review:begin nl-lic-20261124b-tramadol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen geldig zijn” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-tramadol-1 -->
 
 <!-- review:begin log -->
 
@@ -143,6 +149,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Alle drie de vergunningen zijn geldig en h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen gel” → “Beoordeling van de herregistratiestatus” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

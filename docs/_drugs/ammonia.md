@@ -89,7 +89,19 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Let op: dit is de enige in de gegevens opgenomen vergunning. De productnaam wijst op een ander product (temozolomide) dan ammoniak, dus deze vergunning zegt niets over een geregistreerd gebruik van ammoniak. De vergunningsgegevens zijn zoals aangeleverd en bevatten geen indicatietekst.
+Let op: de registraties in de gegevens betreffen andere geneesmiddelen (temozolomide, raltegravir), waarbij ammoniak (E 527) naast de eigenlijke werkzame stof in de stoffenlijst van het CBG staat. Deze registraties zeggen dus niets over een geregistreerd gebruik van ammoniak als geneesmiddel. De vergunningsgegevens zijn zoals aangeleverd en bevatten geen indicatietekst.
+
+<!-- review:begin nl-lic-20261124b-ammonia-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Let op: dit is de enige in de gegevens opgenomen vergunning.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-ammonia-1 -->
+
+<!-- review:begin nl-lic-20261124b-ammonia-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De productnaam wijst op een ander product (temozolomide) dan ammoniak, dus deze vergunning zegt niets over een geregistreerd gebruik van ammoniak.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-ammonia-2 -->
 
 ---
 
@@ -113,6 +125,20 @@ Aanvullend: systemische blootstelling aan ammoniak is toxisch en inhalatie kan d
 - De SmPC/bijsluiter met waarschuwingen en contra-indicaties van het CBG-MEB
 - Een beoordeling of er überhaupt een biologisch plausibele route is naar acrodermatitis chronica atrophicans
 - Preklinisch of mechanistisch onderzoek voordat klinische evaluatie wordt overwogen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “Let op: dit is de enige in de gegevens opgenomen vergunning.” → “Let op: de registraties in de gegevens betreffen andere gene” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “De productnaam wijst op een ander product (temozolomide) dan ammoniak, dus deze ” → “Deze registraties zeggen dus niets over een geregistreerd ge” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

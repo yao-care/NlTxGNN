@@ -117,7 +117,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Het enige Nederlandse product is gevestigd met een geldige vergunning (1 van 1 geldige vergunningen) en wordt momenteel op de markt gebracht.
+Er zijn geldige Nederlandse vergunningen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie) en het middel wordt momenteel op de markt gebracht.
+
+<!-- review:begin nl-lic-20261124b-ciclesonide-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Het enige Nederlandse product is gevestigd met een geldige vergunning (1 van 1 geldige vergunningen) en wordt momenteel op de markt gebracht.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-ciclesonide-1 -->
 
 ---
 
@@ -184,6 +190,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “(het product is op de markt met 1 geldige vergunning van 1)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 119131//31633: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468) |
+| 2026-11-24 | “Het enige Nederlandse product is gevestigd met een geldige vergunning (1 van 1 g” → “Er zijn geldige Nederlandse vergunningen (aantallen en de st” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

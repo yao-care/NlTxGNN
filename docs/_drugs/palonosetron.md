@@ -123,7 +123,13 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-Het enige beschikbare bewijs wijst op een migraineachtige bijwerking in plaats van een therapeutisch effect, zonder klinische studies. De hoge TxGNN-score (0,9974) is een zuivere modelvoorspelling. Daarnaast is de enige Nederlandse vergunning geannuleerd.
+Het enige beschikbare bewijs wijst op een migraineachtige bijwerking in plaats van een therapeutisch effect, zonder klinische studies. De hoge TxGNN-score (0,9974) is een zuivere modelvoorspelling.
+
+<!-- review:begin nl-lic-20261124b-palonosetron-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Daarnaast is de enige Nederlandse vergunning geannuleerd.” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-palonosetron-1 -->
 
 **Om verder te gaan is nodig:**
 - Gegevens over het werkingsmechanisme (bijv. via DrugBank) en een analyse van de mechanistische link
@@ -148,6 +154,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | 2026-11-12 | Verwijderd: “Dit middel is in Nederland op de markt, met 1 geldige vergunning van 1 bij het CBG-MEB in de samengestelde gegevens” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7) |
+| 2026-11-24 | Verwijderd: “Daarnaast is de enige Nederlandse vergunning geannuleerd.” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

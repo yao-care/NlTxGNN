@@ -118,7 +118,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Er is 1 vergunning geregistreerd, en deze is geldig. Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor de exacte productinformatie.
+Er zijn geldige vergunningen geregistreerd (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). Raadpleeg de SmPC (Samenvatting van de Productkenmerken) van het CBG-MEB voor de exacte productinformatie.
+
+<!-- review:begin nl-lic-20261124b-miconazole-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Er is 1 vergunning geregistreerd, en deze is geldig.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-miconazole-1 -->
 
 ---
 
@@ -164,6 +170,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 109548//07461: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Er is 1 vergunning geregistreerd, en deze is geldig.” → “Er zijn geldige vergunningen geregistreerd (aantallen en de ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

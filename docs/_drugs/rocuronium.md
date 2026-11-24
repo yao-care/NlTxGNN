@@ -132,11 +132,11 @@ Voor waarschuwingen en contra-indicaties: raadpleeg de SmPC (Samenvatting van de
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling berust uitsluitend op het TxGNN-model (deep learning; bewijsniveau L5) zonder mechanistische of klinische ondersteuning. Rocuronium is een intraveneus middel dat beperkt is tot anesthesiesettings en onpraktisch en onveilig zou zijn voor een chronische aandoening als migraine. Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig.
+- De voorspelling berust uitsluitend op het TxGNN-model (deep learning; bewijsniveau L5) zonder mechanistische of klinische ondersteuning. Rocuronium is een intraveneus middel dat beperkt is tot anesthesiesettings en onpraktisch en onveilig zou zijn voor een chronische aandoening als migraine. Het middel is in Nederland op de markt.
 
 <!-- review:begin nl-lic-20261112-rocuronium-1 -->
 
-> **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig (1 geldige registratie van 1).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig (1 geldige registratie van 1).” Gecorrigeerd volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24): de oorspronkelijke vermelding over de (enige) registratie klopte niet. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-rocuronium-1 -->
 
@@ -154,7 +154,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-11-12 | Verwijderd: “(1 geldige registratie van 1)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Het middel is in Nederland op de markt; de enige Nederlandse registratie is geld” → “Het middel is in Nederland op de markt.” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 113094: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: rocuronium bromide prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a18fce42-0f3d-4354-845e-57c37ac3a147) |
 

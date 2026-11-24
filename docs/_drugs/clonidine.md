@@ -83,7 +83,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-De gegevens bevatten 1 vergunning; deze is volgens de lokale gegevens geschrapt. Raadpleeg het CBG-MEB voor de actuele status.
+De gegevens bevatten geldige vergunningen (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). Raadpleeg het CBG-MEB voor de actuele status.
+
+<!-- review:begin nl-lic-20261124b-clonidine-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De gegevens bevatten 1 vergunning; deze is volgens de lokale gegevens geschrapt.” Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens als enige (geschrapte of vervallen) registratie; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-clonidine-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -107,11 +113,12 @@ Voor veiligheidsinformatie wordt verwezen naar de SmPC (Samenvatting van de Prod
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd) |
+| 2026-11-24 | “De gegevens bevatten 1 vergunning; deze is volgens de lokale gegevens geschrapt.” → “De gegevens bevatten geldige vergunningen (aantallen en de s” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

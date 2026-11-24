@@ -100,7 +100,13 @@ Dit past bij obstructieve luchtwegaandoeningen zoals astma. Het meeste bewijs be
 
 ## Informatie over de Nederlandse markt
 
-Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning is niet als geldig aangemerkt in de vergunninggegevens; of het middel momenteel daadwerkelijk wordt geleverd, moet worden nagegaan.
+Voor dit middel zijn in de lokale data geldige vergunningen geregistreerd (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie); of het middel momenteel daadwerkelijk wordt geleverd, moet worden nagegaan.
+
+<!-- review:begin nl-lic-20261124b-epinephrine-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning is niet als geldig aangemerkt in de vergunninggegevens; of het middel” Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens als enige (geschrapte of vervallen) registratie; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-epinephrine-1 -->
 
 <!-- licenses:begin -->
 
@@ -164,11 +170,12 @@ Raadpleeg voor volledige waarschuwingen en contra-indicaties de SmPC (Samenvatti
 
 ## Controlelogboek
 
-Hieronder het controlelog van deze pagina. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling); modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven. De zin dat gegevens over het werkingsmechanisme niet beschikbaar waren, is vervangen door een uittreksel uit de aangehaalde officiële productinformatie (met niet-officiële vertaling).
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
+| 2026-11-24 | “Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning” → “Voor dit middel zijn in de lokale data geldige vergunningen ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

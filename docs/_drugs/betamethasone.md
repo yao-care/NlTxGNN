@@ -101,7 +101,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-De dosering in de productnaam (twee werkzame stoffen) wijst mogelijk op een combinatieproduct. Deze vergunning beschrijft daarom niet de registratie van betamethason als enkelvoudig middel.
+De registraties in de gegevens omvatten zowel enkelvoudige betamethasonpreparaten als combinatiepreparaten (werkzame stoffen per registratie in de vergunningstabel).
+
+<!-- review:begin nl-lic-20261124b-betamethasone-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De dosering in de productnaam (twee werkzame stoffen) wijst mogelijk op een combinatieproduct. Deze vergunning beschrijft daarom niet de registratie van betamethason als enkelvoudig middel.” Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens; de vermelding over enkelvoudige middelen en combinatiepreparaten klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-betamethasone-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -124,6 +130,18 @@ Voor waarschuwingen en contra-indicaties raadpleegt u de SmPC (Samenvatting van 
 - Gegevens over het werkingsmechanisme van betamethason.
 - Beoordeling van de SmPC-waarschuwingen en contra-indicaties van het relevante product, inclusief de geschikte toedieningsroute.
 - Zo nodig een klein verkennend klinisch onderzoek om werkzaamheid en veiligheid vast te stellen.
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “De dosering in de productnaam (twee werkzame stoffen) wijst mogelijk op een comb” → “De registraties in de gegevens omvatten zowel enkelvoudige b” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -421,234 +421,349 @@
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "acetylcysteine",
    "file": "acetylcysteine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het CBG-MEB heeft in de lokale gegevens één vergunning vastgelegd.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-acetylcysteine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "albendazole",
    "file": "albendazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er is 1 vergunning, en die is geldig.",
    "reason": "grammar",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-albendazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "amiodarone",
    "file": "amiodarone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er is 1 vergunning in de lokale gegevens opgenomen en deze is geldig.",
    "reason": "grammar",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-amiodarone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "bisoprolol",
    "file": "bisoprolol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Voor bisoprolol zijn in de lokale gegevens 6 vergunningen opgenomen.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-bisoprolol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "ciclesonide",
    "file": "ciclesonide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het enige Nederlandse product is gevestigd met een geldige vergunning (1 van 1 geldige vergunningen) en wordt momenteel op de markt gebracht.",
    "reason": "grammar",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-ciclesonide-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "clonidine",
    "file": "clonidine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De gegevens bevatten 1 vergunning; deze is volgens de lokale gegevens geschrapt.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-clonidine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "cyclophosphamide",
    "file": "cyclophosphamide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het CBG-MEB registreert voor dit geneesmiddel één vergunning, die geldig is.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-cyclophosphamide-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "cytarabine",
    "file": "cytarabine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het CBG-MEB registreert 1 vergunning, die geldig is.",
    "reason": "grammar",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-cytarabine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "dexamethasone",
    "file": "dexamethasone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Volgens de gegevens van het CBG-MEB zijn alle 4 vergunningen geldig.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-dexamethasone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "epinephrine",
    "file": "epinephrine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Voor dit middel is in de lokale data één vergunning geregistreerd.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-epinephrine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "erythromycin",
    "file": "erythromycin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het CBG-MEB registreert voor erythromycine 1 vergunning, die geldig is.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-erythromycin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "felbamate",
    "file": "felbamate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er is een geldige vergunning bij het CBG-MEB (1 van 1 vergunning).",
    "reason": "grammar",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-felbamate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "glucagon",
    "file": "glucagon.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er is 1 registratie, en die is geldig.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-glucagon-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "goserelin",
    "file": "goserelin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het CBG-MEB-register vermeldt één vergunning, die geldig is.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-goserelin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "haloperidol",
    "file": "haloperidol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Voor dit product is een geldige vergunning geregistreerd bij het CBG-MEB.",
    "reason": "grammar",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-haloperidol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "levonorgestrel",
    "file": "levonorgestrel.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De lokale gegevens bevatten één vergunning, en die is geldig.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-levonorgestrel-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "miconazole",
    "file": "miconazole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er is 1 vergunning geregistreerd, en deze is geldig.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-miconazole-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "pitavastatin",
    "file": "pitavastatin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er is één vergunning (CBG-MEB).",
    "reason": "grammar",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-pitavastatin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "risperidone",
    "file": "risperidone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De lokale gegevens bevatten één registratie, die geldig is.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-risperidone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "sertraline",
    "file": "sertraline.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.",
    "reason": "ambiguous",
    "added": "2026-11-24",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「alle／beide … geldig」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上、改成 0 張、單複數要跟著改、或講表格顯示筆數），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-sertraline-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "amantadine",
    "file": "amantadine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De gegevens bevatten één vergunning voor een monopreparaat.",
    "reason": "num,singular",
    "facts": "[5/5/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-amantadine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "ammonia",
    "file": "ammonia.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Let op: dit is de enige in de gegevens opgenomen vergunning.",
    "reason": "singular",
    "facts": "[2/2/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-ammonia-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "ammonia",
    "file": "ammonia.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De productnaam wijst op een ander product (temozolomide) dan ammoniak, dus deze vergunning zegt niets over een geregistreerd gebruik van ammoniak.",
    "reason": "singular",
    "facts": "[2/2/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-ammonia-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
@@ -668,331 +783,481 @@
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "azathioprine",
    "file": "azathioprine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Bij de voor dit rapport samengestelde gegevens is één registratie opgenomen.",
    "reason": "singular",
    "facts": "[13/12/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-azathioprine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "benzydamine",
    "file": "benzydamine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het CBG-MEB-register vermeldt voor dit middel één vergunning.",
    "reason": "singular",
    "facts": "[2/1/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-benzydamine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "betamethasone",
    "file": "betamethasone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Deze vergunning beschrijft daarom niet de registratie van betamethason als enkelvoudig middel.",
    "reason": "singular",
    "facts": "[31/30/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-betamethasone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "captopril",
    "file": "captopril.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De enige in de lokale gegevens vermelde vergunning betreft een combinatieproduct (captopril/hydrochloorthiazide) en zegt daarom niets over de vergunning van captopril als enkelvoudig middel.",
    "reason": "singular",
    "facts": "[6/5/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-captopril-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "chlorambucil",
    "file": "chlorambucil.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er is 1 registratie in de gegevens opgenomen; de registratiestatus van deze vergunning is in de lokale gegevens als geannuleerd weergegeven.",
    "reason": "singular",
    "facts": "[2/1/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-chlorambucil-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "chloramphenicol",
    "file": "chloramphenicol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- Een afweging van de risico's van systemische blootstelling, aangezien de enige Nederlandse vergunning een oogzalf betreft",
    "reason": "singular",
    "facts": "[4/3/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-chloramphenicol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "cilastatin",
    "file": "cilastatin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Beide producten zijn combinatiepreparaten van imipenem en cilastatine met een geldige vergunning van het CBG-MEB.",
    "reason": "num,singular",
    "facts": "[8/6/2]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-cilastatin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "clopidogrel",
    "file": "clopidogrel.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De voor dit rapport samengestelde data bevatten één vergunning, die door het programma wordt weergegeven.",
    "reason": "num,singular",
    "facts": "[26/26/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-clopidogrel-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "clozapine",
    "file": "clozapine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig.",
    "reason": "singular",
    "facts": "[47/46/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-clozapine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "enoxaparin",
    "file": "enoxaparin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er is één registratie (parallelimport/handelsvergunning) in de lokale gegevens opgenomen.",
    "reason": "singular",
    "facts": "[20/19/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-enoxaparin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "ganirelix",
    "file": "ganirelix.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- De enige Nederlandse vergunning is geschrapt, waardoor een veiligheidsbeoordeling op basis van de officiële productinformatie nu niet mogelijk is.",
    "reason": "singular",
    "facts": "[5/5/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-ganirelix-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "glimepiride",
    "file": "glimepiride.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De enige Nederlandse registratie is geldig; er is momenteel een geldige vergunning (1 van 1) voor een glimepiridepreparaat in de voor dit rapport samengestelde gegevens, en het middel wordt op de markt gebracht.",
    "reason": "num,singular",
    "facts": "[26/26/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-glimepiride-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "granisetron",
    "file": "granisetron.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- Beoordelen of er een toedieningsroute beschikbaar is die past bij de beoogde indicatie (orale vorm voor psychiatrisch gebruik), gezien de enige bekende vergunning een injectievloeistof betrof",
    "reason": "singular",
    "facts": "[12/12/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-granisetron-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "lorazepam",
    "file": "lorazepam.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.",
    "reason": "singular",
    "facts": "[38/38/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261031-lorazepam-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "mannitol",
    "file": "mannitol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafaxine-product (tabletten met verlengde afgifte), dat niet bij mannitol hoort.",
    "reason": "singular",
    "facts": "[7/6/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-mannitol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "mianserin",
    "file": "mianserin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het mechanistische verband is speculatief, het gebruik bij zuigelingen is zorgwekkend, en de enige Nederlandse registratie is geannuleerd.",
    "reason": "singular",
    "facts": "[3/2/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-mianserin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "nitrazepam",
    "file": "nitrazepam.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "De enige bekende registratie is geschrapt.",
    "reason": "singular",
    "facts": "[2/1/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-nitrazepam-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "nitrazepam",
    "file": "nitrazepam.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Daarnaast is de enige Nederlandse vergunning geschrapt en ontbreken veiligheidsgegevens uit de officiële productinformatie, wat een blokkerend gegeven is voor verdere beoordeling.",
    "reason": "singular",
    "facts": "[2/1/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-nitrazepam-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "ofloxacin",
    "file": "ofloxacin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- Beoordeling van de beschikbaarheid van een geschikte toedieningsvorm (de enige vergunning betreft oogdruppels; voor systemische pest zijn orale of intraveneuze vormen nodig)",
    "reason": "singular",
    "facts": "[16/15/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-ofloxacin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "olodaterol",
    "file": "olodaterol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Alle drie de vergunningen hebben de status \"geldig\".",
    "reason": "num,all-valid",
    "facts": "[7/5/2]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-olodaterol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "palonosetron",
    "file": "palonosetron.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Daarnaast is de enige Nederlandse vergunning geannuleerd.",
    "reason": "singular",
    "facts": "[5/5/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-palonosetron-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "phenylephrine",
    "file": "phenylephrine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergunningen voor fenylefrine als enkelvoudig of gecombineerd product.",
    "reason": "num",
    "facts": "[15/15/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-phenylephrine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "rocuronium",
    "file": "rocuronium.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het middel is in Nederland op de markt; de enige Nederlandse registratie is geldig.",
    "reason": "singular",
    "facts": "[14/13/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261112-rocuronium-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "terbutaline",
    "file": "terbutaline.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig.",
    "reason": "singular",
    "facts": "[3/2/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-terbutaline-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "topiramate",
    "file": "topiramate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- Opheldering van de vergunningsstatus in Nederland (de enige vergunning is geannuleerd) en de beschikbare toedieningsvormen",
    "reason": "singular",
    "facts": "[40/39/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-topiramate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "tramadol",
    "file": "tramadol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen geldig zijn",
    "reason": "num,all-valid",
    "facts": "[54/52/2]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-tramadol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "tryptophan",
    "file": "tryptophan.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- Een beoordeling van de kwaliteit en toedieningsroute van het product, gezien het ontbreken van een geldige registratie",
    "reason": "singular",
    "facts": "[58/57/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-tryptophan-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "verapamil",
    "file": "verapamil.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- Beoordeling van de regulatoire route, gezien het ontbreken van een geldige Nederlandse registratie",
    "reason": "singular",
    "facts": "[20/19/1]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-verapamil-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "zuclopenthixol",
    "file": "zuclopenthixol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Daarnaast is de enige Nederlandse vergunning geschrapt.",
    "reason": "singular",
    "facts": "[10/10/0]",
    "added": "2026-11-24",
-   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄"
+   "note": "句子寫的張數、「de enige／deze vergunning」或狀態（geschrapt／geannuleerd／ontbreken van een geldige registratie）跟快照事實層（[總數/有效/非有效]）不符，多半依 10-31 前舊證據包（每個藥只收 1～5 張）寫；句型是單數、指示詞或狀態敘述，程式不改，要改請寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-zuclopenthixol-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文仍以舊證據包（1～5 張）描述登記張數或狀態的句子（獨立寬偵測，2026-11-24）",
    "drug": "lidocaine",
    "file": "lidocaine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel.",
    "reason": "single-subset",
    "facts": "[95/91/4]",
    "added": "2026-11-24",
-   "note": "單方張數依舊證據包寫 4 張；證據包 kind 欄單方 35、複方 60，但複方裡有只多賦形劑（PROPYLPARAHYDROXYBENZOAAT 等）的，切法不可靠，只驗不改；要改請逐張對照成分欄後寫查核紀錄"
+   "note": "單方張數依舊證據包寫 4 張；證據包 kind 欄單方 35、複方 60，但複方裡有只多賦形劑（PROPYLPARAHYDROXYBENZOAAT 等）的，切法不可靠，只驗不改；要改請逐張對照成分欄後寫查核紀錄",
+   "record_ids": [
+    "nl-lic-20261124b-lidocaine-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪逐句對照證據包與快照事實層：原句跟現行 CBG 登記不符，以查核紀錄更正（更正文字不寫死張數）"
   }
  ]
 }

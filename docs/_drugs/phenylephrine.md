@@ -112,7 +112,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergunningen voor fenylefrine als enkelvoudig of gecombineerd product.
+Er zijn momenteel geldige vergunningen bij het CBG-MEB voor fenylefrine als enkelvoudig of gecombineerd product (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie).
+
+<!-- review:begin nl-lic-20261124b-phenylephrine-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergunningen voor fenylefrine als enkelvoudig of gecombineerd product.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-phenylephrine-1 -->
 
 ---
 
@@ -159,6 +165,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “en beide Nederlandse registraties zijn doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
+| 2026-11-24 | “Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergun” → “Er zijn momenteel geldige vergunningen bij het CBG-MEB voor ” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

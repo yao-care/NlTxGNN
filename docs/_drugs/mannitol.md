@@ -96,13 +96,19 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafaxine-product (tabletten met verlengde afgifte), dat niet bij mannitol hoort. Deze vergunning is daarom niet opgenomen in de tabel en moet worden gecontroleerd. De gegevens bevatten geen informatie over goedgekeurde indicaties.
+Opmerking: RVG 108589 in de gegevens betreft een venlafaxineproduct (tabletten met verlengde afgifte) waarin mannitol (E 421) naast de werkzame stof in de stoffenlijst van het CBG staat; deze registratie hoort dus niet bij mannitol als werkzaam middel en komt bovendien niet voor in de actuele Geneesmiddeleninformatiebank (niet geregistreerd). De gegevens bevatten geen informatie over goedgekeurde indicaties.
 
 <!-- review:begin nl-lic-20261106-mannitol-1 -->
 
 > **Controlecorrectie (2026-11-06)**: Oorspronkelijk stond er: “Beide vergunningen zijn doorgehaald en de gegevens bevatten geen informatie over goedgekeurde indicaties.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-11-06). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261106-mannitol-1 -->
+
+<!-- review:begin nl-lic-20261124b-mannitol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafaxine-product (tabletten met verlengde afgifte), dat niet bij mannitol hoort. Deze vergunning is daarom niet opgenomen in de tabel en moet worden gecontroleerd.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-mannitol-1 -->
 
 ---
 
@@ -149,6 +155,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-06 | Verwijderd: “Beide vergunningen zijn doorgehaald en d” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-06 | Verwijderd: “Daarnaast zijn de Nederlandse registraties doorgehaald” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafax” → “Opmerking: RVG 108589 in de gegevens betreft een venlafaxine” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

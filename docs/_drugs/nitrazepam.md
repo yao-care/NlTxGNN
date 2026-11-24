@@ -107,7 +107,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-De enige bekende registratie is geschrapt.
+Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie.
+
+<!-- review:begin nl-lic-20261124b-nitrazepam-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “De enige bekende registratie is geschrapt.” Gecorrigeerd: de oorspronkelijke zin beschreef alleen een registratie uit een oudere, onvolledige versie van de gegevens als enige (geschrapte of vervallen) registratie; dat klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-nitrazepam-1 -->
 
 ---
 
@@ -125,7 +131,13 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelde indicatie met de hoogste score is in wezen de bestaande indicatie insomnie en levert dus geen echte herpositionering op. De overige voorspellingen missen elk klinisch bewijs. Daarnaast is de enige Nederlandse vergunning geschrapt en ontbreken veiligheidsgegevens uit de officiële productinformatie, wat een blokkerend gegeven is voor verdere beoordeling.
+- De voorspelde indicatie met de hoogste score is in wezen de bestaande indicatie insomnie en levert dus geen echte herpositionering op. De overige voorspellingen missen elk klinisch bewijs. Daarnaast ontbreken veiligheidsgegevens uit de officiële productinformatie, wat een blokkerend gegeven is voor verdere beoordeling.
+
+<!-- review:begin nl-lic-20261124b-nitrazepam-2 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Daarnaast is de enige Nederlandse vergunning geschrapt en ontbreken veiligheidsgegevens uit de officiële productinformatie, wat een blokkerend gegeven is voor verdere beoordeling.” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-nitrazepam-2 -->
 
 **Om verder te gaan is nodig:**
 - Opvragen en analyseren van de SmPC en bijsluiter via het CBG-MEB (waarschuwingen en contra-indicaties)
@@ -133,6 +145,20 @@ Raadpleeg voor waarschuwingen en contra-indicaties de SmPC (Samenvatting van de 
 - Vaststellen van het ernstniveau van de gesignaleerde geneesmiddelinteracties
 - Beoordeling van de relevantie van de huidige Nederlandse behandelrichtlijnen, waarin benzodiazepinen bij insomnie slechts kortdurend worden aanbevolen
 - Voor de voorspellingen van acute encefalopathie en Wernicke-Korsakoff: eerst preklinisch of klinisch bewijs verzamelen voordat verdere stappen worden overwogen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “De enige bekende registratie is geschrapt.” → “Aantallen en de status per registratie staan in het snelle o” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Daarnaast is de enige Nederlandse vergunning geschrapt en ontbreken veiligheidsg” → “Daarnaast ontbreken veiligheidsgegevens uit de officiële pro” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 Deze inhoud is uitsluitend bedoeld voor onderzoeksdoeleinden en vormt geen medisch advies.

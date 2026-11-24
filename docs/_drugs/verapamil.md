@@ -169,7 +169,13 @@ Specifiek voor de voorspelde indicatie zijn de AV-blok- en hartfalencontra-indic
 - Gegevens over het werkingsmechanisme (bijvoorbeeld via DrugBank)
 - Gerichte literatuurstudie en eventueel een systematische review naar calciumkanaalblokkers bij pulmonale hypertensie door hypoxie
 - Preklinisch of hemodynamisch onderzoek (bijvoorbeeld een kleine proof-of-concept-studie) dat een specifiek effect van verapamil aantoont
-- Beoordeling van de regulatoire route, gezien het ontbreken van een geldige Nederlandse registratie
+- Beoordeling van de regulatoire route
+
+<!-- review:begin nl-lic-20261124b-verapamil-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beoordeling van de regulatoire route, gezien het ontbreken van een geldige Nederlandse registratie” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-verapamil-1 -->
 
 <!-- review:begin log -->
 
@@ -180,6 +186,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Tabelregel RVG 57532: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Beoordeling van de regulatoire route, gezien het ontbreken van een geldige Neder” → “Beoordeling van de regulatoire route” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

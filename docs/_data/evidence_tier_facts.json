@@ -51,8 +51,8 @@
     "i": "trombotische aandoening",
     "lt": 53,
     "lv": 52,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Het CBG-MEB heeft in de lokale gegevens één vergunning vastgelegd. Deze is geldi” → “Het CBG-MEB heeft in de…",
     "x": 0
    },
    {
@@ -95,8 +95,8 @@
     "i": "Manische bipolaire stoornis",
     "lt": 47,
     "lv": 46,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig.” → “Clozapine is geregistreerd bij…",
     "x": 0
    },
    {
@@ -172,8 +172,8 @@
     "i": "Acne",
     "lt": 47,
     "lv": 46,
-    "r": 2,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 3,
+    "rs": "“De lokale gegevens bevatten één vergunning, en die is geldig.” → “De lokale gegevens bevatten geldige…",
     "x": 0
    },
    {
@@ -289,7 +289,7 @@
   "with_current": 39,
   "none_current": 1,
   "without_data": 0,
-  "with_reviews": 37,
+  "with_reviews": 39,
   "rows": [
    {
     "t": "Acitretin",
@@ -331,8 +331,8 @@
     "i": "Staphylococcus aureus-infectie",
     "lt": 8,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Beide producten zijn combinatiepreparaten van imipenem en cilastatine met een ge” → “Alle registraties in de…",
     "x": 0
    },
    {
@@ -342,8 +342,8 @@
     "i": "Kleincellig longcarcinoom",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Het CBG-MEB registreert 1 vergunning, die geldig is.” → “Het CBG-MEB registreert geldige vergunningen…",
     "x": 0
    },
    {
@@ -441,8 +441,8 @@
     "i": "Rustelozebenensyndroom",
     "lt": 58,
     "lv": 57,
-    "r": 2,
-    "rs": "Verwijderd: “Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); h”",
+    "r": 3,
+    "rs": "“Een beoordeling van de kwaliteit en toedieningsroute van het product, gezien het” → “Een beoordeling van de…",
     "x": 0
    },
    {
@@ -474,8 +474,8 @@
     "i": "Folliculaire mucinose",
     "lt": 31,
     "lv": 30,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“De dosering in de productnaam (twee werkzame stoffen) wijst mogelijk op een comb” → “De registraties in de…",
     "x": 0
    },
    {
@@ -573,8 +573,8 @@
     "i": "acne",
     "lt": 20,
     "lv": 19,
-    "r": 1,
-    "rs": "",
+    "r": 2,
+    "rs": "“Er is 1 vergunning geregistreerd, en deze is geldig.” → “Er zijn geldige vergunningen geregistreerd…",
     "x": 0
    },
    {
@@ -617,8 +617,8 @@
     "i": "Migraineaandoening",
     "lt": 5,
     "lv": 5,
-    "r": 3,
-    "rs": "Verwijderd: “Bevestiging van de marktstatus: het middel is in Nederland op de markt, met 1 geldige vergunning…",
+    "r": 4,
+    "rs": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning geannuleerd.”",
     "x": 0
    },
    {
@@ -628,8 +628,8 @@
     "i": "Aandoening van de neusholte",
     "lt": 15,
     "lv": 15,
-    "r": 2,
-    "rs": "Verwijderd: “en beide Nederlandse registraties zijn doorgehaald”",
+    "r": 3,
+    "rs": "“Beide registraties bij het CBG-MEB zijn geldig; er zijn momenteel geldige vergun” → “Er zijn momenteel…",
     "x": 0
    },
    {
@@ -755,7 +755,7 @@
   "with_current": 252,
   "none_current": 7,
   "without_data": 0,
-  "with_reviews": 237,
+  "with_reviews": 243,
   "rows": [
    {
     "t": "Valsartan",
@@ -918,8 +918,8 @@
     "i": "Punctate epitheliale keratoconjunctivitis",
     "lt": 95,
     "lv": 91,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Er zijn 4 vergunningen voor lidocaïne als enkelvoudig middel.” → “Er zijn vergunningen voor lidocaïne als…",
     "x": 0
    },
    {
@@ -1094,8 +1094,8 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 63,
     "lv": 58,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Voor bisoprolol zijn in de lokale gegevens 6 vergunningen opgenomen. De lijst hi” → “Voor bisoprolol zijn in…",
     "x": 0
    },
    {
@@ -1149,8 +1149,8 @@
     "i": "Familiale horizontale blikparese met progressieve scoliose",
     "lt": 56,
     "lv": 55,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“De lokale gegevens bevatten één registratie, die geldig is.” → “De lokale gegevens bevatten geldige…",
     "x": 0
    },
    {
@@ -1182,8 +1182,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 54,
     "lv": 52,
-    "r": 1,
-    "rs": "Verwijderd: “Alle drie de vergunningen zijn geldig en h”",
+    "r": 2,
+    "rs": "“Beoordeling van de herregistratiestatus, aangezien alle drie de vergunningen gel” → “Beoordeling van de…",
     "x": 0
    },
    {
@@ -1193,8 +1193,8 @@
     "i": "Obstructieve longziekte",
     "lt": 52,
     "lv": 51,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Voor dit middel is in de lokale data één vergunning geregistreerd. De vergunning” → “Voor dit middel zijn in…",
     "x": 0
    },
    {
@@ -1336,8 +1336,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 40,
     "lv": 39,
-    "r": 3,
-    "rs": "Verwijderd: “Topamax is in Nederland wel op de markt met 1 geldige vergunning van 1”",
+    "r": 4,
+    "rs": "“Opheldering van de vergunningsstatus in Nederland (de enige vergunning is geannu” → “Opheldering van de…",
     "x": 0
    },
    {
@@ -1359,7 +1359,7 @@
     "lt": 38,
     "lv": 38,
     "r": 3,
-    "rs": "Verwijderd: “Lorazepam is in Nederland wel op de markt, met 1 geldige vergunning van 1”",
+    "rs": "“Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunnin” → “Er zijn actueel…",
     "x": 0
    },
    {
@@ -1380,8 +1380,8 @@
     "i": "Folliculaire mucinose",
     "lt": 40,
     "lv": 37,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Volgens de gegevens van het CBG-MEB zijn alle 4 vergunningen geldig.” → “Volgens de gegevens van het CBG-MEB…",
     "x": 0
    },
    {
@@ -1424,8 +1424,8 @@
     "i": "Schizoïde persoonlijkheidsstoornis",
     "lt": 34,
     "lv": 33,
-    "r": 1,
-    "rs": "",
+    "r": 2,
+    "rs": "“Volgens de gegevens van het CBG-MEB is er 1 vergunning, en deze is geldig.” → “Volgens de gegevens van het…",
     "x": 0
    },
    {
@@ -1534,8 +1534,8 @@
     "i": "Migraine met hersenstamaura",
     "lt": 26,
     "lv": 26,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“De voor dit rapport samengestelde data bevatten één vergunning, die door het pro” → “De voor dit rapport…",
     "x": 0
    },
    {
@@ -1545,8 +1545,8 @@
     "i": "focal stiff limb syndrome",
     "lt": 26,
     "lv": 26,
-    "r": 2,
-    "rs": "Verwijderd: “De Nederlandse registratie is bovendien ingetrokken”",
+    "r": 3,
+    "rs": "“De enige Nederlandse registratie is geldig; er is momenteel een geldige vergunni” → “Er zijn geldige…",
     "x": 0
    },
    {
@@ -1644,8 +1644,8 @@
     "i": "Amenorroe",
     "lt": 23,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Het CBG-MEB-register vermeldt één vergunning, die geldig is.” → “Het CBG-MEB-register vermeldt geldige…",
     "x": 0
    },
    {
@@ -1776,8 +1776,8 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 20,
     "lv": 19,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Er is één registratie (parallelimport/handelsvergunning) in de lokale gegevens o” → “In de lokale gegevens…",
     "x": 0
    },
    {
@@ -1798,8 +1798,8 @@
     "i": "obsolete bundle branch block",
     "lt": 20,
     "lv": 19,
-    "r": 1,
-    "rs": "",
+    "r": 2,
+    "rs": "“Beoordeling van de regulatoire route, gezien het ontbreken van een geldige Neder” → “Beoordeling van de…",
     "x": 0
    },
    {
@@ -1875,8 +1875,8 @@
     "i": "Wervelafwijkingen met variabele endocriene en T-celdysfunctie",
     "lt": 18,
     "lv": 17,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Het CBG-MEB registreert voor dit geneesmiddel één vergunning, die geldig is.” → “Het CBG-MEB registreert…",
     "x": 0
    },
    {
@@ -2007,8 +2007,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 16,
     "lv": 15,
-    "r": 5,
-    "rs": "Verwijderd: “Er is één vergunning, en die is ingetrokken”",
+    "r": 6,
+    "rs": "“Beoordeling van de beschikbaarheid van een geschikte toedieningsvorm (de enige v” → “Beoordeling van de…",
     "x": 0
    },
    {
@@ -2106,8 +2106,8 @@
     "i": "Congenitale glycosylatiestoornis met defecte fucosylering",
     "lt": 14,
     "lv": 13,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Voor dit product is een geldige vergunning geregistreerd bij het CBG-MEB.” → “Voor dit middel zijn geldige…",
     "x": 0
    },
    {
@@ -2140,7 +2140,7 @@
     "lt": 14,
     "lv": 13,
     "r": 3,
-    "rs": "Verwijderd: “(1 geldige registratie van 1)”",
+    "rs": "“Het middel is in Nederland op de markt; de enige Nederlandse registratie is geld” → “Het middel is in…",
     "x": 0
    },
    {
@@ -2161,8 +2161,8 @@
     "i": "Colobomateuze microftalmie-rizomele dysplasiesyndroom",
     "lt": 13,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“Bij de voor dit rapport samengestelde gegevens is één registratie opgenomen. De ” → “In de voor dit rapport…",
     "x": 0
    },
    {
@@ -2183,8 +2183,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 12,
     "lv": 12,
-    "r": 3,
-    "rs": "Verwijderd: “(1 geldige vergunning van 1)”",
+    "r": 4,
+    "rs": "“Beoordelen of er een toedieningsroute beschikbaar is die past bij de beoogde ind” → “Beoordelen of er een…",
     "x": 0
    },
    {
@@ -2205,8 +2205,8 @@
     "i": "atopic eczema",
     "lt": 12,
     "lv": 11,
-    "r": 4,
-    "rs": "Verwijderd: “(het product is op de markt met 1 geldige vergunning van 1)”",
+    "r": 5,
+    "rs": "“Het enige Nederlandse product is gevestigd met een geldige vergunning (1 van 1 g” → “Er zijn geldige…",
     "x": 0
    },
    {
@@ -2337,8 +2337,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 10,
     "lv": 10,
-    "r": 1,
-    "rs": "Verwijderd: “Deze vergunning is geldig: 1 van de 1 vergunningen is geldig en h”",
+    "r": 2,
+    "rs": "Verwijderd: “Daarnaast is de enige Nederlandse vergunning geschrapt.”",
     "x": 0
    },
    {
@@ -2557,8 +2557,8 @@
     "i": "Catecholaminerge polymorfe ventrikeltachycardie",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Er is 1 vergunning in de lokale gegevens opgenomen en deze is geldig.” → “Er zijn geldige vergunningen in de…",
     "x": 0
    },
    {
@@ -2722,8 +2722,8 @@
     "i": "Trigeminuszenuwneoplasma",
     "lt": 6,
     "lv": 6,
-    "r": 3,
-    "rs": "Verwijderd: “Duidelijkheid over de beschikbaarheid en toedieningsroute in Nederland, gezien de doorgehaalde…",
+    "r": 4,
+    "rs": "“Er is een geldige vergunning bij het CBG-MEB (1 van 1 vergunning).” → “Er zijn geldige vergunningen bij het…",
     "x": 0
    },
    {
@@ -2744,8 +2744,8 @@
     "i": "Prikkelbare darmsyndroom",
     "lt": 7,
     "lv": 6,
-    "r": 2,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 3,
+    "rs": "“Er is 1 registratie, en die is geldig. Het bijbehorende product is een enkelvoud” → “Er zijn geldige…",
     "x": 0
    },
    {
@@ -2766,8 +2766,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 7,
     "lv": 6,
-    "r": 2,
-    "rs": "Verwijderd: “Daarnaast zijn de Nederlandse registraties doorgehaald”",
+    "r": 3,
+    "rs": "“Opmerking: de tweede vergunning in de gegevens (RVG 108589) betreft een venlafax” → “Opmerking: RVG 108589…",
     "x": 0
    },
    {
@@ -2777,8 +2777,8 @@
     "i": "Cholesterylester-transfereiwitdeficiëntie",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Er is één vergunning (CBG-MEB).” → “Er zijn vergunningen bij het CBG-MEB geregistreerd (aantalle”",
     "x": 0
    },
    {
@@ -2810,8 +2810,8 @@
     "i": "Rasmussen-encefalitis",
     "lt": 5,
     "lv": 5,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“De gegevens bevatten één vergunning voor een monopreparaat.” → “De gegevens bevatten vergunningen voor…",
     "x": 0
    },
    {
@@ -2832,8 +2832,8 @@
     "i": "Maligne hypertensieve nierziekte",
     "lt": 6,
     "lv": 5,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“De vergunningstabel wordt door het programma toegevoegd. De enige in de lokale g” → “De registraties in de…",
     "x": 0
    },
    {
@@ -2876,8 +2876,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 5,
     "lv": 5,
-    "r": 2,
-    "rs": "Verwijderd: “Het geneesmiddel is op de markt: 1 geldige vergunning van de 1 vergunning”",
+    "r": 3,
+    "rs": "Verwijderd: “De enige Nederlandse vergunning is geschrapt, waardoor een veiligheidsbeoordeling op basis van…",
     "x": 0
    },
    {
@@ -2931,8 +2931,8 @@
     "i": "Coenurose",
     "lt": 4,
     "lv": 4,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Er is 1 vergunning, en die is geldig.” → “Er zijn geldige vergunningen (aantallen en de status per reg”",
     "x": 0
    },
    {
@@ -2964,8 +2964,8 @@
     "i": "Faciodigitogenitaal syndroom",
     "lt": 5,
     "lv": 4,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“De gegevens bevatten 1 vergunning; deze is volgens de lokale gegevens geschrapt.” → “De gegevens bevatten…",
     "x": 0
    },
    {
@@ -3162,8 +3162,8 @@
     "i": "Diffuse sclerodermie",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "“aangezien de enige Nederlandse vergunning een oogzalf betreft” → “aangezien de Nederlandse vergunningen…",
     "x": 0
    },
    {
@@ -3217,8 +3217,8 @@
     "i": "Punctate epitheliale keratoconjunctivitis",
     "lt": 4,
     "lv": 3,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Het CBG-MEB registreert voor erythromycine 1 vergunning, die geldig is.” → “Het CBG-MEB registreert voor…",
     "x": 0
    },
    {
@@ -3338,8 +3338,8 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 2,
+    "rs": "“De productnaam wijst op een ander product (temozolomide) dan ammoniak, dus deze ” → “Deze registraties…",
     "x": 0
    },
    {
@@ -3371,8 +3371,8 @@
     "i": "Benigne paroxismale torticollis van de kinderleeftijd",
     "lt": 3,
     "lv": 2,
-    "r": 1,
-    "rs": "Verwijderd: “Mianserine is in Nederland op de markt, met 1 geldige vergunning van 1”",
+    "r": 2,
+    "rs": "“Het mechanistische verband is speculatief, het gebruik bij zuigelingen is zorgwe” → “Het mechanistische…",
     "x": 0
    },
    {
@@ -3393,8 +3393,8 @@
     "i": "Respiratoire malformatie",
     "lt": 3,
     "lv": 2,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Het product is geregistreerd bij het CBG-MEB en de vergunning is geldig.” → “Terbutaline is geregistreerd…",
     "x": 0
    },
    {
@@ -3415,8 +3415,8 @@
     "i": "Benigne prostaathyperplasie",
     "lt": 2,
     "lv": 1,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Het CBG-MEB-register vermeldt voor dit middel één vergunning.” → “Het CBG-MEB-register vermeldt voor dit…",
     "x": 0
    },
    {
@@ -3426,8 +3426,8 @@
     "i": "ALK-positive large B-cell lymphoma",
     "lt": 2,
     "lv": 1,
-    "r": 1,
-    "rs": "Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse…",
+    "r": 2,
+    "rs": "“Er is 1 registratie in de gegevens opgenomen; de registratiestatus van deze verg” → “In de gegevens zijn…",
     "x": 0
    },
    {
@@ -3503,8 +3503,8 @@
     "i": "Wernicke-Korsakoff syndrome",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 2,
+    "rs": "“Daarnaast is de enige Nederlandse vergunning geschrapt en ontbreken veiligheidsg” → “Daarnaast ontbreken…",
     "x": 0
    },
    {

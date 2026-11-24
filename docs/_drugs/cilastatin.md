@@ -101,7 +101,13 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Beide producten zijn combinatiepreparaten van imipenem en cilastatine met een geldige vergunning van het CBG-MEB. Ze zeggen niets over de vergunningsstatus van cilastatine als enkelvoudig middel.
+Alle registraties in de gegevens zijn combinatiepreparaten met imipenem en cilastatine (Recarbrio bevat daarnaast relebactam) (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie). Ze zeggen niets over de vergunningsstatus van cilastatine als enkelvoudig middel.
+
+<!-- review:begin nl-lic-20261124b-cilastatin-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Beide producten zijn combinatiepreparaten van imipenem en cilastatine met een geldige vergunning van het CBG-MEB.” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-cilastatin-1 -->
 
 ## Veiligheidsoverwegingen
 
@@ -124,6 +130,18 @@ Voor aandoeningen die in de beschikbare gegevens als contra-indicatie of risicof
 - Beoordeling van de SmPC-veiligheidsinformatie (o.a. epilepsie, nierfunctie)
 - Gegevens over het werkingsmechanisme uit DrugBank
 - Vastlegging van de goedgekeurde indicatietekst van de Nederlandse vergunningen
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “Beide producten zijn combinatiepreparaten van imipenem en cilastatine met een ge” → “Alle registraties in de gegevens zijn combinatiepreparaten m” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

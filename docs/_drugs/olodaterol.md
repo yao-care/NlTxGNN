@@ -64,13 +64,19 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Alle drie de vergunningen hebben de status "geldig". Het middel is in Nederland op de markt. De indicatietekst per vergunning is niet in de gegevens opgenomen.
+Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Het middel is in Nederland op de markt. De indicatietekst per vergunning is niet in de gegevens opgenomen.
 
 <!-- review:begin nl-lic-20261112-olodaterol-1 -->
 
 > **Controlecorrectie (2026-11-12)**: Oorspronkelijk stond er: “Het middel is in Nederland op de markt (3 van 3 vergunningen geldig).” Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG (2026-11-12). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261112-olodaterol-1 -->
+
+<!-- review:begin nl-lic-20261124b-olodaterol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Alle drie de vergunningen hebben de status "geldig".” Gecorrigeerd: het aantal registraties of de status in de oorspronkelijke zin was gebaseerd op een oudere, onvolledige versie van de gegevens en klopt niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24). Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-olodaterol-1 -->
 
 ---
 
@@ -98,6 +104,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “(3 van 3 vergunningen geldig)” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Alle drie de vergunningen hebben de status "geldig".” → “Aantallen en de status per registratie staan in het snelle o” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

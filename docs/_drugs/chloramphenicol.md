@@ -131,7 +131,25 @@ Aanvullend is bekend dat chloramfenicol bij systemisch gebruik geassocieerd is m
 - Gegevens over het werkingsmechanisme en een plausibele farmacologische route naar fibrose-remming
 - Preklinisch bewijs in modellen voor sclerodermie
 - Analyse van de bijsluitertekst/SmPC (waarschuwingen en contra-indicaties) van het CBG-MEB
-- Een afweging van de risico's van systemische blootstelling, aangezien de enige Nederlandse vergunning een oogzalf betreft
+- Een afweging van de risico's van systemische blootstelling, aangezien de Nederlandse vergunningen oogpreparaten (oogdruppels en oogzalf) betreffen
+
+<!-- review:begin nl-lic-20261124b-chloramphenicol-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “aangezien de enige Nederlandse vergunning een oogzalf betreft” Gecorrigeerd: er is niet één enkele Nederlandse vergunning volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de farmaceutische vorm per registratie staat in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-chloramphenicol-1 -->
+
+<!-- review:begin log -->
+
+## Controlelogboek
+
+Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan de hand van de registratiegegevens van het CBG (College ter Beoordeling van Geneesmiddelen). Correcties betreffen alleen feitelijke basisgegevens; modelvoorspellingen, bewijsniveaus en conclusies zijn niet herschreven.
+
+| Controledatum | Onderdeel | Actie | Bron |
+|------|------|------|------|
+| 2026-11-24 | “aangezien de enige Nederlandse vergunning een oogzalf betreft” → “aangezien de Nederlandse vergunningen oogpreparaten (oogdrup” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

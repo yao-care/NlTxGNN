@@ -161,8 +161,14 @@ Raadpleeg voor waarschuwingen en contra-indicaties uit de officiële productinfo
 - Productinformatie (SmPC) van het CBG-MEB met waarschuwingen en contra-indicaties, en de oorspronkelijke geregistreerde indicatie
 - Gegevens over het werkingsmechanisme
 - Een systematische beoordeling van de oude studies en, indien haalbaar, een moderne gerandomiseerde gecontroleerde studie bij rustelozebenensyndroom
-- Een beoordeling van de kwaliteit en toedieningsroute van het product, gezien het ontbreken van een geldige registratie
+- Een beoordeling van de kwaliteit en toedieningsroute van het product
 - Een plan voor veiligheidsmonitoring, met name voor serotonerge interacties
+
+<!-- review:begin nl-lic-20261124b-tryptophan-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Een beoordeling van de kwaliteit en toedieningsroute van het product, gezien het ontbreken van een geldige registratie” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-tryptophan-1 -->
 
 <!-- review:begin log -->
 
@@ -174,6 +180,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Beide registraties bij het CBG-MEB zijn geldig (2 van 2 geldige vergunningen); h” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Tabelregel RVG 105073: “geldig” → “niet geregistreerd” | Vervangen door de door het programma gegenereerde vergunningstabel (eerder: Gecorrigeerd) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Een beoordeling van de kwaliteit en toedieningsroute van het product, gezien het” → “Een beoordeling van de kwaliteit en toedieningsroute van het” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

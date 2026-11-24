@@ -102,7 +102,13 @@ Raadpleeg voor verdere veiligheidsinformatie (waarschuwingen, contra-indicaties 
 **Beslissing: Hold**
 
 **Onderbouwing:**
-- De voorspelling heeft een zeer hoge modelscore, maar geen enkele klinische studie of publicatie ondersteunt haar. Het mechanistische verband is speculatief, het gebruik bij zuigelingen is zorgwekkend, en de enige Nederlandse registratie is geannuleerd.
+- De voorspelling heeft een zeer hoge modelscore, maar geen enkele klinische studie of publicatie ondersteunt haar. Het mechanistische verband is speculatief en het gebruik bij zuigelingen is zorgwekkend.
+
+<!-- review:begin nl-lic-20261124b-mianserin-1 -->
+
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Het mechanistische verband is speculatief, het gebruik bij zuigelingen is zorgwekkend, en de enige Nederlandse registratie is geannuleerd.” Verwijderd: de aanname over het aantal of de status van de Nederlandse vergunningen klopte niet volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24); de overige tekst en het besluit zijn ongewijzigd. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+
+<!-- review:end nl-lic-20261124b-mianserin-1 -->
 
 **Om verder te gaan is nodig:**
 - Een onderbouwde pathofysiologische hypothese die de werking van mianserine koppelt aan benigne paroxismale torticollis van de kinderleeftijd.
@@ -121,6 +127,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
 | 2026-11-12 | Verwijderd: “Mianserine is in Nederland op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Het mechanistische verband is speculatief, het gebruik bij zuigelingen is zorgwe” → “Het mechanistische verband is speculatief en het gebruik bij” | Gecorrigeerd | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 
 <!-- review:end log -->
 

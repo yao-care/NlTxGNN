@@ -109,11 +109,11 @@ Bron: CBG-MEB – Geneesmiddeleninformatiebank (metadata.csv); productnaam, werk
 
 <!-- licenses:end -->
 
-Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.
+Er zijn actueel geregistreerde producten in de gegevens (aantallen en de status per registratie: zie het snelle overzicht en de vergunningstabel bij de marktinformatie).
 
 <!-- review:begin nl-lic-20261031-lorazepam-1 -->
 
-> **Controlecorrectie (2026-10-31)**: Oorspronkelijk stond er: “Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning. Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.” Verwijderd: de vermelding dat de vergunningen zijn doorgehaald of dat er geen geldige vergunning is, kwam niet overeen met de registratiegegevens van het CBG (2026-10-31). Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
+> **Controlecorrectie (2026-11-24)**: Oorspronkelijk stond er: “Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning. Een actueel geregistreerd product is in de beschikbare data niet aangetroffen.” Gecorrigeerd volgens de actuele registratiegegevens van het CBG (metadata.csv, 2026-11-24): de oorspronkelijke vermelding over de (enige) registratie klopte niet. Aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie. Bron: [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/).
 
 <!-- review:end nl-lic-20261031-lorazepam-1 -->
 
@@ -170,7 +170,7 @@ Hieronder staat het controlelogboek van deze pagina: gegevens gecontroleerd aan 
 
 | Controledatum | Onderdeel | Actie | Bron |
 |------|------|------|------|
-| 2026-10-31 | Verwijderd: “Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunning” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
+| 2026-11-24 | “Het CBG-MEB-register toont voor lorazepam alleen deze ene doorgehaalde vergunnin” → “Er zijn actueel geregistreerde producten in de gegevens (aan” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-12 | Verwijderd: “Lorazepam is in Nederland wel op de markt, met 1 geldige vergunning van 1” | Gecorrigeerd (herzien op 2026-11-24; eerdere versie bewaard in het record) | [CBG-MEB – Geneesmiddeleninformatiebank (metadata)](https://www.geneesmiddeleninformatiebank.nl/metadata.csv); [Geneesmiddeleninformatiebank](https://www.geneesmiddeleninformatiebank.nl/) |
 | 2026-11-19 | Zin ‘gegevens over het werkingsmechanisme niet beschikbaar’ vervangen door uittreksel uit de Amerikaanse productinformatie | Zin dat gegevens over het werkingsmechanisme ontbraken vervangen door een uittreksel met bron | [DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9) |
 

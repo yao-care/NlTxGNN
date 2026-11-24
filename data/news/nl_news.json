@@ -1,8 +1,56 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-24T03:45:17.533537+00:00",
-  "count": 5,
+  "fetched_at": "2026-11-24T16:55:15.054559+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "6310665cc963",
+      "title": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker - AD.nl",
+      "published": "2026-11-24T09:15:00+00:00",
+      "summary": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "afa18fa138f0",
+      "title": "Onderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen - NOS",
+      "published": "2026-11-24T08:09:01+00:00",
+      "summary": "Onderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen&nbsp;&nbsp;NOSHPV-prik voorkomt zo'n 12.800 kankergevallen als vaccinatiegraad niet stijgt&nbsp;&nbsp;NUGoed nieuws! Nieuwe HPV-prik zorgt dat veel minder mensen kanker krijgen&nbsp;&nbsp;JeugdjournaalHPV-prik voorkomt bijna 12.800 kankerdiagnoses, maar kwam voor Wendy (41) te laat: ’Ik moest afscheid nemen van mijn kinderwens’&nbsp;&nbsp;Noordhollands DagbladOnderzoek: HPV-vaccinatie op jonge leeftijd voorkomt bijna 12.800 kankerd",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOWxadGlLeTNVV19IUGhJUGtFeVlvWWhLRkVlSjVkQkY5TzM5cXVzX2JOUFdmUGVIWXo1UVFxWmdWclFEME44SFBPbmpCZEJnVE5ieEtlNTZSbVZOVDgwTzlKRE4zejA3Y3dDb1dNTEU5Q1VoS1B5TGtoRnk2djhJTjNMd1RqYmxxaV9IOVlsTF9PN3RZbnBlVHp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0e826881ebb",
+      "title": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen - NU",
+      "published": "2026-11-24T13:16:31+00:00",
+      "summary": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0E5YWhBT1BRUWZSSW5lODhETWFBXzNVWE9HRlc3cm40VGI4V3M4b1hhdlBiUVNqbWZzYnRVTTRxZ3dCc2txN29NNFFGcmYyZ2doVnVJX0VfeG5vdU9LT1ZjaVBUODR6S0NjbzFWTFhrd3d2ZHh4WG9rTkppRlZ0SHVncjZWREU0RmdEXzExVzBYOXVibTRWZ3Q1eXpSVXpaSk1FN3dBVWYyaWtZcGNaeDM5VWlXSzY3WUVKeg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01db5e95866c",
+      "title": "Iedereen lijkt te snotteren: huisarts vertelt wat je wél en juist niet moet doen - Rijnmond",
+      "published": "2026-11-24T07:17:25+00:00",
+      "summary": "Iedereen lijkt te snotteren: huisarts vertelt wat je wél en juist niet moet doen&nbsp;&nbsp;Rijnmond",
+      "sources": [
+        {
+          "name": "Rijnmond",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzljSmYtdkdFSFlkcUlUNFloM3hVWnd0bFB2SEZQejFQUzhHSzRIRFdhOHFBYUVtcFV3dkktbV9EN2h2Yl9xcUJDUGR0MHhXR0hBMDJJa3RfNExHX2NzR2dCMDdubngyS1BRdkRwOW4xMXd1NE1BT2x3WElkeHBDNW1aU0pQMklTZXE4NXAxMFZBMlZuaEFvSS05WG1vZm1XWnFIMU1CN1RzdHJjb2xhWnpxaEpDNHFKcHc?oc=5"
+        }
+      ]
+    },
     {
       "id": "d915b37cc3f8",
       "title": "Allergisch voor noten? Hoopgevende test met vaccin - RTL.nl",
@@ -12,18 +60,6 @@
         {
           "name": "RTL.nl",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVlkQ2RLUkVTTFU0ams0aW5GTUZISXc0RkRxbjhwTGZVTTlDMjZoc3lMbjZ2aEtUS0ZmQ0J2aVVLbmZENndQdzZFUDlpRkVtdUVaUGN1emZwVlV6VFNNZ2oxeXFTMnZ4eVpUbDhkRFd1b3dfOTEybko2NHVHRzRvR2tldlNaUTFRZ2lUV2ptQUxKVmZkb2N2SzFTaklQd0Nzb0gyZ3pka2lPSlU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc49d45da456",
-      "title": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten - RTL.nl",
-      "published": "2026-11-20T16:12:26+00:00",
-      "summary": "Nieuw medicijn tegen alvleesklierkanker 'grote doorbraak' voor patiënten&nbsp;&nbsp;RTL.nlJarenlang de dodelijkste kanker, binnenkort te behandelen met een pilletje: “Dit is echt een doorbraak”&nbsp;&nbsp;NieuwsbladEU geeft groen licht: pil houdt uitgezaaide pancreaskanker onder controle bij 90,2 procent van patiënten&nbsp;&nbsp;De MorgenEuropese Commissie keurt nieuwe behandeling voor uitgezaaide pancreaskanker goed: patiënten leefden gemiddeld 12,4 maanden langer&nbsp;&nbsp;HLNNieuw kankermedi",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXQ3b1BIREZGeVNRTVRTYlo0d05oYUgxMGxFcDRfaVRqOWk3UC1DWGlEbkxJNU5aeEN5cV9tbjZJdUVBeTJmUm92YjBZYTVmOGQ4YzVqYjdUNXZ4dlAxeTNiNEVQTk45TTA5M1hkMU4xQmdzanNwQXBReXpqY2p4N0FaeTJnSHZCVzhUTGYtQUxRUnRNazlZTlFtUTA?oc=5"
         }
       ]
     },

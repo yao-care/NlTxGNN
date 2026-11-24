@@ -571,3 +571,24 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 例：abacavir「Oorspronkelijke indicatie: Niet vermeld in de lokale gegevens」→「In Nederland, CBG-vergunningen: 17 (geldig: 16)」；2026-11-19 改了 201 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site NlTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 許可證表與正文張數由程式產生（2026-11-24）
+
+用戶 2026-11-24 決定（各站同日，本站「做表＋B」）：每週許可證排程只改得到概覽表狀態列／張數列，AI 寫在市場段落的自由格式許可證表（依 10-31 前舊證據包只列 1～5 張）與正文張數句會跟 CBG 現行登記矛盾；而 11-12 依成分重建後很多藥有上百張登記（acetaminophen 279、atorvastatin 213），舊表的 1～5 張不能代表本藥。改成程式產生、每週自動同步。
+- A. 程式許可證表：`scripts/sync_license_tables.py`。市場段落（site.MARKET_SECTIONS，## 或 ###）的第一張表（表頭有 RVG／Registratie）換成程式依證據包（thaifda.records）產生的
+  「| Registratienummer | Productnaam | Werkzame stof(fen) | Farmaceutische vorm | Status |」，文字照 CBG metadata.csv 原文（荷蘭文）；狀態：現行登記「Geldig」、不在現行清單（cbg_not_listed）「Niet geregistreerd」（照 CBG 網站原文，不寫 ingetrokken／doorgehaald；字樣同 `.claude/license_labels/NlTxGNN.json`）。
+  排序：有效在前、單方（kind=single）在前、再依登記號數字；最多 20 列，超過時表下一句「Getoond worden N van de M registraties in de gegevens (…)」；表後一句來源；沒有紀錄時 NONE_LINE。前後 `<!-- licenses:begin -->`／`<!-- licenses:end -->`。
+  Registratiehouder 欄不放：CBG 原文「Heumann Pharma GmbH & Co. Generica KG」會被母目錄 checker P5 當成知識圖譜縮寫 KG（只豁免「& Co. KG」）；要加回來要先在母目錄 KG_ABBR 加豁免。
+  快照 `snapshots/nl_licenses.json.gz` 另存 rows（前 20 列）／total（build_license_snapshot.py 用 rows_of）；gate 第 18 項（licenses.py）擋「程式區塊≠快照重算」「市場段落沒有程式表」。
+  接上：`apply_drug_reviews.py`（非 --check）結尾、`build_license_snapshot.py` 結尾（`--no-rewrite` 不跑）、`scripts/license_adapter.py` 的 `sync_tables`（每週排程依證據包重排）與 `PAGE_NOTE`（3b 自我檢查放行程式句）。
+  `--migrate`（2026-11-24 一次性）另拿掉市場段落裡只講舊表筆數／完整性的說明句（「Hieronder staan de eerste 5 vergunningen.」「De lijst is volledig.」等 13 句）；查核紀錄更正文字所在的句子不動。
+- B. 正文張數程式改寫：`scripts/rewrite_license_counts.py`＋`src/nltxgnn/regulatory/count_prose.py`（照 Kr／My／DE 移植，荷蘭文句型：「Van de M registraties … zijn er N geldig」「N van de M vergunningen zijn geldig」「N geldige vergunningen」「N vergunningen」）。
+  有保留、講證據包或查詢、相對數、劑型／單方複方／平行輸入／廠商子集、講表格或清單、待辦（vaststellen、nagaan、beoordel…）、partial 頁不動；同一行有判斷不了的句子整行不動；
+  1 跟非 1 之間（荷蘭文單複數、指示詞、動詞要跟著改）、「beide」、0 張、「alle／beide／de enige … geldig」而事實不符的不改、列待查。apply（非 --check）與 build_license_snapshot 結尾自動跑；gate 第 22 項擋「再跑一次會變」。
+- 2026-11-24 套用（資料 data-20261123-162625）：公開藥物頁 334 頁全部換成程式表（326 頁取代 AI 表、8 頁段落沒有表補在段落開頭；117 頁超過 20 張有「Getoond worden」句）；noindex 3 頁沒有市場段落、不加。
+  錨在被取代表格列上的 103 筆查核紀錄標 `status: superseded`＋`superseded_by`。正文改寫 1 句（arginine「Van de 2 registraties … zijn er 2 geldig」→ 54／53）。
+  查核紀錄同 id 重發（前版存 history，reason「程式許可證表／正文張數改由程式維護」）：note 裡寫死的「Aantal vergunningen in de gegevens: N, waarvan geldig: M」258 筆改成不寫數字（site.FIGURES 同步改，之後 reviews_from_edits 產生的紀錄也不寫數字）；
+  更正文字講舊表單張（「Deze vergunning is geldig」「De enige bekende vergunning …」「Dit registratienummer …」「Beide registratienummers …」「(1 van 1)」）或只講舊表完整的 19 筆改成指名登記號或不寫張數的寫法（其中 dalteparin、finasteride、dutasteride、lamotrigine、nortriptyline 原文說舊表那張「geldig」，其實那張是 Niet geregistreerd、本藥另有有效登記，改成「Bij het CBG-MEB zijn geldige vergunningen geregistreerd (…)」；bumetanide「De lijst is volledig.」整句刪）。
+  單方／複方：articaine「Beide vergunningen zijn enkelvoudige producten」（證據包 13 張全部是 articaïne＋adrenaline）以 `nl-lic-20261124-articaine-1` 更正。
+  待查清單加 54 句（20 句 count_prose 判斷不了：多是「Er is 1 vergunning, en die is geldig」這類單數句、實際有 4～56 張；33 句另寫的寬偵測找到的單數／狀態敘述（「de enige Nederlandse vergunning is geschrapt」「het ontbreken van een geldige registratie」等，跟事實層不符；其中 articaine 1 句已寫紀錄、標 resolved）；lidocaine 單方張數 1 句：證據包 kind 欄把只多賦形劑的也算複方，只驗不改）。
+  checker 全量前後都是 0、row-status 0；gate exit 0；寬偵測（正文張數／單數／全部有效敘述跟事實層不符）改前 77 句、改後 70 句（articaine 已更正），扣掉誤中 18 句，剩 52 句都已列待查（open）。last_modified_at：改到的 334 頁改 2026-11-24（表格與查核框內容都變了）。

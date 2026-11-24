@@ -80,7 +80,9 @@ NOTES = {
     "count": "Verwijderd: het aantal of de status van de vergunningen kwam niet overeen met de registratiegegevens van het CBG ({date}).",
     "generic": "Verwijderd: de vermelding kwam niet overeen met de registratiegegevens van het CBG ({date}).",
 }
-FIGURES = " Aantal vergunningen in de gegevens: {total}, waarvan geldig: {valid}; actuele aantallen staan in het snelle overzicht en bij de marktinformatie."
+# 2026-11-24（用戶決定）：原本寫死「Aantal vergunningen in de gegevens: {total}, waarvan geldig: {valid}」，會跟每週資料過期；
+# 改成不寫數字、指向概覽表與程式許可證表（既有 258 筆紀錄的 note 同 id 重發）。reviews_from_edits.py 仍傳 total／valid，format 會忽略。
+FIGURES = " Actuele aantallen en de status per registratie staan in het snelle overzicht en in de vergunningstabel bij de marktinformatie."
 SUMMARY = "Verwijderd: “{text}”"
 STRIP_CHARS = " ,;.\n-"
 REGEN_NOTE = "het rapport is in november 2026 opnieuw gegenereerd en bevat de vermelding niet meer"

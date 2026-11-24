@@ -7,7 +7,8 @@ dump_license_facts 依證據包算）產生的。gate（scripts/check_seo_docs.p
 狀態列與張數列跟事實一致，所以把驗證要用的部分存成快照放進 git。
 
 內容（鍵＝藥物頁檔名去 .md）：bundle（證據包鍵）、facts（事實層那一筆）、own（本藥所有許可證號：證據包裡每個含 records 的區塊的
-license_id，跟事實層同一套來源）；meta：產生日、Release tag。內容相同時檔案位元組相同（gzip mtime=0）。
+license_id，跟事實層同一套來源）；rows／total（2026-11-24 起：市場段落程式許可證表的表格列（最多 20 列）與總數，
+scripts/sync_license_tables.py rows_of）；meta：產生日、Release tag。內容相同時檔案位元組相同（gzip mtime=0）。
 什麼時候跑：證據包或事實層變了之後（每週許可證排程與依成分重建都會自動跑，並把 snapshots/ 跟 docs/ 一起 commit）。
 用法（repo 根目錄，先還原 data/ 並在工作目錄跑 dump_license_facts）：
   python3 scripts/build_license_snapshot.py --ws <工作目錄> [--release-tag data-YYYYMMDD-HHMMSS]
@@ -22,6 +23,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 from nltxgnn.regulatory import site as C  # noqa: E402
+import importlib.util  # noqa: E402
+
+_spec = importlib.util.spec_from_file_location("sync_license_tables", ROOT / "scripts" / "sync_license_tables.py")
+SLT = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(SLT)
 
 OUT = ROOT / "snapshots" / f"{C.CODE}_licenses.json.gz"
 
@@ -60,6 +66,9 @@ def build(ws, tag=""):
             continue
         fc = fs.get(key) or fs.get(page.stem) or fs.get(page.stem.replace("-", "_")) or fs.get(page.stem.replace("_", "-"))
         drugs[page.stem] = {"bundle": key, "facts": fc, "own": own_ids(b)}
+        # 2026-11-24：程式許可證表（scripts/sync_license_tables.py rows_of）的表格列（最多 MAX_ROWS 列）與總數
+        r, total = SLT.rows_of(b.get("thaifda") or {}, fc)
+        drugs[page.stem]["rows"], drugs[page.stem]["total"] = r[:SLT.MAX_ROWS], total
     meta = {"built": dt.date.today().isoformat(), "release_tag": tag, "pages": len(drugs),
             "rule": "own：證據包含 records 的區塊的 license_id；facts：tools/txgnn/.claude/dump_license_facts_20261021.py"}
     OUT.parent.mkdir(exist_ok=True)
@@ -91,3 +100,8 @@ if __name__ == "__main__":
     if not re.fullmatch(r"(data-[\w-]+)?", tag):
         sys.exit("--release-tag 要是 data-… 的 tag")
     build(ws, tag)
+    # 2026-11-24：快照換了，程式許可證表與正文許可證張數跟著依新快照改寫（--no-rewrite 不跑）；失敗就 exit 非 0
+    if "--no-rewrite" not in a:
+        import subprocess
+        subprocess.run([sys.executable, str(ROOT / "scripts" / "sync_license_tables.py")], check=True)
+        subprocess.run([sys.executable, str(ROOT / "scripts" / "rewrite_license_counts.py")], check=True)

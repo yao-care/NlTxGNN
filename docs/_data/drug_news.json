@@ -56,12 +56,17 @@
     {
       "url": "/news/calcipotriol/",
       "title": "Nieuws over Calcipotriol",
-      "count": 9
+      "count": 10
     },
     {
       "url": "/news/generic-cancer/",
       "title": "Nieuws over tumor (generic_cancer)",
       "count": 9
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "Nieuws over overgang (menopause)",
+      "count": 1
     }
   ],
   "/drugs/capecitabine/": [
@@ -260,7 +265,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Nieuws over Paclitaxel",
-      "count": 9
+      "count": 10
     },
     {
       "url": "/news/generic-cancer/",
@@ -271,6 +276,11 @@
       "url": "/news/female-breast-carcinoma/",
       "title": "Nieuws over borstkanker (female breast carcinoma)",
       "count": 4
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "Nieuws over overgang (menopause)",
+      "count": 1
     }
   ],
   "/drugs/ramipril/": [

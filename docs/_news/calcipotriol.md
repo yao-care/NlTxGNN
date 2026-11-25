@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Calcipotriol. 10 voorspelde indicaties."
 permalink: /news/calcipotriol/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Nieuws over Calcipotriol
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Calcipotriol?">
-<strong>Calcipotriol</strong> heeft momenteel <strong>9 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Calcipotriol</strong> heeft momenteel <strong>10 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (9)
+## Gerelateerd nieuws (10)
+
+### [Opinie: Goede zorg rond de overgang verdient een vaste plek in de reguliere zorg - de Volkskrant](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWd2RUtPZU1NcGFaci14UEhnVDMzVnB3TnVwUThuNEFDaEszdTVmUFZ4Q3dMN1J1YkV5TVJpRmo4YktSb0drdmZUOWgwOXV2OEpaRjVGMW4yVkJWVTRYekthV1RmT2t3eFREYllmcVhKeHA0S3dEUjhNMEl0UlVwZWh4MktxM1Zmd1hYSkZZWXRBV2QxaVlXbEJNV0J4OVM4bGJ3aWVTTXVVQjFBTWQ1MHBVOXhPeWJiZDFjT1A3XzdvUFhpUUd5S0NXVQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">overgang</span>
+
+Bron: [de Volkskrant](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWd2RUtPZU1NcGFaci14UEhnVDMzVnB3TnVwUThuNEFDaEszdTVmUFZ4Q3dMN1J1YkV5TVJpRmo4YktSb0drdmZUOWgwOXV2OEpaRjVGMW4yVkJWVTRYekthV1RmT2t3eFREYllmcVhKeHA0S3dEUjhNMEl0UlVwZWh4MktxM1Zmd1hYSkZZWXRBV2QxaVlXbEJNV0J4OVM4bGJ3aWVTTXVVQjFBTWQ1MHBVOXhPeWJiZDFjT1A3XzdvUFhpUUd5S0NXVQ?oc=5)
+
+---
 
 ### [Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5)
 

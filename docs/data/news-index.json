@@ -1,7 +1,37 @@
 {
-  "generated": "2026-11-25T01:52:57.250916+00:00",
-  "count": 10,
+  "generated": "2026-11-25T16:44:15.371184+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "65895f296c78",
+      "title": "Opinie: Goede zorg rond de overgang verdient een vaste plek in de reguliere zorg - de Volkskrant",
+      "published": "2026-11-24T19:00:27+00:00",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWd2RUtPZU1NcGFaci14UEhnVDMzVnB3TnVwUThuNEFDaEszdTVmUFZ4Q3dMN1J1YkV5TVJpRmo4YktSb0drdmZUOWgwOXV2OEpaRjVGMW4yVkJWVTRYekthV1RmT2t3eFREYllmcVhKeHA0S3dEUjhNMEl0UlVwZWh4MktxM1Zmd1hYSkZZWXRBV2QxaVlXbEJNV0J4OVM4bGJ3aWVTTXVVQjFBTWQ1MHBVOXhPeWJiZDFjT1A3XzdvUFhpUUd5S0NXVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "overgang",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "6310665cc963",
       "title": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",

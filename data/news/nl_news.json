@@ -1,6 +1,187 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-25T01:52:57.165269+00:00",
-  "count": 0,
-  "news": []
+  "fetched_at": "2026-11-25T16:44:15.200609+00:00",
+  "count": 15,
+  "news": [
+    {
+      "id": "f439db9c569c",
+      "title": "Onderzoek: hpv-prik bij kinderen onder 10 jaar voorkomt 12.800 kankerdiagnoses - AD.nl",
+      "published": "2026-11-24T05:47:00+00:00",
+      "summary": "Onderzoek: hpv-prik bij kinderen onder 10 jaar voorkomt 12.800 kankerdiagnoses&nbsp;&nbsp;AD.nlHPV-prik voorkomt nu al 12.800 kankergevallen en dat kunnen er meer worden | Gezondheid | NU.nl&nbsp;&nbsp;NUOnderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen&nbsp;&nbsp;NOSHPV-prik voorkomt bijna 12.800 kankerdiagnoses, maar kwam voor Wendy (41) te laat: ’Ik moest afscheid nemen van mijn kinderwens’&nbsp;&nbsp;Noordhollands DagbladGoed nieuws! Nieuwe HPV-prik zorgt dat veel minder mense",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGhwRm9GNmtvYmhVLVd0Zm14VF9lY1B4bzhMRWNZTE1vX3ItdGNFN0tKaDJwR082WHFpeUtRS25oUEtWcGMtSWJrRzU1UWdrZnhkVFdRbC1iNDN2VlJyR3JEYmgzenpSN2U0Q0dkUEhPZk9WVm9jNm8xYl9XYnJuSjRMTVhoeGtNbWplMWRvMTVOSTBKR0RqaUNJd1FDOG5TcnlnRVRmLXY2VlNtQUpyR1pneGhnb28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e55ba88d5eb",
+      "title": "Henk Dammer (78) heeft uitgezaaide prostaatkanker, maar door behandeling radioactieve straling geniet hij weer - AD.nl",
+      "published": "2026-11-25T12:15:17+00:00",
+      "summary": "Henk Dammer (78) heeft uitgezaaide prostaatkanker, maar door behandeling radioactieve straling geniet hij weer&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeU1zbWJrVmVidnUyaktRaWYxcHZIeFI0ZlJzZ1ZmQ1JpVmROY1AyNC10RUhyRFZSWno5cUVKaGg1bW1OVERManRCNTc2SHRIMVdycTRzWkNqYm00RGtkbGNieXhhUkVRc01PMy1PcjhUVVFBaHYzaGRDeXJoLUlKNndIRHVDUkJ6UHFVU1E3ZF92Q01nV0VMQUdWaUNvZ3R1empHM3I2OExoNDRwTkFOUDJCeEJoRmF6cU1Ya2FpNnlSZlZXdFZJTVFmckFhMmdBNU9XYmptQzd6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6310665cc963",
+      "title": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker - AD.nl",
+      "published": "2026-11-24T09:15:00+00:00",
+      "summary": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a84a2fb3547",
+      "title": "Vier mensen besmet met vogelgriep in VS, één persoon overleden - NOS",
+      "published": "2026-11-24T16:16:58+00:00",
+      "summary": "Vier mensen besmet met vogelgriep in VS, één persoon overleden&nbsp;&nbsp;NOSVogelgriep in Amerika: besmettingen onder melkvee en overleden personen&nbsp;&nbsp;Nieuwe OogstZorgen over vogelgriep en werknemers op Amerikaanse melkveebedrijven&nbsp;&nbsp;BoerderijWHO: De VS hebben 3 gevallen van H5N1-virusinfectie, waaronder 1 sterfgeval.&nbsp;&nbsp;Vietnam.vnVogelgriep in VS: vier melkveewerkers besmet, één dode&nbsp;&nbsp;TPO.NL",
+      "sources": [
+        {
+          "name": "NOS",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnJIRHMwOURhdWI4V3I4Wk5PNVhkakNLTjc0U2twVWhyNDUxQmlKcV81ejFoWXVMWHcxU1l0WGFCa3FhV2JsOGhaQ1hoVHNZMUtUYlJ0bWRPMHAzNERNcFJtZEI5UDRiMHJjbjhSN0pMWk96VjN5dzhqX3lDNFJicVMwY2hpc2x6eVNxcFdkM3lHX1p1SjVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65895f296c78",
+      "title": "Opinie: Goede zorg rond de overgang verdient een vaste plek in de reguliere zorg - de Volkskrant",
+      "published": "2026-11-24T19:00:27+00:00",
+      "summary": "Opinie: Goede zorg rond de overgang verdient een vaste plek in de reguliere zorg&nbsp;&nbsp;de VolkskrantZo willen gynaecologen van Ommelander Ziekenhuis de drukte op de poli aanpakken. ’Wij geven graag advies’&nbsp;&nbsp;DVHN",
+      "sources": [
+        {
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWd2RUtPZU1NcGFaci14UEhnVDMzVnB3TnVwUThuNEFDaEszdTVmUFZ4Q3dMN1J1YkV5TVJpRmo4YktSb0drdmZUOWgwOXV2OEpaRjVGMW4yVkJWVTRYekthV1RmT2t3eFREYllmcVhKeHA0S3dEUjhNMEl0UlVwZWh4MktxM1Zmd1hYSkZZWXRBV2QxaVlXbEJNV0J4OVM4bGJ3aWVTTXVVQjFBTWQ1MHBVOXhPeWJiZDFjT1A3XzdvUFhpUUd5S0NXVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7650410ffad4",
+      "title": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld? - Duurzaamnieuws",
+      "published": "2026-11-24T17:40:24+00:00",
+      "summary": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld?&nbsp;&nbsp;DuurzaamnieuwsDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwPennsylvania meldt negen sterfgevallen in verband met mazelen&nbsp;&nbsp;MarketScreener NederlandVirginia meldt eerste mazelen-gerelateerde overlijden van 2026, waarbij een jong kind betrokken was&nbsp;&nbsp;MarketScreener NederlandAmerikaanse mazelengevallen naderen de 6.000",
+      "sources": [
+        {
+          "name": "Duurzaamnieuws",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUk83dTBnMXRWdkoweXkwWjhEMEVDR0Q0VkVKWnFFeXJUbmZSWEhENUc4dnAyMjBFVzhTR0hfMGN4NWN2RkU0emMxNFdjdS1XMjBfdXJHa2w3VjlMN3EtQjFLRk5vLUF3c05ub090cUpWM3VyN1R0WGxHWVNsTXVJM25oT1dJOUQ5NElPZmg4LU9jWlFXQlBqY0g4Q2RxUzRlYTBiNVJTV1BGZGcxcFg2NTRacnQyZFlSRXptbTF4U1Z2cTljZTZSZWttajBxWkU4UDRfSXd1eU5vRXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db936d70cc7d",
+      "title": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren - DVHN",
+      "published": "2026-11-25T14:00:00+00:00",
+      "summary": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren&nbsp;&nbsp;DVHNHartfalen geeft meer risico op boezemfibrilleren - en andersom&nbsp;&nbsp;ZorgKrant.nlOnderzoek UMCG: ‘Hartfalen en hartritmestoornis vergroten risico op elkaar’&nbsp;&nbsp;OOG Groningen",
+      "sources": [
+        {
+          "name": "DVHN",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY1M1Njg4eldXRHE2dS16MGJuWUREYjY3RWtRdGxwUlpQOWxzRUtBcVZFX2dObVNHMGxvanFhcmlPZXZvMk5jczh6S1F2YklDclJBWThsLTJHSDQ4dmZoNHM2d195ZXVIRlE3U3hEaURPaEdzYjY1Z1hxbG8zdFNyMHdvZTFNNWsybFNaZGRWRF93WUZuYS1TUHZSZ0hSZjRCUzQzMjFXNThubU1xc0RjWWtldjllZUNvMGJfTU95WmV0R0xUWXFfcVFLbEJYM19iZTc3ZVJROFFwbE03dVNiYlFmMWc0eDZJYVZvMDZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c770e6a58b6",
+      "title": "De griep gaat rond, maar wat helpt nu écht om sneller beter te worden? - LINDA.",
+      "published": "2026-11-25T06:51:57+00:00",
+      "summary": "De griep gaat rond, maar wat helpt nu écht om sneller beter te worden?&nbsp;&nbsp;LINDA.",
+      "sources": [
+        {
+          "name": "LINDA.",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uTElqS2JSQTgyRHAwblNhNVR4eUE4anRkY0hCR281ZWRTRlFEbkg5aTdoenJwa1lMeWFOUGllZDNHYWE5OHZiSzF6ck8zTXRSWEpzU1ozZmxPSF94aXlTUU1fUnVVNW9QNFV6NmVjNE1yWmNscGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b59635b63621",
+      "title": "Apothekers slaan alarm, medicijntekorten lopen op: ’Meerdere keren per dag staan hier boze patiënten aan de balie’ - De Telegraaf",
+      "published": "2026-11-25T10:44:00+00:00",
+      "summary": "Apothekers slaan alarm, medicijntekorten lopen op: ’Meerdere keren per dag staan hier boze patiënten aan de balie’&nbsp;&nbsp;De TelegraafMichael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn: ’Nu ik steeds minder pillen heb, ga ik steeds meer malen’&nbsp;&nbsp;Noordhollands DagbladSandra Molenaar: we moeten voorkomen dat patiënten zonder hun medicijnen komen te zitten&nbsp;&nbsp;De Telegraaf",
+      "sources": [
+        {
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWRsaWxpQkpVWWJva2l2SURjNEZKRXpSeTdBakhmNWMyN1FYMGt3MTBvdEtnT2swSUsxcDRJbDZhRXlQZlE1V1NhX1ZISWFnQ0djdHB2eXVzbGlCb3RwT2dYMDE5WjJXSFdJQklYY09PWFdHalFKODBwaDhSbHlWVnVTYVEybkd4X2NnbDdENi1haWZ6clY2WXlGVkVWdVRSY2xEb3AxNWZhd3pINWFGUV9OWlRGeGo4X3FMSmxaSzdYdm84Nml3WlUtZnlUTTFZSzEyRmhka1N0TjN4bFFZdGtaVkVoX3BBUVZyUUFlbEhiX3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0e826881ebb",
+      "title": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen - NU",
+      "published": "2026-11-24T13:16:31+00:00",
+      "summary": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0E5YWhBT1BRUWZSSW5lODhETWFBXzNVWE9HRlc3cm40VGI4V3M4b1hhdlBiUVNqbWZzYnRVTTRxZ3dCc2txN29NNFFGcmYyZ2doVnVJX0VfeG5vdU9LT1ZjaVBUODR6S0NjbzFWTFhrd3d2ZHh4WG9rTkppRlZ0SHVncjZWREU0RmdEXzExVzBYOXVibTRWZ3Q1eXpSVXpaSk1FN3dBVWYyaWtZcGNaeDM5VWlXSzY3WUVKeg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd7a944dfb36",
+      "title": "Basisarts zet aortadissectie bij jonge patiënt niet in de differentiaaldiagnose - medischcontact",
+      "published": "2026-11-24T07:00:00+00:00",
+      "summary": "Basisarts zet aortadissectie bij jonge patiënt niet in de differentiaaldiagnose&nbsp;&nbsp;medischcontact",
+      "sources": [
+        {
+          "name": "medischcontact",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZjNKTmhNRlBNU3FNT1VyenlpaEtYX1FTeTJ0VnZsdUpmUndVaUxENTFlaWpJOUJGU3h0M1NRcWZTbk1zOFFoaS1LaHpCYzRDSm5zbEYtNFBCRmFmTDcwcVlaT19JbWpsQTFhcEF0X1dKOVpTRFlnT2c5cVFBZEFjYzJva2RVMjdEMnJ0dEx2NXU3dFdmLUhpNERPNHcweVhNOTQzcFdPX3EyVzJhdzViZ0FEdjZmbDRzRUtPUGM2Y1JRTG02RDBaQnZxaUdjRzVrR1dN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc66d35ed51c",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen - AD.nl",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d915b37cc3f8",
+      "title": "Allergisch voor noten? Hoopgevende test met vaccin - RTL.nl",
+      "published": "2026-11-23T14:29:30+00:00",
+      "summary": "Allergisch voor noten? Hoopgevende test met vaccin&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVlkQ2RLUkVTTFU0ams0aW5GTUZISXc0RkRxbjhwTGZVTTlDMjZoc3lMbjZ2aEtUS0ZmQ0J2aVVLbmZENndQdzZFUDlpRkVtdUVaUGN1emZwVlV6VFNNZ2oxeXFTMnZ4eVpUbDhkRFd1b3dfOTEybko2NHVHRzRvR2tldlNaUTFRZ2lUV2ptQUxKVmZkb2N2SzFTaklQd0Nzb0gyZ3pka2lPSlU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc3d7fdddb94",
+      "title": "Een hartinfarct of beroerte kondigt zich vaak al 30 jaar van tevoren aan - Scientias.nl",
+      "published": "2026-11-24T18:00:26+00:00",
+      "summary": "Een hartinfarct of beroerte kondigt zich vaak al 30 jaar van tevoren aan&nbsp;&nbsp;Scientias.nlHartziekten zijn soms al decennia vooraf te herkennen&nbsp;&nbsp;Newsmonkey -",
+      "sources": [
+        {
+          "name": "Scientias.nl",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTBLQUcwLVJjbkZOeW1ZM3dqd3NXWjI0aDEwUmYwQTJCc0NvdDc3UGN2dmRPNFhzdWdFejlFMzBYejVLYUYxajM2NmxmT3pMWWFUSjgwTFpibE5kZ1U3MXZNN3pFNUZfeWZDVHFUZ0E4QWtkZkUwTUI4VmphSjg3ZHF1Y2FxdmZYbkNXN0dQZzJBRExuT3k0alNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea2596630cd8",
+      "title": "Vergoed de koppelbare sensor, want diabetes wacht niet - Petities.nl",
+      "published": "2026-11-23T19:47:51+00:00",
+      "summary": "Vergoed de koppelbare sensor, want diabetes wacht niet&nbsp;&nbsp;Petities.nl",
+      "sources": [
+        {
+          "name": "Petities.nl",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXlUczJIelhKYzZDa2RhdTRabEY4Zk5RMDg4M2YwazN6RGRMcWl4TUQ3UXkyQXBocUFKd3ZZNEpkc3dDQlR5YUpvZ0luSHVQVEVSa0VnZi1WT0YzZzAxaThxRUtuNGs2VUtuVWRRMXFNajk1S3ZaZ21nVmVHbXA0MzFfb05WR1RGTkE?oc=5"
+        }
+      ]
+    }
+  ]
 }

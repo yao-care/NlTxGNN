@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-11-24T16:55:15.158185+00:00",
-  "total_count": 16,
+  "last_updated": "2026-11-25T01:52:57.238022+00:00",
+  "total_count": 10,
   "matched_count": 10,
   "news": [
-    {
-      "id": "c0e826881ebb",
-      "title": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen",
-      "published": "2026-11-24T13:16:31+00:00",
-      "summary": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen&nbsp;&nbsp;NUMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "NU",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0E5YWhBT1BRUWZSSW5lODhETWFBXzNVWE9HRlc3cm40VGI4V3M4b1hhdlBiUVNqbWZzYnRVTTRxZ3dCc2txN29NNFFGcmYyZ2doVnVJX0VfeG5vdU9LT1ZjaVBUODR6S0NjbzFWTFhrd3d2ZHh4WG9rTkppRlZ0SHVncjZWREU0RmdEXzExVzBYOXVibTRWZ3Q1eXpSVXpaSk1FN3dBVWYyaWtZcGNaeDM5VWlXSzY3WUVKeg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "6310665cc963",
       "title": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker",
@@ -317,71 +304,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "01db5e95866c",
-      "title": "Iedereen lijkt te snotteren: huisarts vertelt wat je wél en juist niet moet doen",
-      "published": "2026-11-24T07:17:25+00:00",
-      "summary": "Iedereen lijkt te snotteren: huisarts vertelt wat je wél en juist niet moet doen&nbsp;&nbsp;Rijnmond",
-      "sources": [
-        {
-          "name": "Rijnmond",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzljSmYtdkdFSFlkcUlUNFloM3hVWnd0bFB2SEZQejFQUzhHSzRIRFdhOHFBYUVtcFV3dkktbV9EN2h2Yl9xcUJDUGR0MHhXR0hBMDJJa3RfNExHX2NzR2dCMDdubngyS1BRdkRwOW4xMXd1NE1BT2x3WElkeHBDNW1aU0pQMklTZXE4NXAxMFZBMlZuaEFvSS05WG1vZm1XWnFIMU1CN1RzdHJjb2xhWnpxaEpDNHFKcHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ea2596630cd8",
-      "title": "Vergoed de koppelbare sensor, want diabetes wacht niet",
-      "published": "2026-11-23T19:47:51+00:00",
-      "summary": "Vergoed de koppelbare sensor, want diabetes wacht niet&nbsp;&nbsp;Petities.nl",
-      "sources": [
-        {
-          "name": "Petities.nl",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXlUczJIelhKYzZDa2RhdTRabEY4Zk5RMDg4M2YwazN6RGRMcWl4TUQ3UXkyQXBocUFKd3ZZNEpkc3dDQlR5YUpvZ0luSHVQVEVSa0VnZi1WT0YzZzAxaThxRUtuNGs2VUtuVWRRMXFNajk1S3ZaZ21nVmVHbXA0MzFfb05WR1RGTkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d915b37cc3f8",
-      "title": "Allergisch voor noten? Hoopgevende test met vaccin",
-      "published": "2026-11-23T14:29:30+00:00",
-      "summary": "Allergisch voor noten? Hoopgevende test met vaccin&nbsp;&nbsp;RTL.nl",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVlkQ2RLUkVTTFU0ams0aW5GTUZISXc0RkRxbjhwTGZVTTlDMjZoc3lMbjZ2aEtUS0ZmQ0J2aVVLbmZENndQdzZFUDlpRkVtdUVaUGN1emZwVlV6VFNNZ2oxeXFTMnZ4eVpUbDhkRFd1b3dfOTEybko2NHVHRzRvR2tldlNaUTFRZ2lUV2ptQUxKVmZkb2N2SzFTaklQd0Nzb0gyZ3pka2lPSlU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4ff299ec1c49",
-      "title": "Cardioloog Leonard Hofstra: ‘Een gezonde mond kan ook je hart gezond helpen te houden’ - Quest NL",
-      "published": "2026-11-23T05:09:41+00:00",
-      "summary": "Cardioloog Leonard Hofstra: ‘Een gezonde mond kan ook je hart gezond helpen te houden’&nbsp;&nbsp;Quest NL",
-      "sources": [
-        {
-          "name": "Quest NL",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJJUDJMYkhtMmlnQXMxTWJOWkYwT19sSDVheWhGWEgtZ2pIRzhaaVc5VVQ3RENFeWtoMjZwV2JpWVgyNkhjb2l1RWRzcmFaY2szdG5QZzBNRHNtZVRIQ3JmbVlndDNFdVFlZ1RWUUl5eUo2TzJyMmE0SEdHUWQwb0xpMXZ3MVhXRGNVY0dKTks4WHpQUEQ5NDRqLU84MjVXMmVZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dc66d35ed51c",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen",
-      "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "fc49d45da456",

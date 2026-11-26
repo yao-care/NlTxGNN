@@ -1,17 +1,56 @@
 {
-  "last_updated": "2026-11-25T16:44:15.345585+00:00",
-  "total_count": 24,
-  "matched_count": 11,
+  "last_updated": "2026-11-26T01:29:49.150158+00:00",
+  "total_count": 25,
+  "matched_count": 12,
   "news": [
     {
-      "id": "db936d70cc7d",
-      "title": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren",
-      "published": "2026-11-25T14:00:00+00:00",
-      "summary": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren&nbsp;&nbsp;DVHNHartfalen geeft meer risico op boezemfibrilleren - en andersom&nbsp;&nbsp;ZorgKrant.nlOnderzoek UMCG: ‘Hartfalen en hartritmestoornis vergroten risico op elkaar’&nbsp;&nbsp;OOG Groningen",
+      "id": "780a5ec7729f",
+      "title": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie - De Telegraaf",
+      "published": "2026-11-26T00:59:23+00:00",
+      "summary": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie&nbsp;&nbsp;De TelegraafCoronadeeltjes in riool op hoogste niveau na pandemie, maar ziektebeeld mild&nbsp;&nbsp;NUAantal coronagevallen neemt toe, ook piek in Brabant&nbsp;&nbsp;Omroep BrabantAantal coronagevallen neemt snel toe, maar aantal mensen op IC is laag&nbsp;&nbsp;AD.nlEr zit weer volop corona in het rioolwater, maar de zelftest is stilletjes uit de schappen verdwenen&nbsp;&nbsp;Brabants Dagblad",
       "sources": [
         {
-          "name": "DVHN",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY1M1Njg4eldXRHE2dS16MGJuWUREYjY3RWtRdGxwUlpQOWxzRUtBcVZFX2dObVNHMGxvanFhcmlPZXZvMk5jczh6S1F2YklDclJBWThsLTJHSDQ4dmZoNHM2d195ZXVIRlE3U3hEaURPaEdzYjY1Z1hxbG8zdFNyMHdvZTFNNWsybFNaZGRWRF93WUZuYS1TUHZSZ0hSZjRCUzQzMjFXNThubU1xc0RjWWtldjllZUNvMGJfTU95WmV0R0xUWXFfcVFLbEJYM19iZTc3ZVJROFFwbE03dVNiYlFmMWc0eDZJYVZvMDZ3?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQWh3UDRvdzdGcllrMGI2azZpQWN6MVVrc0FJeVpFMHhXbnRudENpd1BhX2g0VzY1T19fMXh4dHM2WVF6dFViaUlyTGxOY1VRV3puTi1mXzJCTTdfa3lBZ01HWHpWYmpuYzJRZXRTZTRQZ0tQQW55X1RscXE2anQzNW5rcUdsWktERlJ3YkJJdkhkdXRURXpsTXQ5Y2NXNnFqN2VtOVItVkRYOW80YnFYcEJ6ai1OWHludTg0c1VkS0Y1czFFLXBZZW11dTVodk9w?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f8903779764e",
+      "title": "Griep of verkouden: deze huisarts weet wat je wél en juist niet moet doen - Omroep Brabant",
+      "published": "2026-11-25T15:30:00+00:00",
+      "summary": "Griep of verkouden: deze huisarts weet wat je wél en juist niet moet doen&nbsp;&nbsp;Omroep BrabantIedereen lijkt te snotteren: huisarts vertelt wat je wél en juist niet moet doen&nbsp;&nbsp;RijnmondDe griep gaat rond, maar wat helpt nu écht om sneller beter te worden?&nbsp;&nbsp;LINDA.",
+      "sources": [
+        {
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTV1LWtXYkUyZy1sWV9la2NRX3RTNU1nR3VKMmhPZ2pULVRUUlZwdi1kaVJvemtsVVctNVE1dVYxRFV6djN5UkJic1I4T1g2VWNMRVRoYmxqT0dwSzVHSlNxakFUOGRlNW5sM0g3cHNNMlRkZW8zM0lCZFl4VWtRYldxZllxdDY0LU9CNG1ORnRkbmcybnVYM2txTlRieVdoS1lCYms2NzBMUVBaQVpkNjZKRnJyMGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e80918e91de3",
+      "title": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn: ’Nu ik steeds minder pillen heb, ga ik steeds meer malen’ - Noordhollands Dagblad",
+      "published": "2026-11-25T13:05:12+00:00",
+      "summary": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn: ’Nu ik steeds minder pillen heb, ga ik steeds meer malen’&nbsp;&nbsp;Noordhollands DagbladMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOci1La2JCWFFhbWd3d3gxcjJhS2xNQ285RnROVWxvckJjdm8wa2EwZU95dm83SklRQ2ZrVlFDSDd0ZFY1b2x4XzRwTkE4aTVCVVUwX3RMSEh2bEdLdHpOVW5FTmxhVUtHR3ExQmRpZDB0QnVVS1Exdi1YekswUzJacW9RYnpLbjVzek1wTUhXNndEbFRuMk5hbHprX0J6NTlsb3k0NDFBY3lWZm16dVctcUdlQ0hfTk0yZ1FQUmNIYmRTeFYzWHVkb2xfYnBINzdhOENTTVp2Y0pvRE1ROC01WUkwY25ZNUZjRGRPSDBqaXJWU0VOVVhNY3RyNWN1a2lVTTFrWUtjTk9TZ2s0MWs2SkV2Z1U2SVRSUDBncVNMcG1Eb0NkdXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b7fbe39def1e",
+      "title": "Vogelgriep in Amerika: besmettingen onder melkvee en overleden personen - Nieuwe Oogst",
+      "published": "2026-11-25T12:56:00+00:00",
+      "summary": "Vogelgriep in Amerika: besmettingen onder melkvee en overleden personen&nbsp;&nbsp;Nieuwe OogstVier mensen besmet met vogelgriep in VS, één persoon overleden&nbsp;&nbsp;NOSZorgen over vogelgriep en werknemers op Amerikaanse melkveebedrijven&nbsp;&nbsp;BoerderijWHO: De VS hebben 3 gevallen van H5N1-virusinfectie, waaronder 1 sterfgeval.&nbsp;&nbsp;Vietnam.vnVogelgriep in VS: vier melkveewerkers besmet, één dode&nbsp;&nbsp;TPO.NL",
+      "sources": [
+        {
+          "name": "Nieuwe Oogst",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGNjSG9GakdFSEpmRDVNeXJOeHNNR21Hb3haTHNJMlQyOURXbWsyM015dXpqZWdpZFlPeVlkM3o3b2l1ZXpPRHFwMGptb2g0RldJUWhZQmtOQnRHUzkzWUk2NVZXNFlYcjl1bjdOS08xa3p1SnpKSHdVdWZEN3VPZzBhM09ZVW5jc3h1dFVILV9xb3RGd0ZLbHBIZWd4VVRHdk1oUTEtTEV1eXgxbGFGdFVHLWJtdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -30,27 +69,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b59635b63621",
-      "title": "Apothekers slaan alarm, medicijntekorten lopen op: ’Meerdere keren per dag staan hier boze patiënten aan de balie’ - De Telegraaf",
-      "published": "2026-11-25T10:44:00+00:00",
-      "summary": "Apothekers slaan alarm, medicijntekorten lopen op: ’Meerdere keren per dag staan hier boze patiënten aan de balie’&nbsp;&nbsp;De TelegraafMichael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn: ’Nu ik steeds minder pillen heb, ga ik steeds meer malen’&nbsp;&nbsp;Noordhollands DagbladSandra Molenaar: we moeten voorkomen dat patiënten zonder hun medicijnen komen te zitten&nbsp;&nbsp;De Telegraaf",
+      "id": "db936d70cc7d",
+      "title": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren",
+      "published": "2026-11-25T06:00:00+00:00",
+      "summary": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren&nbsp;&nbsp;DVHNHartfalen geeft meer risico op boezemfibrilleren - en andersom&nbsp;&nbsp;ZorgKrant.nl",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWRsaWxpQkpVWWJva2l2SURjNEZKRXpSeTdBakhmNWMyN1FYMGt3MTBvdEtnT2swSUsxcDRJbDZhRXlQZlE1V1NhX1ZISWFnQ0djdHB2eXVzbGlCb3RwT2dYMDE5WjJXSFdJQklYY09PWFdHalFKODBwaDhSbHlWVnVTYVEybkd4X2NnbDdENi1haWZ6clY2WXlGVkVWdVRSY2xEb3AxNWZhd3pINWFGUV9OWlRGeGo4X3FMSmxaSzdYdm84Nml3WlUtZnlUTTFZSzEyRmhka1N0TjN4bFFZdGtaVkVoX3BBUVZyUUFlbEhiX3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1c770e6a58b6",
-      "title": "De griep gaat rond, maar wat helpt nu écht om sneller beter te worden?",
-      "published": "2026-11-25T06:51:57+00:00",
-      "summary": "De griep gaat rond, maar wat helpt nu écht om sneller beter te worden?&nbsp;&nbsp;LINDA.",
-      "sources": [
-        {
-          "name": "LINDA.",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uTElqS2JSQTgyRHAwblNhNVR4eUE4anRkY0hCR281ZWRTRlFEbkg5aTdoenJwa1lMeWFOUGllZDNHYWE5OHZiSzF6ck8zTXRSWEpzU1ozZmxPSF94aXlTUU1fUnVVNW9QNFV6NmVjNE1yWmNscGc?oc=5"
+          "name": "DVHN",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY1M1Njg4eldXRHE2dS16MGJuWUREYjY3RWtRdGxwUlpQOWxzRUtBcVZFX2dObVNHMGxvanFhcmlPZXZvMk5jczh6S1F2YklDclJBWThsLTJHSDQ4dmZoNHM2d195ZXVIRlE3U3hEaURPaEdzYjY1Z1hxbG8zdFNyMHdvZTFNNWsybFNaZGRWRF93WUZuYS1TUHZSZ0hSZjRCUzQzMjFXNThubU1xc0RjWWtldjllZUNvMGJfTU95WmV0R0xUWXFfcVFLbEJYM19iZTc3ZVJROFFwbE03dVNiYlFmMWc0eDZJYVZvMDZ3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -113,19 +139,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9a84a2fb3547",
-      "title": "Vier mensen besmet met vogelgriep in VS, één persoon overleden",
-      "published": "2026-11-24T16:16:58+00:00",
-      "summary": "Vier mensen besmet met vogelgriep in VS, één persoon overleden&nbsp;&nbsp;NOSVogelgriep in Amerika: besmettingen onder melkvee en overleden personen&nbsp;&nbsp;Nieuwe OogstZorgen over vogelgriep en werknemers op Amerikaanse melkveebedrijven&nbsp;&nbsp;BoerderijWHO: De VS hebben 3 gevallen van H5N1-virusinfectie, waaronder 1 sterfgeval.&nbsp;&nbsp;Vietnam.vnVogelgriep in VS: vier melkveewerkers besmet, één dode&nbsp;&nbsp;TPO.NL",
-      "sources": [
-        {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnJIRHMwOURhdWI4V3I4Wk5PNVhkakNLTjc0U2twVWhyNDUxQmlKcV81ejFoWXVMWHcxU1l0WGFCa3FhV2JsOGhaQ1hoVHNZMUtUYlJ0bWRPMHAzNERNcFJtZEI5UDRiMHJjbjhSN0pMWk96VjN5dzhqX3lDNFJicVMwY2hpc2x6eVNxcFdkM3lHX1p1SjVn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c0e826881ebb",
       "title": "Vaccin hepatitis A standaard te krijgen voor mannen die seks hebben met mannen",
       "published": "2026-11-24T13:16:31+00:00",
@@ -134,6 +147,209 @@
         {
           "name": "NU",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0E5YWhBT1BRUWZSSW5lODhETWFBXzNVWE9HRlc3cm40VGI4V3M4b1hhdlBiUVNqbWZzYnRVTTRxZ3dCc2txN29NNFFGcmYyZ2doVnVJX0VfeG5vdU9LT1ZjaVBUODR6S0NjbzFWTFhrd3d2ZHh4WG9rTkppRlZ0SHVncjZWREU0RmdEXzExVzBYOXVibTRWZ3Q1eXpSVXpaSk1FN3dBVWYyaWtZcGNaeDM5VWlXSzY3WUVKeg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e96357e9c57b",
+      "title": "'Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind'",
+      "published": "2026-11-24T10:41:47+00:00",
+      "summary": "'Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind'&nbsp;&nbsp;NUHPV-prik voorkomt zo'n 12.800 kankergevallen als vaccinatiegraad niet stijgt&nbsp;&nbsp;NUOnderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen&nbsp;&nbsp;NOSHPV-prik voorkomt bijna 12.800 kankerdiagnoses, maar kwam voor Wendy (41) te laat: ’Ik moest afscheid nemen van mijn kinderwens’&nbsp;&nbsp;Noordhollands DagbladGoed nieuws! Nieuwe HPV-prik zorgt dat veel minder mensen kanker krijgen&nbsp;&nbsp;J",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "kanker",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "famciclovir",
+              "name": "Famciclovir",
+              "url": "/drugs/famciclovir/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "sorbitol",
+              "name": "Sorbitol",
+              "url": "/drugs/sorbitol/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "Etoposide",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "Everolimus",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "Fluorouracil",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "Telmisartan",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "ramipril",
+              "name": "Ramipril",
+              "url": "/drugs/ramipril/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "Capecitabine",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd7a944dfb36",
+      "title": "Basisarts zet aortadissectie bij jonge patiënt niet in de differentiaaldiagnose",
+      "published": "2026-11-24T07:00:00+00:00",
+      "summary": "Basisarts zet aortadissectie bij jonge patiënt niet in de differentiaaldiagnose&nbsp;&nbsp;medischcontact",
+      "sources": [
+        {
+          "name": "medischcontact",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZjNKTmhNRlBNU3FNT1VyenlpaEtYX1FTeTJ0VnZsdUpmUndVaUxENTFlaWpJOUJGU3h0M1NRcWZTbk1zOFFoaS1LaHpCYzRDSm5zbEYtNFBCRmFmTDcwcVlaT19JbWpsQTFhcEF0X1dKOVpTRFlnT2c5cVFBZEFjYzJva2RVMjdEMnJ0dEx2NXU3dFdmLUhpNERPNHcweVhNOTQzcFdPX3EyVzJhdzViZ0FEdjZmbDRzRUtPUGM2Y1JRTG02RDBaQnZxaUdjRzVrR1dN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ea2596630cd8",
+      "title": "Vergoed de koppelbare sensor, want diabetes wacht niet",
+      "published": "2026-11-23T19:47:51+00:00",
+      "summary": "Vergoed de koppelbare sensor, want diabetes wacht niet&nbsp;&nbsp;Petities.nl",
+      "sources": [
+        {
+          "name": "Petities.nl",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXlUczJIelhKYzZDa2RhdTRabEY4Zk5RMDg4M2YwazN6RGRMcWl4TUQ3UXkyQXBocUFKd3ZZNEpkc3dDQlR5YUpvZ0luSHVQVEVSa0VnZi1WT0YzZzAxaThxRUtuNGs2VUtuVWRRMXFNajk1S3ZaZ21nVmVHbXA0MzFfb05WR1RGTkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d915b37cc3f8",
+      "title": "Allergisch voor noten? Hoopgevende test met vaccin",
+      "published": "2026-11-23T14:29:30+00:00",
+      "summary": "Allergisch voor noten? Hoopgevende test met vaccin&nbsp;&nbsp;RTL.nl",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVlkQ2RLUkVTTFU0ams0aW5GTUZISXc0RkRxbjhwTGZVTTlDMjZoc3lMbjZ2aEtUS0ZmQ0J2aVVLbmZENndQdzZFUDlpRkVtdUVaUGN1emZwVlV6VFNNZ2oxeXFTMnZ4eVpUbDhkRFd1b3dfOTEybko2NHVHRzRvR2tldlNaUTFRZ2lUV2ptQUxKVmZkb2N2SzFTaklQd0Nzb0gyZ3pka2lPSlU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dc66d35ed51c",
+      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen",
+      "published": "2026-11-19T18:15:29+00:00",
+      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "AD.nl",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -288,71 +504,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "fd7a944dfb36",
-      "title": "Basisarts zet aortadissectie bij jonge patiënt niet in de differentiaaldiagnose",
-      "published": "2026-11-24T07:00:00+00:00",
-      "summary": "Basisarts zet aortadissectie bij jonge patiënt niet in de differentiaaldiagnose&nbsp;&nbsp;medischcontact",
-      "sources": [
-        {
-          "name": "medischcontact",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZjNKTmhNRlBNU3FNT1VyenlpaEtYX1FTeTJ0VnZsdUpmUndVaUxENTFlaWpJOUJGU3h0M1NRcWZTbk1zOFFoaS1LaHpCYzRDSm5zbEYtNFBCRmFmTDcwcVlaT19JbWpsQTFhcEF0X1dKOVpTRFlnT2c5cVFBZEFjYzJva2RVMjdEMnJ0dEx2NXU3dFdmLUhpNERPNHcweVhNOTQzcFdPX3EyVzJhdzViZ0FEdjZmbDRzRUtPUGM2Y1JRTG02RDBaQnZxaUdjRzVrR1dN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f439db9c569c",
-      "title": "Onderzoek: hpv-prik bij kinderen onder 10 jaar voorkomt 12.800 kankerdiagnoses",
-      "published": "2026-11-24T05:47:00+00:00",
-      "summary": "Onderzoek: hpv-prik bij kinderen onder 10 jaar voorkomt 12.800 kankerdiagnoses&nbsp;&nbsp;AD.nlHPV-prik voorkomt nu al 12.800 kankergevallen en dat kunnen er meer worden | Gezondheid | NU.nl&nbsp;&nbsp;NUOnderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen&nbsp;&nbsp;NOSHPV-prik voorkomt bijna 12.800 kankerdiagnoses, maar kwam voor Wendy (41) te laat: ’Ik moest afscheid nemen van mijn kinderwens’&nbsp;&nbsp;Noordhollands DagbladGoed nieuws! Nieuwe HPV-prik zorgt dat veel minder mense",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGhwRm9GNmtvYmhVLVd0Zm14VF9lY1B4bzhMRWNZTE1vX3ItdGNFN0tKaDJwR082WHFpeUtRS25oUEtWcGMtSWJrRzU1UWdrZnhkVFdRbC1iNDN2VlJyR3JEYmgzenpSN2U0Q0dkUEhPZk9WVm9jNm8xYl9XYnJuSjRMTVhoeGtNbWplMWRvMTVOSTBKR0RqaUNJd1FDOG5TcnlnRVRmLXY2VlNtQUpyR1pneGhnb28?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ea2596630cd8",
-      "title": "Vergoed de koppelbare sensor, want diabetes wacht niet",
-      "published": "2026-11-23T19:47:51+00:00",
-      "summary": "Vergoed de koppelbare sensor, want diabetes wacht niet&nbsp;&nbsp;Petities.nl",
-      "sources": [
-        {
-          "name": "Petities.nl",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXlUczJIelhKYzZDa2RhdTRabEY4Zk5RMDg4M2YwazN6RGRMcWl4TUQ3UXkyQXBocUFKd3ZZNEpkc3dDQlR5YUpvZ0luSHVQVEVSa0VnZi1WT0YzZzAxaThxRUtuNGs2VUtuVWRRMXFNajk1S3ZaZ21nVmVHbXA0MzFfb05WR1RGTkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d915b37cc3f8",
-      "title": "Allergisch voor noten? Hoopgevende test met vaccin",
-      "published": "2026-11-23T14:29:30+00:00",
-      "summary": "Allergisch voor noten? Hoopgevende test met vaccin&nbsp;&nbsp;RTL.nl",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVlkQ2RLUkVTTFU0ams0aW5GTUZISXc0RkRxbjhwTGZVTTlDMjZoc3lMbjZ2aEtUS0ZmQ0J2aVVLbmZENndQdzZFUDlpRkVtdUVaUGN1emZwVlV6VFNNZ2oxeXFTMnZ4eVpUbDhkRFd1b3dfOTEybko2NHVHRzRvR2tldlNaUTFRZ2lUV2ptQUxKVmZkb2N2SzFTaklQd0Nzb0gyZ3pka2lPSlU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dc66d35ed51c",
-      "title": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen",
-      "published": "2026-11-19T18:15:29+00:00",
-      "summary": "Pancreaskanker is een van de moeilijkst te behandelen kankersoorten: symptomen zijn lastig te herkennen&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
-      "sources": [
-        {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3A3M0hRbXlzbUNNZ0k3NlRTLVpEZm9PTG9jV3p3WnJWWEloQWduMFJTMkhGWDA4WU40NzNnajNzTU5ocFdQR055VERPVUt0YUtFN1djSEJpcGlVakY2WTQwUDl0bDYwWkJMVEI5YndxRW9lbkVSVTVzQ1Q3NjQxclRhRzNLUGptZHJlajlBamFsNDc5aWJORTVQX3d5TDlROGJyTWVtZjE4OVBVMVVlUko1NlBKaGRORWpPdnV4UjFvbU0weVM5dTZfOU5xODRZSlR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "afa18fa138f0",

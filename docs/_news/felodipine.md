@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Felodipine. 5 voorspelde indicaties."
 permalink: /news/felodipine/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
 # Nieuws over Felodipine
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Felodipine?">
-<strong>Felodipine</strong> heeft momenteel <strong>9 nieuwsberichten</strong> en 5 voorspelde indicaties.
+<strong>Felodipine</strong> heeft momenteel <strong>10 nieuwsberichten</strong> en 5 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Felodipine met het 
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (9)
+## Gerelateerd nieuws (10)
+
+### ['Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind'](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">kanker</span>
+
+Bron: [NU](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5)
+
+---
 
 ### [Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5)
 

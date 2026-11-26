@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-25T16:44:15.200609+00:00",
+  "fetched_at": "2026-11-26T01:29:49.063633+00:00",
   "count": 15,
   "news": [
     {
-      "id": "f439db9c569c",
-      "title": "Onderzoek: hpv-prik bij kinderen onder 10 jaar voorkomt 12.800 kankerdiagnoses - AD.nl",
-      "published": "2026-11-24T05:47:00+00:00",
-      "summary": "Onderzoek: hpv-prik bij kinderen onder 10 jaar voorkomt 12.800 kankerdiagnoses&nbsp;&nbsp;AD.nlHPV-prik voorkomt nu al 12.800 kankergevallen en dat kunnen er meer worden | Gezondheid | NU.nl&nbsp;&nbsp;NUOnderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen&nbsp;&nbsp;NOSHPV-prik voorkomt bijna 12.800 kankerdiagnoses, maar kwam voor Wendy (41) te laat: ’Ik moest afscheid nemen van mijn kinderwens’&nbsp;&nbsp;Noordhollands DagbladGoed nieuws! Nieuwe HPV-prik zorgt dat veel minder mense",
+      "id": "780a5ec7729f",
+      "title": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie - De Telegraaf",
+      "published": "2026-11-26T00:59:23+00:00",
+      "summary": "Aantal coronagevallen neemt snel toe: gestegen naar het hoogste niveau sinds pandemie&nbsp;&nbsp;De TelegraafCoronadeeltjes in riool op hoogste niveau na pandemie, maar ziektebeeld mild&nbsp;&nbsp;NUAantal coronagevallen neemt toe, ook piek in Brabant&nbsp;&nbsp;Omroep BrabantAantal coronagevallen neemt snel toe, maar aantal mensen op IC is laag&nbsp;&nbsp;AD.nlEr zit weer volop corona in het rioolwater, maar de zelftest is stilletjes uit de schappen verdwenen&nbsp;&nbsp;Brabants Dagblad",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGhwRm9GNmtvYmhVLVd0Zm14VF9lY1B4bzhMRWNZTE1vX3ItdGNFN0tKaDJwR082WHFpeUtRS25oUEtWcGMtSWJrRzU1UWdrZnhkVFdRbC1iNDN2VlJyR3JEYmgzenpSN2U0Q0dkUEhPZk9WVm9jNm8xYl9XYnJuSjRMTVhoeGtNbWplMWRvMTVOSTBKR0RqaUNJd1FDOG5TcnlnRVRmLXY2VlNtQUpyR1pneGhnb28?oc=5"
+          "name": "De Telegraaf",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQWh3UDRvdzdGcllrMGI2azZpQWN6MVVrc0FJeVpFMHhXbnRudENpd1BhX2g0VzY1T19fMXh4dHM2WVF6dFViaUlyTGxOY1VRV3puTi1mXzJCTTdfa3lBZ01HWHpWYmpuYzJRZXRTZTRQZ0tQQW55X1RscXE2anQzNW5rcUdsWktERlJ3YkJJdkhkdXRURXpsTXQ5Y2NXNnFqN2VtOVItVkRYOW80YnFYcEJ6ai1OWHludTg0c1VkS0Y1czFFLXBZZW11dTVodk9w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e96357e9c57b",
+      "title": "'Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind' - NU",
+      "published": "2026-11-24T10:41:47+00:00",
+      "summary": "'Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind'&nbsp;&nbsp;NUHPV-prik voorkomt zo'n 12.800 kankergevallen als vaccinatiegraad niet stijgt&nbsp;&nbsp;NUOnderzoek: vaccin tegen HPV kan 13.000 kankerdiagnoses voorkomen&nbsp;&nbsp;NOSHPV-prik voorkomt bijna 12.800 kankerdiagnoses, maar kwam voor Wendy (41) te laat: ’Ik moest afscheid nemen van mijn kinderwens’&nbsp;&nbsp;Noordhollands DagbladGoed nieuws! Nieuwe HPV-prik zorgt dat veel minder mensen kanker krijgen&nbsp;&nbsp;J",
+      "sources": [
+        {
+          "name": "NU",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b7fbe39def1e",
+      "title": "Vogelgriep in Amerika: besmettingen onder melkvee en overleden personen - Nieuwe Oogst",
+      "published": "2026-11-25T12:56:00+00:00",
+      "summary": "Vogelgriep in Amerika: besmettingen onder melkvee en overleden personen&nbsp;&nbsp;Nieuwe OogstVier mensen besmet met vogelgriep in VS, één persoon overleden&nbsp;&nbsp;NOSZorgen over vogelgriep en werknemers op Amerikaanse melkveebedrijven&nbsp;&nbsp;BoerderijWHO: De VS hebben 3 gevallen van H5N1-virusinfectie, waaronder 1 sterfgeval.&nbsp;&nbsp;Vietnam.vnVogelgriep in VS: vier melkveewerkers besmet, één dode&nbsp;&nbsp;TPO.NL",
+      "sources": [
+        {
+          "name": "Nieuwe Oogst",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGNjSG9GakdFSEpmRDVNeXJOeHNNR21Hb3haTHNJMlQyOURXbWsyM015dXpqZWdpZFlPeVlkM3o3b2l1ZXpPRHFwMGptb2g0RldJUWhZQmtOQnRHUzkzWUk2NVZXNFlYcjl1bjdOS08xa3p1SnpKSHdVdWZEN3VPZzBhM09ZVW5jc3h1dFVILV9xb3RGd0ZLbHBIZWd4VVRHdk1oUTEtTEV1eXgxbGFGdFVHLWJtdw?oc=5"
         }
       ]
     },
@@ -28,26 +52,26 @@
       ]
     },
     {
-      "id": "6310665cc963",
-      "title": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker - AD.nl",
-      "published": "2026-11-24T09:15:00+00:00",
-      "summary": "Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker&nbsp;&nbsp;AD.nlMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "7650410ffad4",
+      "title": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld? - Duurzaamnieuws",
+      "published": "2026-11-24T17:40:24+00:00",
+      "summary": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld?&nbsp;&nbsp;DuurzaamnieuwsDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwPennsylvania meldt negen sterfgevallen in verband met mazelen&nbsp;&nbsp;MarketScreener NederlandVirginia meldt eerste mazelen-gerelateerde overlijden van 2026, waarbij een jong kind betrokken was&nbsp;&nbsp;MarketScreener NederlandAmerikaanse mazelengevallen naderen de 6.000",
       "sources": [
         {
-          "name": "AD.nl",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5"
+          "name": "Duurzaamnieuws",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUk83dTBnMXRWdkoweXkwWjhEMEVDR0Q0VkVKWnFFeXJUbmZSWEhENUc4dnAyMjBFVzhTR0hfMGN4NWN2RkU0emMxNFdjdS1XMjBfdXJHa2w3VjlMN3EtQjFLRk5vLUF3c05ub090cUpWM3VyN1R0WGxHWVNsTXVJM25oT1dJOUQ5NElPZmg4LU9jWlFXQlBqY0g4Q2RxUzRlYTBiNVJTV1BGZGcxcFg2NTRacnQyZFlSRXptbTF4U1Z2cTljZTZSZWttajBxWkU4UDRfSXd1eU5vRXc?oc=5"
         }
       ]
     },
     {
-      "id": "9a84a2fb3547",
-      "title": "Vier mensen besmet met vogelgriep in VS, één persoon overleden - NOS",
-      "published": "2026-11-24T16:16:58+00:00",
-      "summary": "Vier mensen besmet met vogelgriep in VS, één persoon overleden&nbsp;&nbsp;NOSVogelgriep in Amerika: besmettingen onder melkvee en overleden personen&nbsp;&nbsp;Nieuwe OogstZorgen over vogelgriep en werknemers op Amerikaanse melkveebedrijven&nbsp;&nbsp;BoerderijWHO: De VS hebben 3 gevallen van H5N1-virusinfectie, waaronder 1 sterfgeval.&nbsp;&nbsp;Vietnam.vnVogelgriep in VS: vier melkveewerkers besmet, één dode&nbsp;&nbsp;TPO.NL",
+      "id": "e80918e91de3",
+      "title": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn: ’Nu ik steeds minder pillen heb, ga ik steeds meer malen’ - Noordhollands Dagblad",
+      "published": "2026-11-25T13:05:12+00:00",
+      "summary": "Michael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn: ’Nu ik steeds minder pillen heb, ga ik steeds meer malen’&nbsp;&nbsp;Noordhollands DagbladMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "NOS",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnJIRHMwOURhdWI4V3I4Wk5PNVhkakNLTjc0U2twVWhyNDUxQmlKcV81ejFoWXVMWHcxU1l0WGFCa3FhV2JsOGhaQ1hoVHNZMUtUYlJ0bWRPMHAzNERNcFJtZEI5UDRiMHJjbjhSN0pMWk96VjN5dzhqX3lDNFJicVMwY2hpc2x6eVNxcFdkM3lHX1p1SjVn?oc=5"
+          "name": "Noordhollands Dagblad",
+          "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOci1La2JCWFFhbWd3d3gxcjJhS2xNQ285RnROVWxvckJjdm8wa2EwZU95dm83SklRQ2ZrVlFDSDd0ZFY1b2x4XzRwTkE4aTVCVVUwX3RMSEh2bEdLdHpOVW5FTmxhVUtHR3ExQmRpZDB0QnVVS1Exdi1YekswUzJacW9RYnpLbjVzek1wTUhXNndEbFRuMk5hbHprX0J6NTlsb3k0NDFBY3lWZm16dVctcUdlQ0hfTk0yZ1FQUmNIYmRTeFYzWHVkb2xfYnBINzdhOENTTVp2Y0pvRE1ROC01WUkwY25ZNUZjRGRPSDBqaXJWU0VOVVhNY3RyNWN1a2lVTTFrWUtjTk9TZ2s0MWs2SkV2Z1U2SVRSUDBncVNMcG1Eb0NkdXc?oc=5"
         }
       ]
     },
@@ -64,50 +88,26 @@
       ]
     },
     {
-      "id": "7650410ffad4",
-      "title": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld? - Duurzaamnieuws",
-      "published": "2026-11-24T17:40:24+00:00",
-      "summary": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld?&nbsp;&nbsp;DuurzaamnieuwsDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwPennsylvania meldt negen sterfgevallen in verband met mazelen&nbsp;&nbsp;MarketScreener NederlandVirginia meldt eerste mazelen-gerelateerde overlijden van 2026, waarbij een jong kind betrokken was&nbsp;&nbsp;MarketScreener NederlandAmerikaanse mazelengevallen naderen de 6.000",
+      "id": "f8903779764e",
+      "title": "Griep of verkouden: deze huisarts weet wat je wél en juist niet moet doen - Omroep Brabant",
+      "published": "2026-11-25T15:30:00+00:00",
+      "summary": "Griep of verkouden: deze huisarts weet wat je wél en juist niet moet doen&nbsp;&nbsp;Omroep BrabantIedereen lijkt te snotteren: huisarts vertelt wat je wél en juist niet moet doen&nbsp;&nbsp;RijnmondDe griep gaat rond, maar wat helpt nu écht om sneller beter te worden?&nbsp;&nbsp;LINDA.",
       "sources": [
         {
-          "name": "Duurzaamnieuws",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUk83dTBnMXRWdkoweXkwWjhEMEVDR0Q0VkVKWnFFeXJUbmZSWEhENUc4dnAyMjBFVzhTR0hfMGN4NWN2RkU0emMxNFdjdS1XMjBfdXJHa2w3VjlMN3EtQjFLRk5vLUF3c05ub090cUpWM3VyN1R0WGxHWVNsTXVJM25oT1dJOUQ5NElPZmg4LU9jWlFXQlBqY0g4Q2RxUzRlYTBiNVJTV1BGZGcxcFg2NTRacnQyZFlSRXptbTF4U1Z2cTljZTZSZWttajBxWkU4UDRfSXd1eU5vRXc?oc=5"
+          "name": "Omroep Brabant",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVTV1LWtXYkUyZy1sWV9la2NRX3RTNU1nR3VKMmhPZ2pULVRUUlZwdi1kaVJvemtsVVctNVE1dVYxRFV6djN5UkJic1I4T1g2VWNMRVRoYmxqT0dwSzVHSlNxakFUOGRlNW5sM0g3cHNNMlRkZW8zM0lCZFl4VWtRYldxZllxdDY0LU9CNG1ORnRkbmcybnVYM2txTlRieVdoS1lCYms2NzBMUVBaQVpkNjZKRnJyMGc?oc=5"
         }
       ]
     },
     {
       "id": "db936d70cc7d",
       "title": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren - DVHN",
-      "published": "2026-11-25T14:00:00+00:00",
-      "summary": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren&nbsp;&nbsp;DVHNHartfalen geeft meer risico op boezemfibrilleren - en andersom&nbsp;&nbsp;ZorgKrant.nlOnderzoek UMCG: ‘Hartfalen en hartritmestoornis vergroten risico op elkaar’&nbsp;&nbsp;OOG Groningen",
+      "published": "2026-11-25T06:00:00+00:00",
+      "summary": "UMCG: wie hartfalen heeft, loopt een grote kans op boezemfibrilleren en andersom. Dit zijn de risicofactoren&nbsp;&nbsp;DVHNHartfalen geeft meer risico op boezemfibrilleren - en andersom&nbsp;&nbsp;ZorgKrant.nl",
       "sources": [
         {
           "name": "DVHN",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY1M1Njg4eldXRHE2dS16MGJuWUREYjY3RWtRdGxwUlpQOWxzRUtBcVZFX2dObVNHMGxvanFhcmlPZXZvMk5jczh6S1F2YklDclJBWThsLTJHSDQ4dmZoNHM2d195ZXVIRlE3U3hEaURPaEdzYjY1Z1hxbG8zdFNyMHdvZTFNNWsybFNaZGRWRF93WUZuYS1TUHZSZ0hSZjRCUzQzMjFXNThubU1xc0RjWWtldjllZUNvMGJfTU95WmV0R0xUWXFfcVFLbEJYM19iZTc3ZVJROFFwbE03dVNiYlFmMWc0eDZJYVZvMDZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c770e6a58b6",
-      "title": "De griep gaat rond, maar wat helpt nu écht om sneller beter te worden? - LINDA.",
-      "published": "2026-11-25T06:51:57+00:00",
-      "summary": "De griep gaat rond, maar wat helpt nu écht om sneller beter te worden?&nbsp;&nbsp;LINDA.",
-      "sources": [
-        {
-          "name": "LINDA.",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uTElqS2JSQTgyRHAwblNhNVR4eUE4anRkY0hCR281ZWRTRlFEbkg5aTdoenJwa1lMeWFOUGllZDNHYWE5OHZiSzF6ck8zTXRSWEpzU1ozZmxPSF94aXlTUU1fUnVVNW9QNFV6NmVjNE1yWmNscGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b59635b63621",
-      "title": "Apothekers slaan alarm, medicijntekorten lopen op: ’Meerdere keren per dag staan hier boze patiënten aan de balie’ - De Telegraaf",
-      "published": "2026-11-25T10:44:00+00:00",
-      "summary": "Apothekers slaan alarm, medicijntekorten lopen op: ’Meerdere keren per dag staan hier boze patiënten aan de balie’&nbsp;&nbsp;De TelegraafMichael (59) is doodsbang nu zijn medicijnen in Nederland niet meer beschikbaar zijn: ’Nu ik steeds minder pillen heb, ga ik steeds meer malen’&nbsp;&nbsp;Noordhollands DagbladSandra Molenaar: we moeten voorkomen dat patiënten zonder hun medicijnen komen te zitten&nbsp;&nbsp;De Telegraaf",
-      "sources": [
-        {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWRsaWxpQkpVWWJva2l2SURjNEZKRXpSeTdBakhmNWMyN1FYMGt3MTBvdEtnT2swSUsxcDRJbDZhRXlQZlE1V1NhX1ZISWFnQ0djdHB2eXVzbGlCb3RwT2dYMDE5WjJXSFdJQklYY09PWFdHalFKODBwaDhSbHlWVnVTYVEybkd4X2NnbDdENi1haWZ6clY2WXlGVkVWdVRSY2xEb3AxNWZhd3pINWFGUV9OWlRGeGo4X3FMSmxaSzdYdm84Nml3WlUtZnlUTTFZSzEyRmhka1N0TjN4bFFZdGtaVkVoX3BBUVZyUUFlbEhiX3c?oc=5"
         }
       ]
     },

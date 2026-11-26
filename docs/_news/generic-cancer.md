@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Nieuws over tumor (generic_cancer)"
+title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over tumor (generic_cancer). 9 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 10 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
-# Nieuws over tumor (generic_cancer)
+# Nieuws over kanker (generic_cancer)
 
 [← Terug naar nieuwsoverzicht]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="Welk nieuws is er over tumor (generic_cancer)?">
-<strong>tumor (generic_cancer)</strong> heeft momenteel <strong>9 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>10 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
-Deze pagina bundelt het laatste gezondheidsnieuws over “tumor” en toont de geneesmiddelen in de NlTxGNN-database waarvan de voorspelde indicaties deze ziekte omvatten.
+Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de geneesmiddelen in de NlTxGNN-database waarvan de voorspelde indicaties deze ziekte omvatten.
 </div>
 
 <div class="related-drugs-card">
@@ -55,7 +55,15 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “tumor” en toont de g
 </ul>
 </div>
 
-## Gerelateerd nieuws (9)
+## Gerelateerd nieuws (10)
+
+### ['Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind'](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5)
+
+2026-11-24
+
+Bron: [NU](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5)
+
+---
 
 ### [Een radioactieve ‘kogel’ recht op de tumor: de nieuwe mogelijkheden bij prostaatkanker](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5)
 

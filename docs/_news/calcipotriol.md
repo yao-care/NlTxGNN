@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Calcipotriol. 10 voorspelde indicaties."
 permalink: /news/calcipotriol/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Nieuws over Calcipotriol
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Calcipotriol?">
-<strong>Calcipotriol</strong> heeft momenteel <strong>10 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Calcipotriol</strong> heeft momenteel <strong>11 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ Deze pagina combineert de door AI voorspelde indicaties voor Calcipotriol met he
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (10)
+## Gerelateerd nieuws (11)
 
 ### [Opinie: Goede zorg rond de overgang verdient een vaste plek in de reguliere zorg - de Volkskrant](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWd2RUtPZU1NcGFaci14UEhnVDMzVnB3TnVwUThuNEFDaEszdTVmUFZ4Q3dMN1J1YkV5TVJpRmo4YktSb0drdmZUOWgwOXV2OEpaRjVGMW4yVkJWVTRYekthV1RmT2t3eFREYllmcVhKeHA0S3dEUjhNMEl0UlVwZWh4MktxM1Zmd1hYSkZZWXRBV2QxaVlXbEJNV0J4OVM4bGJ3aWVTTXVVQjFBTWQ1MHBVOXhPeWJiZDFjT1A3XzdvUFhpUUd5S0NXVQ?oc=5)
 
 2026-11-24 <span class="news-indication-tag">overgang</span>
 
 Bron: [de Volkskrant](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWd2RUtPZU1NcGFaci14UEhnVDMzVnB3TnVwUThuNEFDaEszdTVmUFZ4Q3dMN1J1YkV5TVJpRmo4YktSb0drdmZUOWgwOXV2OEpaRjVGMW4yVkJWVTRYekthV1RmT2t3eFREYllmcVhKeHA0S3dEUjhNMEl0UlVwZWh4MktxM1Zmd1hYSkZZWXRBV2QxaVlXbEJNV0J4OVM4bGJ3aWVTTXVVQjFBTWQ1MHBVOXhPeWJiZDFjT1A3XzdvUFhpUUd5S0NXVQ?oc=5)
+
+---
+
+### ['Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind'](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">kanker</span>
+
+Bron: [NU](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5)
 
 ---
 

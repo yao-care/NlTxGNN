@@ -3,7 +3,7 @@ layout: default
 title: "Nieuws over kanker (generic_cancer)"
 parent: Gezondheidsnieuws
 nav_exclude: true
-description: "Gezondheidsnieuws over kanker (generic_cancer). 10 berichten, 26 gerelateerde geneesmiddelen."
+description: "Gezondheidsnieuws over kanker (generic_cancer). 11 berichten, 26 gerelateerde geneesmiddelen."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-26
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over kanker (generic_cancer)?">
-<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>10 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
+<strong>kanker (generic_cancer)</strong> heeft momenteel <strong>11 nieuwsberichten</strong> en 26 gerelateerde geneesmiddelen.
 </p>
 
 <div class="key-takeaway">
@@ -55,7 +55,7 @@ Deze pagina bundelt het laatste gezondheidsnieuws over “kanker” en toont de 
 </ul>
 </div>
 
-## Gerelateerd nieuws (10)
+## Gerelateerd nieuws (11)
 
 ### ['Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind'](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5)
 
@@ -70,6 +70,14 @@ Bron: [NU](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBS
 2026-11-24
 
 Bron: [AD.nl](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5)
+
+---
+
+### [Onderzoek: HPV-vaccin kan bijna 13.000 kankerdiagnoses voorkomen](https://news.google.com/rss/articles/CBMimgFBVV95cUxQamtLSWx4RmFnZ2lWb1ZjZXc2bEVnTTVGZGZVQlFvUFpXTXVzbE8zMVN4Z1NJNkVycDdCQ01PR2NVVmdGSEExUnZRSG9HaXl6VkhpUDFOYVkzbUxTN2NNX1g0YXpGbGN3aHY4VlNLa0NocGEzMTdIMFBlSU5FQUctQTJHdlZlWjROd3Y5Mkw4OUtGaWpwZHNJdUNn?oc=5)
+
+2026-11-24
+
+Bron: [NOS](https://news.google.com/rss/articles/CBMimgFBVV95cUxQamtLSWx4RmFnZ2lWb1ZjZXc2bEVnTTVGZGZVQlFvUFpXTXVzbE8zMVN4Z1NJNkVycDdCQ01PR2NVVmdGSEExUnZRSG9HaXl6VkhpUDFOYVkzbUxTN2NNX1g0YXpGbGN3aHY4VlNLa0NocGEzMTdIMFBlSU5FQUctQTJHdlZlWjROd3Y5Mkw4OUtGaWpwZHNJdUNn?oc=5)
 
 ---
 

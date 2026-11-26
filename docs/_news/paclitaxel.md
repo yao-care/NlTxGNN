@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Paclitaxel?">
-<strong>Paclitaxel</strong> heeft momenteel <strong>11 nieuwsberichten</strong> en 2 voorspelde indicaties.
+<strong>Paclitaxel</strong> heeft momenteel <strong>12 nieuwsberichten</strong> en 2 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ Deze pagina combineert de door AI voorspelde indicaties voor Paclitaxel met het 
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (11)
+## Gerelateerd nieuws (12)
 
 ### [Opinie: Goede zorg rond de overgang verdient een vaste plek in de reguliere zorg - de Volkskrant](https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWd2RUtPZU1NcGFaci14UEhnVDMzVnB3TnVwUThuNEFDaEszdTVmUFZ4Q3dMN1J1YkV5TVJpRmo4YktSb0drdmZUOWgwOXV2OEpaRjVGMW4yVkJWVTRYekthV1RmT2t3eFREYllmcVhKeHA0S3dEUjhNMEl0UlVwZWh4MktxM1Zmd1hYSkZZWXRBV2QxaVlXbEJNV0J4OVM4bGJ3aWVTTXVVQjFBTWQ1MHBVOXhPeWJiZDFjT1A3XzdvUFhpUUd5S0NXVQ?oc=5)
 
@@ -57,6 +57,14 @@ Bron: [NU](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBS
 2026-11-24 <span class="news-indication-tag">tumor</span>
 
 Bron: [AD.nl](https://news.google.com/rss/articles/CBMiugFBVV95cUxQclJtQ2NqbTNBeGdJdXB2N015VHhuOTEwSFJkbDI2Zkw1MmZteE1BV25qUGw3YW54YWdPVWJpektwV1ZyMjIxX0l3ZzhNWTlLc2g0ckZmbjJQRjFoRE9RYXhqQ2gtR0Rrc19ZZlVDYk9IN0VES0hGWXplWjk5ZUY3NWtBSDBTempZV3lXZHppb1E3ZGNLZ0JuSmMwajZhOUVwdFJqQ2k4aVY0TXp4QXpPNFVmOUp4ZFBxc3c?oc=5)
+
+---
+
+### [Onderzoek: HPV-vaccin kan bijna 13.000 kankerdiagnoses voorkomen](https://news.google.com/rss/articles/CBMimgFBVV95cUxQamtLSWx4RmFnZ2lWb1ZjZXc2bEVnTTVGZGZVQlFvUFpXTXVzbE8zMVN4Z1NJNkVycDdCQ01PR2NVVmdGSEExUnZRSG9HaXl6VkhpUDFOYVkzbUxTN2NNX1g0YXpGbGN3aHY4VlNLa0NocGEzMTdIMFBlSU5FQUctQTJHdlZlWjROd3Y5Mkw4OUtGaWpwZHNJdUNn?oc=5)
+
+2026-11-24 <span class="news-indication-tag">kanker</span>
+
+Bron: [NOS](https://news.google.com/rss/articles/CBMimgFBVV95cUxQamtLSWx4RmFnZ2lWb1ZjZXc2bEVnTTVGZGZVQlFvUFpXTXVzbE8zMVN4Z1NJNkVycDdCQ01PR2NVVmdGSEExUnZRSG9HaXl6VkhpUDFOYVkzbUxTN2NNX1g0YXpGbGN3aHY4VlNLa0NocGEzMTdIMFBlSU5FQUctQTJHdlZlWjROd3Y5Mkw4OUtGaWpwZHNJdUNn?oc=5)
 
 ---
 

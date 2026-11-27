@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-27T05:35:25.366544",
+  "last_check": "2026-11-27T20:26:05.165643",
   "seen_trials": {
     "Acetaminophen": [
       "NCT05039619",
@@ -1512,6 +1512,9 @@
     ],
     "Fosfomycin": [
       "NCT07928063"
+    ],
+    "Dexketoprofen": [
+      "NCT07960901"
     ]
   }
 }

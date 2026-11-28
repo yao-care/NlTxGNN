@@ -27,7 +27,7 @@
     {
       "url": "/news/bicalutamide/",
       "title": "Nieuws over Bicalutamide",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/generic-cancer/",
@@ -37,7 +37,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Nieuws over borstkanker (female breast carcinoma)",
-      "count": 4
+      "count": 5
     }
   ],
   "/drugs/cabergoline/": [
@@ -265,7 +265,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Nieuws over Paclitaxel",
-      "count": 12
+      "count": 13
     },
     {
       "url": "/news/generic-cancer/",
@@ -275,7 +275,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "Nieuws over borstkanker (female breast carcinoma)",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/menopause/",

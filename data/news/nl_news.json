@@ -1,17 +1,41 @@
 {
   "source": "nl_news",
-  "fetched_at": "2026-11-27T16:03:45.103083+00:00",
-  "count": 15,
+  "fetched_at": "2026-11-28T01:01:27.775162+00:00",
+  "count": 17,
   "news": [
     {
-      "id": "38643562bd33",
-      "title": "Corona rukt snel op: hoe gevaarlijk is het virus eigenlijk nog en wat zijn de symptomen? - De Telegraaf",
-      "published": "2026-11-27T14:55:54+00:00",
-      "summary": "Corona rukt snel op: hoe gevaarlijk is het virus eigenlijk nog en wat zijn de symptomen?&nbsp;&nbsp;De TelegraafWeer meer mensen met corona, maar geen reden tot zorg, zegt RIVM&nbsp;&nbsp;NOSCoronadeeltjes in riool op hoogste niveau na pandemie, maar ziektebeeld mild&nbsp;&nbsp;NUHuisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat&nbsp;&nbsp;Omroep WestAantal coronagevallen neemt snel toe, maar aantal mensen op IC is laag&nbsp;&nbsp;ed.nl",
+      "id": "94ecf46bfb7a",
+      "title": "Onderzoek: geen verband nachtdienst verpleegkundigen en borstkanker - RTL.nl",
+      "published": "2026-11-27T19:50:34+00:00",
+      "summary": "Onderzoek: geen verband nachtdienst verpleegkundigen en borstkanker&nbsp;&nbsp;RTL.nlMeer koppen en standpunten bekijken via Google Nieuws",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZmlYeWJMSll6WG5kcFdHeUVnNXVaSmJNbHZ6bW80eUQ1cEVaM0VuVl9jVlhpaUg0UXEzcERXMWhuV2hZSnFBWHB1VTFKeDRVbFM2dGg0SkdHeWNxRE12NmhOVDZEYUpUVUF3SmpvaWExQkNjMVJQbUhIY2wyY2dmNGp4RHo2YnpTdl9BU2VjQXNKMUFPdTA0UnNyY3JyMzhJYzRFRnBhcFNxS3E2bDhfZy10bUkzTHE1enZZVnY3a1ViSHQ5TnMyZ3hNdFUxWlZVZmtz?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmt3cm00SkxqSDhzSi1SYTVfTGhIblpzbnR3M2dyVTZOV3RwQnMxMFhmU0IxazZrY0dBd2lNM0VSdnVGMTFjOVdhaFZTVFRRUVAyYlFIZTVuRnBJMjJJM0l5TUtSVWF5NUZjUUJ3OW1nSFl0UFR3bTJfb0lGSWk5ZTNNYlNSczRxNTA5bE9tZU5zRnBXSzZIRmYzR2pMdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eae8995e297c",
+      "title": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat - Omroep West",
+      "published": "2026-11-27T05:32:13+00:00",
+      "summary": "Huisarts ziet meer luchtwegklachten nu coronavirus weer rondgaat&nbsp;&nbsp;Omroep WestWeer meer mensen met corona, maar geen reden tot zorg, zegt RIVM&nbsp;&nbsp;NOSCorona rukt snel op: hoe gevaarlijk is het virus eigenlijk nog en wat zijn de symptomen?&nbsp;&nbsp;De TelegraafCoronadeeltjes in riool op hoogste niveau na pandemie, maar ziektebeeld mild&nbsp;&nbsp;NUAantal coronagevallen neemt toe, ook piek in Brabant&nbsp;&nbsp;Omroep Brabant",
+      "sources": [
+        {
+          "name": "Omroep West",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkFodnpKLXk1RkdadkxuOUIwczhHeEFCMVVTLXpVOHUwS1EtME1oeE5xTkduRUd1d2tZU2Q4TlgwcG1rckVFamVjVm1HeHpNcE16SkVfM09kbzg4b1NaRnpzczEwdkJKdG9EdEVLNEhmU3g1YU4wVFFGMWlwTXpWSjgzVUlaRm9ZY0ZQZ3gxVnRLWjZxQUdBMHdmeUZhZHFMSzFjQUV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a61200f8afa",
+      "title": "Met een vingerprik en hartfilmpje kunnen huisartsen beter inschatten of iemand naar het ziekenhuis moet vanwege een hartinfarct - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+      "published": "2026-11-27T11:45:08+00:00",
+      "summary": "Met een vingerprik en hartfilmpje kunnen huisartsen beter inschatten of iemand naar het ziekenhuis moet vanwege een hartinfarct&nbsp;&nbsp;NRC - Nieuws, achtergronden en onderzoeksjournalistiekNieuwe aanpak helpt huisarts bij beoordelen van pijn op de borst&nbsp;&nbsp;HartstichtingKNMG, LHV en Verenso: investeer in extramurale artsen en voorkom nieuwe regeldruk&nbsp;&nbsp;HuisartsVandaagVingerprik helpt huisartsen bij herkennen van dreigend hartinfarct&nbsp;&nbsp;Nationale ZorggidsTwee Amsterdam",
+      "sources": [
+        {
+          "name": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOR2Y3aE5rTmp1cXRHbjhuWDRHTDZZV0NScE5GZHdJNGRwRjJVOW82Uzh4djBhd1lLUmFUUDBENDY4VG8tZ3JZNTRsVkcwd1Z6dHBWVl8xMi01OWYxaGFvQUt3ZTg1dDdDZTVLZ1BRUDh0Wjc0Qml3X01wVm9CaGZLdWRIcnRRZG9xSVhjbUU1QTNCVGxwS0wyWk5LR1oyZEpsc0d1aUM1ZVdTRGRXU0xpaDZCMWFyLVRVRFhweFA0U0dxLVFzS1FPMWdRWXFSS2tsMERpNkk3UkU2MDFObTRnRDRKSDI0LTJwSHgzaDVfT2dBcUROdFRtT2JOeDE1N3R1M19Z?oc=5"
         }
       ]
     },
@@ -28,14 +52,14 @@
       ]
     },
     {
-      "id": "b2409c85a5a3",
-      "title": "Plotseling tekort aan RS-vaccin voor volwassenen: ‘zeer sterk toegenomen’ vraag naar middel tegen luchtweginfectie - De Gelderlander",
-      "published": "2026-11-26T06:00:28+00:00",
-      "summary": "Plotseling tekort aan RS-vaccin voor volwassenen: ‘zeer sterk toegenomen’ vraag naar middel tegen luchtweginfectie&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "id": "75bc0cd4c093",
+      "title": "WHO: mazelenvaccin redde zestig miljoen levens, ‘meer dan welk kindervaccin ook’ - de Volkskrant",
+      "published": "2026-11-27T17:00:59+00:00",
+      "summary": "WHO: mazelenvaccin redde zestig miljoen levens, ‘meer dan welk kindervaccin ook’&nbsp;&nbsp;de Volkskrant",
       "sources": [
         {
-          "name": "De Gelderlander",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhDemp3ZVhuR1dtZUkyRnFHUy1tVmc1ejY0SkltbXFVYmdDUFlQWnRkQVpubDJHTFdBY1Z4aEpqcEprTGY1bWU1TWs5ci1BVDZIYkF2b2lRYkpJbTZ4Mzl1ZzN1QWJqMUxWdWMxMHhWYjZjV1NIaG5TZjdpbW12REszVVZwbDB3dTF3QlRSX0FzQjIycWoxQlVGdXRsUE1ILWtjcUVBSkFKUm5VTkN2WmtUbjV5cmdaVXNZUks5VUhoMVRkVVJMYk5FQ1huemhpNjBNOFk5dnhCZVNQcFh0TC1IMlJfNFpoSGRjSg?oc=5"
+          "name": "de Volkskrant",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUk12dTI1ZE5BQ0RjS3ZFd0h6eC1iTXBad3lVUGxHdTkzcnRndHNicWxuNDEwcTgybV9RcE4tYU5DSDlzenlrS290TGZJdUs3ek96MjdKS0JNcEdNVEhtSFByZ3daVUVGakQ5aXJ6MEZRN0FEWlhlT2txY1JtMEhiZnJWZTZ2ZzNvajJUaFA3NXBTTldMQUN0X011NmNJZ25xaHBNdERtSEdZQkN6NlRucWxyeXFpSTItS3pGV1hoLU8?oc=5"
         }
       ]
     },
@@ -52,14 +76,26 @@
       ]
     },
     {
-      "id": "5e39d8ee1a78",
-      "title": "Ziekenhuis verwijdert penis, prostaat en blaas van man: diagnose blijkt achteraf verkeerd - De Telegraaf",
-      "published": "2026-11-27T15:22:55+00:00",
-      "summary": "Ziekenhuis verwijdert penis, prostaat en blaas van man: diagnose blijkt achteraf verkeerd&nbsp;&nbsp;De TelegraafZiekenhuis verwijdert penis, prostaat en blaas van man, maar achteraf blijkt diagnose verkeerd&nbsp;&nbsp;De TelegraafZiekenhuis verwijdert penis, prostaat en blaas van man, achteraf bleek dat diagnose verkeerd was&nbsp;&nbsp;Nieuwsblad",
+      "id": "853c81ad9de7",
+      "title": "Thanksgiving-lunch valt slecht: 15 medewerkers kliniek VS naar ziekenhuis - RTL.nl",
+      "published": "2026-11-27T18:04:40+00:00",
+      "summary": "Thanksgiving-lunch valt slecht: 15 medewerkers kliniek VS naar ziekenhuis&nbsp;&nbsp;RTL.nl",
       "sources": [
         {
-          "name": "De Telegraaf",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMk1pdzlLbThkeEZYMlFOTWVPUUt2Y1ZRRXpvS2RyeHM3TjV4MVZZSmhrVlVleWNDcDk3aWlYQVhwU1BTUnRPclZIQ1huaXpNalJMYzJlM1Nab3l2cnQ4WXdZd3I0V1didWNFdW11QmVvd2R2N0hwcnlrN3Z4dXdudjlhWEJzbkc3d0F2Q04wSXF5Qk9UbWpYVW1GeDJVNW1qX3VkYmxiUWQ3bXpGMmFNUlNQQ2QtTFU1bEM3YWZoV3NPcktIYnQwZU8tVjZZYUJOQzNwTQ?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbS1OdjdOQjR6NWI5YVRXMUo4a0FOVHZBbUpWWXBabGhFRE5Bd2U2cWxZdkFQVWJsdjVveTAyY0ZDdjVUTHB4aW1yMDUtMDVsaDZMczVvSUJ4OUpwNzgxX2FVUzVsOTI3Qmx6d0ZRT21weDQzOHlUUWtpVExpZDhkemxkQVlGUlViM05nWTV2Vk5tQ1RHcVV5eUxFb25oTUg4cnhMOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2409c85a5a3",
+      "title": "Plotseling tekort aan RS-vaccin voor volwassenen: ‘zeer sterk toegenomen’ vraag naar middel tegen luchtweginfectie - De Gelderlander",
+      "published": "2026-11-26T06:00:28+00:00",
+      "summary": "Plotseling tekort aan RS-vaccin voor volwassenen: ‘zeer sterk toegenomen’ vraag naar middel tegen luchtweginfectie&nbsp;&nbsp;De GelderlanderMeer koppen en standpunten bekijken via Google Nieuws",
+      "sources": [
+        {
+          "name": "De Gelderlander",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhDemp3ZVhuR1dtZUkyRnFHUy1tVmc1ejY0SkltbXFVYmdDUFlQWnRkQVpubDJHTFdBY1Z4aEpqcEprTGY1bWU1TWs5ci1BVDZIYkF2b2lRYkpJbTZ4Mzl1ZzN1QWJqMUxWdWMxMHhWYjZjV1NIaG5TZjdpbW12REszVVZwbDB3dTF3QlRSX0FzQjIycWoxQlVGdXRsUE1ILWtjcUVBSkFKUm5VTkN2WmtUbjV5cmdaVXNZUks5VUhoMVRkVVJMYk5FQ1huemhpNjBNOFk5dnhCZVNQcFh0TC1IMlJfNFpoSGRjSg?oc=5"
         }
       ]
     },
@@ -67,7 +103,7 @@
       "id": "b8d0b5e556cf",
       "title": "Griepvirus duikt dit jaar veel eerder op, ziekenhuizen zien al de eerste extra opnames - De Gelderlander",
       "published": "2026-11-27T05:30:00+00:00",
-      "summary": "Griepvirus duikt dit jaar veel eerder op, ziekenhuizen zien al de eerste extra opnames&nbsp;&nbsp;De GelderlanderGriep grijpt om zich heen: arts vertelt wat écht helpt en welke middeltjes je beter kunt laten staan&nbsp;&nbsp;De TelegraafGriep of verkouden: deze huisarts weet wat je wél en juist niet moet doen&nbsp;&nbsp;Omroep BrabantNog steeds meer griep dan gebruikelijk in Nederland, griepgolf zwakt wel af: 'Het is nog afwachten of dalingen doorzetten'&nbsp;&nbsp;DVHNGriepvirus rukt op. Hoe vo",
+      "summary": "Griepvirus duikt dit jaar veel eerder op, ziekenhuizen zien al de eerste extra opnames&nbsp;&nbsp;De GelderlanderGriep of verkouden: deze huisarts weet wat je wél en juist niet moet doen&nbsp;&nbsp;Omroep BrabantGriepseizoen lijkt weken eerder te beginnen: nu al oplopende cijfers bij RIVM&nbsp;&nbsp;De GelderlanderGriep grijpt om zich heen: arts vertelt wat écht helpt en welke middeltjes je beter kunt laten staan&nbsp;&nbsp;De TelegraafGriepvirus rukt op. Hoe voorkom je dat het jou te pakken kri",
       "sources": [
         {
           "name": "De Gelderlander",
@@ -100,38 +136,14 @@
       ]
     },
     {
-      "id": "cdc28edffd9c",
-      "title": "Gezondheidsclaims van influencers kunnen gevaarlijk zijn, zegt voedingsexpert: 'Magische pil bestaat niet' - EenVandaag",
-      "published": "2026-11-26T06:07:11+00:00",
-      "summary": "Gezondheidsclaims van influencers kunnen gevaarlijk zijn, zegt voedingsexpert: 'Magische pil bestaat niet'&nbsp;&nbsp;EenVandaagNVWA sommeert influencers valse claims te verwijderen&nbsp;&nbsp;Vereniging tegen de Kwakzalverij",
-      "sources": [
-        {
-          "name": "EenVandaag",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVy04QkVOR0MxOHNYODJjOVEtZEVVOFJsaUZKb2VuVTMyQUo0X2N6dzFURnF5RlE4VUYyTkVONnYzc05adVV5VnZUN21iUUxOeFRaMkhMeDhXREE1QkJoNTdBcXlQVnBtY0k0bHNqZEgwOHJHbWJpWVlBbXUxeFJrZm5feW0tbzlzbndKd0ZFNFg4aU1xYTdnamdac3oyWTNYOGhqcGN5VXlfOGJ6Q014WDZiLTc0UlpnSWNUNTJjV19xTWlWR2hySlV3OXlSc0Y5MEo1RTFXMXJnOUJlZUgwWm1OQUY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7650410ffad4",
       "title": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld? - Duurzaamnieuws",
       "published": "2026-11-24T17:40:24+00:00",
-      "summary": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld?&nbsp;&nbsp;DuurzaamnieuwsDe mazelen rukken op in de VS en kunnen via reizigers deze kant op komen&nbsp;&nbsp;TrouwPennsylvania meldt negen sterfgevallen in verband met mazelen&nbsp;&nbsp;MarketScreener NederlandVirginia meldt eerste mazelen-gerelateerde overlijden van 2026, waarbij een jong kind betrokken was&nbsp;&nbsp;MarketScreener NederlandAmerikaanse mazelengevallen naderen de 6.000",
+      "summary": "Maken mazelen, vleesetende bacteriën en de vogelgriep de VS een gezondheidsrisico voor de rest van de wereld?&nbsp;&nbsp;DuurzaamnieuwsAan mazelen gerelateerde sterfgevallen in Pennsylvania stijgen tot negen&nbsp;&nbsp;MarketScreener Nederland",
       "sources": [
         {
           "name": "Duurzaamnieuws",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUk83dTBnMXRWdkoweXkwWjhEMEVDR0Q0VkVKWnFFeXJUbmZSWEhENUc4dnAyMjBFVzhTR0hfMGN4NWN2RkU0emMxNFdjdS1XMjBfdXJHa2w3VjlMN3EtQjFLRk5vLUF3c05ub090cUpWM3VyN1R0WGxHWVNsTXVJM25oT1dJOUQ5NElPZmg4LU9jWlFXQlBqY0g4Q2RxUzRlYTBiNVJTV1BGZGcxcFg2NTRacnQyZFlSRXptbTF4U1Z2cTljZTZSZWttajBxWkU4UDRfSXd1eU5vRXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4de1e154c673",
-      "title": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld - RTL.nl",
-      "published": "2026-11-27T13:54:16+00:00",
-      "summary": "Belgische meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld&nbsp;&nbsp;RTL.nlIs stoppen met de pil gezonder? En heeft lichaam na jarenlang gebruik nood aan hormonale 'reset'?&nbsp;&nbsp;VRT17-jarig meisje krijgt trombose door anticonceptiepil Diane 35: gynaecologe legt uit wanneer je risico loopt&nbsp;&nbsp;HLNNa veroordeling huisarts: hoe gevaarlijk is omstreden pil Diane-35? “Stop zeker niet op eigen houtje”&nbsp;&nbsp;NieuwsbladArts veroordeeld na voorschrift anticon",
-      "sources": [
-        {
-          "name": "RTL.nl",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenhNLXlDZWFLYTZTbk8xRnVFbzBPSDRhLWZBVlB3MHRsdmhjbWttSDVUMEVWZzVMdGxxZ0poMjVMdUg4MHZUdkN2MGhFVFBFVG9xLThXenR6YjVIa0FfNVRqUFhmZUhtY0xBd3oySW0wVEVDNHpkMWJhanJQWjZCM2U1MnFzcktVcGoyTzRoTEFGc1VkT3RrVTBiR0dfZkVjQjlqbXBtUjQzLXQ3NW1KbkRhZGtvbzRYalE?oc=5"
         }
       ]
     },
@@ -148,14 +160,26 @@
       ]
     },
     {
-      "id": "dc3d7fdddb94",
-      "title": "Een hartinfarct of beroerte kondigt zich vaak al 30 jaar van tevoren aan - Scientias.nl",
-      "published": "2026-11-24T18:00:26+00:00",
-      "summary": "Een hartinfarct of beroerte kondigt zich vaak al 30 jaar van tevoren aan&nbsp;&nbsp;Scientias.nlHartziekten zijn soms al decennia vooraf te herkennen&nbsp;&nbsp;Newsmonkey -",
+      "id": "78984b8b463b",
+      "title": "Belgisch meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld - RTL.nl",
+      "published": "2026-11-27T13:54:16+00:00",
+      "summary": "Belgisch meisje in levensgevaar door anticonceptiepil Diane 35, huisarts veroordeeld&nbsp;&nbsp;RTL.nlIs stoppen met de pil gezonder? En heeft lichaam na jarenlang gebruik nood aan hormonale 'reset'?&nbsp;&nbsp;VRTArts veroordeeld na voorschrift anticonceptiepil Diane 35: ‘Er valt iets te zeggen voor een verbod op deze pil’&nbsp;&nbsp;De MorgenNa veroordeling huisarts: hoe gevaarlijk is omstreden pil Diane-35? “Stop zeker niet op eigen houtje”&nbsp;&nbsp;NieuwsbladGentse huisarts veroordeeld voo",
       "sources": [
         {
-          "name": "Scientias.nl",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVTBLQUcwLVJjbkZOeW1ZM3dqd3NXWjI0aDEwUmYwQTJCc0NvdDc3UGN2dmRPNFhzdWdFejlFMzBYejVLYUYxajM2NmxmT3pMWWFUSjgwTFpibE5kZ1U3MXZNN3pFNUZfeWZDVHFUZ0E4QWtkZkUwTUI4VmphSjg3ZHF1Y2FxdmZYbkNXN0dQZzJBRExuT3k0alNR?oc=5"
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQenhNLXlDZWFLYTZTbk8xRnVFbzBPSDRhLWZBVlB3MHRsdmhjbWttSDVUMEVWZzVMdGxxZ0poMjVMdUg4MHZUdkN2MGhFVFBFVG9xLThXenR6YjVIa0FfNVRqUFhmZUhtY0xBd3oySW0wVEVDNHpkMWJhanJQWjZCM2U1MnFzcktVcGoyTzRoTEFGc1VkT3RrVTBiR0dfZkVjQjlqbXBtUjQzLXQ3NW1KbkRhZGtvbzRYalE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5fa2bfa65999",
+      "title": "Basisarts zet aortadissectie bij jonge patiënt niet in de differentiaaldiagnose - Medisch Contact",
+      "published": "2026-11-24T07:00:00+00:00",
+      "summary": "Basisarts zet aortadissectie bij jonge patiënt niet in de differentiaaldiagnose&nbsp;&nbsp;Medisch Contact",
+      "sources": [
+        {
+          "name": "Medisch Contact",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZjNKTmhNRlBNU3FNT1VyenlpaEtYX1FTeTJ0VnZsdUpmUndVaUxENTFlaWpJOUJGU3h0M1NRcWZTbk1zOFFoaS1LaHpCYzRDSm5zbEYtNFBCRmFmTDcwcVlaT19JbWpsQTFhcEF0X1dKOVpTRFlnT2c5cVFBZEFjYzJva2RVMjdEMnJ0dEx2NXU3dFdmLUhpNERPNHcweVhNOTQzcFdPX3EyVzJhdzViZ0FEdjZmbDRzRUtPUGM2Y1JRTG02RDBaQnZxaUdjRzVrR1dN?oc=5"
         }
       ]
     },

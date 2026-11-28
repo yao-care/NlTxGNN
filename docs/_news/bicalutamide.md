@@ -5,7 +5,7 @@ parent: Gezondheidsnieuws
 nav_exclude: true
 description: "Gezondheidsnieuws over Bicalutamide. 10 voorspelde indicaties."
 permalink: /news/bicalutamide/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-28
 ---
 
 # Nieuws over Bicalutamide
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Welk nieuws is er over Bicalutamide?">
-<strong>Bicalutamide</strong> heeft momenteel <strong>11 nieuwsberichten</strong> en 10 voorspelde indicaties.
+<strong>Bicalutamide</strong> heeft momenteel <strong>12 nieuwsberichten</strong> en 10 voorspelde indicaties.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ Deze pagina combineert de door AI voorspelde indicaties voor Bicalutamide met he
 <p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">Bekijk het volledige geneesmiddelrapport →</a></p>
 </div>
 
-## Gerelateerd nieuws (11)
+## Gerelateerd nieuws (12)
+
+### [Onderzoek: geen verband nachtdienst verpleegkundigen en borstkanker](https://news.google.com/rss/articles/CBMingFBVV95cUxNbmt3cm00SkxqSDhzSi1SYTVfTGhIblpzbnR3M2dyVTZOV3RwQnMxMFhmU0IxazZrY0dBd2lNM0VSdnVGMTFjOVdhaFZTVFRRUVAyYlFIZTVuRnBJMjJJM0l5TUtSVWF5NUZjUUJ3OW1nSFl0UFR3bTJfb0lGSWk5ZTNNYlNSczRxNTA5bE9tZU5zRnBXSzZIRmYzR2pMdw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">borstkanker</span>
+
+Bron: [RTL.nl](https://news.google.com/rss/articles/CBMingFBVV95cUxNbmt3cm00SkxqSDhzSi1SYTVfTGhIblpzbnR3M2dyVTZOV3RwQnMxMFhmU0IxazZrY0dBd2lNM0VSdnVGMTFjOVdhaFZTVFRRUVAyYlFIZTVuRnBJMjJJM0l5TUtSVWF5NUZjUUJ3OW1nSFl0UFR3bTJfb0lGSWk5ZTNNYlNSczRxNTA5bE9tZU5zRnBXSzZIRmYzR2pMdw?oc=5)
+
+---
 
 ### ['Ouders hebben recht om zelf te beslissen over vaccinatie van hun kind'](https://news.google.com/rss/articles/CBMisAFBVV95cUxPa0Q4UkhObllOaVBSRHlRVENySmtrc0l4ZkxtS0pVSWJMaWp1cXJCQUZCVnJPSmppYnkzVEtRd3ZkR3h3TXJYdmFzSDNFTnhCUVgyTkhYQnAyeXFjb3NWdjItYy0wVjZ5dHp2UFRlM3NTbEozOGxaTjdTTjNPaC1DdkxNbzJ4UTZFZDFRVEgwRG41MjJ4SWE1MFdmV0VPUFJhbVpDcUpYOGM3dGxtWEtZUw?oc=5)
 

@@ -1,7 +1,37 @@
 {
-  "generated": "2026-11-27T16:03:45.279977+00:00",
-  "count": 13,
+  "generated": "2026-11-28T01:01:27.887307+00:00",
+  "count": 14,
   "news": [
+    {
+      "id": "94ecf46bfb7a",
+      "title": "Onderzoek: geen verband nachtdienst verpleegkundigen en borstkanker",
+      "published": "2026-11-27T19:50:34+00:00",
+      "sources": [
+        {
+          "name": "RTL.nl",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmt3cm00SkxqSDhzSi1SYTVfTGhIblpzbnR3M2dyVTZOV3RwQnMxMFhmU0IxazZrY0dBd2lNM0VSdnVGMTFjOVdhaFZTVFRRUVAyYlFIZTVuRnBJMjJJM0l5TUtSVWF5NUZjUUJ3OW1nSFl0UFR3bTJfb0lGSWk5ZTNNYlNSczRxNTA5bE9tZU5zRnBXSzZIRmYzR2pMdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "borstkanker",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "aa29d91eb0b5",
       "title": "Onderzoek: HPV-vaccin kan bijna 13.000 kankerdiagnoses voorkomen",
